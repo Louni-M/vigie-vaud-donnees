@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221585,
+  "numero": "09_INT_202",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2009-09-15"
+  },
+  "depose": "2009-03-17",
+  "titre": "La mise en conformité des passages à niveau sur les lignes de chemin de fer",
+  "contributeurs": [
+    {
+      "nom": "Albert Chapalay",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Albert Chapalay",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-03-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-03-17",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2009-09-15",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_202_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-03-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_17_mars_2009/09_INT_202_Objet.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-15-septembre-2009/reponse-du-conseil-detat-a-linterpellation-albert-chapalay",
+  "communes": [
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5842,
+      "origine": "document"
+    },
+    {
+      "ofs": 5841,
+      "origine": "document"
+    },
+    {
+      "ofs": 5843,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5409,
+      "origine": "document"
+    }
+  ]
+}

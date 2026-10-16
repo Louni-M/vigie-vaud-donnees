@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221591,
+  "numero": "09_INT_219",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-03-02"
+  },
+  "depose": "2009-04-21",
+  "titre": "La culture du blé OGM à Pully",
+  "contributeurs": [
+    {
+      "nom": "Bernard Borel",
+      "parti": "AGT",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-04-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-04-21",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-03-02",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-01-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_219_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_219_depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-09-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_219_Texte_CE_01.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-2-mars-2010/reponse-du-conseil-detat-a-linterpellation-bernard-borel",
+  "communes": [
+    {
+      "ofs": 5590,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

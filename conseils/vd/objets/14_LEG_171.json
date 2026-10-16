@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223294,
+  "numero": "14_LEG_171",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-11-04"
+  },
+  "depose": "2014-11-04",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 1'850'000.- pour financer la démolition et la reconstruction de murs sur la RC 709 (Le Sépey – La Forclaz) au lieu dit La Trappaz, commune d'Ormont-Dessous",
+  "contributeurs": [
+    {
+      "nom": "Philippe Modoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Modoux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-11-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-11-04",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-11-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/171_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-11-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/171_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-4-novembre-2014/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-douvrage-de-chf-1850000-pour-financer-la-demolition-et-la-reconstruction-de-murs-sur-la-rc-709-le-sepey-la-forclaz-au-lieu-dit-la-trappaz-commune-dormont-dessous",
+  "communes": [
+    {
+      "ofs": 5410,
+      "origine": "titre"
+    }
+  ]
+}

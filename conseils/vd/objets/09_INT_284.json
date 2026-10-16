@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221643,
+  "numero": "09_INT_284",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-04-27"
+  },
+  "depose": "2009-09-22",
+  "titre": "Au Conseil d'Etat si, après la Caisse de pension CPCL, les contribuables vaudois vont financer une partie du congé paternité des employés de la Ville de Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Claude-Eric Dufour",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-09-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-04-27",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-03-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_284_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-09-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_284_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-27-avril-2010/reponse-du-conseil-detat-a-linterpellation-claude-eric-dufour-conge-paternite-des-employes-de-la-ville-de-lausanne",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

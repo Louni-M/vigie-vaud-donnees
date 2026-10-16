@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5535,
+  "objets": [
+    {
+      "cle": "vd/24_INT_161",
+      "numero": "24_INT_161",
+      "type": "Interpellation",
+      "depose": "2024-11-12",
+      "titre": "Porcheries vaudoises : Quo va",
+      "auteurs": [
+        {
+          "nom": "Alberto Mocchi",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-08-19"
+      },
+      "derniere_etape": "2025-08-19",
+      "communes": [
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5535,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_101",
+      "numero": "22_INT_101",
+      "type": "Interpellation",
+      "depose": "2022-08-23",
+      "titre": "Car Postal aurait-elle un train de...retard ?",
+      "auteurs": [
+        {
+          "nom": "Alberto Mocchi",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-12-14"
+      },
+      "derniere_etape": "2022-12-14",
+      "communes": [
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5471,
+          "origine": "document"
+        },
+        {
+          "ofs": 5535,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_293",
+      "numero": "10_LEG_293",
+      "type": "Décret/Loi",
+      "depose": "2010-10-12",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes d'Eclagnens, Goumoens-la-Ville et Goumoens-le-Jux (Goumoëns)",
+      "auteurs": [
+        {
+          "nom": "Béatrice Métraux",
+          "parti": null
+        },
+        {
+          "nom": "Béatrice Métraux",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-12"
+      },
+      "derniere_etape": "2010-10-12",
+      "communes": [
+        {
+          "ofs": 5541,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5531,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5537,
+          "origine": "document"
+        },
+        {
+          "ofs": 5535,
+          "origine": "document"
+        },
+        {
+          "ofs": 5903,
+          "origine": "document"
+        },
+        {
+          "ofs": 5761,
+          "origine": "document"
+        },
+        {
+          "ofs": 5746,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

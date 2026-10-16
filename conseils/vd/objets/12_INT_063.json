@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222672,
+  "numero": "12_INT_063",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-08-27"
+  },
+  "depose": "2012-11-20",
+  "titre": "Intitulée \"Comment dissuader les jeunes de prendre le train grâce à Mobilis\"",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-11-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-11-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-08-27",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-08-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_063_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-11-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_063_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-27-aout-2013/reponse-du-conseil-detat-a-linterpellation-jerome-christen-intitulee-comment-dissuader-les-jeunes-de-prendre-le-train-grace-a-mobilis",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    },
+    {
+      "ofs": 5851,
+      "origine": "document"
+    },
+    {
+      "ofs": 5458,
+      "origine": "document"
+    }
+  ]
+}

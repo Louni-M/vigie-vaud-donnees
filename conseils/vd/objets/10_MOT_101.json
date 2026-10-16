@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222065,
+  "numero": "10_MOT_101",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-11-16"
+  },
+  "depose": "2010-02-23",
+  "titre": "Relative à la modification de la mesure A11 du Plan directeur cantonal",
+  "contributeurs": [
+    {
+      "nom": "Christiane Jaquet-Berger",
+      "parti": "LGa",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-02-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-03-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-11-16",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet et développement",
+      "date": "2010-11-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_101_Objet_et_dev_new.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-02-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_101_Depot.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-11-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/271_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-16-novembre-2010/motion-remy-jaquier-modification-mesure-a11-du-plan-directeur-cantonal",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5568,
+      "origine": "document"
+    },
+    {
+      "ofs": 5607,
+      "origine": "document"
+    },
+    {
+      "ofs": 5749,
+      "origine": "document"
+    }
+  ]
+}

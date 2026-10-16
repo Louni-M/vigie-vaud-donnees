@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222068,
+  "numero": "10_MOT_104",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-09-28"
+  },
+  "depose": "2010-03-09",
+  "titre": "L'entretien des routes cantonales en traversée de localités et demandant qui fait quoi",
+  "contributeurs": [
+    {
+      "nom": "Michel Renaud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Michel Renaud",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-03-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-03-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-09-28",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_104_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_104_Objet_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-03-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_104_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-28-septembre-2010/motion-andre-marendaz-entretien-des-routes-cantonales",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5422,
+      "origine": "document"
+    },
+    {
+      "ofs": 5607,
+      "origine": "document"
+    },
+    {
+      "ofs": 5828,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    }
+  ]
+}

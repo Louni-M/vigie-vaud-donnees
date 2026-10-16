@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228813,
+  "numero": "9_RAP_169",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-11-10"
+  },
+  "depose": "2009-11-10",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Roger Saugy demandant au Conseil d'Etat de donner un coup de pouce à la population de Vallorbe",
+  "contributeurs": [
+    {
+      "nom": "Jacques Nicolet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jacques Nicolet",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-11-10",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-11-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/169_texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commision",
+      "date": "2009-11-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/169_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-2-fevrier-2010/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-roger-saugy",
+  "communes": [
+    {
+      "ofs": 5764,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    }
+  ]
+}

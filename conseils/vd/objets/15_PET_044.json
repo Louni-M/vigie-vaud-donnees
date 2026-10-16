@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223638,
+  "numero": "15_PET_044",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-03-15"
+  },
+  "depose": "2015-10-27",
+  "titre": "Pétition Laure Edelin Brunner contre la suppression de l'arrêt de bus \"St.-Paul\" sur la ligne de bus N°9 à Lausanne",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2015-10-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-03-15",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-03-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_PET_044_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-03-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_PET_044_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-15-mars-2016/petition-laure-edelin-brunner-contre-la-suppression-de-larret-de-bus-st-paul-sur-la-ligne-de-bus-n9-a-lausanne",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

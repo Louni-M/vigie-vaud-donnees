@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222059,
+  "numero": "10_MOT_097",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-11-30"
+  },
+  "depose": "2010-01-19",
+  "titre": "En faveur de la défense de l'usage de la langue française",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marc Chollet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Marc Chollet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-01-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-01-26",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-11-30",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_097_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_097_Objet_et_dev_01.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-01-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_097_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-30-novembre-2010/motion-jerome-christen-defense-de-lusage-de-la-langue-francaise",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    }
+  ]
+}

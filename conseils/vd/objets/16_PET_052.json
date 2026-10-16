@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223984,
+  "numero": "16_PET_052",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2016-09-20"
+  },
+  "depose": "2016-05-10",
+  "titre": "Pétition de la Société Vaudoise des Maîtres Secondaires - Pour l'introduction d'un enseignement à niveaux en anglais",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2016-05-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-09-20",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-09-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_PET_052_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-09-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_PET_052_Depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-20-septembre-2016/petition-de-la-societe-vaudoise-des-maitres-secondaires-pour-lintroduction-dun-enseignement-a-niveaux-en-anglais",
+  "communes": [
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5409,
+      "origine": "document"
+    },
+    {
+      "ofs": 5712,
+      "origine": "document"
+    }
+  ]
+}

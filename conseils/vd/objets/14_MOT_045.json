@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223286,
+  "numero": "14_MOT_045",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2015-01-13"
+  },
+  "depose": "2014-04-08",
+  "titre": "Des betteraves plutôt que des parkings dans les centres commerciaux !",
+  "contributeurs": [
+    {
+      "nom": "Régis Courdesse",
+      "parti": "V'L",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Régis Courdesse",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jacques Haldy",
+      "parti": "PLR",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-04-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-05-13",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-01-13",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2014-11-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_045_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2014-11-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_045_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-11-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_045_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-04-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_045_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-13-janvier-2015/motion-martial-de-montmollin-et-consorts-des-betteraves-plutot-que-des-parkings-dans-les-centres-commerciaux",
+  "communes": [
+    {
+      "ofs": 5636,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5516,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    }
+  ]
+}

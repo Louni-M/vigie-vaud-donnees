@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 203059,
+  "numero": "21_INT_90",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-12-08"
+  },
+  "depose": "2021-06-23",
+  "titre": "Il faut fermer la place de tir de Vugelles-la-Mothe",
+  "contributeurs": [
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-06-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-06-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-12-08",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-01-18",
+      "lien": "https://www.sonomix.ch/live/gcvd/2036#6154"
+    },
+    {
+      "titre": "74_RéponseVD_plan_militaire_2017",
+      "date": "2021-06-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/dire/sg-dire/oae/fichiers_pdf/reponses_ce_consultations/2016/74_R%C3%A9ponseVD_plan_militaire_2017.pdf"
+    },
+    {
+      "titre": "Place de tir de Vugelles-la-Mothe",
+      "date": "2021-12-08",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2090958"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ea5096c6-7d61-4d3e-aabd-c34e77a818bd/meeting/1004427",
+  "communes": [
+    {
+      "ofs": 5904,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5924,
+      "origine": "document"
+    },
+    {
+      "ofs": 5552,
+      "origine": "document"
+    },
+    {
+      "ofs": 5560,
+      "origine": "document"
+    },
+    {
+      "ofs": 5564,
+      "origine": "document"
+    },
+    {
+      "ofs": 5634,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223632,
+  "numero": "15_PET_037",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2016-03-01"
+  },
+  "depose": "2016-02-09",
+  "titre": "Pétition Association PEA - Pour l'Egalité animale- Sauvez Chalom et prenez en compte les animaux",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2016-02-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-03-01",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-02-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_PET_037_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-02-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_PET_037_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-1er-mars-2016/petition-association-pea-pour-legalite-animale-sauvez-chalom-et-prenez-en-compte-les-animaux",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

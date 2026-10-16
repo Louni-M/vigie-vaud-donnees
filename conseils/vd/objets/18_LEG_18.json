@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224365,
+  "numero": "18_LEG_18",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2018-05-08"
+  },
+  "depose": "2018-05-08",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 24'900'000.-pour financer la sécurisation de la Prison de La Croisée à Orbe.",
+  "contributeurs": [
+    {
+      "nom": "Yvan Pahud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-05-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-05-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-05-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-8-mai-2018/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-douvrage-de-chf-24900000-pour-financer-la-securisation-de-la-prison-de-la-croisee-a-orbe",
+  "communes": [
+    {
+      "ofs": 5757,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5638,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    }
+  ]
+}

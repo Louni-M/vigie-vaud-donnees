@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227310,
+  "numero": "23_QUE_18",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-05-24"
+  },
+  "depose": "2023-04-04",
+  "titre": "Du rififi à Bussy-Chardonney autour du transport de céréales",
+  "contributeurs": [
+    {
+      "nom": "Yannick Maury",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-04-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-05-24",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Abandon du transport ferroviaire de marchandises par Vaud Céréales SA",
+      "date": "2023-05-24",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2177734"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/261709a2-97c8-4420-849b-f02a12522a6b/meeting/1013640",
+  "communes": [
+    {
+      "ofs": 5656,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5495,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

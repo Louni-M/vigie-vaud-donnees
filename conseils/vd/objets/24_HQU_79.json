@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227527,
+  "numero": "24_HQU_79",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2024-09-10"
+  },
+  "depose": "2024-09-03",
+  "titre": "Quelles mesures pour le centre d'impression de Bussigny ?",
+  "contributeurs": [
+    {
+      "nom": "Patricia Spack Isenrich",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-09-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-09-10",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/afde1d9f-38e3-47be-87e4-b1b0a3e73549/meeting/1026859",
+  "communes": [
+    {
+      "ofs": 5624,
+      "origine": "titre"
+    }
+  ]
+}

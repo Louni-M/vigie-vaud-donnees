@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222461,
+  "numero": "11_MOT_138",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2012-01-17"
+  },
+  "depose": "2011-06-28",
+  "titre": "Un frein de moins à l'énergie solaire",
+  "contributeurs": [
+    {
+      "nom": "Roxanne Meyer Keller",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Roxanne Meyer Keller",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Roxanne Meyer Keller",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-06-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-06-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-01-17",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_138_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement ",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_138_Objet_et_d%C3%A9v_01.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-06-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_138_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-17-janvier-2012/motion-isabelle-chevalley-un-frein-de-moins-a-lenergie-solaire",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5712,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226174,
+  "numero": "22_HQU_43",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-05-10"
+  },
+  "depose": "2022-05-03",
+  "titre": "OI Échallens",
+  "contributeurs": [
+    {
+      "nom": "Delphine Probst",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-05-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-05-10",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/fa9242b9-10d3-4c89-9bdf-9f969f8b0289/meeting/1004435",
+  "communes": [
+    {
+      "ofs": 5518,
+      "origine": "titre"
+    }
+  ]
+}

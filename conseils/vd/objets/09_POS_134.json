@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221753,
+  "numero": "09_POS_134",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2010-11-16"
+  },
+  "depose": "2009-06-09",
+  "titre": "La prise en charge médicale des migrants, un enjeu de santé publique",
+  "contributeurs": [
+    {
+      "nom": "Michaël Buffat",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Michaël Buffat",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Mireille Aubert",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-06-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-06-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-11-16",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2010-11-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_134_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2010-11-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_134_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-11-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_134_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_134_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-16-novembre-2010/postulat-bernard-borel-prise-en-charge-medicale-des-migrants",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

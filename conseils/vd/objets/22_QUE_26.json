@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226721,
+  "numero": "22_QUE_26",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-03-08"
+  },
+  "depose": "2022-06-21",
+  "titre": "L'Etat peut-il abaisser la vitesse de 100 à 80 km/h sur l’Autoroute A1a entre Lausanne Maladière et l’échangeur d’Ecublens ?",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Rydlo",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-06-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-03-08",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Demande d’abaissement de la vitesse de 100 à 80 km/h sur l’A1 entre Lausanne-Maladière et la jonction d’Ecublens",
+      "date": "2023-03-08",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2164958"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c6361669-c4ca-4077-8d0d-4848ff0f625c/meeting/1004444",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5635,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5627,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5643,
+      "origine": "document"
+    }
+  ]
+}

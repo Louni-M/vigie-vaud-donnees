@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5555,
+  "objets": [
+    {
+      "cle": "vd/24_LEG_91",
+      "numero": "24_LEG_91",
+      "type": "Décret/Loi",
+      "depose": "2025-08-27",
+      "titre": "EMPD accordant au Conseil d'État un crédit d’investissement de CHF 8'000’000.- pour financer les études, la démolition du bâtiment et du dépôt existant (ECA 3593a et 3593b) ainsi que la construction d'un centre de région Nord de la DGE sur le site de «Champ-Lovats», parcelle n°1605, à Yverdon-les-Bains",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2025-08-27"
+      },
+      "derniere_etape": "2025-08-27",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5935,
+          "origine": "document"
+        },
+        {
+          "ofs": 5555,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_LEG_116",
+      "numero": "22_LEG_116",
+      "type": "Décret/Loi",
+      "depose": "2023-03-14",
+      "titre": "EMPD EMPD accordant au Conseil d'Etat un crédit d’ouvrage de CHF 10'900'000.- pour financer des travaux d’aménagement et la création de bandes cyclables sur la RC 401-B-P entre Grandson et Vaumarcus",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-03-14"
+      },
+      "derniere_etape": "2023-03-14",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5554,
+          "origine": "document"
+        },
+        {
+          "ofs": 5555,
+          "origine": "document"
+        },
+        {
+          "ofs": 5565,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        },
+        {
+          "ofs": 5855,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_LEG_54",
+      "numero": "13_LEG_54",
+      "type": "Décret/Loi",
+      "depose": "2013-05-28",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 1'940'000.- pour financer l'entretien lourd de trois giratoires Poissine, Mottey et Champ-Courbe sur la route RC 401-B-P entre la jonction autoroutière de Corcelettes près de Grandson et Concise, sur le territoire des communes de Grandson, Bonvillars, Onnens et de Corcelles-près-Concise",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-06-18"
+      },
+      "derniere_etape": "2013-06-18",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5554,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5551,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5565,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5555,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        },
+        {
+          "ofs": 5553,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223673,
+  "numero": "15_POS_137",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2016-03-08"
+  },
+  "depose": "2015-09-01",
+  "titre": "Un coup de pouce pour le climat, les jeunes, les familles et les transports publics",
+  "contributeurs": [
+    {
+      "nom": "Daniel Ruch",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Daniel Ruch",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-09-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-03-08",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-02-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_137_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-02-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_137_Obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_137_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-8-mars-2016/postulat-sylvie-podio-et-consorts-un-coup-de-pouce-pour-le-climat-les-jeunes-les-familles-et-les-transports-publics",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

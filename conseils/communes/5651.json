@@ -1,0 +1,784 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5651,
+  "objets": [
+    {
+      "cle": "vd/23_LEG_188",
+      "numero": "23_LEG_188",
+      "type": "Décret/Loi",
+      "depose": "2026-04-21",
+      "titre": "Accordant au Conseil d'Etat un crédit d'investissement de CHF 21'360'000.- pour financer les travaux d'électromécanique et de génie civil nécessaires à la mise en oeuvre de la gestion coordonnée du trafic de l'agglomération (GCTA) sur le territoire des 26 communes constituant l'agglomération Lausanne-Morges",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2026-04-21"
+      },
+      "derniere_etape": "2026-04-21",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/25_INT_24",
+      "numero": "25_INT_24",
+      "type": "Interpellation",
+      "depose": "2025-02-25",
+      "titre": "Train d’économies unilatéral au niveau fédéral : quelles répercussions sur les transports publics vaudois ?",
+      "auteurs": [
+        {
+          "nom": "Laure Jaton",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": [
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_LEG_166",
+      "numero": "24_LEG_166",
+      "type": "Décret/Loi",
+      "depose": "2025-04-29",
+      "titre": "EMPD EMPD accordant aux transports publics de la région lausannoise SA (tl) un prêt conditionnellement remboursable de CHF 147'798'000, un prêt sans intérêts de CHF 14'753'000 et une garantie d’emprunt de CHF 35'185'000 pour le financement de la participation de l'État ainsi que le préfinancement partiel de la part fédérale de la réalisation de la deuxième étape du tramway t1 entre Renens (Gare) et Villars-Sainte-Croix (Croix-du-Péage)",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-04-29"
+      },
+      "derniere_etape": "2025-04-29",
+      "communes": [
+        {
+          "ofs": 5591,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5651,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_MOT_46",
+      "numero": "24_MOT_46",
+      "type": "Motion",
+      "depose": "2024-11-19",
+      "titre": "Motion pour la réalisation d’un parking d’échange lors du prolongement du tramway de Renens à Villars-Ste-Croix",
+      "auteurs": [
+        {
+          "nom": "Aurélien Demaurex",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée à commission",
+        "date": "2024-11-19"
+      },
+      "derniere_etape": "2024-11-19",
+      "communes": [
+        {
+          "ofs": 5591,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5651,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_71",
+      "numero": "23_INT_71",
+      "type": "Interpellation",
+      "depose": "2023-04-25",
+      "titre": "Autoroute A1 - Coppet-Nyon : conséquences pour l'agriculture, la voie CFF Lausanne-Genève et le report modal",
+      "auteurs": [
+        {
+          "nom": "Romain Pilloud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-01-24"
+      },
+      "derniere_etape": "2024-01-24",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_45",
+      "numero": "23_INT_45",
+      "type": "Interpellation",
+      "depose": "2023-03-21",
+      "titre": "Les travaux de la Gare de Lausanne dépassent le quart d’heure vaudois : quelles mesures sont prévues pour éviter que la mobilité dans son ensemble n’en souffre ?",
+      "auteurs": [
+        {
+          "nom": "David Raedler",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-11-01"
+      },
+      "derniere_etape": "2023-11-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5860,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_66",
+      "numero": "22_INT_66",
+      "type": "Interpellation",
+      "depose": "2022-05-10",
+      "titre": "Quelle protection des habitant.e.s face aux nuisances de chantiers ?",
+      "auteurs": [
+        {
+          "nom": "Céline Misiego",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-11-30"
+      },
+      "derniere_etape": "2022-11-30",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_243",
+      "numero": "14_INT_243",
+      "type": "Interpellation",
+      "depose": "2014-04-08",
+      "titre": "Est-il admissible de compliquer la vie d'une famille par une décision administrative ?",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2022-07-06"
+      },
+      "derniere_etape": "2022-07-06",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_139",
+      "numero": "18_INT_139",
+      "type": "Interpellation",
+      "depose": "2018-03-13",
+      "titre": "\"Alternative 2050\" pour l'autoroute A9 : Du bruit ne peut pas être supprimé par du silence !",
+      "auteurs": [
+        {
+          "nom": "Andreas Wüthrich",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Andreas Wüthrich",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2020-03-03"
+      },
+      "derniere_etape": "2020-03-03",
+      "communes": [
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_RES_033",
+      "numero": "16_RES_033",
+      "type": "Résolution",
+      "depose": "2016-06-28",
+      "titre": "Pour raccrocher le wagon du tram t1 de la 2ème étape à la 1ère étape !",
+      "auteurs": [
+        {
+          "nom": "Stéphane Rezso",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-06-28"
+      },
+      "derniere_etape": "2016-06-28",
+      "communes": [
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_LEG_294",
+      "numero": "16_LEG_294",
+      "type": "Décret/Loi",
+      "depose": "2016-06-14",
+      "titre": "Exposé des motifs et projets de décrets accordant aux transports publics de la région lausannoise SA(tl) un prêt conditionnellement remboursable de CHF 286'835'000, un prêt sans intérêts de CHF 15'970'000 et une garantie d'emprunt de CHF 104'584'000 pour le financement de la participation de l'Etat ainsi que le préfinancement partiel de la part fédérale de la réalisation de la première étape du tramway t1 entre Lausanne (Flon) et Renens (Gare)etaccordant au Conseil d'Etat un crédit d'investissement de CHF 20'000'000 pour la participation de l'Etat au financement des aménagements routiers de la première étape du réseau de bus à haut niveau de service de l'agglomération Lausanne – Morges etaccordant aux transports publics de la région lausannoise SA (tl) un prêt conditionnellement remboursable de CHF 14'000'000 pour les études de la deuxième étape du tramway t1 entre Renens (Gare) et Bussigny – Villars Sainte-Croixetaccordant au Conseil d'Etat un crédit d'étude de CHF 5'500'000 pour la participation de l'Etat aux études des aménagements routiers des deuxième et troisième étapes du réseau de bus à haut niveau de service de l'agglomération Lausanne – MorgesetRapport du Conseil d'Etat au Grand Conseil sur le postulat Valérie Schwaar et consorts pour un signe clair de l'Etat en faveur des systèmes de transports publicsd'agglomération efficaces",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2016-06-21"
+      },
+      "derniere_etape": "2016-06-21",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5591,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5624,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5589,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_396",
+      "numero": "15_INT_396",
+      "type": "Interpellation",
+      "depose": "2015-06-09",
+      "titre": "Curieux exemple de concentration en périphérie !",
+      "auteurs": [
+        {
+          "nom": "Martial De Montmollin",
+          "parti": null
+        },
+        {
+          "nom": "Martial De Montmollin",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-04-26"
+      },
+      "derniere_etape": "2016-04-26",
+      "communes": [
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_159",
+      "numero": "13_INT_159",
+      "type": "Interpellation",
+      "depose": "2013-09-24",
+      "titre": "Arrêté sur le réseau de routes nationales et hausse de la vignette : quels bénéfices pour le canton de Vaud ?",
+      "auteurs": [
+        {
+          "nom": "Pierrette Roulet-Grin",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Pierrette Roulet-Grin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-11-05"
+      },
+      "derniere_etape": "2013-11-05",
+      "communes": [
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_POS_296",
+      "numero": "11_POS_296",
+      "type": "Postulat",
+      "depose": "2012-05-08",
+      "titre": "Augmentons notablement les investissements annuels",
+      "auteurs": [
+        {
+          "nom": "Isabelle Freymond",
+          "parti": "IND"
+        },
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2013-03-05"
+      },
+      "derniere_etape": "2013-03-05",
+      "communes": [
+        {
+          "ofs": 5589,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_583",
+      "numero": "11_INT_583",
+      "type": "Interpellation",
+      "depose": "2012-01-17",
+      "titre": "Dans quelle saumure le canton s'est-il mis ?",
+      "auteurs": [
+        {
+          "nom": "Philippe Ducommun",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Ducommun",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-09-11"
+      },
+      "derniere_etape": "2012-09-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_RAP_468",
+      "numero": "12_RAP_468",
+      "type": "Rapport",
+      "depose": "2012-05-01",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat PhilippeDucommun et consorts - A quand le retour aux 120 kilomètres à l'heure pour le contournement autoroutier de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Valérie Schwaar",
+          "parti": null
+        },
+        {
+          "nom": "Valérie Schwaar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-05-01"
+      },
+      "derniere_etape": "2012-05-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        },
+        {
+          "ofs": 5592,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_527",
+      "numero": "11_INT_527",
+      "type": "Interpellation",
+      "depose": "2011-08-23",
+      "titre": "Au nom des députés représentant les groupes parlementaires au sein du groupe de concertation pour les axes forts de transport public urbain (AFTPU) duPALM demandant au Conseil d'Etat une confirmation de son engagement pour le prolongement vers l'Ouest de la nouvelle ligne de tram",
+      "auteurs": [
+        {
+          "nom": "Michele Mossi",
+          "parti": null
+        },
+        {
+          "nom": "Michele Mossi",
+          "parti": "AdC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-01-17"
+      },
+      "derniere_etape": "2012-01-17",
+      "communes": [
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_209",
+      "numero": "09_INT_209",
+      "type": "Interpellation",
+      "depose": "2009-10-06",
+      "titre": "Les réponses divergentes entre le Département des Infrastructures et la Confédération au sujet de la jonction d'Ecublens",
+      "auteurs": [
+        {
+          "nom": "Claudine Wyssa",
+          "parti": null
+        },
+        {
+          "nom": "Claudine Wyssa",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-10-27"
+      },
+      "derniere_etape": "2009-10-27",
+      "communes": [
+        {
+          "ofs": 5635,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

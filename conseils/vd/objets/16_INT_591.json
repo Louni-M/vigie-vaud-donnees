@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223843,
+  "numero": "16_INT_591",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-12-18"
+  },
+  "depose": "2016-10-04",
+  "titre": "Hôpital de Lavaux - quo vadis ?",
+  "contributeurs": [
+    {
+      "nom": "Muriel Thalmann",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Muriel Thalmann",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-10-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-10-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-12-18",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-12-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_591_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-10-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_591_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-18-decembre-2018/reponse-du-conseil-detat-a-linterpellation-muriel-thalmann-hopital-de-lavaux-quo-vadis",
+  "communes": [
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5568,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

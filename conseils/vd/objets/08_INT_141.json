@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221408,
+  "numero": "08_INT_141",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-05-11"
+  },
+  "depose": "2008-11-11",
+  "titre": "De la statistique des bénéficiaires touchant des subventions aux primes d'assurance-maladie dans le canton de Vaud",
+  "contributeurs": [
+    {
+      "nom": "Pierre-Yves Rapaz",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre-Yves Rapaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-11-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-11-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-05-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2008-11-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seanve_du_11_novembre_2008/08_INT_141_Objet.pdf"
+    },
+    {
+      "titre": "Détermination déposée et refusée par le Grand Conseil le 11.05.10",
+      "date": "2010-05-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_INT_141_Determination.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_INT_141_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-11-mai-2010/reponse-du-conseil-detat-a-linterpellation-pierre-yves-rapaz",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

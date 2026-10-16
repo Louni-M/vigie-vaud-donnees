@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227676,
+  "numero": "24_INT_36",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2024-08-14"
+  },
+  "depose": "2024-02-27",
+  "titre": "On débouchonne?",
+  "contributeurs": [
+    {
+      "nom": "Sergei Aschwanden",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-02-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-03-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-08-14",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-12-18",
+      "lien": "https://www.sonomix.ch/live/gcvd/3000#471"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-03-05",
+      "lien": "https://www.sonomix.ch/live/gcvd/2751#738"
+    },
+    {
+      "titre": "Déplacements sur l’axe Riviera-Chablais",
+      "date": "2024-08-14",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2253520"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d8f1e876-0863-4e74-b70f-724f7bece898/meeting/1026873",
+  "communes": [
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5601,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5568,
+      "origine": "document"
+    }
+  ]
+}

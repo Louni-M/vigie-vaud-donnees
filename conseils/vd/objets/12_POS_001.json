@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222773,
+  "numero": "12_POS_001",
+  "type": "Election",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2013-02-05"
+  },
+  "depose": "2012-08-28",
+  "titre": "Postulat Florence Golaz et consorts pour réduire le délai entre les élections générales et l'entrée en fonction des nouveaux élus",
+  "contributeurs": [
+    {
+      "nom": "Serge Melly",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Serge Melly",
+      "parti": "LIBRE",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Serge Melly",
+      "parti": "LIBRE",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-08-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-08-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-02-05",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_POS_001_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2013-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_POS_001_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-08-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/12_POS_001_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-5-fevrier-2013/postulat-florence-golaz-pour-reduire-le-delai-entre-les-elections-generales-et-lentree-en-fonction-des-nouveaux-elus",
+  "communes": []
+}

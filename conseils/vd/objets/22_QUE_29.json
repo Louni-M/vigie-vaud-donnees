@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226724,
+  "numero": "22_QUE_29",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-09-21"
+  },
+  "depose": "2022-06-21",
+  "titre": "Bagages gare-gare : entre Lausanne et Morges, l'Ouest lausannois préfère Renens",
+  "contributeurs": [
+    {
+      "nom": "Sonya Butera",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-06-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-09-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Le service des bagages sera réintroduit à la gare de Renens",
+      "date": "2022-09-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2135616"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a380a34e-d07e-4ccd-854d-fe12155d2370/meeting/1004444",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5591,
+      "origine": "titre"
+    }
+  ]
+}

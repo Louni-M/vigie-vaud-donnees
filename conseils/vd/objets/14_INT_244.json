@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223157,
+  "numero": "14_INT_244",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-01-20"
+  },
+  "depose": "2014-04-08",
+  "titre": "Sécurité dans le canton de Vaud en 2014 : Quo Vadis ?",
+  "contributeurs": [
+    {
+      "nom": "Mathieu Blanc",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Mathieu Blanc",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-04-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-04-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-01-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-01-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_244_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-04-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_244_d%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-20-janvier-2015/reponse-du-conseil-detat-a-linterpellation-mathieu-blanc-securite-dans-le-canton-de-vaud-en-2014-quo-vadis",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    }
+  ]
+}

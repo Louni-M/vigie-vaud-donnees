@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221876,
+  "numero": "10_INT_393",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-01-25"
+  },
+  "depose": "2010-06-01",
+  "titre": "Réponse du Conseil d'Etat à l'interpellation Bernard Borel : le Conseil d'Etat joue-t-il vraiment son rôle de garant de la santé publique dans la question de l'amiante ?",
+  "contributeurs": [
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-06-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-06-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-01-25",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-01-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_393_Texte_CE.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2010-06-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_393_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-25-janvier-2011/reponse-du-conseil-detat-a-linterpellation-bernard-borel-le-conseil-detat-joue-t-il-vraiment-son-role-de-garant-de-la-sante-publique-dans-la-question-de-lamiante",
+  "communes": [
+    {
+      "ofs": 5561,
+      "origine": "document"
+    }
+  ]
+}

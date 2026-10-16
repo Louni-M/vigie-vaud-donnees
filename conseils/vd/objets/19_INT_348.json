@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224665,
+  "numero": "19_INT_348",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-11-13"
+  },
+  "depose": "2019-05-28",
+  "titre": "Un ex conseiller d'Etat qui nous fait monter les tours... d'AÏ !",
+  "contributeurs": [
+    {
+      "nom": "Grégory Devaud",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Grégory Devaud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-05-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-05-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-11-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_348_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-05-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_348_depot.pdf"
+    },
+    {
+      "titre": "Pension d'un ancien conseiller d'Etat",
+      "date": "2019-11-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=391239"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/3761828a-af77-4d9b-9a4b-dd6f3038d9b1/meeting/1000530",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

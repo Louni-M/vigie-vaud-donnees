@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222771,
+  "numero": "12_PET_006",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2013-04-30"
+  },
+  "depose": "2013-04-16",
+  "titre": "Pétition en faveur de Daut Ahemti, Sadije Hyseni et leurs deux enfants",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2013-04-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-04-30",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-04-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_PET_006_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-04-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_PET_006_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-30-avril-2013/petition-en-faveur-de-daut-ahemti-sadije-hyseni-et-leurs-deux-enfants",
+  "communes": [
+    {
+      "ofs": 5924,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

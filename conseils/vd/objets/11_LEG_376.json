@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222423,
+  "numero": "11_LEG_376",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-05-17"
+  },
+  "depose": "2011-05-03",
+  "titre": "Exposé des motifs et projets de lois modifiant :- la loi sur la planification et le financement des établissements sanitaires d'intérêt public (LPFES)- la loi sur la santé publique (LSP)- la loi d'aide aux personnes recourant à l'action médico-sociale (LAPRAMS) et Rapport du Conseil d'Etat au Grand Conseil sur la motion Jacques Perrin et consorts au nom du groupe radical - LPFES : réactiver le dossier en dissociant ses volets",
+  "contributeurs": [
+    {
+      "nom": "Philippe Jobin",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Jobin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Jobin",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-05-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-05-17",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-05-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/376_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-05-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/376_RC.pdf"
+    },
+    {
+      "titre": "LSP adoptée par le Grand Conseil le 17.05.11",
+      "date": "2011-05-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/376_LSP.pdf"
+    },
+    {
+      "titre": "LPFES adoptée par le Grand Conseil le 17.05.11",
+      "date": "2011-05-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/376_LPFES.pdf"
+    },
+    {
+      "titre": "LAPRAMS adoptée par le Grand Conseil le 17.05.11",
+      "date": "2011-05-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/376_LAPRAMS.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-17-mai-2011/expose-des-motifs-et-projets-de-lois-modifiant-la-loi-sur-la-planification-et-le-financement-des-etablissements-sanitaires-dinteret-public-la-loi-sur-la-sante-publique-et-la-loi-daide-aux-personnes-recourant-a-laction-medico-sociale",
+  "communes": [
+    {
+      "ofs": 5637,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

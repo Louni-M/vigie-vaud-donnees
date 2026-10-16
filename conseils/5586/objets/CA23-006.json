@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 120071,
+  "numero": "CA23/006",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2023-12-05"
+  },
+  "depose": "2023-04-19",
+  "titre": "GER - Restaurant « Le Myo », allée Ernest-Ansermet 1 : rénovation complète et extension de l'établissement, sécurité structurelle et mise en conformité des techniques et hygiène",
+  "contributeurs": [
+    {
+      "nom": "Ahmet Salyador",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-04-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-12-05",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Communication au CC signée",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/d7/d709c925fa1f4bb98667bc63b53b4152.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/c6/3d836dd0cb044c85b9e7da205456a9c6.htm",
+  "communes": []
+}

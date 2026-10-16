@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228358,
+  "numero": "25_QUE_39",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-06-18"
+  },
+  "depose": "2025-05-06",
+  "titre": "Question: Comprendre un peu plus les PIG implicites",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-05-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-18",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Précisions sur la Prestation d’intérêt général implicite du CHUV",
+      "date": "2025-06-18",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2311088"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/04c96a52-08b5-4d26-b3ae-c5b2b96d0dc6/meeting/1026887",
+  "communes": []
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227554,
+  "numero": "24_INI_6",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2026-05-12"
+  },
+  "depose": "2024-05-14",
+  "titre": "Pour un droit à l’alimentation dans le canton de Vaud",
+  "contributeurs": [
+    {
+      "nom": "Vincent Keller",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Felix Stürner",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Cédric Weissert",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-05-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-04-28",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-05-21",
+      "lien": "https://www.sonomix.ch/live/gcvd/2826#547"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1ae46cbd-cbd3-4ca9-94f2-1e4ab214bb08/meeting/1029668",
+  "communes": []
+}

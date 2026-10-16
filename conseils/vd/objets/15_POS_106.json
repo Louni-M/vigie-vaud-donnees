@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223645,
+  "numero": "15_POS_106",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2016-05-10"
+  },
+  "depose": "2015-03-10",
+  "titre": "Quelle efficacité pour la police coordonnée ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Cachin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Cachin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-03-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-03-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-05-10",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-05-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_106_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-05-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_106_Obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_106_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-10-mai-2016/postulat-jean-tschopp-et-consorts-quelle-efficacite-pour-la-police-coordonnee",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5422,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5904,
+      "origine": "document"
+    }
+  ]
+}

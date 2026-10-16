@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227943,
+  "numero": "24_QUE_32",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-05-15"
+  },
+  "depose": "2024-04-16",
+  "titre": "Evolution de la facturation du CHUV aux assureurs-maladie pour l'AOS ambulatoire depuis 2012",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-04-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-05-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Evolution de la facturation ambulatoire et non ambulatoire au CHUV",
+      "date": "2024-05-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2238436"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/bad51d72-d076-4828-8b37-4b47b1bfaac8/meeting/1019565",
+  "communes": []
+}

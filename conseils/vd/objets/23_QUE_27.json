@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227319,
+  "numero": "23_QUE_27",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-07-05"
+  },
+  "depose": "2023-05-23",
+  "titre": "Armez-vous de patience au Registre du commerce vaudois",
+  "contributeurs": [
+    {
+      "nom": "Philippe Miauton",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-05-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-07-05",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Retards au registre du commerce",
+      "date": "2023-07-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2187227"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/07e45c79-7ded-4f1c-bb8a-bcf8b56a258b/meeting/1013645",
+  "communes": []
+}

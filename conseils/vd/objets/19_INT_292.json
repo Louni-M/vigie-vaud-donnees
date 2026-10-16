@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224607,
+  "numero": "19_INT_292",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-02-04"
+  },
+  "depose": "2019-01-29",
+  "titre": "Catastrophe au Brésil : le Canton s'en lave-t-il les mains ?",
+  "contributeurs": [
+    {
+      "nom": "Vincent Keller",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-01-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-02-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-02-04",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_292_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-02-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_292_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-4-fevrier-2020/reponse-du-conseil-detat-a-linterpellation-vincent-keller-catastrophe-au-bresil-le-canton-sen-lave-t-il-les-mains",
+  "communes": [
+    {
+      "ofs": 5646,
+      "origine": "document"
+    }
+  ]
+}

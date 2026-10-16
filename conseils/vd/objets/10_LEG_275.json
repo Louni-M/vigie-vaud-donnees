@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222008,
+  "numero": "10_LEG_275",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-05-04"
+  },
+  "depose": "2010-04-20",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 2'053'000.- destiné à financer l'acquisition et la mise en oeuvre d'outils de gestion et de pilotage supportant le système d'information de la DSI",
+  "contributeurs": [
+    {
+      "nom": "Jacques Ansermet",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jacques Ansermet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-04-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-05-04",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/275_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/275_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 04.05.10",
+      "date": "2010-05-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/275_Decret_adopte.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-4-mai-2010/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-dinvestissement-de-chf-2053000-destine-a-financer-lacquisition-et-la-mise-en-oeuvre-doutils-de-gestion-et-de-pilotage-supportant-le-systeme-dinformation-de-la-dsi",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

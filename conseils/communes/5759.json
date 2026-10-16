@@ -1,0 +1,179 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5759,
+  "objets": [
+    {
+      "cle": "vd/23_POS_37",
+      "numero": "23_POS_37",
+      "type": "Postulat",
+      "depose": "2023-01-17",
+      "titre": "AOC, pourquoi faire compliqué lorsque l’on peut faire simple ?",
+      "auteurs": [
+        {
+          "nom": "Céline Baux",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Sébastien Cala",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Transformée en postulat",
+        "date": "2024-06-26"
+      },
+      "derniere_etape": "2024-06-26",
+      "communes": [
+        {
+          "ofs": 5759,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_RAP_92",
+      "numero": "18_RAP_92",
+      "type": "Rapport",
+      "depose": "2018-11-20",
+      "titre": "Rapport du Procureur général sur l'activité du Ministère public pour l'année 2017 et déterminations du Conseil d'Etat",
+      "auteurs": [
+        {
+          "nom": "Hugues Gander",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Hugues Gander",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2018-11-20"
+      },
+      "derniere_etape": "2018-11-20",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5759,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_RAP_299",
+      "numero": "16_RAP_299",
+      "type": "Rapport",
+      "depose": "2016-10-04",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Fabienne Freymond Cantone et consorts au nom du Forum interparlementaire romand (FIR) - Le point régulier sur nos hautes écoles, acteurs clés de nos cantons",
+      "auteurs": [
+        {
+          "nom": "Christine Chevalley",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Christine Chevalley",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2016-10-04"
+      },
+      "derniere_etape": "2016-10-04",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5759,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_LEG_65",
+      "numero": "13_LEG_65",
+      "type": "Décret/Loi",
+      "depose": "2013-10-08",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 9'097'000.- pour financer la modernisation du système d'information de la Police cantonale vaudoise",
+      "auteurs": [
+        {
+          "nom": "Fabienne Despot",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-10-08"
+      },
+      "derniere_etape": "2013-10-08",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5759,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

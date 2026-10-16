@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227544,
+  "numero": "24_HQU_94",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2024-09-10"
+  },
+  "depose": "2024-09-03",
+  "titre": "Mais où est donc passé ce fameux règlement ?",
+  "contributeurs": [
+    {
+      "nom": "Maurice Treboux",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-09-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-09-10",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "24_HQU_94-Texte déposé",
+      "date": "2024-09-10",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2256990"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/bfc2f6a8-9439-4866-878f-1dfbf6595ecf/meeting/1026859",
+  "communes": []
+}

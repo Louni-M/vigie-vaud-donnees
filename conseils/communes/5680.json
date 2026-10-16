@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5680,
+  "objets": [
+    {
+      "cle": "vd/22_POS_22",
+      "numero": "22_POS_22",
+      "type": "Postulat",
+      "depose": "2022-05-17",
+      "titre": "Pour ne pas regretter plus tard de s'être mis au service d'une collectivité : affiliation au deuxième pilier pour les municipales, municipaux, députées et députés",
+      "auteurs": [
+        {
+          "nom": "Yannick Maury",
+          "parti": "VER"
+        },
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2022-05-24"
+      },
+      "derniere_etape": "2022-05-24",
+      "communes": [
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5931,
+          "origine": "document"
+        },
+        {
+          "ofs": 5680,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5648,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_043",
+      "numero": "17_INT_043",
+      "type": "Interpellation",
+      "depose": "2017-10-03",
+      "titre": "Planification scolaire : pour que les villages restent des lieux vivants",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-02-19"
+      },
+      "derniere_etape": "2019-02-19",
+      "communes": [
+        {
+          "ofs": 5913,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5903,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5680,
+          "origine": "document"
+        },
+        {
+          "ofs": 5530,
+          "origine": "document"
+        },
+        {
+          "ofs": 5923,
+          "origine": "document"
+        },
+        {
+          "ofs": 5910,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

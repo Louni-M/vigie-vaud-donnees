@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223903,
+  "numero": "16_LEG_223",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Non entrée en matière",
+    "date": "2016-01-12"
+  },
+  "depose": "2016-01-12",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi du 16 mai 1989 sur l'exercice des droits politiques (LEDP)etRapport du Conseil d'Etat au Grand Conseil sur la motion Claude-Alain Voiblet et consorts « demandant une ouverture plus large de l'exercice des droits populaires au sein des communes vaudoises »",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Mattenberger",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Mattenberger",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-01-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-01-12",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/223_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/223_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-12-janvier-2016-1/empl-sur-lexercice-des-droits-politiques-ledp-et-rapport-du-ce-au-gc-sur-la-motion-claude-alain-voiblet-et-consorts-40315",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

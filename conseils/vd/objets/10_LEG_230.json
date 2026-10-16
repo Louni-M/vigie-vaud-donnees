@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221981,
+  "numero": "10_LEG_230",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-02-02"
+  },
+  "depose": "2010-01-19",
+  "titre": "Exposé des motifs et Projet de loi modifiant la loi du 30 mai 2006 sur le découpage territorial et Projet de décret sur la fusion des communes de Cully, Epesses, Grandvaux, Riex et Villette",
+  "contributeurs": [
+    {
+      "nom": "Jean Christophe Schwaab",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean Christophe Schwaab",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-01-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-02-02",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-01-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/230_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-01-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/230_RC.pdf"
+    },
+    {
+      "titre": "Loi",
+      "date": "2010-02-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/230_Loi_adoptee.pdf"
+    },
+    {
+      "titre": "Décret",
+      "date": "2010-02-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/230_Decret_adopte.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-2-fevrier-2010/expose-des-motifs-et-projet-de-loi-et-projet-de-decret-fusion-des-communes-de-cully-epesses-grandvaux-riex-et-villette",
+  "communes": [
+    {
+      "ofs": 5613,
+      "origine": "titre"
+    }
+  ]
+}

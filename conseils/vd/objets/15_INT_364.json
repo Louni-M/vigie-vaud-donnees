@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223448,
+  "numero": "15_INT_364",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-09-08"
+  },
+  "depose": "2015-03-24",
+  "titre": "Pas d'entrepôt, pas de train ; pas de train, pas de meilleurs transports publics",
+  "contributeurs": [
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-03-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-03-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-09-08",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-09-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_364_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-03-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_364_Depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-8-septembre-2015/reponse-du-conseil-detat-a-linterpellation-jessica-jaccoud-et-consorts-pas-dentrepot-pas-de-train-pas-de-train-pas-de-meilleurs-transports-publics",
+  "communes": [
+    {
+      "ofs": 5730,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5727,
+      "origine": "document"
+    }
+  ]
+}

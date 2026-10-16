@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223575,
+  "numero": "15_LEG_216",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2015-03-10"
+  },
+  "depose": "2015-03-03",
+  "titre": "Exposé des motifs et projets de décrets- accordant aux Transports publics de la région lausannoise SA (tl) une garantie de l'Etat de CHF 36'200'000 pour l'acquisition de trois trains destinés au métro m2- accordant au Conseil d'Etat un crédit d'étude de CHF 12'500'000 pour financer les études des infrastructures nécessaires au nouveau tracé du métro m2 entre le boulevard de Grancy et la station Lausanne-Flon ainsi que pour les aménagements sous la place de la gare de Lausanne liés au projet Léman 2030- accordant au Conseil d'Etat un crédit d'étude de CHF 2'900'000 pour financer les études des infrastructures nécessaires à la 1ère étape de construction de la nouvelle ligne de métro m3 entre la station Lausanne-Gare et la nouvelle station Lausanne-Flon du métro m3- accordant au Conseil d'Etat un crédit d'étude de CHF 3'500'000 pour financer les études d'avant-projet de la 2e étape de construction de la nouvelle ligne de métro m3 entre la station Lausanne-Flon du métro m3 et la Blécherette et Rapport du Conseil d'Etat au Grand Conseil sur le postulat Michele Mossi et consorts demandant la définition d'une vision de développement du noeud intermodal centré autour de la gare ferroviaire de Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Philippe Modoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Modoux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-03-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-03-10",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/216_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/216_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-10-mars-2015/expose-des-motifs-et-projets-de-decrets-accordant-aux-transports-publics-de-la-region-lausannoise-sa-tl-une-garantie-de-letat-de-chf-36200000-pour-lacquisition-de-trois-trains-destines-au-metro-m2",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

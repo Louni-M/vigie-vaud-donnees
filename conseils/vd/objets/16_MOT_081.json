@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223957,
+  "numero": "16_MOT_081",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2016-10-11"
+  },
+  "depose": "2016-03-01",
+  "titre": "14 avril 2017 : Nouveau toit et nouvelle organisation pour le Parlement",
+  "contributeurs": [
+    {
+      "nom": "Claudine Wyssa",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claudine Wyssa",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-03-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-03-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-10-11",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-10-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_MOT_081_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-10-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_MOT_081_Obj_et_d%C3%A9v.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-03-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_MOT_081_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-11-octobre-2016/motion-jacques-perrin-et-consorts-14-avril-2017-nouveau-toit-et-nouvelle-organisation-pour-le-parlement",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

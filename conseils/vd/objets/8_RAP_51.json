@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228466,
+  "numero": "8_RAP_51",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Eingereicht",
+    "date": "2008-04-29"
+  },
+  "depose": "2008-04-29",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Jean-Paul Dudt et consorts demandant que les coûts de l'ACI soient partagés équitablement entre le canton et les communes",
+  "contributeurs": [
+    {
+      "nom": "Jean-Claude Piguet",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-04-29",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-04-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_22_avril_2008/51_Rapport_com.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-04-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_29_avril08/51_Texte_adopte_par_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-29-avril-2008/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-jean-paul-dudt-couts-de-laci",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224170,
+  "numero": "18_INI_006",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2019-06-25"
+  },
+  "depose": "2018-08-28",
+  "titre": "Loi sur le CHUV : pour une gouvernance moderne du CHUV",
+  "contributeurs": [
+    {
+      "nom": "Florence Gross",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Florence Gross",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-08-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-06-25",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2019-06-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INI_006_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2019-06-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INI_006_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-06-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INI_006_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-09-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INI_006_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-25-juin-2019/initiative-florence-bettschart-narbel-et-consorts-au-nom-du-groupe-plr-loi-sur-le-chuv-pour-une-gouvernance-moderne-du-chuv",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

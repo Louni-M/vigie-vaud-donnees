@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227581,
+  "numero": "24_INT_119",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2024-12-11"
+  },
+  "depose": "2024-08-27",
+  "titre": "Une gravière au Pied du Jura, des interrogations pour les communes et la population de la région",
+  "contributeurs": [
+    {
+      "nom": "Yannick Maury",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-08-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-09-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-12-11",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-09-03",
+      "lien": "https://www.sonomix.ch/live/gcvd/2900#295"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-03-25",
+      "lien": "https://www.sonomix.ch/live/gcvd/3078#7179"
+    },
+    {
+      "titre": "Projet de gravière au pied du Jura dans le respect des normes environnementales",
+      "date": "2024-12-11",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2276983"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/64a4e14f-b358-4676-8be2-c0f226a27057/meeting/1026883",
+  "communes": [
+    {
+      "ofs": 5423,
+      "origine": "document"
+    },
+    {
+      "ofs": 5588,
+      "origine": "document"
+    }
+  ]
+}

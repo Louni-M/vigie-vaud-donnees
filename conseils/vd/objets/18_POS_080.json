@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224524,
+  "numero": "18_POS_080",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-01-28"
+  },
+  "depose": "2018-10-02",
+  "titre": "Quel avenir pour les soins à domicile dans notre canton ?",
+  "contributeurs": [
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-10-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-10-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-01-28",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-01-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_080_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-01-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_080_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-10-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_080_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-28-janvier-2020/postulat-stephane-montangero-et-consorts-au-nom-du-groupe-socialiste-quel-avenir-pour-les-soins-a-domicile-dans-notre-canton",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

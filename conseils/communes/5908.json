@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5908,
+  "objets": [
+    {
+      "cle": "vd/13_INT_169",
+      "numero": "13_INT_169",
+      "type": "Interpellation",
+      "depose": "2013-10-29",
+      "titre": "Sécurité des sites et monuments historiques, attention danger, on ferme !",
+      "auteurs": [
+        {
+          "nom": "José Durussel",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-02-17"
+      },
+      "derniere_etape": "2015-02-17",
+      "communes": [
+        {
+          "ofs": 5921,
+          "origine": "document"
+        },
+        {
+          "ofs": 5908,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

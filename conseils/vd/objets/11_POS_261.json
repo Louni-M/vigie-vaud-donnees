@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222533,
+  "numero": "11_POS_261",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2012-10-02"
+  },
+  "depose": "2011-11-01",
+  "titre": "Pour la création de zones d'habitation à loyers modérés",
+  "contributeurs": [
+    {
+      "nom": "Régis Courdesse",
+      "parti": "V'L",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Régis Courdesse",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-11-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-10-02",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-04-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_261_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2012-04-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_261_Obj_et_d%C3%A9v.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-11-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_261_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-2-octobre-2012/postulat-marc-olivier-buffat-pour-la-creation-de-zones-dhabitation-a-loyers-moderes",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5521,
+      "origine": "document"
+    }
+  ]
+}

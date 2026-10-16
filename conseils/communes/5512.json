@@ -1,0 +1,639 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5512,
+  "objets": [
+    {
+      "cle": "vd/22_INT_101",
+      "numero": "22_INT_101",
+      "type": "Interpellation",
+      "depose": "2022-08-23",
+      "titre": "Car Postal aurait-elle un train de...retard ?",
+      "auteurs": [
+        {
+          "nom": "Alberto Mocchi",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-12-14"
+      },
+      "derniere_etape": "2022-12-14",
+      "communes": [
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5471,
+          "origine": "document"
+        },
+        {
+          "ofs": 5535,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_34",
+      "numero": "20_LEG_34",
+      "type": "Décret/Loi",
+      "depose": "2021-12-14",
+      "titre": "Exposé des motifs EXPOSE DES MOTIFS ET PROJETS DE DECRET",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2021-12-14"
+      },
+      "derniere_etape": "2021-12-14",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_101",
+      "numero": "21_LEG_101",
+      "type": "Décret/Loi",
+      "depose": "2021-11-23",
+      "titre": "EMPD accordant au Conseil d'État un crédit d’ouvrage de CHF 9'630'000.- pour financer la réalisation d’un aménagement de mobilité douce et la création d’un giratoire au croisement des RC 422 et 425, ainsi que les travaux de réfection et d’adaptation des RC 422, 425 et 426, sur le territoire de la Commune de Pomy",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-11-23"
+      },
+      "derniere_etape": "2021-11-23",
+      "communes": [
+        {
+          "ofs": 5926,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5939,
+          "origine": "document"
+        },
+        {
+          "ofs": 5912,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5932,
+          "origine": "document"
+        },
+        {
+          "ofs": 5831,
+          "origine": "document"
+        },
+        {
+          "ofs": 5913,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_RAP_133",
+      "numero": "19_RAP_133",
+      "type": "Rapport",
+      "depose": "2019-11-12",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Stéphane Montangero et consorts - Payons le juste prix, pour le lait mais pas seulement !",
+      "auteurs": [
+        {
+          "nom": "Claire Attinger Doepper",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Claire Attinger Doepper",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-11-12"
+      },
+      "derniere_etape": "2019-11-12",
+      "communes": [
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5645,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_248",
+      "numero": "17_POS_248",
+      "type": "Postulat",
+      "depose": "2017-06-06",
+      "titre": "Payons le juste prix, pour le lait mais pas seulement !",
+      "auteurs": [
+        {
+          "nom": "Claire Attinger Doepper",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Claire Attinger Doepper",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2019-04-10"
+      },
+      "derniere_etape": "2019-04-10",
+      "communes": [
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5645,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_043",
+      "numero": "17_INT_043",
+      "type": "Interpellation",
+      "depose": "2017-10-03",
+      "titre": "Planification scolaire : pour que les villages restent des lieux vivants",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-02-19"
+      },
+      "derniere_etape": "2019-02-19",
+      "communes": [
+        {
+          "ofs": 5913,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5903,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5680,
+          "origine": "document"
+        },
+        {
+          "ofs": 5530,
+          "origine": "document"
+        },
+        {
+          "ofs": 5923,
+          "origine": "document"
+        },
+        {
+          "ofs": 5910,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_067",
+      "numero": "17_INT_067",
+      "type": "Interpellation",
+      "depose": "2017-11-21",
+      "titre": "Un gymnase pour l'exemple",
+      "auteurs": [
+        {
+          "nom": "Anne-Laure Métraux-Botteron",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-01"
+      },
+      "derniere_etape": "2018-05-01",
+      "communes": [
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_051",
+      "numero": "17_INT_051",
+      "type": "Interpellation",
+      "depose": "2017-10-31",
+      "titre": "Echallens, ses campagnes, sa maison du Blé et du Pain, son gymnase et... ses forêts",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-01"
+      },
+      "derniere_etape": "2018-05-01",
+      "communes": [
+        {
+          "ofs": 5518,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5511,
+          "origine": "document"
+        },
+        {
+          "ofs": 5521,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_531",
+      "numero": "16_INT_531",
+      "type": "Interpellation",
+      "depose": "2016-06-28",
+      "titre": "Le toit du Parlement aurait-il épuisé la forêt vaudoise ?",
+      "auteurs": [
+        {
+          "nom": "Jean-Luc Chollet",
+          "parti": null
+        },
+        {
+          "nom": "Jean-Luc Chollet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-01-16"
+      },
+      "derniere_etape": "2018-01-16",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_MOT_103",
+      "numero": "16_MOT_103",
+      "type": "Motion",
+      "depose": "2017-01-10",
+      "titre": "Sortons du bois pour valoriser nos ressources forestières",
+      "auteurs": [
+        {
+          "nom": "Yves Ferrari",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée à commission",
+        "date": "2017-01-10"
+      },
+      "derniere_etape": "2017-01-10",
+      "communes": [
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_201",
+      "numero": "13_INT_201",
+      "type": "Interpellation",
+      "depose": "2014-01-07",
+      "titre": "TL : une nouvelle perte de substance pour le Gros-de-Vaud ?",
+      "auteurs": [
+        {
+          "nom": "Denis Rubattel",
+          "parti": null
+        },
+        {
+          "nom": "Denis Rubattel",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-09-09"
+      },
+      "derniere_etape": "2014-09-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_432",
+      "numero": "12_LEG_432",
+      "type": "Décret/Loi",
+      "depose": "2012-02-07",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 4'928'000.- pour financer les travaux de réhabilitation de la route cantonale 414 entre Fey et Montandrey sur le territoire des communes de Fey et de Villars-Le-Terroir",
+      "auteurs": [
+        {
+          "nom": "André Marendaz",
+          "parti": "SOC"
+        },
+        {
+          "nom": "André Marendaz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-02-07"
+      },
+      "derniere_etape": "2012-02-07",
+      "communes": [
+        {
+          "ofs": 5522,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5537,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/8_LEG_87",
+      "numero": "8_LEG_87",
+      "type": "Décret/Loi",
+      "depose": "2008-09-23",
+      "titre": "Exposé des motifs et projet de décret accordant à la Compagnie du Chemin de fer Lausanne - Echallens - Bercher une garantie de l'Etat de CHF 41'090'000.- pour l'acquisition de six rames",
+      "auteurs": [
+        {
+          "nom": "Bertrand Clot",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Bertrand Clot",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2008-09-23"
+      },
+      "derniere_etape": "2008-09-23",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5589,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5521,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

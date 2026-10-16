@@ -1,0 +1,423 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5551,
+  "objets": [
+    {
+      "cle": "vd/24_POS_32",
+      "numero": "24_POS_32",
+      "type": "Postulat",
+      "depose": "2023-09-26",
+      "titre": "Pour que les capites de vignes répondent à la demande œnotouristique",
+      "auteurs": [
+        {
+          "nom": "Maurice Neyroud",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Patricia Spack Isenrich",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Transformée en postulat",
+        "date": "2023-09-26"
+      },
+      "derniere_etape": "2023-09-26",
+      "communes": [
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5427,
+          "origine": "document"
+        },
+        {
+          "ofs": 5882,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5426,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_14",
+      "numero": "23_INT_14",
+      "type": "Interpellation",
+      "depose": "2023-02-07",
+      "titre": "Des circuits-courts à souffle court, voire à bout de souffle ?",
+      "auteurs": [
+        {
+          "nom": "David Raedler",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-06-07"
+      },
+      "derniere_etape": "2023-06-07",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5592,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_10",
+      "numero": "21_INT_10",
+      "type": "Interpellation",
+      "depose": "2021-01-19",
+      "titre": "Quel avenir pour les ateliers CFF d'Yverdon-les-Bains ?",
+      "auteurs": [
+        {
+          "nom": "Stéphane Balet",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-07-06"
+      },
+      "derniere_etape": "2022-07-06",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5565,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_222",
+      "numero": "17_POS_222",
+      "type": "Postulat",
+      "depose": "2017-01-10",
+      "titre": "Les lois de la nature et celles du marché sont-elles compatibles ?",
+      "auteurs": [
+        {
+          "nom": "Maurice Neyroud",
+          "parti": null
+        },
+        {
+          "nom": "Maurice Neyroud",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2021-03-03"
+      },
+      "derniere_etape": "2021-03-03",
+      "communes": [
+        {
+          "ofs": 5551,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_411",
+      "numero": "19_INT_411",
+      "type": "Interpellation",
+      "depose": "2019-10-29",
+      "titre": "Proverbe russe : Nous regardons le même soleil, mais nous ne mangeons pas le même dîner",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2020-06-16"
+      },
+      "derniere_etape": "2020-06-16",
+      "communes": [
+        {
+          "ofs": 5565,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_PET_023",
+      "numero": "18_PET_023",
+      "type": "Pétition",
+      "depose": "2018-10-02",
+      "titre": "Pétition Sauvez Chasseron - Creux-du-Van",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2019-06-04"
+      },
+      "derniere_etape": "2019-06-04",
+      "communes": [
+        {
+          "ofs": 5560,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        },
+        {
+          "ofs": 5556,
+          "origine": "document"
+        },
+        {
+          "ofs": 5552,
+          "origine": "document"
+        },
+        {
+          "ofs": 5557,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        },
+        {
+          "ofs": 5554,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_POS_105",
+      "numero": "15_POS_105",
+      "type": "Postulat",
+      "depose": "2015-02-10",
+      "titre": "Pour une réalisation d'une aire de repos - restoroute sur l'A5 à Concise",
+      "auteurs": [
+        {
+          "nom": "Hugues Gander",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Hugues Gander",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2015-05-26"
+      },
+      "derniere_etape": "2015-05-26",
+      "communes": [
+        {
+          "ofs": 5554,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5746,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5565,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_LEG_117",
+      "numero": "14_LEG_117",
+      "type": "Décret/Loi",
+      "depose": "2014-03-25",
+      "titre": "Exposé des motifs et projet de décret accordant une aide à fonds perdu unique et non renouvelable de CHF 2,5 millions en faveur d'un concept de promotion oenotouristique sur 5 ans et Rapport du Conseil d'Etat au Grand Conseil sur le postulat Pierre-Yves Rapaz et consorts - \"Le canton solidaire des viticulteurs\"",
+      "auteurs": [
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2014-04-01"
+      },
+      "derniere_etape": "2014-04-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5609,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5610,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_LEG_54",
+      "numero": "13_LEG_54",
+      "type": "Décret/Loi",
+      "depose": "2013-05-28",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 1'940'000.- pour financer l'entretien lourd de trois giratoires Poissine, Mottey et Champ-Courbe sur la route RC 401-B-P entre la jonction autoroutière de Corcelettes près de Grandson et Concise, sur le territoire des communes de Grandson, Bonvillars, Onnens et de Corcelles-près-Concise",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-06-18"
+      },
+      "derniere_etape": "2013-06-18",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5554,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5551,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5565,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5555,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        },
+        {
+          "ofs": 5553,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

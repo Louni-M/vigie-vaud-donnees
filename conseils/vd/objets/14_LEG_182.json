@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223298,
+  "numero": "14_LEG_182",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-12-09"
+  },
+  "depose": "2014-12-02",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'étude de CHF 1'030'000.- pour financer les études de la réhabilitation de la RC 1-B-P entre Mies et Founex sur les communes de Coppet, Founex, Mies et Tannay",
+  "contributeurs": [
+    {
+      "nom": "Philippe Modoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Modoux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-12-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-12-09",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-12-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/182_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-12-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/182_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seances-des-9-et-10-decembre-2014/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-detude-de-chf-1030000-pour-financer-les-etudes-de-la-rehabilitation-de-la-rc-1-b-p-entre-mies-et-founex",
+  "communes": [
+    {
+      "ofs": 5723,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5717,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5712,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5729,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5711,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

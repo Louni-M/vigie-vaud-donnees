@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221918,
+  "numero": "10_INT_433",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-02-22"
+  },
+  "depose": "2010-10-05",
+  "titre": "Opération Mac Donald ou Burger King ?",
+  "contributeurs": [
+    {
+      "nom": "Gloria Capt",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-10-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-10-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-02-22",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2010-10-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_433_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-02-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_367_433_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-22-fevrier-2011/reponse-du-conseil-detat-aux-interpellations-pierre-guignard-et-gloria-capt-protection-de-la-residence-de-lambassadeur-des-etats-unis-a-lonu-et-operation-mac-donald-ou-burger-king",
+  "communes": [
+    {
+      "ofs": 5723,
+      "origine": "document"
+    },
+    {
+      "ofs": 5713,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228510,
+  "numero": "08_INT_053",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2008-09-16"
+  },
+  "depose": "2008-09-16",
+  "titre": "\"Malbouffe dans les cafeterias d'écoles, en particulier dans les gymnases, non merci !\"",
+  "contributeurs": [
+    {
+      "nom": "Jean-Michel Dolivo",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-09-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-09-16",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-09-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_16_septembre_2008/08_INT_053_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-16-septembre-2008/reponse-du-conseil-detat-a-linterpellation-jean-michel-dolivo",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    }
+  ]
+}

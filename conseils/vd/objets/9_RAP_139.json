@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228827,
+  "numero": "9_RAP_139",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2009-03-03"
+  },
+  "depose": "2009-03-03",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Olivier Feller et consorts demandant au Conseil d'Etat d'élaborer un plan d'actions pour faire face au réchauffement climatique dans les stations d'hiver vaudoises",
+  "contributeurs": [
+    {
+      "nom": "Philippe Martinet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-03-03",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_10_mars_2009/139_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/139_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-17-mars-2009/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-olivier-feller",
+  "communes": [
+    {
+      "ofs": 5407,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5841,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5843,
+      "origine": "document"
+    },
+    {
+      "ofs": 5405,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    }
+  ]
+}

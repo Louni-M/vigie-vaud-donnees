@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 258973,
+  "numero": "25_HQU_106",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2025-10-07"
+  },
+  "depose": "2025-09-30",
+  "titre": "Addictions en hausse, contrôles en baisse : le mauvais calcul de l'OFSP",
+  "contributeurs": [
+    {
+      "nom": "Valérie Zonca",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-09-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-09-30",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-10-07",
+      "libelle": "Erledigt"
+    },
+    {
+      "date": "2025-10-07",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.letemps.ch/suisse/apres-la-fin-de-l-analyse-des-drogues-dans-les-eaux-usees-la-suisse-navigue-a-vue?srsltid=AfmBOoolCK4HnQ292-yP7nJZLE6U6VPkfSprGRI2-fTYnvNQLYC7Rlwu",
+      "date": "2025-10-07",
+      "lien": "https://www.letemps.ch/suisse/apres-la-fin-de-l-analyse-des-drogues-dans-les-eaux-usees-la-suisse-navigue-a-vue?srsltid=AfmBOoolCK4HnQ292-yP7nJZLE6U6VPkfSprGRI2-fTYnvNQLYC7Rlwu"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/83bf0282-2445-426e-a2cd-75e9da13c234/meeting/1029639",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

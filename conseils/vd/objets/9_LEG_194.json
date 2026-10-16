@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228790,
+  "numero": "9_LEG_194",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-11-24"
+  },
+  "depose": "2009-11-17",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit d'étude de CHF 715'000.- pour la réhabilitation et la correction routière de la RC 719b entre le hameau de Huémoz et le lieu-dit \"Les Tannes\", sur la commune d'Ollon",
+  "contributeurs": [
+    {
+      "nom": "Bertrand Clot",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Bertrand Clot",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-11-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-11-17",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2009-11-24",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-11-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/194_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-11-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/194_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 24.11.09",
+      "date": "2009-11-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/194_Decret_adopte_le_24.11.09.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-24-novembre-2009/expose-des-motifs-et-projet-de-decret-rc-719b-huemoz",
+  "communes": [
+    {
+      "ofs": 5409,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5405,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225021,
+  "numero": "19_RAP_55",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-01-08"
+  },
+  "depose": "2019-01-08",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Valérie Schwaar au nom de la COGES - Modernisation des infrastructures à charge de l'Etat à Rennaz (Centre d'entretien des routes nationales et cantonales de Rennaz et Centre de gendarmerie mobile de l'Est vaudois) : 15 ans de tergiversation, c'est trop !",
+  "contributeurs": [
+    {
+      "nom": "Christine Chevalley",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-01-08",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-01-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/55_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-01-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/55_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-15-janvier-2019/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-valerie-schwaar-au-nom-de-la-coges-modernisation-des-infrastructures-a-charge-de-letat-a-rennaz-centre-dentretien-des-routes-nationales-et-cantonales-de-rennaz-et-centre-de-gendarmerie-mobile",
+  "communes": [
+    {
+      "ofs": 5412,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5853,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 296142,
+  "numero": "26_HQU_26",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2026-02-10"
+  },
+  "depose": "2026-02-10",
+  "titre": "Musée Espace Culturel Ormonts Leysin (MECOL) EP CAMAC No 241468",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marc Udriot",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-02-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-02-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-02-10",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/abbde660-fcd5-4435-8573-bbc05d98f3f8/meeting/1029657",
+  "communes": [
+    {
+      "ofs": 5407,
+      "origine": "titre"
+    }
+  ]
+}

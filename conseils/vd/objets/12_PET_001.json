@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 86163,
+  "numero": "12_PET_001",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2013-01-22"
+  },
+  "depose": "2012-11-27",
+  "titre": "Pétition des psychomotriciens-ne-s",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2012-11-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-01-22",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_PET_001_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_PET_001_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-22-janvier-2013/petition-des-psychomotriciens-ne-s",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

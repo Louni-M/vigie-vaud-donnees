@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222066,
+  "numero": "10_MOT_102",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-12-21"
+  },
+  "depose": "2010-03-02",
+  "titre": "Invitant le Conseil d'Etat à créer dans son administration de nouvelles places d'apprentissage, destinées en priorité aux écoliers issus de voies défavorisées sur le marché actuel de l'emploi",
+  "contributeurs": [
+    {
+      "nom": "Isabelle Chevalley",
+      "parti": "V'L",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-03-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-03-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-12-21",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-12-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_102_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-12-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_102_Objet_et_dev_new.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-03-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_102_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-21-decembre-2010/motion-philippe-deriaz-places-dapprentissage-destinees-en-priorite-aux-ecoliers-issus-de-voies-defavorisees",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5422,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

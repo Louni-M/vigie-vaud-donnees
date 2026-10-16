@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224172,
+  "numero": "18_INI_007",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2019-05-28"
+  },
+  "depose": "2018-09-04",
+  "titre": "Lutte contre les néophytes envahissantes : Agir à la source !",
+  "contributeurs": [
+    {
+      "nom": "Daniel Trolliet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Daniel Trolliet",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-09-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-05-28",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-04-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INI_007_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-04-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INI_007_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INI_007_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-28-mai-2019/initiative-severine-evequoz-et-consorts-lutte-contre-les-neophytes-envahissantes-agir-a-la-source",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5408,
+      "origine": "document"
+    }
+  ]
+}

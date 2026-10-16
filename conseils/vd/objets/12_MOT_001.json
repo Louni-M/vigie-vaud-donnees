@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222749,
+  "numero": "12_MOT_001",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2013-03-12"
+  },
+  "depose": "2012-09-04",
+  "titre": "En faveur de l'adoption de l'applique dentaire canine",
+  "contributeurs": [
+    {
+      "nom": "Philippe Jobin",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-09-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-09-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-03-12",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-02-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_MOT_001_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2013-02-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_MOT_001_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-09-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_MOT_001_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-12-mars-2013/motion-jerome-christen-en-faveur-de-ladoption-de-lapplique-dentaire-canine",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

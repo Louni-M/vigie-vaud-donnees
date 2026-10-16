@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228354,
+  "numero": "25_QUE_35",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-06-11"
+  },
+  "depose": "2025-04-29",
+  "titre": "Subsides à l’assurance maladie : quid du calcul des primes cantonales de référence",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-04-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-11",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Notice_explicative_2024_web.pdf",
+      "date": "2025-04-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/themes/social/Prestations__assurance_et_soutien/Assurance_maladie/Subside/Notice_explicative_2024_web.pdf"
+    },
+    {
+      "titre": "Subsides : les primes de référence reflètent les choix de la population",
+      "date": "2025-06-11",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2309406"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/7c69ca16-4ec2-4379-8a42-f65141a8d890/meeting/1026886",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    }
+  ]
+}

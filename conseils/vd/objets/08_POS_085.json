@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221526,
+  "numero": "08_POS_085",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2008-12-16"
+  },
+  "depose": "2008-09-09",
+  "titre": "Eole dans le Gros de Vaud",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2008-09-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-09-09",
+      "libelle": "Zurückgewiesen"
+    },
+    {
+      "date": "2008-12-16",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2008-09-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_9_septembre_2008/08_POS_085_Objet.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2008-12-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Senace_du_16_decembre_2008/08_POS_085_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-12-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Senace_du_16_decembre_2008/08_POS_085_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-des-16-et-17-decembre-2008/postulat-beatrice-metraux",
+  "communes": [
+    {
+      "ofs": 5511,
+      "origine": "document"
+    },
+    {
+      "ofs": 5537,
+      "origine": "document"
+    },
+    {
+      "ofs": 5539,
+      "origine": "document"
+    },
+    {
+      "ofs": 5530,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

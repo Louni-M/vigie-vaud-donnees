@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 29268,
+  "numero": "CA24/011",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2025-03-04"
+  },
+  "depose": "2024-12-09",
+  "titre": "Logiciel de gestion des collections patrimoniales - Demande d'ouverture d'un compte d'attente",
+  "contributeurs": [
+    {
+      "nom": "Valérie D'Acremont",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-12-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-03-04",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "04_30_jan_cc_ouverture_ca_logiciel_gestion_collections_patrimoniales.pdf v1.0",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/24/24b4ff7d6f1344eb89497a41d0eefe2d.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/8d/77d33eca2d034d198204f9b8ab9fbf8d.htm",
+  "communes": []
+}

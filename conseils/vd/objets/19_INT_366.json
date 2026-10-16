@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224683,
+  "numero": "19_INT_366",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-02-04"
+  },
+  "depose": "2019-06-04",
+  "titre": "Barrage au fil du Rhône : un long fleuve (trop) tranquille ?",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Croci Torti",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Croci Torti",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-06-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-06-18",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-10-02",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-02-04",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_366_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-06-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_366_depot.pdf"
+    },
+    {
+      "titre": "Soutien de l'Etat aux projets hydroélectriques le long du Rhône",
+      "date": "2019-10-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=387263"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-4-fevrier-2020/reponse-du-conseil-detat-a-linterpellation-nicolas-croci-torti-et-consorts-barrage-au-fil-du-rhone-un-long-fleuve-trop-tranquille",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

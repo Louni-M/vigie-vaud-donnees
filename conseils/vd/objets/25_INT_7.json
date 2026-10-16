@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228194,
+  "numero": "25_INT_7",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-09-16"
+  },
+  "depose": "2025-01-21",
+  "titre": "Des chiffres pour évaluer la pertinence d’une révision générale de l’estimation fiscale des immeubles dans le Canton",
+  "contributeurs": [
+    {
+      "nom": "Joëlle Minacci",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-01-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-01-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-05-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-05-21",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-09-16",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-09-16",
+      "lien": "https://www.sonomix.ch/live/gcvd/3205#8223"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-01-28",
+      "lien": "https://www.sonomix.ch/live/gcvd/3015#781"
+    },
+    {
+      "titre": "Pertinence d’une révision générale de l’estimation fiscale des immeubles",
+      "date": "2025-05-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2304526"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/fc3677ef-3e97-44d1-911c-b6b0822c3596/meeting/1029636",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

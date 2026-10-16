@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222552,
+  "numero": "11_POS_286",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2013-01-15"
+  },
+  "depose": "2012-03-06",
+  "titre": "Demandant si l'école vaudoise est en phase avec sa population devenue de très grande variété linguistique et culturelle",
+  "contributeurs": [
+    {
+      "nom": "Olivier Mayor",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Olivier Mayor",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-03-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-03-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-01-15",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-12-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/11_POS_286_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-12-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/11_POS_286_Objet.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-03-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_286_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-15-janvier-2013/postulat-fabienne-freymond-cantone-et-consorts-demandant-si-lecole-vaudoise-est-en-phase-avec-sa-population-devenue-de-tres-grande-variete-linguistique-et-culturelle",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

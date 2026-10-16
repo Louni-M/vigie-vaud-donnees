@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228840,
+  "numero": "9_RAP_59",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2009-01-27"
+  },
+  "depose": "2009-01-13",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil et préavis négatif du Conseil d'Etat au Grand Conseil sur la motion Armand Rod demandant l'abrogation de la loi du 4 mars 1985 sur la démolition, la transformation et la rénovation de maisons d'habitation ainsi que l'utilisation de logements à d'autres fins que l'habitation et de la loi du 11 décembre 1989 concernant l'aliénation d'appartements loués etExposé des motifs et projet de loi (Motion A. Rod) abrogeant la loi du 4 mars 1985 sur la démolition, la transformation et la rénovation de maisons d'habitation ainsi que l'utilisation de logements à d'autres fins que l'habitation et de la loi du 11 décembre 1989 concernant l'aliénation d'appartement loués etExposé des motifs et projet de lois (Contre projet)- sur la préservation du parc locatif vaudois (LPPL)- modifiant la loi du 6 mai 2006 sur l'énergie",
+  "contributeurs": [
+    {
+      "nom": "Régis Courdesse",
+      "parti": "V'L",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Anne-Marie Depoisier",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-01-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-01-27",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-01-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/59_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2009-01-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/09.01.08_Envoi_deputes/59_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2009-01-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/09.01.08_Envoi_deputes/59_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-27-janvier-2009/rapport-du-conseil-detat-au-grand-conseil-sur-la-motion-armand-rod",
+  "communes": [
+    {
+      "ofs": 5590,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

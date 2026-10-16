@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222064,
+  "numero": "10_MOT_100",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-11-16"
+  },
+  "depose": "2010-02-23",
+  "titre": "Au sujet des Solarium self-service : Attention danger !",
+  "contributeurs": [
+    {
+      "nom": "Philippe Martinet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Martinet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-02-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-03-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-11-16",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-11-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_100_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-11-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_100_Objet_et_dev_new.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-02-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_100_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-16-novembre-2010/motion-aliette-rey-marion-solarium-self-service-danger",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

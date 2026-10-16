@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222127,
+  "numero": "10_POS_196",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2011-02-01"
+  },
+  "depose": "2010-06-08",
+  "titre": "A quand le retour aux 120 kilomètres à l'heure pour le contournement autoroutier de Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Laurent Ballif",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Laurent Ballif",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-06-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-06-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-02-01",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-02-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_196_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-02-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_196_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-06-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_196_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-1-fevrier-2011/postulat-philippe-ducommun-a-quand-le-retour-aux-120-kilometres-a-lheure-pour-le-contournement-autoroutier-de-lausanne",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

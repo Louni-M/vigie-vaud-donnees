@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224618,
+  "numero": "19_INT_302",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-10-01"
+  },
+  "depose": "2019-02-05",
+  "titre": "Caisses de chômage, point de situation",
+  "contributeurs": [
+    {
+      "nom": "Marion Wahlen",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Marion Wahlen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-02-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-02-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-10-01",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_302_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-02-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_302_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-1er-octobre-2019/reponse-du-conseil-detat-a-linterpellation-marion-wahlen-et-consorts-caisses-de-chomage-point-de-situation",
+  "communes": []
+}

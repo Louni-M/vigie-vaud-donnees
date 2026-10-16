@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221964,
+  "numero": "10_LEG_199",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-02-02"
+  },
+  "depose": "2010-01-12",
+  "titre": "Exposé des motifs et projet de loi d'introduction de la loi fédérale du 20 mars 2009 sur la procédure pénale applicable aux mineurs (Projet CODEX_2010 « Procédure pénale des mineurs »); et projet de lois modifiant :- la loi du 1er décembre 1980 sur les dossiers de police judiciaire- la loi d'introduction du Code de procédure pénale suisse- la loi du 7 novembre 2006 sur l'exécution de la détention avant jugement- la loi du 24 février 2009 d'application de la loi fédérale du 23 mars 2007 sur l'aide aux victimes d'infractions- la loi du 4 mai 2004 sur la protection des mineurs",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Mattenberger",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Nicolas Mattenberger",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-01-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-01-12",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2010-02-02",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/199_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/199_RC.pdf"
+    },
+    {
+      "titre": "Lois adoptées par le Grand Conseil le 02.02.10",
+      "date": "2010-02-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/199_Lois_adoptees.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-2-fevrier-2010/expose-des-motifs-et-projet-de-loi-codex-2010-procedure-penale-des-mineurs",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

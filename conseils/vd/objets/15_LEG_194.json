@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223555,
+  "numero": "15_LEG_194",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2015-01-20"
+  },
+  "depose": "2015-01-13",
+  "titre": "Exposé des motifs et projets de décrets accordant au Conseil d'Etat un crédit d'ouvrage de CHF 7'383'000.- pour financer les travaux de la deuxième étape de la requalification de la RC 1 entre le giratoire de Dorigny et l'avenue Forel, sur les communes d'Ecublens et de St-Sulpice et accordant au Conseil d'Etat un crédit d'étude de CHF 620'000.- pour financer les études de la troisième étape de la requalification de la RC 1 entre l'avenue du Tir-Fédéral et la Venoge, sur les communes d'Ecublens, St-Sulpice, Denges et Préverenges",
+  "contributeurs": [
+    {
+      "nom": "Philippe Modoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Modoux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-01-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-01-20",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-01-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/194_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-01-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/194_RC_new.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-20-janvier-2015/empd-accordant-au-ce-un-credit-de-chf-7383000-pour-les-travaux-de-letape-2-de-la-rc-1et-de-chf-620000-pour-les-etudes-de-letape-3-de-la-requalification-de-la-rc-1",
+  "communes": [
+    {
+      "ofs": 5635,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5648,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5632,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5643,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5604,
+      "origine": "document"
+    },
+    {
+      "ofs": 5646,
+      "origine": "document"
+    },
+    {
+      "ofs": 5627,
+      "origine": "document"
+    },
+    {
+      "ofs": 5634,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223646,
+  "numero": "15_POS_107",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2016-01-19"
+  },
+  "depose": "2015-03-10",
+  "titre": "La musique, une partition bien difficile à harmoniser !",
+  "contributeurs": [
+    {
+      "nom": "Gérald Cretegny",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Gérald Cretegny",
+      "parti": "AdC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-03-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-03-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-01-19",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_107_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2015-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_107_Obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_107_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-19-janvier-2016/postulat-laurence-cretegny-et-consorts-la-musique-une-partition-bien-difficile-a-harmoniser",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

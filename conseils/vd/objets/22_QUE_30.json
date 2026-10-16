@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226726,
+  "numero": "22_QUE_30",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-09-07"
+  },
+  "depose": "2022-06-21",
+  "titre": "Relations entre police cantonale et Service des renseignements",
+  "contributeurs": [
+    {
+      "nom": "Céline Misiego",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-06-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-09-07",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Relations entre la Police cantonale et le Service de renseignement de la Confédération",
+      "date": "2022-09-07",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2133404"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1dfdc852-545e-4268-be54-eda4aaedd122/meeting/1004444",
+  "communes": []
+}

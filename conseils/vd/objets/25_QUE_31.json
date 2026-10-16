@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228350,
+  "numero": "25_QUE_31",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-06-11"
+  },
+  "depose": "2025-04-08",
+  "titre": "Là haut sur la montagne l'était un beau... téléphérique non assuré",
+  "contributeurs": [
+    {
+      "nom": "Alberto Mocchi",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-04-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-11",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Couverture assurance éléments naturels des téléphériques",
+      "date": "2025-06-11",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2309413"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/dd55bcc5-f52a-4944-ad9b-8adff7e1a45a/meeting/1026885",
+  "communes": []
+}

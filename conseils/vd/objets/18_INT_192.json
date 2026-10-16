@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224277,
+  "numero": "18_INT_192",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-03-03"
+  },
+  "depose": "2018-06-12",
+  "titre": "Enquêtes de circulation, enquête française sur sol vaudois, en quête de bon sens ?",
+  "contributeurs": [
+    {
+      "nom": "Laurence Cretegny",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Laurence Cretegny",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-06-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-06-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-03-03",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_192_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-06-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_192_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-3-mars-2020/reponse-du-conseil-detat-a-linterpellation-laurence-cretegny-et-consort-enquetes-de-circulation-enquete-francaise-sur-sol-vaudois-en-quete-de-bon-sens",
+  "communes": [
+    {
+      "ofs": 5861,
+      "origine": "document"
+    },
+    {
+      "ofs": 5427,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

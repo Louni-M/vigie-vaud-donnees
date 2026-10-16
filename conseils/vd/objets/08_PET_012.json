@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221480,
+  "numero": "08_PET_012",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Eingereicht",
+    "date": "2008-06-10"
+  },
+  "depose": "2008-06-10",
+  "titre": "Pétition Dominique Blattner à propos de la cathédrale de Lausanne et des travaux d'entretien permanents qu'impose un tel édifice",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2008-06-10",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-06-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_10_juin_2008/08_PET_012_Rapport_com.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2008-06-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_PET_012_Objet.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-10-juin-2008/petition-dominique-blattner",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

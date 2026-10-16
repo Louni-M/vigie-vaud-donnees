@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222876,
+  "numero": "13_INT_132",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-04-08"
+  },
+  "depose": "2013-06-04",
+  "titre": "Les CFF sont-ils sur un nuage ?",
+  "contributeurs": [
+    {
+      "nom": "Andreas Wüthrich",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Andreas Wüthrich",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-06-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-06-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-04-08",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-03-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_132_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-06-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_132_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-8-avril-2014/reponse-du-conseil-detat-a-linterpellation-andreas-wuethrich-les-cff-sont-ils-sur-un-nuage",
+  "communes": [
+    {
+      "ofs": 5805,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5851,
+      "origine": "document"
+    },
+    {
+      "ofs": 5861,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5712,
+      "origine": "document"
+    }
+  ]
+}

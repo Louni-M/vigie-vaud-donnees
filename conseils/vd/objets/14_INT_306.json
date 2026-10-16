@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223220,
+  "numero": "14_INT_306",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-11-15"
+  },
+  "depose": "2014-10-28",
+  "titre": "Gymnase du Chablais",
+  "contributeurs": [
+    {
+      "nom": "Pierre-Yves Rapaz",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre-Yves Rapaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-10-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-11-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-11-15",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-11-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_306_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-11-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_306_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-15-novembre-2016/reponse-du-conseil-detat-a-linterpellation-pierre-yves-rapaz-gymnase-du-chablais",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

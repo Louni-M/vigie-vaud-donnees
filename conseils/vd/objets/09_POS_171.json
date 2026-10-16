@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221781,
+  "numero": "09_POS_171",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-09-28"
+  },
+  "depose": "2010-01-12",
+  "titre": "Postulat Jean-Michel Favez au nom du Groupe socialiste visant à la réalisation d'installations solaires-thermiques sur les bâtiments publics",
+  "contributeurs": [
+    {
+      "nom": "Susanne Jungclaus Delarze",
+      "parti": "VER",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Susanne Jungclaus Delarze",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Rémy Pache",
+      "parti": "LIB",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-01-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-01-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-09-28",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2010-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_171_Depot.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_171_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_171_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_171_RC_min.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-28-septembre-2010/postulat-jean-michel-favez-realisation-dinstallations-solaires-thermiques-sur-les-batiments-publics",
+  "communes": [
+    {
+      "ofs": 5852,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

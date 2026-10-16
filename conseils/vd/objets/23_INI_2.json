@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226933,
+  "numero": "23_INI_2",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2025-11-25"
+  },
+  "depose": "2023-01-24",
+  "titre": "Protégeons notre intégrité numérique",
+  "contributeurs": [
+    {
+      "nom": "Patricia Spack Isenrich",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Maurice Gay",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-01-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-11-25",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/2e2b974d-9fe8-4c5a-8253-28d00cc423cf/meeting/1029644",
+  "communes": []
+}

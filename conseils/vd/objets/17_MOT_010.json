@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224102,
+  "numero": "17_MOT_010",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2019-04-02"
+  },
+  "depose": "2017-10-31",
+  "titre": "Des subsides à l'assurance maladie versés au prorata du taux d'activité",
+  "contributeurs": [
+    {
+      "nom": "Felix Stürner",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Felix Stürner",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-10-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-04-02",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-04-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_010_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-04-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_010_obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Annexe",
+      "date": "2019-04-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_010_Annexe.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-2-avril-2019/motion-daniel-ruch-et-consorts-des-subsides-a-lassurance-maladie-verses-au-prorata-du-taux-dactivite",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

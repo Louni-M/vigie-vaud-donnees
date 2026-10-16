@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221534,
+  "numero": "08_POS_096",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2009-03-03"
+  },
+  "depose": "2008-11-04",
+  "titre": "Les mesures et actions qu'entend entreprendre le Conseil d'Etat compte tenu de la crise financière internationale et de la crise économique",
+  "contributeurs": [
+    {
+      "nom": "Patrick de Preux",
+      "parti": "LIB",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Michel Favez",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-11-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-11-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2009-03-03",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2008-11-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_18novembre_2008/08_POS_096_Objet.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_POS_096_Rc_min1.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/08_POS_096_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_POS_096_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-3-mars-2009/postulat-du-groupe-socialiste",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

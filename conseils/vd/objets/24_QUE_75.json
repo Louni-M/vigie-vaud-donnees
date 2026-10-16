@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227990,
+  "numero": "24_QUE_75",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-05-21"
+  },
+  "depose": "2024-10-08",
+  "titre": "Meute du Mont-tendre, que se passe-t-il ?",
+  "contributeurs": [
+    {
+      "nom": "Anne-Lise Rime",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-10-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-05-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-05-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Modalités de régulation de la meute du Mont Tendre",
+      "date": "2025-05-14",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2304537"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/aba882b4-1237-40a7-b78c-5ab84a359b29/meeting/1026862",
+  "communes": []
+}

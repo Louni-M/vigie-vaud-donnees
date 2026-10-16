@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228795,
+  "numero": "9_RAP_114",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-02-03"
+  },
+  "depose": "2009-02-03",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil présentant un bilan de la mise en oeuvre de la Constitution du 14 avril 2003 du Canton de Vaud, cinq ans après son entrée en vigueur",
+  "contributeurs": [
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-02-03",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_10_fevrier_2009/114_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/114_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-10-fevrier-2009/rapport-du-conseil-detat-au-grand-conseil-bilan-de-la-mise-en-oeuvre-de-la-constitution",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

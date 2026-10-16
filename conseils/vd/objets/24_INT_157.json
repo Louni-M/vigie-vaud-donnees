@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227624,
+  "numero": "24_INT_157",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-09-16"
+  },
+  "depose": "2024-11-05",
+  "titre": "Le mystère des déductions fiscales pour le petit peuple vaudois continue depuis février 23",
+  "contributeurs": [
+    {
+      "nom": "Didier Lohri",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-11-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-11-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-03-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-03-05",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-09-16",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-09-16",
+      "lien": "https://www.sonomix.ch/live/gcvd/3205#6402"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-11-12",
+      "lien": "https://www.sonomix.ch/live/gcvd/2953#7773"
+    },
+    {
+      "titre": "Exemples chiffrés pour les déductions fiscales",
+      "date": "2025-03-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2290814"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/8b06b812-632c-41b8-b011-7fe242cb7224/meeting/1029636",
+  "communes": [
+    {
+      "ofs": 5703,
+      "origine": "document"
+    }
+  ]
+}

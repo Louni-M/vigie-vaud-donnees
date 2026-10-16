@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221540,
+  "numero": "08_POS_105",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2008-12-09"
+  },
+  "depose": "2008-12-09",
+  "titre": "Le musée cantonal des Beaux-Arts et la nécessité d'un nouveau projet",
+  "contributeurs": [
+    {
+      "nom": "Jean-Yves Pidoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Yves Pidoux",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-12-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-12-09",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2008-12-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_9_decembre_2008/08_POS_105_Depot.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2009-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Liste_objets_Commissions_nomeee_periode_16/08_POS_105_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_POS_103_104_105_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-21-avril-2009/postulat-cesla-amarelle",
+  "communes": [
+    {
+      "ofs": 5464,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

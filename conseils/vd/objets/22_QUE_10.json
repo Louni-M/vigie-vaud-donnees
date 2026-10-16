@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226702,
+  "numero": "22_QUE_10",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-03-09"
+  },
+  "depose": "2022-02-15",
+  "titre": "Quels sont les usages et les finalités du projet de centre de compétences sécuritaire en gare de Lausanne?",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-02-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-03-09",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Un futur centre de compétence sécuritaire en gare de Lausanne pour faire face aux enjeux sécuritaires de demain",
+      "date": "2022-03-09",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2105283"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f56fc181-96ac-4bdc-9d11-b785f60edc77/meeting/1004430",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

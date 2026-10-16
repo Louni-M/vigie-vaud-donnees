@@ -1,0 +1,424 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5534,
+  "objets": [
+    {
+      "cle": "vd/20_LEG_34",
+      "numero": "20_LEG_34",
+      "type": "Décret/Loi",
+      "depose": "2021-12-14",
+      "titre": "Exposé des motifs EXPOSE DES MOTIFS ET PROJETS DE DECRET",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2021-12-14"
+      },
+      "derniere_etape": "2021-12-14",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_051",
+      "numero": "17_INT_051",
+      "type": "Interpellation",
+      "depose": "2017-10-31",
+      "titre": "Echallens, ses campagnes, sa maison du Blé et du Pain, son gymnase et... ses forêts",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-01"
+      },
+      "derniere_etape": "2018-05-01",
+      "communes": [
+        {
+          "ofs": 5518,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5511,
+          "origine": "document"
+        },
+        {
+          "ofs": 5521,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_531",
+      "numero": "16_INT_531",
+      "type": "Interpellation",
+      "depose": "2016-06-28",
+      "titre": "Le toit du Parlement aurait-il épuisé la forêt vaudoise ?",
+      "auteurs": [
+        {
+          "nom": "Jean-Luc Chollet",
+          "parti": null
+        },
+        {
+          "nom": "Jean-Luc Chollet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-01-16"
+      },
+      "derniere_etape": "2018-01-16",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_MOT_103",
+      "numero": "16_MOT_103",
+      "type": "Motion",
+      "depose": "2017-01-10",
+      "titre": "Sortons du bois pour valoriser nos ressources forestières",
+      "auteurs": [
+        {
+          "nom": "Yves Ferrari",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée à commission",
+        "date": "2017-01-10"
+      },
+      "derniere_etape": "2017-01-10",
+      "communes": [
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_POS_064",
+      "numero": "14_POS_064",
+      "type": "Postulat",
+      "depose": "2014-04-08",
+      "titre": "Du bois c'est bien, du bois suisse c'est encore mieux",
+      "auteurs": [
+        {
+          "nom": "Yves Ferrari",
+          "parti": "VER"
+        },
+        {
+          "nom": "Yves Ferrari",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2014-10-28"
+      },
+      "derniere_etape": "2014-10-28",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_136",
+      "numero": "13_INT_136",
+      "type": "Interpellation",
+      "depose": "2013-06-11",
+      "titre": "Organismes de développement économique régionaux : quel partenariat avec les instances cantonales et quelle gouvernance ?",
+      "auteurs": [
+        {
+          "nom": "Dominique-Ella Christin",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Dominique-Ella Christin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-05-27"
+      },
+      "derniere_etape": "2014-05-27",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_432",
+      "numero": "12_LEG_432",
+      "type": "Décret/Loi",
+      "depose": "2012-02-07",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 4'928'000.- pour financer les travaux de réhabilitation de la route cantonale 414 entre Fey et Montandrey sur le territoire des communes de Fey et de Villars-Le-Terroir",
+      "auteurs": [
+        {
+          "nom": "André Marendaz",
+          "parti": "SOC"
+        },
+        {
+          "nom": "André Marendaz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-02-07"
+      },
+      "derniere_etape": "2012-02-07",
+      "communes": [
+        {
+          "ofs": 5522,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5537,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_MOT_115",
+      "numero": "10_MOT_115",
+      "type": "Motion",
+      "depose": "2010-11-09",
+      "titre": "Demandant de légiférer en vue de l'implantation d'éoliennes sur le territoire vaudois et de prévoir une loi spécifique pour la construction d'éoliennes",
+      "auteurs": [
+        {
+          "nom": "Michel Renaud",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Michel Renaud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2011-12-20"
+      },
+      "derniere_etape": "2011-12-20",
+      "communes": [
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5514,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_406",
+      "numero": "10_INT_406",
+      "type": "Interpellation",
+      "depose": "2010-08-24",
+      "titre": "Les pellets nouveaux arrivent",
+      "auteurs": [
+        {
+          "nom": "Alexis Bally",
+          "parti": null
+        },
+        {
+          "nom": "Alexis Bally",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-02-08"
+      },
+      "derniere_etape": "2011-02-08",
+      "communes": [
+        {
+          "ofs": 5534,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_INT_109",
+      "numero": "08_INT_109",
+      "type": "Interpellation",
+      "depose": "2008-07-01",
+      "titre": "L'approvisionnement du Canton de Vaud en énergie électrique est-il assuré ?",
+      "auteurs": [
+        {
+          "nom": "Yves Ferrari",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-03-03"
+      },
+      "derniere_etape": "2009-03-03",
+      "communes": [
+        {
+          "ofs": 5464,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5458,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

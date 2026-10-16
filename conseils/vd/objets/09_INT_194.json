@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221578,
+  "numero": "09_INT_194",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-05-11"
+  },
+  "depose": "2009-03-03",
+  "titre": "Les modifications tarifaires des petits laboratoires médicaux et les projets de déménagements des labos du CHUV",
+  "contributeurs": [
+    {
+      "nom": "Véronique Hurni",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Véronique Hurni",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-03-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-03-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-05-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_194_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/09.02.26_Envoi_deputes/09_INT_194_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-11-mai-2010/reponse-du-conseil-detat-a-linterpellation-veronique-hurni-labos-du-chuv",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

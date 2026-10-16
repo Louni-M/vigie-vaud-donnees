@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 340206,
+  "numero": "26_HQU_128",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2026-10-06"
+  },
+  "depose": "2026-09-29",
+  "titre": "Inquiétants départs des soins intensifs pédiatriques du CHUV : quelle suite le Conseil d'État entend-il donner ?",
+  "contributeurs": [
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-09-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-09-29",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-10-06",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-10-06",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "D’après les révélations récentes de la RTS",
+      "date": "2026-09-29",
+      "lien": "https://www.rts.ch/info/regions/vaud/2026/article/chuv-inquietants-departs-en-serie-aux-soins-intensifs-pour-enfants-29359594.html"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6473a418-d7f4-4f1f-90f2-b5c3bbb3fcb5/meeting/1033712",
+  "communes": [
+    {
+      "ofs": 5713,
+      "origine": "document"
+    }
+  ]
+}

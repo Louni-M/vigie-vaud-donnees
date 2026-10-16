@@ -1,0 +1,933 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "conseil": "5586",
+  "annee": 2019,
+  "objets": [
+    {
+      "cle": "5586/PE19-006",
+      "numero": "PE19/006",
+      "type": "Pétition",
+      "depose": "2019-12-10",
+      "titre": "Pour la sauvegarde intégrale de la campagne de Rovéréaz : renonçons à toute nouvelle construction sur ce site exceptionnel !",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-11-07"
+      },
+      "derniere_etape": "2023-11-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE19-001",
+      "numero": "PE19/001",
+      "type": "Pétition",
+      "depose": "2019-12-10",
+      "titre": "Pour une mobilité à taille humaine à Lausanne. Contre le trafic des véhicules individuels surdimensionnés",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT19-050",
+      "numero": "INT19/050",
+      "type": "Interpellation",
+      "depose": "2019-12-10",
+      "titre": "Municipalisation de la FASL : quelles visions de la municipalité ?",
+      "auteurs": [
+        {
+          "nom": "Denis Corboz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-02-04"
+      },
+      "derniere_etape": "2025-02-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-048",
+      "numero": "POS19/048",
+      "type": "Postulat",
+      "depose": "2019-11-19",
+      "titre": "Ne tirons pas sur l'ambulance (du SPSL...) !",
+      "auteurs": [
+        {
+          "nom": "Louis Dana",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-03-14"
+      },
+      "derniere_etape": "2023-03-14",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-043",
+      "numero": "POS19/043",
+      "type": "Postulat",
+      "depose": "2019-11-19",
+      "titre": "Rénovation et assainissement des bâtiments scolaires sous l'angle de l'efficience énergétique",
+      "auteurs": [
+        {
+          "nom": "Philipp Stauber",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-06-20"
+      },
+      "derniere_etape": "2023-06-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-042",
+      "numero": "POS19/042",
+      "type": "Postulat",
+      "depose": "2019-11-19",
+      "titre": "Financer la rénovation et l'assainissement des écoles sans alourdir ni les taxes, ni les impôts, ni le budget de fonctionnement",
+      "auteurs": [
+        {
+          "nom": "Fabrice Moscheni",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refusé/retiré",
+        "date": "2022-04-05"
+      },
+      "derniere_etape": "2022-04-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-031",
+      "numero": "POS19/031",
+      "type": "Postulat",
+      "depose": "2019-11-19",
+      "titre": "Lausanne, capitale du sport associatif",
+      "auteurs": [
+        {
+          "nom": "Diane Wild",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-03-22"
+      },
+      "derniere_etape": "2022-03-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-054",
+      "numero": "POS19/054",
+      "type": "Postulat",
+      "depose": "2019-11-05",
+      "titre": "Les trottoirs ne sont pas des parkings",
+      "auteurs": [
+        {
+          "nom": "Aude Billard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-12-12"
+      },
+      "derniere_etape": "2023-12-12",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-049",
+      "numero": "POS19/049",
+      "type": "Postulat",
+      "depose": "2019-11-05",
+      "titre": "Une Maison des associations : pour une meilleure prise en compte des associations à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Sophie Michaud Gigon",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-02-15"
+      },
+      "derniere_etape": "2022-02-15",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-008",
+      "numero": "POS19/008",
+      "type": "Postulat",
+      "depose": "2019-11-05",
+      "titre": "Offrons les étoiles aux Lausannois !",
+      "auteurs": [
+        {
+          "nom": "Graziella Schaller",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2022-05-10"
+      },
+      "derniere_etape": "2022-05-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE19-013",
+      "numero": "PE19/013",
+      "type": "Pétition",
+      "depose": "2019-11-05",
+      "titre": "Non à la construction d'une nouvelle antenne 5G dans une zone densément peuplée",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-05-30"
+      },
+      "derniere_etape": "2023-05-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT19-038",
+      "numero": "INT19/038",
+      "type": "Interpellation",
+      "depose": "2019-11-05",
+      "titre": "Sorties scolaires : pour sortir des doutes",
+      "auteurs": [
+        {
+          "nom": "Benoît Gaillard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-11-07"
+      },
+      "derniere_etape": "2023-11-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT19-037",
+      "numero": "INT19/037",
+      "type": "Interpellation",
+      "depose": "2019-11-05",
+      "titre": "Les SUV une plaie pour le climat et les villes...",
+      "auteurs": [
+        {
+          "nom": "Alain Hubler",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-09-13"
+      },
+      "derniere_etape": "2022-09-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-051",
+      "numero": "POS19/051",
+      "type": "Postulat",
+      "depose": "2019-10-08",
+      "titre": "La désaffectation des Halles CFF de Sébeillon : et la lutte contre les changements climatiques ?",
+      "auteurs": [
+        {
+          "nom": "Laura Manzoni",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-02-06"
+      },
+      "derniere_etape": "2024-02-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-050",
+      "numero": "POS19/050",
+      "type": "Postulat",
+      "depose": "2019-10-08",
+      "titre": "Ouvrons le Journal de la Ville de Lausanne à la pluralité des opinions",
+      "auteurs": [
+        {
+          "nom": "Fabrice Moscheni",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-02-07"
+      },
+      "derniere_etape": "2023-02-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT19-049",
+      "numero": "INT19/049",
+      "type": "Interpellation",
+      "depose": "2019-10-08",
+      "titre": "Quelle identité numérique pour nos enfants... dans 15 ans ?",
+      "auteurs": [
+        {
+          "nom": "Nicolas Tripet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-12-02"
+      },
+      "derniere_etape": "2025-12-02",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT19-044",
+      "numero": "INT19/044",
+      "type": "Interpellation",
+      "depose": "2019-10-08",
+      "titre": "Anne, ma soeur Anne où en sont les établissements de la ville ?",
+      "auteurs": [
+        {
+          "nom": "Matthieu Carrel",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée avec résolution",
+        "date": "2022-01-25"
+      },
+      "derniere_etape": "2022-01-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT19-041",
+      "numero": "INT19/041",
+      "type": "Interpellation",
+      "depose": "2019-10-08",
+      "titre": "Viol : comment les victimes sont-elles prises en charge ?",
+      "auteurs": [
+        {
+          "nom": "Céline Misiego",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-04-05"
+      },
+      "derniere_etape": "2022-04-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-047",
+      "numero": "POS19/047",
+      "type": "Postulat",
+      "depose": "2019-09-10",
+      "titre": "Evaluation des techniques de captage du carbone en vue d'une installation pilote à Lausanne, par exemple à l'usine de Tridel ou par Gaznat",
+      "auteurs": [
+        {
+          "nom": "Philipp Stauber",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-02-15"
+      },
+      "derniere_etape": "2022-02-15",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-046",
+      "numero": "POS19/046",
+      "type": "Postulat",
+      "depose": "2019-09-10",
+      "titre": "Un site internet pour favoriser la colocation pour les séniors",
+      "auteurs": [
+        {
+          "nom": "Graziella Schaller",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-03-22"
+      },
+      "derniere_etape": "2022-03-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-044",
+      "numero": "POS19/044",
+      "type": "Postulat",
+      "depose": "2019-08-27",
+      "titre": "De l'air pour les lausannois, de l'hydrogène pour leurs transports",
+      "auteurs": [
+        {
+          "nom": "Henri Klunge",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-10-01"
+      },
+      "derniere_etape": "2024-10-01",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-035",
+      "numero": "POS19/035",
+      "type": "Postulat",
+      "depose": "2019-08-27",
+      "titre": "Pour que les proches aidants ne soient pas prétérités par la Ville",
+      "auteurs": [
+        {
+          "nom": "Anita Messere",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-05-28"
+      },
+      "derniere_etape": "2024-05-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-037",
+      "numero": "POS19/037",
+      "type": "Postulat",
+      "depose": "2019-06-11",
+      "titre": "Le sel pour la cuisine, pas pour nos routes !",
+      "auteurs": [
+        {
+          "nom": "Henri Klunge",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-05-28"
+      },
+      "derniere_etape": "2024-05-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-001",
+      "numero": "POS19/001",
+      "type": "Postulat",
+      "depose": "2019-06-11",
+      "titre": "Pour une application intuitive et populaire pour se déplacer à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Anita Messere",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-05-28"
+      },
+      "derniere_etape": "2024-05-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-033",
+      "numero": "POS19/033",
+      "type": "Postulat",
+      "depose": "2019-05-21",
+      "titre": "Des gestes simples au quotidien pour petits et grands pour la préservation des espèces dans nos jardins, terrasses et balcons en ville",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-04-23"
+      },
+      "derniere_etape": "2024-04-23",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-032",
+      "numero": "POS19/032",
+      "type": "Postulat",
+      "depose": "2019-05-21",
+      "titre": "Pour la création d'un Fonds pour les établissements scolaires",
+      "auteurs": [
+        {
+          "nom": "Magali Crausaz Mottier",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2022-03-08"
+      },
+      "derniere_etape": "2022-03-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT19-025",
+      "numero": "INT19/025",
+      "type": "Interpellation",
+      "depose": "2019-05-21",
+      "titre": "Lausanne s'attaque à 3 addictions majeures chez les adolescents, mais oublie la cigarette électronique",
+      "auteurs": [
+        {
+          "nom": "Graziella Schaller",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-05-16"
+      },
+      "derniere_etape": "2023-05-16",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT19-022",
+      "numero": "INT19/022",
+      "type": "Interpellation",
+      "depose": "2019-05-21",
+      "titre": "Av. Druey 22-30 : après le jugement du Tribunal fédéral, quel avenir pour les locataires rescapés de sept ans de lutte pour leur logement et d'incertitude pour leur avenir ?",
+      "auteurs": [
+        {
+          "nom": "Benoît Gaillard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-08-29"
+      },
+      "derniere_etape": "2023-08-29",
+      "communes": []
+    },
+    {
+      "cle": "5586/PR19-001",
+      "numero": "PR19/001",
+      "type": "Projet de règlement",
+      "depose": "2019-05-07",
+      "titre": "Adapter les horaires des commerces à la société actuelle",
+      "auteurs": [
+        {
+          "nom": "Stéphane Wyssa",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refusé/retiré",
+        "date": "2022-03-22"
+      },
+      "derniere_etape": "2022-03-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-041",
+      "numero": "POS19/041",
+      "type": "Postulat",
+      "depose": "2019-05-07",
+      "titre": "De l'espace pour nos commerçants",
+      "auteurs": [
+        {
+          "nom": "Henri Klunge",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-02-15"
+      },
+      "derniere_etape": "2022-02-15",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-026",
+      "numero": "POS19/026",
+      "type": "Postulat",
+      "depose": "2019-05-07",
+      "titre": "Changer la ville pour préserver le climat : développer le solaire sur des infrastructures du territoire communal",
+      "auteurs": [
+        {
+          "nom": "Aude Billard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-06-07"
+      },
+      "derniere_etape": "2023-06-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-021",
+      "numero": "POS19/021",
+      "type": "Postulat",
+      "depose": "2019-05-07",
+      "titre": "Taxes et bureaucratie : simplifier la vie des commerçants",
+      "auteurs": [
+        {
+          "nom": "Nicolas Tripet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-12-10"
+      },
+      "derniere_etape": "2024-12-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-019",
+      "numero": "POS19/019",
+      "type": "Postulat",
+      "depose": "2019-05-07",
+      "titre": "Changer la ville pour préserver le climat : penser en réseau la fourniture de froid",
+      "auteurs": [
+        {
+          "nom": "Arnaud Thièry",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refus",
+        "date": "2023-06-07"
+      },
+      "derniere_etape": "2023-06-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT19-031",
+      "numero": "INT19/031",
+      "type": "Interpellation",
+      "depose": "2019-05-07",
+      "titre": "Pourquoi un tel taux record d'absentéisme pour cause de maladie à la Ville de Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-05-24"
+      },
+      "derniere_etape": "2022-05-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-013",
+      "numero": "POS19/013",
+      "type": "Postulat",
+      "depose": "2019-04-09",
+      "titre": "Des nuits sans trafic pour le bien de la santé des lausannoises et lausannois",
+      "auteurs": [
+        {
+          "nom": "David Raedler",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-05-28"
+      },
+      "derniere_etape": "2024-05-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-010",
+      "numero": "POS19/010",
+      "type": "Postulat",
+      "depose": "2019-04-09",
+      "titre": "Un accès libre à nos 'belles rives' pour toutes et tous",
+      "auteurs": [
+        {
+          "nom": "David Raedler",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-04-04"
+      },
+      "derniere_etape": "2023-04-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE19-011",
+      "numero": "PE19/011",
+      "type": "Pétition",
+      "depose": "2019-04-09",
+      "titre": "NON aux expulsions des habitants de 160 logements !",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-08-29"
+      },
+      "derniere_etape": "2023-08-29",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT19-026",
+      "numero": "INT19/026",
+      "type": "Interpellation",
+      "depose": "2019-04-09",
+      "titre": "Changer la ville pour préserver le climat",
+      "auteurs": [
+        {
+          "nom": "Anne-Françoise Decollogny",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-06-06"
+      },
+      "derniere_etape": "2023-06-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-006",
+      "numero": "POS19/006",
+      "type": "Postulat",
+      "depose": "2019-03-12",
+      "titre": "Pour des aménagements à la route de la Clochatte à Sauvabelin",
+      "auteurs": [
+        {
+          "nom": "Musa Kamenica",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2025-02-11"
+      },
+      "derniere_etape": "2025-02-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-005",
+      "numero": "POS19/005",
+      "type": "Postulat",
+      "depose": "2019-03-12",
+      "titre": "Un billet de bus pour tous les enfants !",
+      "auteurs": [
+        {
+          "nom": "Céline Misiego",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-01-11"
+      },
+      "derniere_etape": "2022-01-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-020",
+      "numero": "POS19/020",
+      "type": "Postulat",
+      "depose": "2019-03-09",
+      "titre": "Pour que les commerçant-e-s bénéficient d'une procédure administrative efficace",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-12-10"
+      },
+      "derniere_etape": "2024-12-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-027",
+      "numero": "POS19/027",
+      "type": "Postulat",
+      "depose": "2019-02-12",
+      "titre": "Favorisons des camps scolaires écologiques",
+      "auteurs": [
+        {
+          "nom": "Céline Misiego",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-03-17"
+      },
+      "derniere_etape": "2026-03-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-003",
+      "numero": "POS19/003",
+      "type": "Postulat",
+      "depose": "2019-02-12",
+      "titre": "Un 13e salaire pour tout le personnel auxiliaire et mensualisé de la Ville de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Laura Manzoni",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT19-020",
+      "numero": "INT19/020",
+      "type": "Interpellation",
+      "depose": "2019-02-12",
+      "titre": "osons les filets anti-suicides",
+      "auteurs": [
+        {
+          "nom": "Nicola Di Giulio",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE19-020",
+      "numero": "PE19/020",
+      "type": "Pétition",
+      "depose": "2019-01-29",
+      "titre": "Pétition visant à instaurer un délai de réponse légal pour les administrations ou les Conseillers Municipaux destinataire",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-11-22"
+      },
+      "derniere_etape": "2022-11-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE19-010",
+      "numero": "PE19/010",
+      "type": "Pétition",
+      "depose": "2019-01-29",
+      "titre": "Sauvons le restaurant Le Milan",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-03-14"
+      },
+      "derniere_etape": "2023-03-14",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS19-040",
+      "numero": "POS19/040",
+      "type": "Postulat",
+      "depose": "2019-01-15",
+      "titre": "Objectif 100%. Pour un plan d'investissement et de développement de l'accueil de jour des enfants à Lausanne en vue d'atteindre la couverture complète des besoins",
+      "auteurs": [
+        {
+          "nom": "Benoît Gaillard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-10-10"
+      },
+      "derniere_etape": "2023-10-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT19-006",
+      "numero": "INT19/006",
+      "type": "Interpellation",
+      "depose": "2019-01-15",
+      "titre": "Validons les chiffres iconoclastes du stagiaire-comptable Moscheni concernant le budget 2019",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-01-25"
+      },
+      "derniere_etape": "2022-01-25",
+      "communes": []
+    }
+  ]
+}

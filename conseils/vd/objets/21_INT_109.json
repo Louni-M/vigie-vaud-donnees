@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225596,
+  "numero": "21_INT_109",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2022-02-08"
+  },
+  "depose": "2021-09-07",
+  "titre": "Comment prévenir et éviter des drames lors de procédure de poursuite ?",
+  "contributeurs": [
+    {
+      "nom": "Muriel Cuendet Schmidt",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-09-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-09-14",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-12-15",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2022-02-08",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.vd.ch/themes/aides-financieres-et-soutien-social/dettes-et-surendettement/parlons-cash-dettes-et-surendettement/",
+      "date": "2021-09-14",
+      "lien": "https://www.vd.ch/themes/aides-financieres-et-soutien-social/dettes-et-surendettement/parlons-cash-dettes-et-surendettement/"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-09-14",
+      "lien": "https://www.sonomix.ch/live/gcvd/1915#3723"
+    },
+    {
+      "titre": "https://www.caritas-vaud.ch/nos-prestations/service-social/lutte-contre-le-surendettement",
+      "date": "2021-09-14",
+      "lien": "https://www.caritas-vaud.ch/nos-prestations/service-social/lutte-contre-le-surendettement"
+    },
+    {
+      "titre": "Mesures préventives pour éviter tout drame lors de procédures de poursuite",
+      "date": "2021-12-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2092573"
+    },
+    {
+      "titre": "https://csp.ch/vaud/services/questions-dargent/",
+      "date": "2021-09-14",
+      "lien": "https://csp.ch/vaud/services/questions-dargent/"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-02-08",
+      "lien": "http://www.sonomix.ch/live/gcvd/2054#2424"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/06f2f4e2-ceaf-4108-b524-32c4f810dabe/meeting/1004429",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    },
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5407,
+      "origine": "document"
+    }
+  ]
+}

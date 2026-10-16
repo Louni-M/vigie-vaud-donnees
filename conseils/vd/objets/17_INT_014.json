@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228588,
+  "numero": "17_INT_014",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2022-09-28"
+  },
+  "depose": "2017-08-29",
+  "titre": "Courriels des députés sommes-nous en sécurité ?",
+  "contributeurs": [
+    {
+      "nom": "Maurice Mischler",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Maurice Mischler",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-08-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-10-30",
+      "libelle": "Behandelt vom Parlament"
+    },
+    {
+      "date": "2022-09-28",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-05-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_INT_014_TexteCE.pdf"
+    },
+    {
+      "titre": "Courriels sécurisés pour les membres du Grand Conseil",
+      "date": "2022-09-28",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2137040"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-30-octobre-2018/reponse-du-conseil-detat-a-linterpellation-maurice-mischler-courriels-des-deputes-sommes-nous-en-securite",
+  "communes": []
+}

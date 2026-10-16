@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227599,
+  "numero": "24_INT_134",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-01-15"
+  },
+  "depose": "2024-09-10",
+  "titre": "Accueil collectif préscolaire - Où en est-on ?",
+  "contributeurs": [
+    {
+      "nom": "Cédric Weissert",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-09-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-09-17",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-01-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-05-06",
+      "lien": "https://www.sonomix.ch/live/gcvd/3114#2846"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-09-17",
+      "lien": "https://www.sonomix.ch/live/gcvd/2914#309"
+    },
+    {
+      "titre": "Accueil préscolaire à la journée",
+      "date": "2025-01-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2281731"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/93619778-014f-44be-b075-77622f147c4e/meeting/1026887",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5861,
+      "origine": "document"
+    },
+    {
+      "ofs": 5892,
+      "origine": "document"
+    },
+    {
+      "ofs": 5584,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5568,
+      "origine": "document"
+    }
+  ]
+}

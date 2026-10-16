@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222248,
+  "numero": "11_INT_519",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-12-20"
+  },
+  "depose": "2011-06-28",
+  "titre": "Les communes ne sont-elles plus dignes des honneurs du drapeau cantonal ?",
+  "contributeurs": [
+    {
+      "nom": "Pierre-Yves Rapaz",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-06-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-06-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-12-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-12-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_519_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-06-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_519_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-20-decembre-2011/reponse-du-conseil-detat-a-linterpellation-pierre-yves-rapaz-les-communes-ne-sont-elles-plus-dignes-des-honneurs-du-drapeau-cantonal",
+  "communes": [
+    {
+      "ofs": 5723,
+      "origine": "document"
+    }
+  ]
+}

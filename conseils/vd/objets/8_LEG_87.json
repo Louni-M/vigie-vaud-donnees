@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228453,
+  "numero": "8_LEG_87",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2008-09-23"
+  },
+  "depose": "2008-09-23",
+  "titre": "Exposé des motifs et projet de décret accordant à la Compagnie du Chemin de fer Lausanne - Echallens - Bercher une garantie de l'Etat de CHF 41'090'000.- pour l'acquisition de six rames",
+  "contributeurs": [
+    {
+      "nom": "Bertrand Clot",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Bertrand Clot",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-09-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-09-23",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-09-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_23_septembre_2008/87_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-09-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_23_septembre_2008/87_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-23-septembre-2008/expose-des-motifs-et-projet-de-decret-chemin-de-fer-lausanne-echallens-bercher",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5582,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    },
+    {
+      "ofs": 5512,
+      "origine": "document"
+    },
+    {
+      "ofs": 5584,
+      "origine": "document"
+    },
+    {
+      "ofs": 5521,
+      "origine": "document"
+    }
+  ]
+}

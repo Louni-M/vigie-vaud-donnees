@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225298,
+  "numero": "20_MOT_136",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2020-06-16"
+  },
+  "depose": "2020-03-10",
+  "titre": "Une taxe payée par les Vaudoises et les Vaudois, une utilisation clairement expliquée",
+  "contributeurs": [
+    {
+      "nom": "François Cardinaux",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-03-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-06-16",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Dépôt",
+      "date": "2020-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_MOT_136_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-16-juin-2020/motion-francois-cardinaux-et-consorts-une-taxe-payee-par-les-vaudoises-et-les-vaudois-une-utilisation-clairement-expliquee",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

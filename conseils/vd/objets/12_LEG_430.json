@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222704,
+  "numero": "12_LEG_430",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-01-10"
+  },
+  "depose": "2012-01-10",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 1'876'000.- pour financer les travaux de construction d'un giratoire sur la RC 780a, au droit du carrefour du Lombard sur la commune d'Ollon",
+  "contributeurs": [
+    {
+      "nom": "Philippe Grobéty",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Grobéty",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-01-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-01-10",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Décret adopté par le Grand Conseil le 10.01.12",
+      "date": "2012-01-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/430_Texte_FAO.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-01-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/430_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-01-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/430_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-10-janvier-2012/expose-des-motifs-et-projet-de-decret-construction-dun-giratoire-sur-la-rc-780a",
+  "communes": [
+    {
+      "ofs": 5409,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5405,
+      "origine": "document"
+    }
+  ]
+}

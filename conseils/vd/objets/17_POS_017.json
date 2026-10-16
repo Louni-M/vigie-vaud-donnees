@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224132,
+  "numero": "17_POS_017",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2023-04-05"
+  },
+  "depose": "2017-10-31",
+  "titre": "Blockchain : le web 3.0 peut changer les rapports entre l'administration et les administrés",
+  "contributeurs": [
+    {
+      "nom": "Maurice Neyroud",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Maurice Neyroud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-10-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-04-05",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_POS_017_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_POS_017_obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2020-11-03",
+      "lien": "https://www.sonomix.ch/live/gcvd/1620#9120"
+    },
+    {
+      "titre": "Usage de la blockchain par l'Etat de Vaud",
+      "date": "2023-04-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2171589"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5f2dedd6-7f72-4fc1-8ab4-3b34129921ce/meeting/1000533",
+  "communes": []
+}

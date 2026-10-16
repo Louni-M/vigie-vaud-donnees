@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227998,
+  "numero": "24_QUE_81",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-12-18"
+  },
+  "depose": "2024-11-12",
+  "titre": "Refuge pour jeunes LGBTIQ+ : où en est le projet ?",
+  "contributeurs": [
+    {
+      "nom": "Hadrien Buclin",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-11-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-12-18",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Refuge pour les jeunes LGBTIQ",
+      "date": "2024-12-18",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2278759"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/61bfbcaf-7698-4833-b754-0e2275a77bc3/meeting/1026865",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

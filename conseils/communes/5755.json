@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5755,
+  "objets": [
+    {
+      "cle": "vd/10_RAP_276",
+      "numero": "10_RAP_276",
+      "type": "Rapport",
+      "depose": "2010-06-08",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Daniel Mange et consorts pour la création d'une quatrième piste sur la bretelle semi-autoroute Ballaigues-Orbe",
+      "auteurs": [
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-06-08"
+      },
+      "derniere_etape": "2010-06-08",
+      "communes": [
+        {
+          "ofs": 5744,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5755,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

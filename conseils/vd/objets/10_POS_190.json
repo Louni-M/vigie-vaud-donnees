@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222121,
+  "numero": "10_POS_190",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2011-03-08"
+  },
+  "depose": "2010-05-18",
+  "titre": "La politique carcérale pour le canton",
+  "contributeurs": [
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-05-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-05-18",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-03-08",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-02-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_190_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-02-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_190_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-05-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_190_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-8-mars-2011/postulat-anne-papilloud-politique-carcerale-pour-le-canton",
+  "communes": []
+}

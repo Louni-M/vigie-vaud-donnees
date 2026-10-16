@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223222,
+  "numero": "14_INT_308",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-04-21"
+  },
+  "depose": "2014-11-18",
+  "titre": "Disparition des porcheries vaudoises = disparition de la saucisse aux choux IGP",
+  "contributeurs": [
+    {
+      "nom": "Pierre Guignard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierre Guignard",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-11-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-11-18",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-04-21",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_308_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-11-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_308_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-21-avril-2015/reponse-du-conseil-detat-a-linterpellation-pierre-guignard-disparition-des-porcheries-vaudoises-disparition-de-la-saucisse-aux-choux-igp",
+  "communes": []
+}

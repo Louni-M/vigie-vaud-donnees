@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228000,
+  "numero": "24_QUE_83",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-01-15"
+  },
+  "depose": "2024-11-19",
+  "titre": "Le frelon asiatique, cantonal ou communal?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Rémy Chevalley",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-11-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-01-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Lutte contre le frelon asiatique",
+      "date": "2025-01-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2281758"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/247dd206-6b5a-4be0-9924-ab7992bfacea/meeting/1026866",
+  "communes": []
+}

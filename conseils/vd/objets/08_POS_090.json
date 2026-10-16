@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221530,
+  "numero": "08_POS_090",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2009-03-10"
+  },
+  "depose": "2008-10-28",
+  "titre": "Intitulé Vous chantiez j'en suis fort aise",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-10-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-10-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2009-03-10",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2008-10-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_28_octobre_2008/08_POS_090_Objet.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_POS_090_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/08_POS_090_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-10-mars-2009/postulat-anne-papilloud",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

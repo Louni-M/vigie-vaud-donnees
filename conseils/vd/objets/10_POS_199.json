@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222131,
+  "numero": "10_POS_199",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2011-09-20"
+  },
+  "depose": "2010-06-22",
+  "titre": "Demandant la définition d'une vision de développement du noeud intermodal centré autour de la gare ferroviaire de Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Stéphanie Apothéloz",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Stéphanie Apothéloz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-06-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-08-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-09-20",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_199_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_199_Objet_et_dev_01.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-06-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_199_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-06-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_199_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-20-septembre-2011/postulat-michele-mossi-demandant-la-definition-dune-vision-de-developpement-du-noeud-intermodal-centre-autour-de-la-gare-ferroviaire-de-lausanne",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5723,
+      "origine": "document"
+    }
+  ]
+}

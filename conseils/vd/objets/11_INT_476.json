@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222210,
+  "numero": "11_INT_476",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-05-10"
+  },
+  "depose": "2011-01-18",
+  "titre": "Caisse cantonale d'allocations familiales - Que se passe-t-il?",
+  "contributeurs": [
+    {
+      "nom": "François Payot",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "François Payot",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-01-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-01-18",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-05-10",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-05-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_476_Texte_CE.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2011-01-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_476_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-10-mai-2011/reponse-du-conseil-detat-a-linterpellation-francois-payot-caisse-cantonale-dallocations-familiales-que-se-passe-t-il",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5561,
+      "origine": "document"
+    }
+  ]
+}

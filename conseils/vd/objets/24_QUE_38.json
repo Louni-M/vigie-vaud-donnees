@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227949,
+  "numero": "24_QUE_38",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-06-12"
+  },
+  "depose": "2024-05-07",
+  "titre": "Conséquences des budgets systématiquement déficitaires de la Ville de Lausanne ?",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-05-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-06-12",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Conséquences en cas de budget communal déficitaire",
+      "date": "2024-06-12",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2244382"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e67abdab-97da-4658-9d9e-303c18ffd3a4/meeting/1019568",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

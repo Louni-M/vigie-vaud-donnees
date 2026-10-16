@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225129,
+  "numero": "20_INT_31",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-12-15"
+  },
+  "depose": "2020-10-06",
+  "titre": "CFF et ligne du Simplon dans le Chablais : les Vaudois ne veulent pas manquer le train !",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Croci Torti",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-10-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-10-27",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-12-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Ligne ferroviaire du Simplon dans le Chablais",
+      "date": "2021-12-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2092526"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/957b6915-4a77-44d7-994d-31a18d03d272/meeting/1004428",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5413,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5407,
+      "origine": "document"
+    },
+    {
+      "ofs": 5409,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5405,
+      "origine": "document"
+    }
+  ]
+}

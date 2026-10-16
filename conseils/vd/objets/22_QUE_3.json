@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226725,
+  "numero": "22_QUE_3",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-06-08"
+  },
+  "depose": "2022-01-18",
+  "titre": "ZAD partout même à l’Université ?",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Berthoud",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-01-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-06-08",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.24heures.ch/une-amende-de-pur-principe-pour-du-charbon-deverse-a-lubs-892139140082",
+      "date": "2022-01-18",
+      "lien": "https://www.24heures.ch/une-amende-de-pur-principe-pour-du-charbon-deverse-a-lubs-892139140082"
+    },
+    {
+      "titre": "Libertés académique et expression des professeures et professeurs de l’UNIL",
+      "date": "2022-06-01",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2120220"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/88d9a2bd-8487-48fd-a58b-d47cc5b08385/meeting/1004427",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227635,
+  "numero": "24_INT_165",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2025-05-21"
+  },
+  "depose": "2024-11-19",
+  "titre": "Lorsque le délai d’attente de nomination d’un curateur privé ou d'une curatrice privée pousse les demandeurs aux poursuites",
+  "contributeurs": [
+    {
+      "nom": "Isabelle Freymond",
+      "parti": "IND",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-11-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-11-26",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-05-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-05-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-11-26",
+      "lien": "https://www.sonomix.ch/live/gcvd/2962#523"
+    },
+    {
+      "titre": "Délai de nomination des curateurs",
+      "date": "2025-05-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2304521"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/31315595-34dc-42e6-a1e5-9609e51a761a/meeting/1026867",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

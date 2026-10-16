@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227488,
+  "numero": "24_HQU_43",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2024-04-23"
+  },
+  "depose": "2024-04-16",
+  "titre": "Pour le Conseil d'Etat soutient une piscine privée à Leysin ?",
+  "contributeurs": [
+    {
+      "nom": "Alice Genoud",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-04-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-04-23",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/994c2d86-ed92-411a-bfb5-55c59cd3565e/meeting/1019566",
+  "communes": [
+    {
+      "ofs": 5407,
+      "origine": "titre"
+    }
+  ]
+}

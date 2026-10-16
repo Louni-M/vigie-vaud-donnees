@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223072,
+  "numero": "13_POS_044",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2014-09-09"
+  },
+  "depose": "2013-10-29",
+  "titre": "Des places de parc pour des cars dans le secteur du P-R de Vennes",
+  "contributeurs": [
+    {
+      "nom": "José Durussel",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "José Durussel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-10-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-11-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-09-09",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-09-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_044_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-09-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_044_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_044_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-9-septembre-2014/postulat-jean-francois-cachin-et-consorts-des-places-de-parc-pour-des-cars-dans-le-secteur-du-p-r-de-vennes",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5584,
+      "origine": "document"
+    }
+  ]
+}

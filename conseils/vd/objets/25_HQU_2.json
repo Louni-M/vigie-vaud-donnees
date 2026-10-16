@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228060,
+  "numero": "25_HQU_2",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2025-01-21"
+  },
+  "depose": "2025-01-14",
+  "titre": "Hébergement d’urgence : comment intégrer les recommandations de l'étude d'évaluation du dispositif?",
+  "contributeurs": [
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-01-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-01-21",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Forum du sans-abrisme",
+      "date": "2025-01-14",
+      "lien": "https://www.hetsl.ch/evenements/detail/evenement/forum-du-sans-abrisme"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f075fad3-307a-47c0-8ff6-ded862bd91be/meeting/1026875",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5715,
+  "objets": [
+    {
+      "cle": "vd/21_INT_139",
+      "numero": "21_INT_139",
+      "type": "Interpellation",
+      "depose": "2021-11-02",
+      "titre": "Chaos sur l'Autoroute - tout le monde est KO",
+      "auteurs": [
+        {
+          "nom": "Guy Gaudard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-02-16"
+      },
+      "derniere_etape": "2022-02-16",
+      "communes": [
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5715,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_204",
+      "numero": "9_LEG_204",
+      "type": "Décret/Loi",
+      "depose": "2009-12-15",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 1'800'000.- pour la réhabilitation de la RC 29 entre La Condémine et Le Martinet, sur le territoire des communes de Coinsins et de Genolier",
+      "auteurs": [
+        {
+          "nom": "Bertrand Clot",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Bertrand Clot",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2009-12-15"
+      },
+      "derniere_etape": "2009-12-15",
+      "communes": [
+        {
+          "ofs": 5710,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5718,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5715,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

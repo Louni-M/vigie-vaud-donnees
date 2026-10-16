@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227669,
+  "numero": "24_INT_3",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-09-16"
+  },
+  "depose": "2024-01-16",
+  "titre": "Eracom, école en souffrance?",
+  "contributeurs": [
+    {
+      "nom": "Vincent Jaques",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-01-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-01-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-09-18",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-09-16",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-09-16",
+      "lien": "https://www.sonomix.ch/live/gcvd/3205#3584"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-01-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/2707#575"
+    },
+    {
+      "titre": "Un plan d'action qui déploie ses effets à l'ERACOM",
+      "date": "2024-09-18",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2259795"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/b28abacd-4658-477c-b0ff-d88747fcc6b0/meeting/1029636",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

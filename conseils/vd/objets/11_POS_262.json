@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222534,
+  "numero": "11_POS_262",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2012-09-25"
+  },
+  "depose": "2011-11-01",
+  "titre": "Demandant quel développement économique est nécessaire pour répondre au taux de chômage du canton",
+  "contributeurs": [
+    {
+      "nom": "Gloria Capt",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Gloria Capt",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-11-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-09-25",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-06-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_262_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement ",
+      "date": "2012-06-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_262_Obj_et_d%C3%A9v.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-11-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_262_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-25-septembre-2012/postulat-claude-eric-dufour-demandant-quel-developpement-economique-est-necessaire-pour-repondre-au-taux-de-chomage-du-canton",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

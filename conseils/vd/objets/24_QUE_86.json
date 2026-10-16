@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228003,
+  "numero": "24_QUE_86",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-01-15"
+  },
+  "depose": "2024-11-19",
+  "titre": "Le périmètre de l’appel d’offre pour le dossier patient informatisé questionne",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-11-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-01-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Création d’un système vaudois d’information médicale uniformisé pour remplacer le Dossier patient informatisé actuel",
+      "date": "2025-01-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2282040"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/156c5fbd-02ba-4d41-bff2-b3869f8da995/meeting/1026866",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

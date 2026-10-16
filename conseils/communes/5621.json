@@ -1,0 +1,958 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5621,
+  "objets": [
+    {
+      "cle": "vd/23_INT_183",
+      "numero": "23_INT_183",
+      "type": "Interpellation",
+      "depose": "2023-12-05",
+      "titre": "Y en a point comme nos fruits !",
+      "auteurs": [
+        {
+          "nom": "Alberto Mocchi",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-08-19"
+      },
+      "derniere_etape": "2025-08-19",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5817,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5732,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_140",
+      "numero": "23_INT_140",
+      "type": "Interpellation",
+      "depose": "2023-08-29",
+      "titre": "Gens du voyage étrangers, afflux massif",
+      "auteurs": [
+        {
+          "nom": "Stéphane Jordan",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-05-29"
+      },
+      "derniere_etape": "2024-05-29",
+      "communes": [
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_12",
+      "numero": "21_LEG_12",
+      "type": "Décret/Loi",
+      "depose": "2023-01-31",
+      "titre": "EMPL Révision totale de la loi du 1 novembre 2005 sur la taxe des véhicules automobiles et des bateaux (LTVB)",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2023-01-31"
+      },
+      "derniere_etape": "2023-01-31",
+      "communes": [
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_POS_028",
+      "numero": "18_POS_028",
+      "type": "Postulat",
+      "depose": "2018-01-16",
+      "titre": "Il faut sauver le génie ferroviaire vaudois",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": null
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-10-30"
+      },
+      "derniere_etape": "2018-10-30",
+      "communes": [
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_MOT_079",
+      "numero": "16_MOT_079",
+      "type": "Motion",
+      "depose": "2016-03-01",
+      "titre": "N'enterrons pas les fouilles",
+      "auteurs": [
+        {
+          "nom": "Maurice Treboux",
+          "parti": null
+        },
+        {
+          "nom": "Maurice Treboux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-10-11"
+      },
+      "derniere_etape": "2016-10-11",
+      "communes": [
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_RAP_297",
+      "numero": "16_RAP_297",
+      "type": "Rapport",
+      "depose": "2016-06-07",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur les opérations effectuées du 1er janvier 2014 au 31 décembre 2015 par le Fonds pour l'acquisition de droits réels et d'immeubles de réserve (FAIR), selon décret du 12 septembre 1994, modifié le 4 septembre 2007",
+      "auteurs": [
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-06-07"
+      },
+      "derniere_etape": "2016-06-07",
+      "communes": [
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_507",
+      "numero": "16_INT_507",
+      "type": "Interpellation",
+      "depose": "2016-05-10",
+      "titre": "Nestlé un véritable fleuron de l'économie vaudoise",
+      "auteurs": [
+        {
+          "nom": "Alain Bovay",
+          "parti": null
+        },
+        {
+          "nom": "Alain Bovay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2016-05-10"
+      },
+      "derniere_etape": "2016-05-10",
+      "communes": [
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5819,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5588,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_396",
+      "numero": "15_INT_396",
+      "type": "Interpellation",
+      "depose": "2015-06-09",
+      "titre": "Curieux exemple de concentration en périphérie !",
+      "auteurs": [
+        {
+          "nom": "Martial De Montmollin",
+          "parti": null
+        },
+        {
+          "nom": "Martial De Montmollin",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-04-26"
+      },
+      "derniere_etape": "2016-04-26",
+      "communes": [
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_431",
+      "numero": "15_INT_431",
+      "type": "Interpellation",
+      "depose": "2015-09-22",
+      "titre": "Sous les camions, notre histoire",
+      "auteurs": [
+        {
+          "nom": "Martial De Montmollin",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-02-09"
+      },
+      "derniere_etape": "2016-02-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_LEG_123",
+      "numero": "14_LEG_123",
+      "type": "Décret/Loi",
+      "depose": "2014-04-29",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 4'400'000.- pour financer les travaux de réhabilitation de la route cantonale 151 entre le Moulin-du-Choc et Aclens sur le territoire de la commune d'Aclens",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2014-04-29"
+      },
+      "derniere_etape": "2014-04-29",
+      "communes": [
+        {
+          "ofs": 5621,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_124",
+      "numero": "13_INT_124",
+      "type": "Interpellation",
+      "depose": "2013-04-30",
+      "titre": "Le Conseil d'Etat a-t-il des projets pour rendre plus fluide le trafic entre Cossonay-Gare et Cossonay-Ville ?",
+      "auteurs": [
+        {
+          "nom": "François Brélaz",
+          "parti": null
+        },
+        {
+          "nom": "François Brélaz",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-10-08"
+      },
+      "derniere_etape": "2013-10-08",
+      "communes": [
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5486,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_547",
+      "numero": "11_INT_547",
+      "type": "Interpellation",
+      "depose": "2011-10-11",
+      "titre": "Sous-traitance, sous-sous-traitance, travailleurs détachés: les moyens mis en oeuvre par le Conseil d'Etat sont-ils à la hauteur des très très graves abus constatés ?",
+      "auteurs": [
+        {
+          "nom": "Jean-Michel Dolivo",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-04-03"
+      },
+      "derniere_etape": "2012-04-03",
+      "communes": [
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_413",
+      "numero": "12_LEG_413",
+      "type": "Décret/Loi",
+      "depose": "2012-01-17",
+      "titre": "Exposé des motifs et projet de loi modifiant la loi du 10 décembre 1991 sur les routes",
+      "auteurs": [
+        {
+          "nom": "Philippe Grobéty",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Philippe Grobéty",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-02-07"
+      },
+      "derniere_etape": "2012-02-07",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5496,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_492",
+      "numero": "11_INT_492",
+      "type": "Interpellation",
+      "depose": "2011-11-08",
+      "titre": "La problématique de la compensation des Surfaces d'assolement (SDA)",
+      "auteurs": [
+        {
+          "nom": "Régis Courdesse",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-11-15"
+      },
+      "derniere_etape": "2011-11-15",
+      "communes": [
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5496,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_546",
+      "numero": "11_INT_546",
+      "type": "Interpellation",
+      "depose": "2011-10-11",
+      "titre": "Le Conseil d'Etat compte-t-il intensifier sa fermeté face au travail au noir et à la sous-enchère salariale ?",
+      "auteurs": [
+        {
+          "nom": "Jean Christophe Schwaab",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2011-10-11"
+      },
+      "derniere_etape": "2011-10-11",
+      "communes": [
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_364",
+      "numero": "10_INT_364",
+      "type": "Interpellation",
+      "depose": "2011-01-25",
+      "titre": "L'avenir de la filière de la biométhanisation",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-01-25"
+      },
+      "derniere_etape": "2011-01-25",
+      "communes": [
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5581,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_280",
+      "numero": "10_LEG_280",
+      "type": "Décret/Loi",
+      "depose": "2010-09-21",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'étude n° 2 de CHF 4'950'000.- pour financer les études complémentaires en vue de la construction de la nouvelle route de liaison RC 177 entre le pôle de développement de Vufflens-la-Ville/Aclens et la jonction autoroutière de Cossonay sur les communes d'Aclens, Vufflens-la-Ville et PenthazetRéponse du Conseil d'Etat à l'interpellation André Marendaz concernant le projet de la route de liaison entre le pôle de développement Aclens-Vufflens-la-Ville et la jonction autoroutière de Cossonay, RC 177",
+      "auteurs": [
+        {
+          "nom": "Philippe Ducommun",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Ducommun",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-05"
+      },
+      "derniere_etape": "2010-10-05",
+      "communes": [
+        {
+          "ofs": 5503,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5621,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5477,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5496,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5484,
+          "origine": "document"
+        },
+        {
+          "ofs": 5464,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_221",
+      "numero": "9_LEG_221",
+      "type": "Décret/Loi",
+      "depose": "2009-11-17",
+      "titre": "Exposé des motifs et projet de décret autorisant le Conseil d'Etat à vendre, dans le cadre de l'assainissement du parc immobilier de l'Etat de Vaud, deux biens-fonds portant les numéros de parcelle 907 sur la Commune de Prilly et 2102 sur la Commune de Bussigny-près-Lausanne, pour un montant total de CHF 3'340'000.-",
+      "auteurs": [
+        {
+          "nom": "Rémy Pache",
+          "parti": null
+        },
+        {
+          "nom": "Rémy Pache",
+          "parti": "LIB"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-11-17"
+      },
+      "derniere_etape": "2009-11-17",
+      "communes": [
+        {
+          "ofs": 5589,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5624,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5471,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_209",
+      "numero": "09_INT_209",
+      "type": "Interpellation",
+      "depose": "2009-10-06",
+      "titre": "Les réponses divergentes entre le Département des Infrastructures et la Confédération au sujet de la jonction d'Ecublens",
+      "auteurs": [
+        {
+          "nom": "Claudine Wyssa",
+          "parti": null
+        },
+        {
+          "nom": "Claudine Wyssa",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-10-27"
+      },
+      "derniere_etape": "2009-10-27",
+      "communes": [
+        {
+          "ofs": 5635,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/8_LEG_107",
+      "numero": "8_LEG_107",
+      "type": "Décret/Loi",
+      "depose": "2008-11-18",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 3'520'000. - pour le renforcement du pont de la Chocolatière sur la RC 151b sur la commune de Bussigny",
+      "auteurs": [
+        {
+          "nom": "Michel Miéville",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Michel Miéville",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2008-11-18"
+      },
+      "derniere_etape": "2008-11-18",
+      "communes": [
+        {
+          "ofs": 5624,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

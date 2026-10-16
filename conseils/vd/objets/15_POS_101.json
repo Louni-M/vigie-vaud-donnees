@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223513,
+  "numero": "15_POS_101",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2019-02-13"
+  },
+  "depose": "2015-01-27",
+  "titre": "Le verre à moitié plein ou à moitié vide ? DECS,",
+  "contributeurs": [
+    {
+      "nom": "Denis-Olivier Maillefer",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Denis-Olivier Maillefer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-01-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-02-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-06-16",
+      "libelle": "Zurückgezogen"
+    },
+    {
+      "date": "2019-02-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_101_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2015-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_101_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_101_D%C3%A9p%C3%B4t.pdf"
+    },
+    {
+      "titre": "Restrictions d'horaires de vente d'alcool: diminution des hospitalisations pour intoxication éthylique",
+      "date": "2019-01-23",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=360714"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-16-juin-2015/postulat-martial-de-montmollin-et-consorts-le-verre-a-moitie-plein-ou-a-moitie-vide",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

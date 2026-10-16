@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227600,
+  "numero": "24_INT_135",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-09-09"
+  },
+  "depose": "2024-09-10",
+  "titre": "Sécurité et responsabilités sur le chemin de l’école",
+  "contributeurs": [
+    {
+      "nom": "Jerome De Benedictis",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-09-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-09-17",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-03-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-03-19",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-09-09",
+      "lien": "https://www.sonomix.ch/live/gcvd/3202#6250"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-09-17",
+      "lien": "https://www.sonomix.ch/live/gcvd/2914#859"
+    },
+    {
+      "titre": "Sécurité et responsabilités sur le chemin de l'école",
+      "date": "2025-03-19",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2293584"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6e1ebbf0-165e-4017-9f6f-592a505c4051/meeting/1029635",
+  "communes": [
+    {
+      "ofs": 5643,
+      "origine": "document"
+    },
+    {
+      "ofs": 5633,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

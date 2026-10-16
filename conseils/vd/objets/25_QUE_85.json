@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 253679,
+  "numero": "25_QUE_85",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Traktandiert",
+    "date": "2025-09-23"
+  },
+  "depose": "2025-09-23",
+  "titre": "Flottille pour Gaza: quel risque pour le Canton de Vaud?",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-09-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-09-23",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://waves-of-freedom.ch/fr/equipage-wofa/",
+      "date": "2025-09-23",
+      "lien": "https://waves-of-freedom.ch/fr/equipage-wofa/"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6ae1e14d-bca8-4255-af79-64ab164147ed/meeting/1029637",
+  "communes": [
+    {
+      "ofs": 5806,
+      "origine": "document"
+    }
+  ]
+}

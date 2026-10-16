@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222602,
+  "numero": "11_RES_048",
+  "type": "Résolution",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2011-06-28"
+  },
+  "depose": "2011-06-28",
+  "titre": "Lausanne (via Vallorbe) - Milan",
+  "contributeurs": [
+    {
+      "nom": "Denis-Olivier Maillefer",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-06-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-06-28",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2011-06-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_RES_048_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-28-juin-2011/resolution-denis-olivier-maillefer-declassement-de-la-ligne-paris-lausanne-via-vallorbe-milan",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5764,
+      "origine": "titre"
+    }
+  ]
+}

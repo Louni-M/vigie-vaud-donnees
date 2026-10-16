@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228629,
+  "numero": "17_INT_058",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2022-05-25"
+  },
+  "depose": "2017-11-14",
+  "titre": "Transports scolaires : les Communes doivent toujours passer à la caisse ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marc Genton",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Marc Genton",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-11-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-11-13",
+      "libelle": "Behandelt vom Parlament"
+    },
+    {
+      "date": "2022-05-25",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-10-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_INT_058_TexteCE.pdf"
+    },
+    {
+      "titre": "Le transport scolaire répond à des obligations légales",
+      "date": "2022-05-25",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2118037"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-13-novembre-2018/reponse-du-conseil-detat-a-linterpellation-jean-marc-genton-et-consorts-transports-scolaires-les-communes-doivent-toujours-passer-a-la-caisse",
+  "communes": [
+    {
+      "ofs": 5604,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5584,
+      "origine": "document"
+    }
+  ]
+}

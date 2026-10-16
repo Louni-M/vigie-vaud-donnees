@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223263,
+  "numero": "14_LEG_125",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-04-08"
+  },
+  "depose": "2014-04-01",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 5'430'000.- pour financer les travaux de réhabilitation de la route cantonale 639 entre Mollie-Margot et le giratoire des Deux-Ponts sur leterritoire des communes de Savigny et Forel (Lavaux)",
+  "contributeurs": [
+    {
+      "nom": "Philippe Modoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Modoux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-04-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-04-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-04-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/125_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-04-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/125_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-8-avril-2014/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-douvrage-de-chf-5430000-pour-financer-les-travaux-de-rehabilitation-de-la-route-cantonale-639-entre-mollie-margot-et-le-giratoire-des-deux-ponts",
+  "communes": [
+    {
+      "ofs": 5611,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5604,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

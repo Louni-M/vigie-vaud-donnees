@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223615,
+  "numero": "15_MOT_070",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2016-08-30"
+  },
+  "depose": "2015-09-01",
+  "titre": "Pour une correction du tarif des émoluments des notaires",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Berthoud",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alexandre Berthoud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-09-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-08-30",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2016-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_070_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2016-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_070_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_070_Obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_070_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-30-aout-2016/motion-jessica-jaccoud-et-consorts-pour-une-correction-du-tarif-des-emoluments-des-notaires-1",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

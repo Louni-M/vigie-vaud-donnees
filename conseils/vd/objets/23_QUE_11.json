@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227302,
+  "numero": "23_QUE_11",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-04-05"
+  },
+  "depose": "2023-02-28",
+  "titre": "Coûts de la santé et modèle swiss DRG- les estimations du Conseil d'Etat sont elles expertisées?",
+  "contributeurs": [
+    {
+      "nom": "Marc-Olivier Buffat",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-02-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-04-05",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Modèle de financement des hospitalisations par forfaits DRG",
+      "date": "2023-04-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2170144"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5c1b0f54-5baf-495b-a7df-78aad62cc8fb/meeting/1013635",
+  "communes": []
+}

@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222075,
+  "numero": "10_MOT_112",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2011-03-29"
+  },
+  "depose": "2010-09-07",
+  "titre": "Demandant l'harmonisation de la loi vaudoise sur la fumée avec les pratiques des autres cantons romands permettant aux casinos les mêmes aménagements pragmatiques que ceux consentis dans les cantons de Fribourg, Jura, Genève, Valais ainsi que dans celui de Berne",
+  "contributeurs": [
+    {
+      "nom": "Frédéric Haenni",
+      "parti": "RAD",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Frédéric Haenni",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Stéphanie Apothéloz",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-09-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-09-21",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-03-29",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2011-02-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_112_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2011-02-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_112_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-02-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_112_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2010-09-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_112_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-29-mars-2011/motion-frederic-haenni-demande-lharmonisation-de-la-loi-vaudoise-sur-la-fumee",
+  "communes": [
+    {
+      "ofs": 5886,
+      "origine": "document"
+    }
+  ]
+}

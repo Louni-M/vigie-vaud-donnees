@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222707,
+  "numero": "12_LEG_433",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-03-13"
+  },
+  "depose": "2012-03-06",
+  "titre": "Exposé des motifs et projets de décrets accordant au Conseil d'Etat :- un crédit-cadre de CHF 2'517'700.- destiné à financer l'assainissement d'anciennes décharges communales, de sites contaminés orphelins, de sites contaminés du canton ou dont la responsabilité lui incombe, et les opérations destinées à prévenir, limiter ou supprimer une pollution ;- un crédit de CHF 1'419'000.- destiné à financer la deuxième phase d'assainissement de la décharge des Saviez sur le territoire de la Commune de Noville",
+  "contributeurs": [
+    {
+      "nom": "Claude Schwab",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-03-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-03-13",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-03-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/433_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport  de la commission",
+      "date": "2012-03-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/433_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-13-mars-2012/expose-des-motifs-et-projet-de-decrets-accordant-au-conseil-detat-un-credit-cadre-de-2517700-pour-lassainissement-dancienne-decharge-et-un-credit-de-1419000-destine-a-financer-la-deuxieme-phase-dassainissement-de-la-decharge-de-saviez",
+  "communes": [
+    {
+      "ofs": 5408,
+      "origine": "titre"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224715,
+  "numero": "19_INT_398",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-06-23"
+  },
+  "depose": "2019-10-01",
+  "titre": "La garde alternée est-elle devenue réalité dans le Canton de Vaud ? DIT",
+  "contributeurs": [
+    {
+      "nom": "Axel Marion",
+      "parti": "AdC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-10-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-10-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-03-25",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-06-23",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Eta",
+      "date": "2020-06-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_398_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-10-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_398_depot.pdf"
+    },
+    {
+      "titre": "Mise en oeuvre de la garde alternée",
+      "date": "2020-03-25",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=397497"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-23-juin-2020/reponse-du-conseil-detat-a-linterpellation-axel-marion-et-consorts-la-garde-alternee-est-elle-devenue-realite-dans-le-canton-de-vaud",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

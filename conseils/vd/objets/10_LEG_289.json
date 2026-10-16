@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222020,
+  "numero": "10_LEG_289",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-06-22"
+  },
+  "depose": "2010-06-15",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit de CHF 14'099'700.- destiné à financer les bases de la cyberfiscalité de l'Administration Cantonale des impôts (ACI)",
+  "contributeurs": [
+    {
+      "nom": "Jacques Ansermet",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jacques Ansermet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-06-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-06-22",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-06-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/289_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-06-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/289_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 22.06.10",
+      "date": "2010-06-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/289_Decret.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-22-juin-2010/expose-des-motifs-et-projet-de-decret-financement-des-bases-de-la-cyberfiscalite-de-ladministration-cantonale-des-impots-aci",
+  "communes": [
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    }
+  ]
+}

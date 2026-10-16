@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223094,
+  "numero": "13_RAP_56",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-11-05"
+  },
+  "depose": "2013-11-05",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Catherine Labouchère intitulé Travail précédant l'aide sociale, une mesure adéquate pour notre canton",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-11-05",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/56_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/56_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-5-novembre-2013/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-catherine-labouchere-intitule-travail-precedant-laide-sociale-une-mesure-adequate-pour-notre-canton",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

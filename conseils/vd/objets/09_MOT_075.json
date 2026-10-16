@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221694,
+  "numero": "09_MOT_075",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2010-03-23"
+  },
+  "depose": "2009-06-16",
+  "titre": "Motion Jean-Marc Sordet au nom du groupe UDC intitulé Rétablissons l'équité et ne discriminons pas davantage devant l'impôt, les familles qui font le choix de garder et d'éduquer leurs enfants à la maison",
+  "contributeurs": [
+    {
+      "nom": "Valérie Schwaar",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Valérie Schwaar",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-06-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-06-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-03-23",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_075_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2009-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_075_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_075_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-23-mars-2010/motion-jean-marc-sordet",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    }
+  ]
+}

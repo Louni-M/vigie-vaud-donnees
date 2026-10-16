@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224237,
+  "numero": "18_INT_150",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-02-12"
+  },
+  "depose": "2018-04-17",
+  "titre": "JO de la jeunesse 2020 : Champion(s) de l'organisation ?",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-04-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-04-17",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-02-12",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-02-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_150_TexteCE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-04-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_150_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-12-fevrier-2019/reponse-du-conseil-detat-a-linterpellation-nicolas-rochat-fernandez-et-consorts-jo-de-la-jeunesse-2020-champions-de-lorganisation",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5872,
+      "origine": "document"
+    },
+    {
+      "ofs": 5407,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

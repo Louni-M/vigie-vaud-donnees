@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224120,
+  "numero": "17_PET_072",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2019-11-26"
+  },
+  "depose": "2017-06-20",
+  "titre": "Pétition pour un prix du lait payé un franc le litre aux producteurs vaudois de lait",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2017-06-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-08-27",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-11-26",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport complémentaire de la commission",
+      "date": "2019-11-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_PET_072_RC_compl.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-05-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_PET_072_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-05-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/17_PET_072_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-26-novembre-2019/petition-pour-un-prix-du-lait-paye-un-franc-le-litre-aux-producteurs-vaudois-de-lait",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5587,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 176383,
+  "numero": "18_INT_168",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-03-10"
+  },
+  "depose": "2018-04-24",
+  "titre": "Pour un soutien du Conseil d'Etat à la création d'une halte CFF au Parc Scientifique et Technologique d'Yverdon-les-Bains (Y-Parc)",
+  "contributeurs": [
+    {
+      "nom": "Jean-Daniel Carrard",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Daniel Carrard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-04-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-03-03",
+      "libelle": "Behandelt vom Parlament"
+    },
+    {
+      "date": "2020-03-10",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_168_TexteCE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-10-mars-2020/reponse-du-conseil-detat-a-linterpellation-jean-daniel-carrard-et-consorts-pour-un-soutien-du-conseil-detat-a-la-creation-dune-halte-cff-au-parc-scientifique-et-technologique-dyverdon-les-bains-y-parc",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

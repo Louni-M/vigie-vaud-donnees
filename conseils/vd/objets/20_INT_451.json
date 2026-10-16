@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225164,
+  "numero": "20_INT_451",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-08-18"
+  },
+  "depose": "2020-02-25",
+  "titre": "Le gymnase du soir restera-t-il accessible aux personnes exerçant une activité durant la journée ?",
+  "contributeurs": [
+    {
+      "nom": "Hadrien Buclin",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-02-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-03-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-08-18",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_451_depot.pdf"
+    },
+    {
+      "titre": "Formation postobligatoire des adultes",
+      "date": "2021-08-18",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2070308"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f8991118-9755-447a-a4db-f09ed4c349a5/meeting/1004422",
+  "communes": [
+    {
+      "ofs": 5590,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5566,
+      "origine": "document"
+    }
+  ]
+}

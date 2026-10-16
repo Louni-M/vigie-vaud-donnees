@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5720,
+  "objets": [
+    {
+      "cle": "vd/08_RES_006",
+      "numero": "08_RES_006",
+      "type": "Résolution",
+      "depose": "2008-05-06",
+      "titre": "Pour une action vigoureuse du Conseil d'Etat en faveur des infrastructures de transports du district de Nyon",
+      "auteurs": [
+        {
+          "nom": "Mario-Charles Pertusio",
+          "parti": "AdC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2020-03-11"
+      },
+      "derniere_etape": "2020-03-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5720,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5723,
+          "origine": "document"
+        },
+        {
+          "ofs": 5717,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5730,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_141",
+      "numero": "13_INT_141",
+      "type": "Interpellation",
+      "depose": "2013-06-25",
+      "titre": "Panneaux solaires interdits : de l'ombre sur la transition énergétique !",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-05-06"
+      },
+      "derniere_etape": "2014-05-06",
+      "communes": [
+        {
+          "ofs": 5720,
+          "origine": "document"
+        },
+        {
+          "ofs": 5415,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5426,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

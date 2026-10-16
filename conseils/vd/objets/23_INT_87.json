@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227122,
+  "numero": "23_INT_87",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-09-20"
+  },
+  "depose": "2023-05-23",
+  "titre": "Promenons-nous dans les bois…. !?",
+  "contributeurs": [
+    {
+      "nom": "John Desmeules",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-05-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-05-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-09-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-05-30",
+      "lien": "https://www.sonomix.ch/live/gcvd/2408#866"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-03-26",
+      "lien": "https://www.sonomix.ch/live/gcvd/2786#1871"
+    },
+    {
+      "titre": "Risques liés aux loups et responsabilité de l'Etat",
+      "date": "2023-09-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2196955"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5b67d6a2-4eaf-4197-bebb-0bc79ed8a5e1/meeting/1019564",
+  "communes": [
+    {
+      "ofs": 5492,
+      "origine": "document"
+    }
+  ]
+}

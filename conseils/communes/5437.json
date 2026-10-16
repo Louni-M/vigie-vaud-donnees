@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5437,
+  "objets": [
+    {
+      "cle": "vd/25_LEG_173",
+      "numero": "25_LEG_173",
+      "type": "Décret/Loi",
+      "depose": "2025-11-25",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Gimel, Saubraz et Saint-Oyens et projet de loi modifiant la loi du 30 mai 2006 sur le découpage territorial",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-11-25"
+      },
+      "derniere_etape": "2025-11-25",
+      "communes": [
+        {
+          "ofs": 5428,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5437,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5436,
+          "origine": "titre"
+        }
+      ]
+    }
+  ]
+}

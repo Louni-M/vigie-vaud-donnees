@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228391,
+  "numero": "25_QUE_9",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-04-02"
+  },
+  "depose": "2025-02-11",
+  "titre": "Cachez ce rapport que je ne saurais voir",
+  "contributeurs": [
+    {
+      "nom": "Thanh-My Tran-Nhu",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-02-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-04-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-04-02",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapports sur la surpopulation carcérale vaudoise",
+      "date": "2025-04-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2296171"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/b4303dec-3ae5-49ce-8dd2-ba8ee13dbbcc/meeting/1026878",
+  "communes": []
+}

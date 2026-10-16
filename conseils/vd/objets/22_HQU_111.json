@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226123,
+  "numero": "22_HQU_111",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-10-11"
+  },
+  "depose": "2022-10-04",
+  "titre": "Les conséquences fiscales 2023 annoncées par la cheffe du DFA sont-elles vraiment correctes ?",
+  "contributeurs": [
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-10-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-10-11",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5e561108-a035-40ee-ade1-d6b13974c9c6/meeting/1012636",
+  "communes": []
+}

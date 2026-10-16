@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225545,
+  "numero": "21_HQU_72",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2021-06-08"
+  },
+  "depose": "2021-06-01",
+  "titre": "Campagne de vaccination pour les personnes sans-papiers dans le canton de Vaud",
+  "contributeurs": [
+    {
+      "nom": "Elodie Lopez",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-06-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-06-08",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/50e2ed6a-2ae6-402e-8d6e-2d313025069a/meeting/1000563",
+  "communes": []
+}

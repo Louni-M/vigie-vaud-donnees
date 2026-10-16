@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221351,
+  "numero": "08_INT_078",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2008-04-22"
+  },
+  "depose": "2008-04-22",
+  "titre": "Grosses bulles dans la flûte de Champagne",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2008-04-22",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2008-04-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_22_avril_2008/08_INT_078.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-09-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_28_octobre_2008/08_INT_078_texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-4-novembre-2008/reponse-du-conseil-detat-a-linterpellation-claude-andre-fardel",
+  "communes": [
+    {
+      "ofs": 5553,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5611,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228768,
+  "numero": "9_LEG_166",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-06-30"
+  },
+  "depose": "2009-06-16",
+  "titre": "Exposé des motifs et projets de décrets :- ordonnant la convocation des électeurs pour se prononcer sur l'initiative populaire « Pour une police unifiée et plus efficace » et- autorisant la ratification de la convention sur la réforme de l'organisation policière conclue entre une délégation du Conseil d'Etat, l'Union des communes vaudoises et l'Association de communes vaudoises etRapport intermédiaire du Conseil d'Etat au Grand Conseil d'Etat sur la motion Josiane Aubert et consorts concernant la loi-cadre pour une police coordonnée",
+  "contributeurs": [
+    {
+      "nom": "Bernard Borel",
+      "parti": "AGT",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre Zwahlen",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-06-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-06-23",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2009-06-30",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/166_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2009-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/166_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2009-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/166_RC_maj.pdf"
+    },
+    {
+      "titre": "Décret autorisant la ratification de la convention sur la réforme de l'organisation policière adopté par le Grand Conseil le 30.06.09",
+      "date": "2009-06-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/166_Decret_reforme_adopte.pdf"
+    },
+    {
+      "titre": "Décret ordonnant la convocation des électeurs adopté par le Grand Conseil le 30.06.09",
+      "date": "2009-06-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/166_Decret_convocation_adopte.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-30-juin-2009/expose-des-motifs-et-projets-de-decrets-police",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5568,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

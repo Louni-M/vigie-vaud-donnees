@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223709,
+  "numero": "15_RAP_233",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2015-06-09"
+  },
+  "depose": "2015-06-09",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur la mise sous régie temporaire de la commune de La Chaux au sens de l'art. 139a LC",
+  "contributeurs": [
+    {
+      "nom": "Michel Renaud",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Michel Renaud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-06-09",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/233_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/233_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-9-juin-2015/rapport-du-conseil-detat-au-grand-conseil-sur-la-mise-sous-regie-temporaire-de-la-commune-de-la-chaux-au-sens-de-lart-139a-lc",
+  "communes": [
+    {
+      "ofs": 5474,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5481,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

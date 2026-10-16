@@ -1,0 +1,423 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 14168,
+  "date": "2022-08-30",
+  "nom": "Séance du Grand Conseil du mardi 30 août 2022",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/detail-seance/seance-gc/1012630",
+  "ordre_du_jour": [
+    {
+      "numero": "2",
+      "titre": "Pétition demandant un permis humanitaire pour une famille.",
+      "categorie": null,
+      "resultat": null,
+      "objet": "vd/22_PET_9"
+    },
+    {
+      "numero": "3",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Thierry Dubois et consorts - Encourager et faciliter l'assainissement énergétique des bâtiments.",
+      "categorie": null,
+      "resultat": "Adopté par le GC",
+      "objet": null
+    },
+    {
+      "numero": "4",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Marc-Olivier Buffat et consorts - Quelle anticipation des risques de pénuries hivernales d'électricité( Bis!) et des risques financiers? (22_INT_10).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "5",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Sylvain Freymond et consorts au nom Groupe UDC - Le canton est-il prêt à faire face à la pénurie d' électricité qui se profile? (22_INT_48).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "6",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Céline Misiego et consorts - L'éducation sexuelle éduque-t-elle vraiment ? (21_INT_95).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "7",
+      "titre": "EMPL EXPOSÉ DES MOTIFS ET PROJET DE LOI",
+      "categorie": null,
+      "resultat": null,
+      "objet": "vd/21_LEG_219"
+    },
+    {
+      "numero": "8",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation José Durussel - L’Autour des Palombes,ce redoutable prédateur surprise! (22_INT_20).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "9",
+      "titre": "EMPL modifiant la loi sur la faune (LFaune), la loi sur la pêche (LPêche), la loi forestière (LVLFo) et la loi sur la police judiciaire (LPJu) (1er débat).",
+      "categorie": null,
+      "resultat": "2ème débat requis",
+      "objet": "vd/21_LEG_201"
+    },
+    {
+      "numero": "10",
+      "titre": "Interpellation Claire Attinger Doepper et consorts - Quel soutien aux sans emplois de plus de 50 ans (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/22_INT_94"
+    },
+    {
+      "numero": "11",
+      "titre": "Interpellation Hadrien Buclin et consorts - Nouveau Centre de sécurité de la gare de Lausanne : un projet qui reste entouré de zones d’ombre (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/22_INT_95"
+    },
+    {
+      "numero": "12",
+      "titre": "Interpellation Mathilde Marendaz et consorts - Chaos climatique : que fait l’État de Vaud pour faire payer les responsables ? (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/22_INT_96"
+    },
+    {
+      "numero": "13",
+      "titre": "Interpellation Julien Eggenberger et consorts - Variole du singe : une urgence sanitaire qui appelle des réponses ! (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/22_INT_97"
+    },
+    {
+      "numero": "14",
+      "titre": "Interpellation Pierre Zwahlen et consorts - Epargnons l'énergie en regard des pénuries et du climat (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/22_INT_98"
+    },
+    {
+      "numero": "15",
+      "titre": "Interpellation Yvan Pahud et consorts - Maintenir des forêts productives ici, c’est garantir, notre indépendance énergétique et un approvisionnement en bois de construction local. (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/22_INT_99"
+    },
+    {
+      "numero": "16",
+      "titre": "Interpellation Nathalie Jaccard et consorts - Quelles conditions de travail pour les aides à l’intégration en milieu scolaire ? (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/22_INT_100"
+    },
+    {
+      "numero": "17",
+      "titre": "Interpellation Alberto Mocchi et consorts - Car Postal aurait-elle un train de...retard ? (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/22_INT_101"
+    },
+    {
+      "numero": "18",
+      "titre": "Interpellation Théophile Schenker et consorts - Accès aux études supérieures pour les personnes relevant du domaine de l’asile et en besoin de protection (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/22_INT_102"
+    },
+    {
+      "numero": "19",
+      "titre": "Postulat Cloé Pointet et consorts au nom Groupe vert'libéral - Biométhane, le Canton oublie-t-il une énergie renouvelable ? (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyé à commission",
+      "objet": "vd/22_POS_36"
+    },
+    {
+      "numero": "20",
+      "titre": "Postulat Maurice Neyroud et consorts - Pour une meilleure gestion de l’eau d’arrosage et des pluies torrentielles en viticulture (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyé à commission",
+      "objet": "vd/22_POS_37"
+    },
+    {
+      "numero": "21",
+      "titre": "Postulat Yvan Pahud et consorts au nom Du Groupe UDC - Crise énergétique, il est temps d’agir par un coup de pouce au photovoltaïque avec un prêt sans intérêt. (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyé à commission",
+      "objet": "vd/22_POS_39"
+    },
+    {
+      "numero": "22",
+      "titre": "Postulat Fabrice Moscheni et consorts - Aidons les jeunes de condition modeste à accéder au marché du travail grâce au permis de conduire (Développement et demande de renvoi à commission avec moins de 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyé à commission",
+      "objet": "vd/22_POS_40"
+    },
+    {
+      "numero": "23",
+      "titre": "Postulat Florence Gross et consorts - CoRe : une procédure d’urgence a-t-elle des raisons de perdurer ? (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyé à commission",
+      "objet": "vd/22_POS_41"
+    },
+    {
+      "numero": "24",
+      "titre": "Postulat Patricia Spack Isenrich et consorts au nom groupe socialiste - Quelle stratégie mettre en œuvre concernant le séjour des communautés itinérantes suisses et le transit des gens du voyage européens à travers le territoire vaudois ? (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyé à commission",
+      "objet": "vd/22_POS_42"
+    },
+    {
+      "numero": "25",
+      "titre": "Postulat Alberto Mocchi et consorts - 1,2,3 centimes de plus pour le soleil (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyé à commission",
+      "objet": "vd/22_POS_43"
+    },
+    {
+      "numero": "26",
+      "titre": "Postulat Muriel Thalmann et consorts - Pour que l'employeur rembourse les tests exigés auprès des candiat-e-s à l'apprentissage (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyé à commission",
+      "objet": "vd/22_POS_44"
+    },
+    {
+      "numero": "27",
+      "titre": "Motion Elodie Lopez et consorts au nom EP - Pour une législation en faveur de la sobriété énergétique (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyée à commission",
+      "objet": "vd/22_MOT_27"
+    },
+    {
+      "numero": "28",
+      "titre": "Motion Yannick Maury et consorts au nom des Vert-e-s - En finir avec les symboles nazis sur sol vaudois (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyée à commission",
+      "objet": "vd/22_MOT_28"
+    },
+    {
+      "numero": "29",
+      "titre": "Motion David Vogel et consorts au nom Groupe Vert'libéral - « De l’utilité des stages en Voie Prégymnasiale » : mise en place de stages obligatoires pour tous les élèves vaudois (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyée à commission",
+      "objet": "vd/22_MOT_29"
+    },
+    {
+      "numero": "30",
+      "titre": "Postulat Alexandre Berthoud et consorts - « Créer des îlots de fraîcheur pour toutes et tous» Action pour le Climat No 4 (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyée à commission",
+      "objet": "vd/23_POS_80"
+    },
+    {
+      "numero": "31",
+      "titre": "Motion Florence Gross et consorts - LATC: simplifions les procédure d'autorisation pour accélérer la transition énergétique (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyée à commission",
+      "objet": "vd/22_MOT_31"
+    },
+    {
+      "numero": "32",
+      "titre": "Postulat Didier Lohri et consorts - #H2Osecours (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyée à commission",
+      "objet": "vd/23_POS_71"
+    },
+    {
+      "numero": "33",
+      "titre": "Postulat Yvan Pahud et consorts - Forêt vaudoise en régime forestier « forêt jardinée », avantage et désavantage (Développement et demande de prise en considération immédiate).",
+      "categorie": null,
+      "resultat": "Pris en considération",
+      "objet": "vd/22_POS_38"
+    },
+    {
+      "numero": "34",
+      "titre": "Résolution Yvan Pahud et consorts au nom Au nom du groupe UDC et PLR - Task force énergie vaudoise (Développement et mise en discussion avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Voeu transmis au CE",
+      "objet": "vd/22_RES_13"
+    },
+    {
+      "numero": "35",
+      "titre": "Résolution Laurent Balsiger et consorts - Face aux risques importants de pénuries d'énergie pour cet hiver - prendre des mesures sans attendre! (Développement et mise en discussion avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Voeu transmis au CE",
+      "objet": "vd/22_RES_14"
+    },
+    {
+      "numero": "36",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil sur l'interpellation Florence Gross et consorts - Abandon des devoirs à domicile: une modification de la LEO sans consultation (21_INT_98).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "37",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Denis Rubattel - Mieux définir le cadre légal pour les camps et les sorties ! (19_INT_343).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "38",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Claire Attinger Doepper et consorts - Des mesures de soutien parascolaire pour tous ? Y compris pour les enfants avec des besoins particuliers ? (18_INT_163).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "39",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Cédric Weissert et consorts - Tests COVID pour enfants scolarisés, n'y a-t-il pas mieux à faire ? (22_INT_28).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "40",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Catherine Labouchère et consorts - Et si le DFJC s'inspirait d'une pratique de l'Arc jurassien et d'une école vaudoise pour valoriser les liens intergérationnels dans les premières années primaires ? (21_INT_96).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "41",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Graziella Schaller et consorts au nom Les vert'libéraux - Quel monitorage pour les établissements de la scolarité obligatoire ? (21_INT_104).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "42",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Stéphane Montangero et consorts - Que faire pour que nos enfants apprennent non seulement à manger, mais aussi à cuisiner ? (18_INT_231).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "43",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Dylan Karlen et consorts - La neutralité politique de l’école vaudoise est-elle encore garantie ? (21_INT_117).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "44",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Aliette Rey-Marion - Economie Familiale (18_INT_232).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "45",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Graziella Schaller et consorts au nom du groupe vert'libéral - Quelle autonomie réelle pour les établissements de la scolarité obligatoire ? (21_INT_103).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "46",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Josephine Byrne Garelli et consorts - La direction des écoles de Rolle et environs a-t-elle perdu la tête (21_INT_84).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "47",
+      "titre": "Postulat Felix Stürner et consorts au nom des Vert·e·s - De l’usage de l’histoire dans le secondaire I vaudois ou comment éviter que cela ne devienne la MER à boire.",
+      "categorie": null,
+      "resultat": "Renvoyé par manque de temps",
+      "objet": "vd/21_POS_67"
+    },
+    {
+      "numero": "48",
+      "titre": "Postulat Florence Bettschart-Narbel et consorts au nom PLR - Orthographe rectifiée : une décision qui ne peut être prise en catimini.",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": "vd/23_POS_8"
+    },
+    {
+      "numero": "49",
+      "titre": "Postulat Florence Gross et consorts - Pour améliorer les cours d’éducation civique dans le cadre tant du secondaire I que de l’apprentissage et du gymnase et introduire une journée « Oser voter ».",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": "vd/22_POS_46"
+    },
+    {
+      "numero": "50",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Jean-Daniel Carrard et consorts au nom du PLR Vaud - DFJC, réponses souhaitées (22_INT_49).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "51",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Florence Gross - Grève du Climat du 4 septembre : quelle est la position du DFJC ? (20_INT_3).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "52",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Vassilis Venizelos - Bien-être des jeunes : \"Pour une politique de protection différenciée face aux pandémies\" (21_INT_39).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "53",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Nicolas Bolay et consorts au nom Au nom du groupe UDC - Quand l'école se prend pour l'autorité suprême (22_INT_4).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "54",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Julien Eggenberger et consorts - Quel bilan pour l’autonomie de gestion de l’Université de Lausanne ? (21_INT_31).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "55",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Florence Bettschart-Narbel et consorts - Gouvernance de la HEMU-Conservatoire de Lausanne : audit après audit, la situation va-t-elle s’améliorer ? (22_INT_18).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "56",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Jean-Daniel Carrard et consorts au nom du groupe PLR - militantisme politique et respect de la séparation des pouvoirs : Comment le CE entend il faire respecter le devoir de fidélité et de loyauté de l’art 50 Lpers (21_INT_151).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "57",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Philippe Liniger et consorts - La démocratie dérape (22_INT_41).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "58",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Taraneh Aminian - Les bons offices de la Direction générale de l'enseignement post obligatoire (19_INT_334).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "59",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Circé Barbezat-Fuchs et consorts au nom Les Libres - La culture antique n'est plus générale (21_INT_26).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "60",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Taraneh Aminian - Maturité spécialisée : des conditions d’admission inégales ! (21_INT_110).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    }
+  ]
+}

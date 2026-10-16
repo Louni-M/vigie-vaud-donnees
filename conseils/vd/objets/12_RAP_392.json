@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222792,
+  "numero": "12_RAP_392",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-01-17"
+  },
+  "depose": "2012-01-17",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Jacques Nicolet et consorts demandant si les fonctions de cantonniers, employés de voirie ou employés communaux ne méritent pas l'obtention et la reconnaissance d'un véritable CFC",
+  "contributeurs": [
+    {
+      "nom": "Alexis Bally",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alexis Bally",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-01-17",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/392_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/392_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-17-janvier-2012/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-jacques-nicolet-demandant-si-les-fonctions-de-cantonniers-employes-de-voirie-ou-employes-communaux-ne-meritent-pas-lobtention-et-la-reconnaissance-dun-veritable-cfc",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

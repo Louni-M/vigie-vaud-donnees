@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222725,
+  "numero": "12_LEG_460",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-05-29"
+  },
+  "depose": "2012-05-29",
+  "titre": "Exposé des motifs et projets de décrets- accordant la garantie de l'Etat de Vaud à l'Etablissement intercantonal Riviera-Chablais Vaud-Valais pour l'emprunt bancaire de CHF 220.125 millions contracté pour financer la construction du site de soins aigus de Rennaz et la transformation en Centres de traitement et de réadaptation, antennes médico-chirurgicales et centres de dialyse des bâtiments hospitaliers de Monthey et du Samaritain à Vevey, et- accordant au Conseil d'Etat un crédit d'études de CHF 1.2 million pour financer les études relatives aux aménagements routiers et aux transports publics en relation avec l'Hôpital Riviera-Chablais Vaud-Valais",
+  "contributeurs": [
+    {
+      "nom": "Michel Mouquin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Michel Mouquin",
+      "parti": "RAD",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-05-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-05-29",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Décret de CHF 220'125'000.- adopté par le Grand Conseil le 29.05.12",
+      "date": "2012-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/460_Texte_FAO_220mions.pdf"
+    },
+    {
+      "titre": "Décret de CHF 1'700'000.- adopté par le Grand Conseil le 29.05.12",
+      "date": "2012-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/460_Texte_FAO_1.7mions.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/460_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/460_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-29-mai-2012/expose-des-motifs-et-projet-de-decrets-accordant-la-garantie-de-letat-de-vaud-a-letablissement-intercantonal-riviera-chablais-vaud-valais-pour-lemprunt-bancaire-de-chf-220125-millions-pour-la-construction-du-site-de-rennaz",
+  "communes": [
+    {
+      "ofs": 5412,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5890,
+      "origine": "titre"
+    }
+  ]
+}

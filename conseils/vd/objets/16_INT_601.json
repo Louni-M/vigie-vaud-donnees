@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223854,
+  "numero": "16_INT_601",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-02-20"
+  },
+  "depose": "2016-11-15",
+  "titre": "La Place du Château à Lausanne après la construction du nouveau Parlement et la rénovation du Château: retour à la case départ ?",
+  "contributeurs": [
+    {
+      "nom": "Etienne Räss",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-11-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-11-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-01-08",
+      "libelle": "Behandelt vom Parlament"
+    },
+    {
+      "date": "2019-02-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-01-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_601_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-11-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_601_depot.pdf"
+    },
+    {
+      "titre": "Place du Château à Lausanne: le Conseil d'Etat souhaite entamer une démarche avec la Ville",
+      "date": "2019-02-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=372561"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-8-janvier-2019/reponse-du-conseil-detat-a-linterpellation-etienne-raess-la-place-du-chateau-a-lausanne-apres-la-construction-du-nouveau-parlement-et-la-renovation-du-chateau-retour-a-la-case-depart",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

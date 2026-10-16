@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224394,
+  "numero": "18_LEG_54",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2018-11-13"
+  },
+  "depose": "2018-11-06",
+  "titre": "Exposé des motifs et projet de décret ordonnant la convocation des électeurs pour se prononcer sur l'initiative populaire « Pour un canton sans extraction d'hydrocarbures »",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Chapuisat",
+      "parti": "V'L",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Chapuisat",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Olivier Gfeller",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-11-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-11-13",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/54_TexteCE.pdf"
+    },
+    {
+      "titre": "Tableau miroir avant 1er débat",
+      "date": "2018-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/53_54_Tableaumiroir_avant_1er_debat.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2018-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/53_54_RCmin.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2018-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/53_54_RCmaj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-des-11-et-12-decembre-2018/expose-des-motifs-et-projet-de-decret-ordonnant-la-convocation-des-electeurs-pour-se-prononcer-sur-linitiative-populaire-pour-un-canton-sans-extraction-dhydrocarbures",
+  "communes": [
+    {
+      "ofs": 5408,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5693,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5863,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5422,
+      "origine": "document"
+    },
+    {
+      "ofs": 5636,
+      "origine": "document"
+    }
+  ]
+}

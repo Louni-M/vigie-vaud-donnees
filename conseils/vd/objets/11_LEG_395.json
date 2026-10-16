@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222433,
+  "numero": "11_LEG_395",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-06-21"
+  },
+  "depose": "2011-06-21",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit d'ouvrage de CHF 23'520'000.- destiné à financer laconstruction de l'établissement de détention pour mineurs \"AuxLéchaires\" à Palézieux",
+  "contributeurs": [
+    {
+      "nom": "Pierre Zwahlen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierre Zwahlen",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-06-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-06-21",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-06-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/395_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-06-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/395_RC.PDF"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 21.06.11",
+      "date": "2011-06-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/395_Decret.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-21-juin-2011/expose-des-motifs-et-projet-de-decret-accordant-un-credit-de-chf-23520000-destine-a-financer-la-construction-de-letablissement-de-detention-pour-mineurs-aux-lechaires-a-palezieux",
+  "communes": [
+    {
+      "ofs": 5805,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    }
+  ]
+}

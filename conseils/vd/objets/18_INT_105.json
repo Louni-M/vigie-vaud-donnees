@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224191,
+  "numero": "18_INT_105",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-09-25"
+  },
+  "depose": "2018-01-23",
+  "titre": "Succès croissant pour les modèles alternatifs d'assurance maladie, quelle prise en compte pour la définition des subsides cantonaux ?",
+  "contributeurs": [
+    {
+      "nom": "Carole Schelker",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Carole Schelker",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-01-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-01-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-09-25",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_105_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-01-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_105_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-25-septembre-2018/reponse-du-conseil-detat-a-linterpellation-carole-schelker-succes-croissant-pour-les-modeles-alternatifs-dassurance-maladie-quelle-prise-en-compte-pour-la-definition-des-subsides-cantonaux",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

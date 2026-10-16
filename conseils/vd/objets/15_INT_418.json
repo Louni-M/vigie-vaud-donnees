@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223496,
+  "numero": "15_INT_418",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-06-07"
+  },
+  "depose": "2015-08-25",
+  "titre": "A quoi va servir le certificat ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Yves Pidoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Yves Pidoux",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-08-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-09-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-06-07",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_418_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-09-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_418_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-7-juin-2016/reponse-du-conseil-detat-a-linterpellation-jean-yves-pidoux-a-quoi-va-servir-le-certificat",
+  "communes": []
+}

@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221696,
+  "numero": "09_MOT_077",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2009-12-15"
+  },
+  "depose": "2009-06-23",
+  "titre": "Pour que la prise de données biométriques se fasse dans les préfectures",
+  "contributeurs": [
+    {
+      "nom": "Olivier Mayor",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Olivier Mayor",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Olivier Mayor",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-06-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-06-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2009-12-15",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-12-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_077_RC_new.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-06-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_077_depot_new.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2009-12-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_077_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seances-des-15-et-16-decembre-2009/motion-maximilien-bernhard",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5456,
+      "origine": "document"
+    }
+  ]
+}

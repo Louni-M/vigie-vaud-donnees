@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 120065,
+  "numero": "CA22/009",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2022-11-22"
+  },
+  "depose": "2022-09-05",
+  "titre": "Création d'une zone de baignade pérenne à Ouchy",
+  "contributeurs": [
+    {
+      "nom": "Christine Mounir",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-09-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-11-22",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "cc_baignade_perenne_ouchy",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/a3/a315fb5861ad4c30a89ef59a19ac4407.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/93/8c92bb6604be4e3ca97ad1c4d321e293.htm",
+  "communes": []
+}

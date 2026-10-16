@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223623,
+  "numero": "15_MOT_078",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2016-03-01"
+  },
+  "depose": "2015-12-15",
+  "titre": "Pour que les pétitions ne demeurent plus anonymes",
+  "contributeurs": [
+    {
+      "nom": "Michel Renaud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Michel Renaud",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-12-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-12-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-03-01",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-03-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_078_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-03-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_078_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_078_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-1er-mars-2016/motion-veronique-hurni-et-consorts-au-nom-de-la-commission-thematique-des-petitions-pour-que-les-petitions-ne-demeurent-plus-anonymes",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

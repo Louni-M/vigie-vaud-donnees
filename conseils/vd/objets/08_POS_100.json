@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221536,
+  "numero": "08_POS_100",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2009-04-21"
+  },
+  "depose": "2009-04-21",
+  "titre": "Visant à dégager des pistes pour faire aboutir les négociations avec les communes dans le cadre de l'élaboration de la loi sur les écoles de musique",
+  "contributeurs": [
+    {
+      "nom": "Fabienne Despot",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Fabienne Despot",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-04-21",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_au_8_avril_2009/08_POS_100_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2009-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/08_POS_100_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-21-avril-2009/postulat-raphael-mahaim",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225722,
+  "numero": "21_INT_87",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-04-13"
+  },
+  "depose": "2021-06-16",
+  "titre": "A quand un camion roulant à l’hydrogène au service du Canton ?",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Rezso",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-06-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-06-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-04-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-23",
+      "lien": "http://www.sonomix.ch/live/gcvd/1877#575"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-05-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/2120#7670"
+    },
+    {
+      "titre": "Véhicules à propulsion alternative dans la flotte de l’administration cantonale",
+      "date": "2022-04-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2111348"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/65c55654-cccc-40bf-9275-fccec2b58670/meeting/1004436",
+  "communes": [
+    {
+      "ofs": 5892,
+      "origine": "document"
+    },
+    {
+      "ofs": 5861,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    }
+  ]
+}

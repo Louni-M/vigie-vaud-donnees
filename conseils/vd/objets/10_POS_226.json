@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222155,
+  "numero": "10_POS_226",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2011-09-13"
+  },
+  "depose": "2010-12-14",
+  "titre": "Au nom des groupes libéral et radical pour l'établissement d'un cadastre solaire vaudois",
+  "contributeurs": [
+    {
+      "nom": "Isabelle Freymond",
+      "parti": "IND",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Isabelle Freymond",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Fabienne Freymond Cantone",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-12-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-12-14",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-09-13",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_226_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_226_Pbjet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-12-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_226_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-13-septembre-2011/postulat-dominique-richard-bonny-pour-letablissement-dun-cadastre-solaire-vaudois",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

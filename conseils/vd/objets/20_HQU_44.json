@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225087,
+  "numero": "20_HQU_44",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2020-12-08"
+  },
+  "depose": "2020-12-01",
+  "titre": "Tout art mérite salaire",
+  "contributeurs": [
+    {
+      "nom": "Carine Carvalho",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-12-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-12-08",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e8d2a0bc-9ac5-4d5b-9450-8e2ed16ebab7/meeting/1000538",
+  "communes": []
+}

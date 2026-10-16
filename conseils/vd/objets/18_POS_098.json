@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224534,
+  "numero": "18_POS_098",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-02-04"
+  },
+  "depose": "2018-12-18",
+  "titre": "Pour le développement d'un Plan Lumière cantonal aux fins de lutter contre la pollution lumineuse",
+  "contributeurs": [
+    {
+      "nom": "Olivier Epars",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Olivier Epars",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-12-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-01-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-02-04",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_098_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_098_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-01-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_098_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-4-fevrier-2020/postulat-alexandre-rydlo-et-consorts-au-nom-du-groupe-socialiste-pour-le-developpement-dun-plan-lumiere-cantonal-aux-fins-de-lutter-contre-la-pollution-lumineuse",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    }
+  ]
+}

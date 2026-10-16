@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227323,
+  "numero": "23_QUE_30",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-08-16"
+  },
+  "depose": "2023-06-20",
+  "titre": "Combien de Vaudoises et Vaudoises cotisent au 3ème pilier A ?",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Berthoud",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-06-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-08-16",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Cotisation des Vaudoises et Vaudois au 3ème pilier A",
+      "date": "2023-08-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2191103"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f3810bd5-ff6a-48fc-a57c-938e988d0b04/meeting/1013649",
+  "communes": []
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 341097,
+  "numero": "26_QUE_87",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Traktandiert",
+    "date": "2026-10-06"
+  },
+  "depose": "2026-10-06",
+  "titre": "Recours à des consultants externes et statut de la directive DRUIDE 1.5.2 question 9",
+  "contributeurs": [
+    {
+      "nom": "Didier Lohri",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-10-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-10-06",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Canton de Vaud",
+      "date": "2026-10-06",
+      "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c8fdf707-057c-4ebe-80d7-a0a5d0d02ad0/meeting/1026894?utm_source=chatgpt.com"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/03debb02-47c1-4c5a-8258-33884a466a96/meeting/1033712",
+  "communes": [
+    {
+      "ofs": 5764,
+      "origine": "document"
+    }
+  ]
+}

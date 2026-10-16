@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224276,
+  "numero": "18_INT_191",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-02-11"
+  },
+  "depose": "2018-06-12",
+  "titre": "Est-ce qu'il y a une collaboration intercantonale quant à la  gestion des places de détention, et si oui quelle est-elle ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Daniel Carrard",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Daniel Carrard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-06-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-06-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-02-20",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-02-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_191_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-06-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_191_depot.pdf"
+    },
+    {
+      "titre": "Coordination intercantonale en matière de gestion des places de détention",
+      "date": "2019-02-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=361374"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-11-fevrier-2020/reponse-du-conseil-detat-a-linterpellation-jean-daniel-carrard-et-consorts-est-ce-quil-y-a-une-collaboration-intercantonale-quant-a-la-gestion-des-places-de-detention-et-si-oui-quelle-est-elle",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5638,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    }
+  ]
+}

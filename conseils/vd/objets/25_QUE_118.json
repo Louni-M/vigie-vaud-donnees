@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 285352,
+  "numero": "25_QUE_118",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Traktandiert",
+    "date": "2025-11-25"
+  },
+  "depose": "2025-11-25",
+  "titre": "Budget sensible au genre : une mise en place qui tarde",
+  "contributeurs": [
+    {
+      "nom": "Muriel Thalmann",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-11-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-11-25",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=353461",
+      "date": "2025-11-25",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=353461"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ac07a794-ee47-4e7b-a729-5f2da08606dc/meeting/1029644",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

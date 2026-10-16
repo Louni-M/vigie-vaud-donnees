@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225156,
+  "numero": "20_INT_444",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-06-16"
+  },
+  "depose": "2020-02-11",
+  "titre": "Accès à l'Hôpital Riviera-Chablais (HRC) de Rennaz : une signalisation « de sorte » ou de vagues sparadraps ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marc Nicolet",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-02-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-02-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-06-16",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2020-02-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_444_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-01-18",
+      "lien": "https://www.sonomix.ch/live/gcvd/2036#8585"
+    },
+    {
+      "titre": "La signalisation routière de l’HRC est conforme aux normes en vigueur",
+      "date": "2021-06-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2060955"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1535b8c6-7a35-4358-8d39-48a6e16a98b7/meeting/1004427",
+  "communes": [
+    {
+      "ofs": 5412,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

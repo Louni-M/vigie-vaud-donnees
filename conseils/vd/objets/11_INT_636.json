@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222366,
+  "numero": "11_INT_636",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-03-12"
+  },
+  "depose": "2012-05-22",
+  "titre": "\"Trois petits tours et c'est le plongeon\"",
+  "contributeurs": [
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": "PLR",
+      "role": null,
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-05-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-05-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-03-12",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-12-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_636_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-05-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_636_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-12-mars-2013/reponse-du-conseil-detat-a-linterpellation-philippe-vuillemin-a-propos-des-experts-charges-dexaminer-laptitude-a-obtenir-le-permis-de-conduire-trois-petits-tours-et-cest-le-plongeon",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

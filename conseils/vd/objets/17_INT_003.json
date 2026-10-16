@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228577,
+  "numero": "17_INT_003",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-11-27"
+  },
+  "depose": "2017-08-22",
+  "titre": "Petrosvibri SA à Noville, de l'eau dans le gaz ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Michel Dolivo",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-08-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-11-27",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_INT_003_TexteCE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-27-novembre-2018/reponse-du-conseil-detat-a-linterpellation-jean-michel-dolivo-et-consorts-petrosvibri-sa-a-noville-de-leau-dans-le-gaz",
+  "communes": [
+    {
+      "ofs": 5408,
+      "origine": "titre"
+    }
+  ]
+}

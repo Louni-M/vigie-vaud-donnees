@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 331320,
+  "numero": "26_MOT_34",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2026-06-09"
+  },
+  "depose": "2026-06-02",
+  "titre": "Adapter l’enseignement aux vagues de chaleur : pour un vrai plan d’action cantonal de protection contre la chaleur dans les établissements scolaires vaudois",
+  "contributeurs": [
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Sylvie Pittet Blanchette",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-06-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-06-02",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-06-09",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "ses revendications pour l’adaptation des salles de classe aux vagues de chaleur",
+      "date": "2026-06-02",
+      "lien": "https://www.watson.ch/fr/suisse/sante/236024645-comment-les-enseignants-veulent-proteger-les-eleves-de-la-chaleur"
+    },
+    {
+      "titre": "selon les expert.e.s",
+      "date": "2026-06-02",
+      "lien": "https://www.rts.ch/info/societe/2026/article/vague-de-chaleur-inedite-en-mai-risque-d-un-emballement-du-changement-climatique-29253483.html"
+    },
+    {
+      "titre": "Les enfants de plus petite taille respirent un air 10 à 15°C plus chaud que les adultes : quand un thermomètre affiche 30°C, un enfant de 5 ans évolue dans un air de 45°C à peu près.",
+      "date": "2026-06-02",
+      "lien": "https://profsentransition.com/articles/chaleur-ecoles-solutions-adaptation-climatique/"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e7ba4bca-61e3-4665-b9ec-b0f115b71161/meeting/1029672",
+  "communes": [
+    {
+      "ofs": 5886,
+      "origine": "document"
+    }
+  ]
+}

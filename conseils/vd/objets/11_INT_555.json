@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222286,
+  "numero": "11_INT_555",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-04-03"
+  },
+  "depose": "2011-11-08",
+  "titre": "Master en médecine : ou quand l'application de la réforme de Bologne touche au ridicule !",
+  "contributeurs": [
+    {
+      "nom": "Bernard Borel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Bernard Borel",
+      "parti": "AGT",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-11-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-04-03",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-04-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_555_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-11-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_555_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-3-avril-2012/reponse-du-conseil-detat-a-linterpellation-bernard-borel-master-en-medecine-et-reforme-de-bologne",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

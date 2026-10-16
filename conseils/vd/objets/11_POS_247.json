@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222521,
+  "numero": "11_POS_247",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2012-01-17"
+  },
+  "depose": "2011-05-03",
+  "titre": "Réduire la consommation d'électricité de l'Etat",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Montangero",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Stéphane Montangero",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Stéphane Montangero",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-05-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-05-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-01-17",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_247_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_247_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-05-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_247_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-17-janvier-2012/postulat-olivier-feller-reduire-la-consommation-delectricite-de-letat",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5587,
+      "origine": "document"
+    },
+    {
+      "ofs": 5604,
+      "origine": "document"
+    }
+  ]
+}

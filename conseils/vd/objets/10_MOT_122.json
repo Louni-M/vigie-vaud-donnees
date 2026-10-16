@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222085,
+  "numero": "10_MOT_122",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2011-05-31"
+  },
+  "depose": "2010-12-14",
+  "titre": "Pour la poursuite de l'investigation secrète contre les pédophiles",
+  "contributeurs": [
+    {
+      "nom": "Michaël Buffat",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-12-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-12-14",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-05-31",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_122_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_122_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-12-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_122_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-31-mai-2011/motion-pierre-zwahlen-pour-la-poursuite-de-linvestigation-secrete-contre-les-pedophiles",
+  "communes": []
+}

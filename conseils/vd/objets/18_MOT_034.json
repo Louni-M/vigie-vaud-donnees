@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224427,
+  "numero": "18_MOT_034",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2019-03-19"
+  },
+  "depose": "2018-04-24",
+  "titre": "Pour une uniformité des taxations des interventions policières dans tout le canton. DIS. Rapporteur de la majorité de la commission :  Pahud Y. ,",
+  "contributeurs": [
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Yvan Pahud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Sarah Neumann",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-04-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-03-19",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2019-02-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_034_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2019-02-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_034_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-02-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_034_Obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_034_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-19-mars-2019/motion-fabienne-freymond-cantone-et-consorts-pour-une-uniformite-des-taxations-des-interventions-policieres-dans-tout-le-canton",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

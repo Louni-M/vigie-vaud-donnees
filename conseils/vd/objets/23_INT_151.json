@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226998,
+  "numero": "23_INT_151",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2023-10-03"
+  },
+  "depose": "2023-09-26",
+  "titre": "Des voies solaires cyclables sur nos chemins agricoles",
+  "contributeurs": [
+    {
+      "nom": "Théophile Schenker",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-09-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-10-03",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.24heures.ch/transition-energetique-des-voies-cyclables-solaires-bientot-dans-nos-campagnes-197450325979",
+      "date": "2023-10-03",
+      "lien": "https://www.24heures.ch/transition-energetique-des-voies-cyclables-solaires-bientot-dans-nos-campagnes-197450325979"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-10-03",
+      "lien": "https://www.sonomix.ch/live/gcvd/2606#547"
+    },
+    {
+      "titre": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20234030",
+      "date": "2023-10-03",
+      "lien": "https://www.parlament.ch/fr/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20234030"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c3cd7c64-caee-4d37-9851-55567fa9a866/meeting/1019542",
+  "communes": [
+    {
+      "ofs": 5635,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5561,
+      "origine": "document"
+    }
+  ]
+}

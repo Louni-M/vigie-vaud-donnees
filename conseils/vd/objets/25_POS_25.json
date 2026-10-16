@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228295,
+  "numero": "25_POS_25",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2026-06-02"
+  },
+  "depose": "2025-04-01",
+  "titre": "Pour un bilan des prestations de logopédie",
+  "contributeurs": [
+    {
+      "nom": "Laurence Bassin",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Sylvie Pittet Blanchette",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-04-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-04-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-06-02",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-04-08",
+      "lien": "https://www.sonomix.ch/live/gcvd/3094#435"
+    },
+    {
+      "titre": "https://www.24heures.ch/sante-pres-dun-an-dattente-pour-un-logopediste-a-lausanne-243131747494",
+      "date": "2025-04-08",
+      "lien": "https://www.24heures.ch/sante-pres-dun-an-dattente-pour-un-logopediste-a-lausanne-243131747494"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/bebb2f2f-835c-4941-b73a-610ed74d815b/meeting/1029671",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    }
+  ]
+}

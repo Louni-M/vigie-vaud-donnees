@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223211,
+  "numero": "14_INT_297",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-03-10"
+  },
+  "depose": "2014-10-28",
+  "titre": "Des logements pour étudiants, oui ! Mais aussi des lieux de vie !",
+  "contributeurs": [
+    {
+      "nom": "Graziella Schaller",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Graziella Schaller",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-10-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-10-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-03-10",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_297_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-10-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_297_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-10-mars-2015/reponse-du-conseil-detat-a-linterpellation-graziella-schaller-des-logements-pour-etudiants-oui-mais-aussi-des-lieux-de-vie",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5627,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5633,
+      "origine": "document"
+    }
+  ]
+}

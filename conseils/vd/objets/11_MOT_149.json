@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222471,
+  "numero": "11_MOT_149",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2012-11-06"
+  },
+  "depose": "2011-11-15",
+  "titre": "Tendant à ce qu'il ne soit pas alloué de dépens pour les causes soumises à la juridiction des prud'hommes",
+  "contributeurs": [
+    {
+      "nom": "Jacques Haldy",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-11-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-11-06",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de minorité de la commission",
+      "date": "2012-10-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/11_MOT_149_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de majorité de la commission",
+      "date": "2012-10-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_149_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2012-10-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_149_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-11-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_149_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-6-novembre-2012/motion-nicolas-mattenberger-tendant-a-ce-quil-ne-soit-pas-alloue-de-depens-pour-les-causes-soumises-a-la-juridiction-des-prudhommes",
+  "communes": []
+}

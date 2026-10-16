@@ -1,0 +1,584 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5806,
+  "objets": [
+    {
+      "cle": "vd/24_LEG_210",
+      "numero": "24_LEG_210",
+      "type": "Décret/Loi",
+      "depose": "2025-10-28",
+      "titre": "Accordant au Conseil d'État sept crédits d’investissement afin de financer la campagne de rénovation 2025 sur 7 sites",
+      "auteurs": [
+        {
+          "nom": "Claude Nicole Grin",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5648,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5806,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/25_QUE_85",
+      "numero": "25_QUE_85",
+      "type": "Simple question",
+      "depose": "2025-09-23",
+      "titre": "Flottille pour Gaza: quel risque pour le Canton de Vaud?",
+      "auteurs": [
+        {
+          "nom": "Fabrice Moscheni",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traktandiert",
+        "date": "2025-09-23"
+      },
+      "derniere_etape": "2025-09-23",
+      "communes": [
+        {
+          "ofs": 5806,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/25_LEG_18",
+      "numero": "25_LEG_18",
+      "type": "Décret/Loi",
+      "depose": "2025-05-27",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit d’ouvrage de CHF 13’575'000.- pour financer la part cantonale des travaux d’assainissement des ouvrages et d’amélioration de la fonctionnalité et de l’exploitation de la jonction sud de Moudon entre la RC 601 Lausanne – Berne et la RC 626 Oron – Moudon, sur la commune de Moudon",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-05-27"
+      },
+      "derniere_etape": "2025-05-27",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5806,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5665,
+          "origine": "document"
+        },
+        {
+          "ofs": 5675,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_INT_63",
+      "numero": "24_INT_63",
+      "type": "Interpellation",
+      "depose": "2024-03-19",
+      "titre": "Transports publics du Jorat repris par CarPostal : quel bilan ?",
+      "auteurs": [
+        {
+          "nom": "Loïc Bardet",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-09-11"
+      },
+      "derniere_etape": "2024-09-11",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5806,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5799,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_39",
+      "numero": "20_INT_39",
+      "type": "Interpellation",
+      "depose": "2020-10-27",
+      "titre": "Transformation et commercialisation de la viande prélevée par les gardes-faune : pourquoi le Conseil d’Etat impose-t-il un monopole ?",
+      "auteurs": [
+        {
+          "nom": "Pierre-François Mottier",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-02-03"
+      },
+      "derniere_etape": "2021-02-03",
+      "communes": [
+        {
+          "ofs": 5806,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_49",
+      "numero": "19_LEG_49",
+      "type": "Décret/Loi",
+      "depose": "2019-09-10",
+      "titre": "Exposé des motifs et projet de loi modifiant la loi du 30 mars 2004 sur l'exercice de la prostitution et Rapports du Conseil d'Etat au Grand Conseil sur les postulats Sandrine Bavaud et Co - Pour une véritable stratégie de réduction du préjudice dans le domaine de la prostitution",
+      "auteurs": [
+        {
+          "nom": "Philippe Ducommun",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Ducommun",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-10-01"
+      },
+      "derniere_etape": "2019-10-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5516,
+          "origine": "document"
+        },
+        {
+          "ofs": 5514,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5649,
+          "origine": "document"
+        },
+        {
+          "ofs": 5806,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_140",
+      "numero": "19_LEG_140",
+      "type": "Décret/Loi",
+      "depose": "2019-09-24",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 4'750'000.- pour financer des travaux d'assainissement de deux tronçons de route cantonale : RC 429 Oppens – Bioley-Magnoux, RC 631 et 632 Croix d'Or – Carrouge (VD)",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": null
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-09-24"
+      },
+      "derniere_etape": "2019-09-24",
+      "communes": [
+        {
+          "ofs": 5806,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5923,
+          "origine": "document"
+        },
+        {
+          "ofs": 5903,
+          "origine": "document"
+        },
+        {
+          "ofs": 5939,
+          "origine": "document"
+        },
+        {
+          "ofs": 5585,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_270",
+      "numero": "18_INT_270",
+      "type": "Interpellation",
+      "depose": "2018-12-05",
+      "titre": "Théâtre du Jorat : garantir l'exploitation à long terme ou baisser de rideau programmé ?",
+      "auteurs": [
+        {
+          "nom": "Monique Ryf",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-08-21"
+      },
+      "derniere_etape": "2019-08-21",
+      "communes": [
+        {
+          "ofs": 5806,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_POS_205",
+      "numero": "16_POS_205",
+      "type": "Postulat",
+      "depose": "2016-11-15",
+      "titre": "Chauffage à bois : de l'effet contreproductif de certaines décisions destinées à préserver notre environnement, et de la nécessité d'étudier des mesures correctives",
+      "auteurs": [
+        {
+          "nom": "Fabienne Freymond Cantone",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée à commission",
+        "date": "2019-03-06"
+      },
+      "derniere_etape": "2019-03-06",
+      "communes": [
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5553,
+          "origine": "document"
+        },
+        {
+          "ofs": 5806,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5648,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5429,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_PET_070",
+      "numero": "17_PET_070",
+      "type": "Pétition",
+      "depose": "2017-05-30",
+      "titre": "Pétition pour la renaturation du ruisseau « Le Flon de Carrouge » à Servion",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2018-03-13"
+      },
+      "derniere_etape": "2018-03-13",
+      "communes": [
+        {
+          "ofs": 5806,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5799,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_LEG_219",
+      "numero": "15_LEG_219",
+      "type": "Décret/Loi",
+      "depose": "2015-06-09",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Carrouge, Ferlens et Mézières (Jorat-Mézières) et projet de loi sur la modification de la loi du 30 mai 2006 sur le découpage territorial",
+      "auteurs": [
+        {
+          "nom": "Aliette Rey-Marion",
+          "parti": null
+        },
+        {
+          "nom": "Aliette Rey-Marion",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2015-06-09"
+      },
+      "derniere_etape": "2015-06-09",
+      "communes": [
+        {
+          "ofs": 5806,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_LEG_186",
+      "numero": "15_LEG_186",
+      "type": "Décret/Loi",
+      "depose": "2015-01-13",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 2'744'000.- pour financer les travaux de la requalification de la RC 601-B-P (route de Berne), entre le carrefour de l'autoroute A9 (Vennes) et le carrefour des Croisettes, sur les communes de Lausanne et Epalinges.",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2015-01-20"
+      },
+      "derniere_etape": "2015-01-20",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5584,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5792,
+          "origine": "document"
+        },
+        {
+          "ofs": 5785,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5819,
+          "origine": "document"
+        },
+        {
+          "ofs": 5806,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_RAP_144",
+      "numero": "14_RAP_144",
+      "type": "Rapport",
+      "depose": "2014-08-26",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Stéphane Montangero et consorts - Développons des jardins scolaires pour étudier la saisonnalité et développer le goût de nos enfants !",
+      "auteurs": [
+        {
+          "nom": "Claire Attinger Doepper",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Claire Attinger Doepper",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2014-08-26"
+      },
+      "derniere_etape": "2014-08-26",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5806,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_364",
+      "numero": "11_LEG_364",
+      "type": "Décret/Loi",
+      "depose": "2011-04-05",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Servion et Les Cullayes (Servion)",
+      "auteurs": [
+        {
+          "nom": "Eric Sonnay",
+          "parti": null
+        },
+        {
+          "nom": "Eric Sonnay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-04-05"
+      },
+      "derniere_etape": "2011-04-05",
+      "communes": [
+        {
+          "ofs": 5799,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5806,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5803,
+          "origine": "document"
+        },
+        {
+          "ofs": 5792,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5790,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

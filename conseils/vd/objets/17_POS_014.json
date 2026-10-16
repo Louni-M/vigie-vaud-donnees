@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224129,
+  "numero": "17_POS_014",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2022-10-12"
+  },
+  "depose": "2017-10-24",
+  "titre": "Tout n'est pas bon dans le porc !",
+  "contributeurs": [
+    {
+      "nom": "Carine Carvalho",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Carine Carvalho",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-10-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-06-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-10-12",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-06-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_POS_014_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-06-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_POS_014_obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Mesures prises contre le harcèlement sexuel",
+      "date": "2022-10-12",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2140765"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-11-juin-2019/postulat-leonore-porchet-et-consorts-tout-nest-pas-bon-dans-le-porc",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

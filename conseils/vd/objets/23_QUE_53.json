@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227345,
+  "numero": "23_QUE_53",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-01-31"
+  },
+  "depose": "2023-10-10",
+  "titre": "Réparer plutôt que jeter – aussi pour l’administration cantonale",
+  "contributeurs": [
+    {
+      "nom": "Théophile Schenker",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-10-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-01-31",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Politique d’achat de l’Etat de Vaud",
+      "date": "2024-01-31",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2219497"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/3ef82430-fc4e-4d1a-8747-733fcb4fef35/meeting/1019543",
+  "communes": []
+}

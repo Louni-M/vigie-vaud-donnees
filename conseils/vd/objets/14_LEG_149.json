@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223279,
+  "numero": "14_LEG_149",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-06-17"
+  },
+  "depose": "2014-06-17",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 18'600'000.- pour financer le réaménagement de la route RC 422-B-P entre Cronay et la rivière de la Menthue, sur le territoire de la commune de Cronay",
+  "contributeurs": [
+    {
+      "nom": "Philippe Modoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Modoux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-06-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-06-17",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-06-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/149_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-06-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/149_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-17-juin-2014/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-dinvestissement-de-chf-18600000-pour-financer-le-reamenagement-de-la-route-rc-422-b-p-entre-cronay-et-la-riviere-de-la-menthue-sur-le-territoire-de-la-commune-de-cronay",
+  "communes": [
+    {
+      "ofs": 5910,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5913,
+      "origine": "document"
+    },
+    {
+      "ofs": 5693,
+      "origine": "document"
+    },
+    {
+      "ofs": 5932,
+      "origine": "document"
+    },
+    {
+      "ofs": 5925,
+      "origine": "document"
+    },
+    {
+      "ofs": 5926,
+      "origine": "document"
+    }
+  ]
+}

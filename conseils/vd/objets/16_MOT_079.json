@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223955,
+  "numero": "16_MOT_079",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2016-10-11"
+  },
+  "depose": "2016-03-01",
+  "titre": "N'enterrons pas les fouilles",
+  "contributeurs": [
+    {
+      "nom": "Maurice Treboux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Maurice Treboux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Maurice Treboux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-03-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-03-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-10-11",
+      "libelle": "Zurückgewiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-10-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_MOT_079_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-10-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_MOT_079_Obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-03-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_MOT_079_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-11-octobre-2016/motion-martial-de-montmollin-et-consorts-nenterrons-pas-les-fouilles",
+  "communes": [
+    {
+      "ofs": 5503,
+      "origine": "document"
+    },
+    {
+      "ofs": 5621,
+      "origine": "document"
+    },
+    {
+      "ofs": 5482,
+      "origine": "document"
+    }
+  ]
+}

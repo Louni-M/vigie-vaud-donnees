@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 86259,
+  "numero": "22_HQU_61",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-06-14"
+  },
+  "depose": "2022-06-07",
+  "titre": "Lausanne n'a pas vu passer le puck ?",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Rezso",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-06-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-06-14",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f3710882-39de-4b21-a8fa-97d9a11948c8/meeting/1004443",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

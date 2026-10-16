@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224322,
+  "numero": "18_INT_237",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-06-18"
+  },
+  "depose": "2018-09-11",
+  "titre": "Du sexisme à vendre au Comptoir suisse ?",
+  "contributeurs": [
+    {
+      "nom": "Carine Carvalho",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Carine Carvalho",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-09-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-18",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-01-16",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2019-06-18",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-06-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_237_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-09-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_237_depot.pdf"
+    },
+    {
+      "titre": "Sexisme et publicité",
+      "date": "2019-01-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=368192"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-18-juin-2019/reponse-du-conseil-detat-a-linterpellation-carine-carvalho-et-consorts-du-sexisme-a-vendre-au-comptoir-suisse",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

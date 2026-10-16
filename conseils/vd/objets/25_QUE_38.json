@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228357,
+  "numero": "25_QUE_38",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-07-02"
+  },
+  "depose": "2025-05-06",
+  "titre": "L’application des critères INTEGRAS",
+  "contributeurs": [
+    {
+      "nom": "Yannick Maury",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-05-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-07-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-07-02",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.integras.ch/images/_pdf/themenmenu/sozial_sonderpaedagogik/sonderpaedagogik/2008_standards_enseignementspecialise_fr.pdf",
+      "date": "2025-05-06",
+      "lien": "https://www.integras.ch/images/_pdf/themenmenu/sozial_sonderpaedagogik/sonderpaedagogik/2008_standards_enseignementspecialise_fr.pdf"
+    },
+    {
+      "titre": "Des explications nécessaires concernant l’application des critères Integras",
+      "date": "2025-07-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2314625"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/eac5df36-1d4b-4a71-b0a4-878b23ba81a3/meeting/1026887",
+  "communes": []
+}

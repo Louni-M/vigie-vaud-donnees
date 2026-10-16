@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224228,
+  "numero": "18_INT_141",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-11-27"
+  },
+  "depose": "2018-03-20",
+  "titre": "Combien ça coûte, l'énergie ?",
+  "contributeurs": [
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Liniger",
+      "parti": "UDC",
+      "role": null,
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-03-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-03-27",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-11-27",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_141_TexteCE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-03-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_141_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-27-novembre-2018/reponse-du-conseil-detat-a-linterpellation-philippe-liniger-combien-ca-coute-lenergie",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

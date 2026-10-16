@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5935,
+  "objets": [
+    {
+      "cle": "vd/24_LEG_91",
+      "numero": "24_LEG_91",
+      "type": "Décret/Loi",
+      "depose": "2025-08-27",
+      "titre": "EMPD accordant au Conseil d'État un crédit d’investissement de CHF 8'000’000.- pour financer les études, la démolition du bâtiment et du dépôt existant (ECA 3593a et 3593b) ainsi que la construction d'un centre de région Nord de la DGE sur le site de «Champ-Lovats», parcelle n°1605, à Yverdon-les-Bains",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2025-08-27"
+      },
+      "derniere_etape": "2025-08-27",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5935,
+          "origine": "document"
+        },
+        {
+          "ofs": 5555,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

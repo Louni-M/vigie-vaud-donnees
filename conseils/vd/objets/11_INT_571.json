@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222301,
+  "numero": "11_INT_571",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-02-12"
+  },
+  "depose": "2011-11-29",
+  "titre": "A-t-on toutes les garanties que l'assassin de Montbenon sera expulsé ?",
+  "contributeurs": [
+    {
+      "nom": "Pierre Guignard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierre Guignard",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-11-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-02-12",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-05-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_571_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-11-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_571_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-12-fevrier-2013/reponse-du-conseil-detat-a-linterpellation-pierre-guignard-a-t-on-toutes-les-garanties-que-lassassin-de-montbenon-sera-expulse",
+  "communes": []
+}

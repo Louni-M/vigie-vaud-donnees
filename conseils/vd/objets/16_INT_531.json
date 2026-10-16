@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223783,
+  "numero": "16_INT_531",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-01-16"
+  },
+  "depose": "2016-06-28",
+  "titre": "Le toit du Parlement aurait-il épuisé la forêt vaudoise ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-06-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-06-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-01-16",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adotpé par le Conseil d'Etat",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_531_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-06-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_531_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-16-janvier-2018/reponse-du-conseil-detat-a-linterpellation-jean-luc-chollet-le-toit-du-parlement-aurait-il-epuise-la-foret-vaudoise",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5534,
+      "origine": "document"
+    },
+    {
+      "ofs": 5512,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

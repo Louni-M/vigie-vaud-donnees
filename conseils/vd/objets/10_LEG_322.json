@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222042,
+  "numero": "10_LEG_322",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-11-09"
+  },
+  "depose": "2010-11-09",
+  "titre": "Exposé des motifs et projet de décret sur la dissolution de la fraction de commune du village des Charbonnières",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Cachin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Cachin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-François Cachin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-11-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-11-09",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-11-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/322_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-11-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/322_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 09.11.10",
+      "date": "2010-11-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/322_Decret.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-9-novembre-2010/expose-des-motifs-et-projet-de-decret-dissolution-de-la-fraction-de-commune-du-village-des-charbonnieres",
+  "communes": [
+    {
+      "ofs": 5873,
+      "origine": "document"
+    },
+    {
+      "ofs": 5871,
+      "origine": "document"
+    },
+    {
+      "ofs": 5872,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5486,
+      "origine": "document"
+    }
+  ]
+}

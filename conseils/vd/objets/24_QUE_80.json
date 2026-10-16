@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227997,
+  "numero": "24_QUE_80",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-02-05"
+  },
+  "depose": "2024-11-12",
+  "titre": "Quelle régulation pour éviter la propagation de l'épizootie \"peste porcine\"",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Bolay",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-11-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-02-05",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Actions pour éviter la propagation de la peste porcine",
+      "date": "2025-02-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2285673"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/92c29ff0-7d60-4232-9880-d907c2866026/meeting/1026865",
+  "communes": []
+}

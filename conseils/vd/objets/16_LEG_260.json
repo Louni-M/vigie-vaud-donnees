@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223913,
+  "numero": "16_LEG_260",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-05-31"
+  },
+  "depose": "2016-05-31",
+  "titre": "Exposé des motifs et projet de loi modifiant la LEDP et rapport du Conseil d'Etat au Grand Conseil sur la situation du E-voting dans le Canton de Vaud",
+  "contributeurs": [
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-05-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-05-31",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/260_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/260_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-31-mai-2016/expose-des-motifs-et-projet-de-loi-modifiant-la-ledp-et-rapport-du-conseil-detat-au-grand-conseil-sur-la-situation-du-e-voting-dans-le-canton-de-vaud",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222062,
+  "numero": "10_MOT_098",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-12-21"
+  },
+  "depose": "2010-01-19",
+  "titre": "Une aide sociale = une déclaration d'impôt remplie et signée. La thématique est que chaque contribuable vaudois doit remplir une déclaration d'impôt afin de permettre à l'Etat de le taxer en fonction de ses éléments de fortune et de revenu pour bénéficier de l'aide sociale",
+  "contributeurs": [
+    {
+      "nom": "Jean-Michel Favez",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Michel Favez",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-01-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-01-26",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-12-21",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-12-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_098_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-12-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_098_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-01-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_098_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-21-decembre-2010/motion-eric-bonjour-une-aide-sociale-une-declaration-dimpot-remplie-et-signee",
+  "communes": []
+}

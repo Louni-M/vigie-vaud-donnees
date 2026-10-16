@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5716,
+  "objets": [
+    {
+      "cle": "vd/24_LEG_252",
+      "numero": "24_LEG_252",
+      "type": "Décret/Loi",
+      "depose": "2025-05-27",
+      "titre": "EMPD EMPD accordant au Conseil d'Etat un crédit d’ouvrage de CHF 3'575'000.- pour financer la réalisation de la requalification de la RC 11 et l’aménagement d’un itinéraire de mobilité douce sur le territoire de la Commune d’Eysins",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-05-27"
+      },
+      "derniere_etape": "2025-05-27",
+      "communes": [
+        {
+          "ofs": 5716,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_INT_009",
+      "numero": "12_INT_009",
+      "type": "Interpellation",
+      "depose": "2012-09-04",
+      "titre": "Le Conseil d'Etat est-il prêt à adopter une attitude ferme et dissuasive à l'égard des gitans étrangers, ces visiteurs indésirables",
+      "auteurs": [
+        {
+          "nom": "François Brélaz",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-03-12"
+      },
+      "derniere_etape": "2013-03-12",
+      "communes": [
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5716,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5750,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_RAP_422",
+      "numero": "12_RAP_422",
+      "type": "Rapport",
+      "depose": "2012-06-12",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Jean-Michel Favez au nom du groupe socialiste visant à identifier et corriger les effets pervers de la promotion économique",
+      "auteurs": [
+        {
+          "nom": "Gloria Capt",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-06-12"
+      },
+      "derniere_etape": "2012-06-12",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5716,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

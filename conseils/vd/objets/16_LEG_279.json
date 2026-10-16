@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223927,
+  "numero": "16_LEG_279",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-03-08"
+  },
+  "depose": "2016-03-08",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre pour financer des travaux d'entretien de revêtements bitumineux, et maintenir la sécurité et la qualité des routes cantonales",
+  "contributeurs": [
+    {
+      "nom": "Philippe Modoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Modoux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-03-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-03-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-03-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/279_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-03-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/279_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-8-mars-2016/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-cadre-pour-financer-des-travaux-dentretien-de-revetements-bitumineux-et-maintenir-la-securite-et-la-qualite-des-routes-cantonales",
+  "communes": [
+    {
+      "ofs": 5805,
+      "origine": "document"
+    },
+    {
+      "ofs": 5643,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

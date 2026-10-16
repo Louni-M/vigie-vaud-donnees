@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222997,
+  "numero": "13_LEG_63",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-09-03"
+  },
+  "depose": "2013-08-27",
+  "titre": "EMPDs autorisant le CE à transférer la garantie de l'Etat pour l'emprunt contracté par : - la Fondation de l'Hôpital du district de Lavaux - la Fondation de l'Asile des aveugles - l'Association de l'Hôpital de zone de Nyon - la Fondation du Levant - l'Association d'hôpitaux de zone hospitalière VII - l'Association du Centre de soins et de santé communautaire du balcon du Jura - l'Association Ensemble hospitalier de la Côte - l'Association du Centre de soins et de santé commmunautaire du balcon du Jura - l'Association de l'Hôpital du Chablais - la Fondation Mont Riant - l'Association de l'Hôpiral de Nyon - les eHnv (Yverdon) - Etablissements hospitaliers du Nord Vaudois - l'Ensemble hospitalier de la Côte - la Fondation Silo - la Fondation des Hôpitaux de la Riviera (Mtx-Vevey-Blonay) - les eHnv (Yverdon-Chamblon) - la Fondation des Hôpitaux de la Riviera (Vevey) - l'Association La Paix du Soir - l'Association EMS Clair Vully - la Fondation Contesse - la Fondation de l'Orme - la Fondation Donatella Mauri - la Fondation La Primerose - la Fondation Plein Soleil - la Fondation Bois-Gentil, en cas de changement du débiteur de l'emprunt",
+  "contributeurs": [
+    {
+      "nom": "Frédéric Grognuz",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Frédéric Grognuz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-08-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-09-03",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-08-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/63_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-08-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/63_RC.pdf"
+    },
+    {
+      "titre": "Tous les décrets adoptés par le Grand Conseil le 03.09.13",
+      "date": "2013-09-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/63_FAO_Tous_les_d%C3%A9crets.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-3-septembre-2013/empds-autorisant-le-ce-a-transferer-la-garantie-de-letat-pour-lemprunt-contracte-par-la-fondation-de-lhopital-du-district-de-lavaux-la-fondation-de-lasile-des-aveugles-et-plusieurs-autres-associations-et-fondations",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5938,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5890,
+      "origine": "titre"
+    }
+  ]
+}

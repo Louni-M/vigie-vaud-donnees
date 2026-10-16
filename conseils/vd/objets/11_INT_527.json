@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222256,
+  "numero": "11_INT_527",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-01-17"
+  },
+  "depose": "2011-08-23",
+  "titre": "Au nom des députés représentant les groupes parlementaires au sein du groupe de concertation pour les axes forts de transport public urbain (AFTPU) duPALM demandant au Conseil d'Etat une confirmation de son engagement pour le prolongement vers l'Ouest de la nouvelle ligne de tram",
+  "contributeurs": [
+    {
+      "nom": "Michele Mossi",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Michele Mossi",
+      "parti": "AdC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-08-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-08-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-01-17",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_527_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_527_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-17-janvier-2012/reponse-du-conseil-detat-a-linterpellation-michele-mossi-demandant-au-conseil-detat-une-confirmation-de-son-engagement-pour-le-prolongement-vers-louest-de-la-nouvelle-ligne-de-tram",
+  "communes": [
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5624,
+      "origine": "document"
+    },
+    {
+      "ofs": 5651,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    }
+  ]
+}

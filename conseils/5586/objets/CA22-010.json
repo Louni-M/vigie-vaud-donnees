@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 120066,
+  "numero": "CA22/010",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2022-12-06"
+  },
+  "depose": "2022-09-27",
+  "titre": "Tivoli - Chauderon Sud : requalification de l'espace public et renouvellement des réseaux sou-terrains",
+  "contributeurs": [
+    {
+      "nom": "Anja Borgeaud",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-09-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-12-06",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "39_24_nov_comm_cc_tivoli_chauderon_sud.pdf v1.0",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/78/78bf2ab69dd64b469249ea9e00a22716.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/1c/29edbac695f44c76b3fde06c6f64121c.htm",
+  "communes": []
+}

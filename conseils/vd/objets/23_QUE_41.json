@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227334,
+  "numero": "23_QUE_41",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-11-15"
+  },
+  "depose": "2023-09-12",
+  "titre": "Sottens, de l'antenne... au radar?",
+  "contributeurs": [
+    {
+      "nom": "Alberto Mocchi",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-09-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-11-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Circulation sur la route entre Sottens et Moudon",
+      "date": "2023-11-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2207506"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/0d09f492-6cc4-4f50-8c63-57ba017bd31c/meeting/1019539",
+  "communes": [
+    {
+      "ofs": 5804,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

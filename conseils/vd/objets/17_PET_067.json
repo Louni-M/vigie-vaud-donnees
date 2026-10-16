@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224116,
+  "numero": "17_PET_067",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2018-09-11"
+  },
+  "depose": "2017-12-19",
+  "titre": "Pétition contre les décisions de la Caisse cantonale de compensation AVS",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2017-12-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-11",
+      "libelle": "Abgelehnt"
+    },
+    {
+      "date": "2018-09-11",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_PET_067_RC.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/17_PET_067_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-de-mardi-11-septembre-2018/petition-contre-les-decisions-de-la-caisse-cantonale-de-compensation-avs",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

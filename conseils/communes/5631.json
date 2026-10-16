@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5631,
+  "objets": [
+    {
+      "cle": "vd/10_LEG_228",
+      "numero": "10_LEG_228",
+      "type": "Décret/Loi",
+      "depose": "2010-03-09",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit cadre de CHF 1'850'000.- en vue du financement d'actions destinées à lutter contre les micropolluants",
+      "auteurs": [
+        {
+          "nom": "Stéphanie Apothéloz",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-03-23"
+      },
+      "derniere_etape": "2010-03-23",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5631,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

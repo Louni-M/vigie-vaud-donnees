@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223883,
+  "numero": "16_INT_630",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-01-16"
+  },
+  "depose": "2016-11-22",
+  "titre": "Que restera-t-il de vaudois dans nos saucissons ?",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-11-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-12-13",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-01-16",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adotpé par le Conseil d'Etat",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_630_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-11-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_630_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-16-janvier-2018/reponse-du-conseil-detat-a-linterpellation-jean-tschopp-et-consorts-que-restera-t-il-de-vaudois-dans-nos-saucissons",
+  "communes": [
+    {
+      "ofs": 5582,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

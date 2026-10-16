@@ -1,0 +1,992 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5804,
+  "objets": [
+    {
+      "cle": "vd/21_POS_38",
+      "numero": "21_POS_38",
+      "type": "Postulat",
+      "depose": "2021-06-23",
+      "titre": "Pour renforcer la protection des narcisses dans nos prairies",
+      "auteurs": [
+        {
+          "nom": "Léonard Studer",
+          "parti": "VER"
+        },
+        {
+          "nom": "Stéphane Montangero",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2025-05-07"
+      },
+      "derniere_etape": "2025-05-07",
+      "communes": [
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5745,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_QUE_41",
+      "numero": "23_QUE_41",
+      "type": "Simple question",
+      "depose": "2023-09-12",
+      "titre": "Sottens, de l'antenne... au radar?",
+      "auteurs": [
+        {
+          "nom": "Alberto Mocchi",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2023-11-15"
+      },
+      "derniere_etape": "2023-11-15",
+      "communes": [
+        {
+          "ofs": 5804,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_170",
+      "numero": "21_LEG_170",
+      "type": "Décret/Loi",
+      "depose": "2021-12-21",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit-cadre de CHF 8'200'000.- pour financer les travaux de consolidation et de protection de neuf objets répertoriés dans le cadre des dégâts des forces de la nature (DFN)",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-12-21"
+      },
+      "derniere_etape": "2021-12-21",
+      "communes": [
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5750,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_55",
+      "numero": "21_LEG_55",
+      "type": "Décret/Loi",
+      "depose": "2021-11-23",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit-cadre de CHF 13’600'000.- pour financer des travaux d’entretien de quatre tronçons de routes cantonales situés sur la RC 309 entre Daillens et Eclépens, la RC 548 entre Villars-Tiercelin et le carrefour avec la RC 542, la RC 260 entre Villars-Burquin et Mauborget ainsi que la RC 271 entre Mathod et La Ratusse y compris la RC 270 entre Villars-sous-Champvent et le carrefour avec RC 271 ainsi que la participation financière du canton au réaménagement de la jonction de Rolle",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-11-23"
+      },
+      "derniere_etape": "2021-11-23",
+      "communes": [
+        {
+          "ofs": 5480,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5482,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5804,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5571,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5562,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5919,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5905,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5861,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_73",
+      "numero": "21_INT_73",
+      "type": "Interpellation",
+      "depose": "2021-06-01",
+      "titre": "Cancer du colon: faut-il rajeunir le dépistage?",
+      "auteurs": [
+        {
+          "nom": "Blaise Vionnet",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-10-13"
+      },
+      "derniere_etape": "2021-10-13",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_19",
+      "numero": "21_INT_19",
+      "type": "Interpellation",
+      "depose": "2021-02-02",
+      "titre": "Médecins d'institutions d'handicapés, médecins d'EMS, quid de la relève ?",
+      "auteurs": [
+        {
+          "nom": "Philippe Vuillemin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-10-06"
+      },
+      "derniere_etape": "2021-10-06",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_52",
+      "numero": "20_INT_52",
+      "type": "Interpellation",
+      "depose": "2020-11-24",
+      "titre": "Comprendre les raisons qui ont mené à fermer les restaurants",
+      "auteurs": [
+        {
+          "nom": "Aurélien Clerc",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-09-15"
+      },
+      "derniere_etape": "2021-09-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_51",
+      "numero": "21_INT_51",
+      "type": "Interpellation",
+      "depose": "2021-04-20",
+      "titre": "Vaccination vaudoise - Des couacs au bout de l'aiguille",
+      "auteurs": [
+        {
+          "nom": "Cédric Weissert",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-07-07"
+      },
+      "derniere_etape": "2021-07-07",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_487",
+      "numero": "20_INT_487",
+      "type": "Interpellation",
+      "depose": "2020-05-26",
+      "titre": "Mieux prévenir les épidémies en EMS",
+      "auteurs": [
+        {
+          "nom": "Pierre Zwahlen",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-06-30"
+      },
+      "derniere_etape": "2021-06-30",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_43",
+      "numero": "20_INT_43",
+      "type": "Interpellation",
+      "depose": "2020-11-03",
+      "titre": "Diabète : Non aux discriminations !",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-06-30"
+      },
+      "derniere_etape": "2021-06-30",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_55",
+      "numero": "20_INT_55",
+      "type": "Interpellation",
+      "depose": "2020-12-01",
+      "titre": "Afin que nos EMS ne soient pas des Établissements pour mourir seuls",
+      "auteurs": [
+        {
+          "nom": "Christine Chevalley",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-06-16"
+      },
+      "derniere_etape": "2021-06-16",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_356",
+      "numero": "19_INT_356",
+      "type": "Interpellation",
+      "depose": "2019-05-28",
+      "titre": "La loi sur les bourses d'études empêche-t-elle des jeunes de finir leur formation ? Y a-t-il un \"plafond de verre\" pour les étudiantes boursières ?",
+      "auteurs": [
+        {
+          "nom": "Séverine Evéquoz",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-06-02"
+      },
+      "derniere_etape": "2021-06-02",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_PET_3",
+      "numero": "21_PET_3",
+      "type": "Pétition",
+      "depose": "2021-05-04",
+      "titre": "Pétition pour une élection plus simple et plus démocratique des suppléants dans les conseils communaux élus selon le système majoritaire",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Classée",
+        "date": "2021-05-04"
+      },
+      "derniere_etape": "2021-05-04",
+      "communes": [
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_572",
+      "numero": "16_INT_572",
+      "type": "Interpellation",
+      "depose": "2016-09-20",
+      "titre": "Les cochons se cachent pour mourir",
+      "auteurs": [
+        {
+          "nom": "Yves Ferrari",
+          "parti": null
+        },
+        {
+          "nom": "Yves Ferrari",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-01-16"
+      },
+      "derniere_etape": "2018-01-16",
+      "communes": [
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5798,
+          "origine": "document"
+        },
+        {
+          "ofs": 5754,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5497,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_318",
+      "numero": "10_LEG_318",
+      "type": "Décret/Loi",
+      "depose": "2010-10-12",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Montaubion-Chardonney, Peney-le-Jorat, Sottens, Villars-Mendraz et Villars-Tiercelin (Jorat-Menthue)",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-12"
+      },
+      "derniere_etape": "2010-10-12",
+      "communes": [
+        {
+          "ofs": 5804,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5540,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5533,
+          "origine": "document"
+        },
+        {
+          "ofs": 5541,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_292",
+      "numero": "10_LEG_292",
+      "type": "Décret/Loi",
+      "depose": "2010-10-12",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Dommartin, Naz, Poliez-le-Grand et Sugnens (Montilliez)",
+      "auteurs": [
+        {
+          "nom": "Béatrice Métraux",
+          "parti": null
+        },
+        {
+          "nom": "Béatrice Métraux",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-12"
+      },
+      "derniere_etape": "2010-10-12",
+      "communes": [
+        {
+          "ofs": 5540,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5533,
+          "origine": "document"
+        },
+        {
+          "ofs": 5514,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_RAP_208",
+      "numero": "10_RAP_208",
+      "type": "Rapport",
+      "depose": "2010-09-14",
+      "titre": "Sur quels critères objectifs agit la Justice vaudoise",
+      "auteurs": [
+        {
+          "nom": "Claude-André Fardel",
+          "parti": "RAD"
+        },
+        {
+          "nom": "Claude-André Fardel",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2010-09-14"
+      },
+      "derniere_etape": "2010-09-14",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_283",
+      "numero": "10_LEG_283",
+      "type": "Décret/Loi",
+      "depose": "2010-06-22",
+      "titre": "Exposé des motifs et projet de décret accordant la garantie de l'Etat de Vaud et la prise en charge du service de la dette pour l'emprunt de CHF 10'566'339.-, contracté par l'Association du Centre Intercommunal de Santé l'Oasis (ACISO), pour le financement des travaux de transformation de l'ancien hôpital de Moudon en établissement médico-social",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-06-22"
+      },
+      "derniere_etape": "2010-06-22",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5673,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5688,
+          "origine": "document"
+        },
+        {
+          "ofs": 5692,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

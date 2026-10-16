@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222396,
+  "numero": "11_LEG_345",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-03-29"
+  },
+  "depose": "2011-03-29",
+  "titre": "Exposé des motifs et projet de décret autorisant le Conseil d'Etat à accorder la garantie de l'Etat pour des crédits hypothécaires, intervenus depuis août 2008 et à venir d'ici juin 2011, d'institutions reconnues d'utilité publique accueillant des personnes adultes en situation de handicap ou en grandes difficultés sociales",
+  "contributeurs": [
+    {
+      "nom": "Catherine Roulet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Catherine Roulet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-03-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-03-29",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-03-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/345_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-03-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/345_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 29.03.11",
+      "date": "2011-03-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/345_Decret.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-29-mars-2011/expose-des-motifs-et-projet-de-decret-autorisant-le-conseil-detat-a-accorder-la-garantie-de-letat-pour-des-credits-hypothecaires",
+  "communes": [
+    {
+      "ofs": 5637,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5636,
+      "origine": "document"
+    },
+    {
+      "ofs": 5646,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

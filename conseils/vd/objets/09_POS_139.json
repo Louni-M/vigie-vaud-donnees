@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221758,
+  "numero": "09_POS_139",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2010-03-02"
+  },
+  "depose": "2009-06-30",
+  "titre": "Demandant l'introduction d'une vignette bleue pour les véhicules",
+  "contributeurs": [
+    {
+      "nom": "Olivier Gfeller",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-06-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-06-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-03-02",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-02-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_139_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-02-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_139_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-06-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_139_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-2-mars-2010/postulat-isabelle-chevalley",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

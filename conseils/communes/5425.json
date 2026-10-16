@@ -1,0 +1,409 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5425,
+  "objets": [
+    {
+      "cle": "vd/25_QUE_96",
+      "numero": "25_QUE_96",
+      "type": "Simple question",
+      "depose": "2025-10-28",
+      "titre": "Pour un itinéraire pédestre entre Bière et le Marchairuz",
+      "auteurs": [
+        {
+          "nom": "Hadrien Buclin",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traktandiert",
+        "date": "2025-10-28"
+      },
+      "derniere_etape": "2025-10-28",
+      "communes": [
+        {
+          "ofs": 5425,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/25_QUE_12",
+      "numero": "25_QUE_12",
+      "type": "Simple question",
+      "depose": "2025-02-25",
+      "titre": "Meute du Mont-Tendre, le retour",
+      "auteurs": [
+        {
+          "nom": "Anne-Lise Rime",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2025-05-21"
+      },
+      "derniere_etape": "2025-05-21",
+      "communes": [
+        {
+          "ofs": 5425,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_LEG_77",
+      "numero": "24_LEG_77",
+      "type": "Décret/Loi",
+      "depose": "2025-04-30",
+      "titre": "EMPL Vente d'alcool dans les stations-service – Préavis du Conseil d’Etat sur l’initiative Jean-Christophe Birchler et consorts – LADB : Abrogation de la lettre c, article 5, alinéa 1 (21_INI_5) et exposé des motifs et projet de loi modifiant celle du 26 mars 2002 sur les auberges et les débits de boissons (LADB ; BLV 935.31)",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2025-04-30"
+      },
+      "derniere_etape": "2025-04-30",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5425,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_POS_165",
+      "numero": "16_POS_165",
+      "type": "Postulat",
+      "depose": "2016-03-01",
+      "titre": "Faisons mousser la bière",
+      "auteurs": [
+        {
+          "nom": "Martial De Montmollin",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2022-03-16"
+      },
+      "derniere_etape": "2022-03-16",
+      "communes": [
+        {
+          "ofs": 5425,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_77",
+      "numero": "21_LEG_77",
+      "type": "Décret/Loi",
+      "depose": "2021-12-07",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 5'979'000.- pour financer les travaux de rénovation de 5 cures propriété de l’Etat de Vaud",
+      "auteurs": [
+        {
+          "nom": "Céline Baux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-12-07"
+      },
+      "derniere_etape": "2021-12-07",
+      "communes": [
+        {
+          "ofs": 5425,
+          "origine": "document"
+        },
+        {
+          "ofs": 5540,
+          "origine": "document"
+        },
+        {
+          "ofs": 5761,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        },
+        {
+          "ofs": 5653,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_417",
+      "numero": "15_INT_417",
+      "type": "Interpellation",
+      "depose": "2015-08-25",
+      "titre": "Un préfet préside un congrès d'un parti politique ? Quid d'un Juge cantonal tant qu'à faire ?",
+      "auteurs": [
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": null
+        },
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-01-19"
+      },
+      "derniere_etape": "2016-01-19",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5425,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_LEG_28",
+      "numero": "13_LEG_28",
+      "type": "Décret/Loi",
+      "depose": "2013-09-10",
+      "titre": "Exposé des motifs et projet de loi modifiant la loi vaudoise sur l'énergie (LVLEne) du 16 mai 2006 et Rapport du Conseil d'Etat au Grand Conseil sur :- la motion Bernard Borel pour une notation énergétique des logements (08/MOT/24) et sur les postulats- Olivier Français concernant la construction d'usines-barrages sur le Rhône à Bex-Massongex et Illarsaz (07/POS/002)- des groupes des VER SOC AGT et AdC : Projet de centrale électrique thermique au charbon un projet du passé (08/POS/082)- Claude-Eric Dufour demandant si le potentiel énergétique des eaux usées est judicieusement utilisé (09/POS/115)- Yves Ferrari au nom du groupe des Verts pour un green new deal vaudois dans le domaine énergétique (09/POS/121)- Alexis Bally au nom du groupe des Verts intitulé \"Pour un canton solaire\" (09/POS/122)- Régis Courdesse et consort concernant une fiscalité écologique pour l'électricité renouvelable (09/POS125)- Isabelle Chevalley demandant la modification du règlement d'application de la loi sur l'énergie visant à restreindre l'usage du mazout comme moyen de chauffage (09/POS/132)- Vassilis Venizelos demandant l'inscription dans la loi d'une conception cantonale en matière d'énergie (09/POS/164)- Yves Ferrari : après le peuple, le Grand Conseil le Conseil d'Etat aura-t-il enfin une politique énergétique en faveur des renouvelables ? (09/POS/172)- Régis Courdesse demandant une fiscalité pour encourager l'assainissement énergétique des bâtiments (10/POS/178)- Jacques Perrin et consorts pour la création d'une coopérative solaire permettant d'encourager la pose de capteurs photovoltaïques (10/POS/217)- Fabienne Freymond Cantone pour une augmentation substantielle de la production d'énergies renouvelables dans le canton de Vaud (10/POS/225)- Philippe Martinet et consorts pour un plan d'action rapide conduisant à mieux utiliser l'énergie (11/POS/245)",
+      "auteurs": [
+        {
+          "nom": "Michel Renaud",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Yves Ferrari",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-10-29"
+      },
+      "derniere_etape": "2013-10-29",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5425,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_RAP_463",
+      "numero": "12_RAP_463",
+      "type": "Rapport",
+      "depose": "2012-05-29",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Nuria Gorrite et consorts concernant l'informatique et l'information lors des élections fédérales du 23 octobre 2011- derrière le bug de la DSI, le chaos au SECRI et Réponse à l'interpellation Jean-Marie Surer et consorts - Le bug de l'informatique et le bug de l'information",
+      "auteurs": [
+        {
+          "nom": "Anne-Marie Depoisier",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Anne-Marie Depoisier",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-05-29"
+      },
+      "derniere_etape": "2012-05-29",
+      "communes": [
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5425,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_MOT_140",
+      "numero": "11_MOT_140",
+      "type": "Motion",
+      "depose": "2011-08-30",
+      "titre": "L'installation sur sol vaudois de parcs éoliens",
+      "auteurs": [
+        {
+          "nom": "Michel Renaud",
+          "parti": null
+        },
+        {
+          "nom": "Michel Renaud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2012-05-01"
+      },
+      "derniere_etape": "2012-05-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5765,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5425,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5537,
+          "origine": "document"
+        },
+        {
+          "ofs": 5929,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_179",
+      "numero": "9_LEG_179",
+      "type": "Décret/Loi",
+      "depose": "2009-10-06",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit-cadre de CHF 3'205'000.- pour la réhabilitation de la RC 34, de la RC 67 et de la RC 632",
+      "auteurs": [
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-11-17"
+      },
+      "derniere_etape": "2009-11-17",
+      "communes": [
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5425,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_POS_104",
+      "numero": "08_POS_104",
+      "type": "Postulat",
+      "depose": "2008-12-09",
+      "titre": "Au nom du groupe libéral visant à rebondir pour montrer aux Vaudois leur patrimoine des Beaux-Arts",
+      "auteurs": [
+        {
+          "nom": "Jean-Yves Pidoux",
+          "parti": "VER"
+        },
+        {
+          "nom": "Jean-Yves Pidoux",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2008-12-09"
+      },
+      "derniere_etape": "2008-12-09",
+      "communes": [
+        {
+          "ofs": 5464,
+          "origine": "document"
+        },
+        {
+          "ofs": 5425,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

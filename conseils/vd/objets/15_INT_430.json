@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223507,
+  "numero": "15_INT_430",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-06-07"
+  },
+  "depose": "2015-09-22",
+  "titre": "Manque d'infrastructure sur le site de marchandise douanier de Chavornay",
+  "contributeurs": [
+    {
+      "nom": "Pierre Guignard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierre Guignard",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-09-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-10-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-06-07",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-06-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_430_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-09-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_430_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-7-juin-2016/reponse-du-conseil-detat-a-linterpellation-pierre-guignard-manque-dinfrastructure-sur-le-site-de-marchandise-douanier-de-chavornay",
+  "communes": [
+    {
+      "ofs": 5749,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5764,
+      "origine": "document"
+    }
+  ]
+}

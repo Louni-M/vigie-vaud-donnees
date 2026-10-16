@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221500,
+  "numero": "08_POS_051",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2008-08-26"
+  },
+  "depose": "2008-08-26",
+  "titre": "Violence au CHUV, fatalité",
+  "contributeurs": [
+    {
+      "nom": "Lise Peters",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Lise Peters",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-08-26",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet et développement",
+      "date": "2008-08-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_02_septembre_2008/08_POS_051_Objet.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-08-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_02_septembre_2008/08_POS_051_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-26-aout-2008/postulat-beatrice-metraux",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5725,
+      "origine": "document"
+    }
+  ]
+}

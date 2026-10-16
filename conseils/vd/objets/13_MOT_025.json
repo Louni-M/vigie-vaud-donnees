@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223025,
+  "numero": "13_MOT_025",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2014-03-18"
+  },
+  "depose": "2013-05-21",
+  "titre": "Compétence de prononcer une interdiction de périmètre pour les juges de paix de tous les districts",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Mattenberger",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Mattenberger",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-05-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-05-21",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-03-18",
+      "libelle": "Zurückgewiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-01-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_025_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-01-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_025_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-05-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_025_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-18-mars-2014/motion-claudine-wyssa-et-consorts-competence-de-prononcer-une-interdiction-de-perimetre-pour-les-juges-de-paix-de-tous-les-districts",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5624,
+      "origine": "document"
+    }
+  ]
+}

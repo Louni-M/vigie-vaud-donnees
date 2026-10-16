@@ -1,0 +1,465 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5489,
+  "objets": [
+    {
+      "cle": "vd/24_INT_98",
+      "numero": "24_INT_98",
+      "type": "Interpellation",
+      "depose": "2024-05-21",
+      "titre": "Une arnaque pseudoscientifique à 11'050 € vendue par une entreprise vaudoise au profit d’un gourou russe – comment le canton peut-il agir ?",
+      "auteurs": [
+        {
+          "nom": "Théophile Schenker",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2025-09-16"
+      },
+      "derniere_etape": "2025-09-16",
+      "communes": [
+        {
+          "ofs": 5489,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/25_LEG_79",
+      "numero": "25_LEG_79",
+      "type": "Décret/Loi",
+      "depose": "2025-08-26",
+      "titre": "Accordant au Conseil d'État un crédit d’investissement de CHF 24'690'000.00 pour financer l’achat d’une fraction du bien-fonds n°870 de la commune de Prilly sis à la Route des Flumeaux 50, propriété de SICPA SA",
+      "auteurs": [
+        {
+          "nom": "Julien Eggenberger",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": [
+        {
+          "ofs": 5589,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_LEG_190",
+      "numero": "24_LEG_190",
+      "type": "Décret/Loi",
+      "depose": "2025-08-20",
+      "titre": "EMPD Exposé des motifs et projet de décret sur le Plan d'intentions cantonal 2025-2028 des Hautes écoles vaudoises de type HES",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2025-08-20"
+      },
+      "derniere_etape": "2025-08-20",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5627,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_3",
+      "numero": "23_INT_3",
+      "type": "Interpellation",
+      "depose": "2023-01-17",
+      "titre": "Un Taxibus remodelé poussant à privilégier la voiture individuelle ?",
+      "auteurs": [
+        {
+          "nom": "David Raedler",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-04-05"
+      },
+      "derniere_etape": "2023-04-05",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5588,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        },
+        {
+          "ofs": 5648,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5523,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_396",
+      "numero": "15_INT_396",
+      "type": "Interpellation",
+      "depose": "2015-06-09",
+      "titre": "Curieux exemple de concentration en périphérie !",
+      "auteurs": [
+        {
+          "nom": "Martial De Montmollin",
+          "parti": null
+        },
+        {
+          "nom": "Martial De Montmollin",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-04-26"
+      },
+      "derniere_etape": "2016-04-26",
+      "communes": [
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_POS_073",
+      "numero": "14_POS_073",
+      "type": "Postulat",
+      "depose": "2014-06-03",
+      "titre": "Améliorer le contrôle financier des entités intercommunales",
+      "auteurs": [
+        {
+          "nom": "Jacques Perrin",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Jacques Perrin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2014-11-11"
+      },
+      "derniere_etape": "2014-11-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5471,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_INT_009",
+      "numero": "12_INT_009",
+      "type": "Interpellation",
+      "depose": "2012-09-04",
+      "titre": "Le Conseil d'Etat est-il prêt à adopter une attitude ferme et dissuasive à l'égard des gitans étrangers, ces visiteurs indésirables",
+      "auteurs": [
+        {
+          "nom": "François Brélaz",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-03-12"
+      },
+      "derniere_etape": "2013-03-12",
+      "communes": [
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5716,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5750,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_475",
+      "numero": "12_LEG_475",
+      "type": "Décret/Loi",
+      "depose": "2012-06-19",
+      "titre": "Exposé des motifs et projet de décret autorisant le Conseil d'Etat à engager un montant de CHF 12'000'000.- pour soutenir le Centre de formation vaudois de l'industrie et le Centre de formation de Bobst SA",
+      "auteurs": [
+        {
+          "nom": "Michel Desmeules",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-06-19"
+      },
+      "derniere_etape": "2012-06-19",
+      "communes": [
+        {
+          "ofs": 5489,
+          "origine": "document"
+        },
+        {
+          "ofs": 5589,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_179",
+      "numero": "9_LEG_179",
+      "type": "Décret/Loi",
+      "depose": "2009-10-06",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit-cadre de CHF 3'205'000.- pour la réhabilitation de la RC 34, de la RC 67 et de la RC 632",
+      "auteurs": [
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-11-17"
+      },
+      "derniere_etape": "2009-11-17",
+      "communes": [
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5425,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_178",
+      "numero": "9_LEG_178",
+      "type": "Décret/Loi",
+      "depose": "2009-06-16",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit-cadre de CHF 2'163'000.- pour l'assainissement du bruit routier des tronçons hors traversée de la RC 251, ainsi que la création de deux giratoires permettant l'accès à l'usine BOBST sur les RC 251 et RC 176 sur le territoire de la commune de Mex",
+      "auteurs": [
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-06-23"
+      },
+      "derniere_etape": "2009-06-23",
+      "communes": [
+        {
+          "ofs": 5489,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_177",
+      "numero": "9_LEG_177",
+      "type": "Décret/Loi",
+      "depose": "2009-06-16",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit cadre de CHF 12'700'000.- pour le renforcement au trafic 40t du solde des ouvrages de la RC 705a (Col des Mosses - axe 40t prioritaire)",
+      "auteurs": [
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-06-23"
+      },
+      "derniere_etape": "2009-06-23",
+      "communes": [
+        {
+          "ofs": 5489,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

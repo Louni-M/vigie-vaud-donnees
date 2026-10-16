@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224207,
+  "numero": "18_INT_120",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-02-12"
+  },
+  "depose": "2018-02-13",
+  "titre": "JOJ 2020 ; combien de sites seront-ils encore menacés ?",
+  "contributeurs": [
+    {
+      "nom": "José Durussel",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "José Durussel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-02-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-02-27",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-02-12",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-02-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_120_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-02-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_120_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-12-fevrier-2019/reponse-du-conseil-detat-a-linterpellation-jose-durussel-joj-2020-combien-de-sites-seront-ils-encore-menaces",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5872,
+      "origine": "document"
+    },
+    {
+      "ofs": 5407,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222754,
+  "numero": "12_MOT_004",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2013-03-12"
+  },
+  "depose": "2012-09-04",
+  "titre": "Interdisons la mendicité sur le territoire cantonal",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierre Grandjean",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-09-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-09-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-03-12",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2013-03-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_MOT_004_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2013-03-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_MOT_004_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2013-03-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_MOT_004_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-09-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_MOT_004_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-12-mars-2013/motion-francois-brelaz-intitulee-cessons-detre-naifs-interdisons-la-mendicite-sur-le-territoire-cantonal",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5451,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5464,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

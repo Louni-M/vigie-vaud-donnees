@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222001,
+  "numero": "22_HQU_95",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-10-11"
+  },
+  "depose": "2022-10-04",
+  "titre": "Vers un black-out téléphonique ?",
+  "contributeurs": [
+    {
+      "nom": "Aurélien Demaurex",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-10-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-10-11",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Temps",
+      "date": "2022-10-04",
+      "lien": "https://www.letemps.ch/economie/5g-swisscom-sunrise-salt-faches-lattitude-canton-vaud"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ea01b7e3-6b8b-43bc-a727-ffe6cd4f1047/meeting/1012636",
+  "communes": []
+}

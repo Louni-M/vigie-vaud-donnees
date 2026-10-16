@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 203021,
+  "numero": "16_INT_475",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-05-31"
+  },
+  "depose": "2016-02-02",
+  "titre": "On est les champions !",
+  "contributeurs": [
+    {
+      "nom": "Martial De Montmollin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Martial De Montmollin",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-02-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-02-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-05-31",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_475_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-02-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_475_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-31-mai-2016/reponse-du-conseil-detat-a-linterpellation-martial-de-montmollin-au-nom-du-groupe-des-verts-on-est-les-champions",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

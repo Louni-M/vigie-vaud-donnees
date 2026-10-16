@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222070,
+  "numero": "10_MOT_106",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2011-11-29"
+  },
+  "depose": "2010-04-20",
+  "titre": "Pour une rente-pont en faveur des seniors au bénéfice du revenu d'insertion",
+  "contributeurs": [
+    {
+      "nom": "Philippe Martinet",
+      "parti": "VER",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Rémy Pache",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Rémy Pache",
+      "parti": "LIB",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-04-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-04-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-11-29",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2011-11-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_106_RC_Min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2011-11-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_106_RC_Maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-09-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_106_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_106_Depot.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2011-09-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/288_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2011-09-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/288_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-29-novembre-2011/motion-christa-calpini-pour-une-rente-pont-en-faveur-des-seniors-au-benefice-du-revenu-dinsertion",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

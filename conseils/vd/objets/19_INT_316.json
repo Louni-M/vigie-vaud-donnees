@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224632,
+  "numero": "19_INT_316",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-03-10"
+  },
+  "depose": "2019-03-05",
+  "titre": "Manifestations et frais de sécurité : un duo à questionner",
+  "contributeurs": [
+    {
+      "nom": "Christelle Luisier Brodard",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Christelle Luisier Brodard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-03-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-03-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-08-28",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-03-10",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_316_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-03-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_316_depot.pdf"
+    },
+    {
+      "titre": "Manifestations et frais de sécurité",
+      "date": "2019-08-28",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=379878"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-10-mars-2020/reponse-du-conseil-detat-a-linterpellation-christelle-luisier-brodard-et-consorts-manifestations-et-frais-de-securite-un-duo-a-questionner",
+  "communes": [
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

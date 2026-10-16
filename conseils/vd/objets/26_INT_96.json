@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 340122,
+  "numero": "26_INT_96",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2026-08-25"
+  },
+  "depose": "2026-08-18",
+  "titre": "Urgence sur les chantiers de l'État : au prix de combien de vies humaines ?",
+  "contributeurs": [
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-08-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-08-25",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.vd.ch/actualites/actualite/news/26389-accident-de-travail-mortel-a-chavannes-pres-renens",
+      "date": "2026-08-18",
+      "lien": "https://www.vd.ch/actualites/actualite/news/26389-accident-de-travail-mortel-a-chavannes-pres-renens"
+    },
+    {
+      "titre": "https://www.rts.ch/audio-podcast/2026/audio/les-echos-de-vacarme-chantiers-pourquoi-tant-de-morts-29150999.html",
+      "date": "2026-08-18",
+      "lien": "https://www.rts.ch/audio-podcast/2026/audio/les-echos-de-vacarme-chantiers-pourquoi-tant-de-morts-29150999.html"
+    },
+    {
+      "titre": "https://www.20min.ch/fr/story/chavannes-pres-renens-un-accident-mortel-a-eu-lieu-sur-le-chantier-de-camps-sante-103583451",
+      "date": "2026-08-18",
+      "lien": "https://www.20min.ch/fr/story/chavannes-pres-renens-un-accident-mortel-a-eu-lieu-sur-le-chantier-de-camps-sante-103583451"
+    },
+    {
+      "titre": "https://lecourrier.ch/2026/06/18/mort-dun-ouvrier-au-campus-sante/",
+      "date": "2026-08-18",
+      "lien": "https://lecourrier.ch/2026/06/18/mort-dun-ouvrier-au-campus-sante/"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d1ce0ae3-9873-4f11-a0eb-50943330ad26/meeting/1033706",
+  "communes": [
+    {
+      "ofs": 5627,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 14224,
+  "date": "2024-04-23",
+  "nom": "Séance du Grand Conseil du mardi 23 avril 2024",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/detail-seance/seance-gc/1019566",
+  "ordre_du_jour": [
+    {
+      "numero": "2",
+      "titre": "Simple question Patrick Simonin - Changements d’affection et indemnisations, quel fonds ou quels fonds ?.",
+      "categorie": null,
+      "resultat": null,
+      "objet": "vd/24_QUE_36"
+    },
+    {
+      "numero": "3",
+      "titre": "Question orale Théophile Schenker au nom Les Vert·e·s - Quelles ressources pour accompagner les éleveurs qui sollicitent des chiens de protection des troupeaux ?.",
+      "categorie": null,
+      "resultat": "Terminée",
+      "objet": "vd/24_HQU_41"
+    },
+    {
+      "numero": "4",
+      "titre": "Interpellation Monique Hofstetter et consorts - Organiser une manifestation sportive ou culturelle dans le canton rime avec « galère ». (Pas de développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/24_INT_74"
+    },
+    {
+      "numero": "5",
+      "titre": "Interpellation Joëlle Minacci et consorts au nom d'Ensemble à gauche et POP - Comment mettre en œuvre une politique de protection et d’accompagnement socio-éducatif des MNA? (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/24_INT_68"
+    },
+    {
+      "numero": "6",
+      "titre": "Interpellation Yann Glayre et consorts au nom du groupe UDC - Un sauvetage historique pour une débâcle catastrophique (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/24_INT_69"
+    },
+    {
+      "numero": "7",
+      "titre": "Interpellation Pierre Zwahlen et consorts au nom du groupe Vert - en faveur des jeunes en risque de pauvreté (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/24_INT_70"
+    },
+    {
+      "numero": "8",
+      "titre": "Interpellation Aliette Rey-Marion et consorts - Simplifications administratives: pourquoi ne pas faire un voir deux pas de plus? (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/24_INT_71"
+    },
+    {
+      "numero": "9",
+      "titre": "Interpellation Julien Eggenberger et consorts - École professionnelle de Payerne : un autogoal pour la formation professionnelle ! (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/24_INT_72"
+    },
+    {
+      "numero": "10",
+      "titre": "Interpellation Patrick Simonin et consorts - Production indigène de produits de première nécessité, avons-nous appris ? (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/24_INT_73"
+    },
+    {
+      "numero": "11",
+      "titre": "Interpellation Mathilde Marendaz - Construire sans détruire : comment appliquer la sobriété énergétique aux matériaux de construction ? (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/24_INT_75"
+    },
+    {
+      "numero": "12",
+      "titre": "Interpellation Martine Gerber et consorts au nom au nom des Vert.e.s - élevage ovin vaudois: une filière agricole en difficulté (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/24_INT_76"
+    },
+    {
+      "numero": "13",
+      "titre": "Interpellation Guy Gaudard et consorts - Le \"Simplon\"a faillit couler : les responsabilités doivent être définies. (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/24_INT_77"
+    },
+    {
+      "numero": "14",
+      "titre": "Motion Yolanda Müller Chabloz et consorts - Moustiques, scarabées et frelons exotiques, même combat (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyée à commission",
+      "objet": "vd/24_MOT_23"
+    },
+    {
+      "numero": "15",
+      "titre": "Motion Loïc Bardet et consorts au nom Groupe PLR - Survie de la pêche professionnelle dans la région des Trois-Lacs (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyée à commission",
+      "objet": "vd/24_MOT_24"
+    },
+    {
+      "numero": "16",
+      "titre": "Résolution Hadrien Buclin et consorts - Les autorités vaudoises doivent elles aussi s’engager pour un cessez-le-feu à Gaza (Développement et mise en discussion avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Non prise en considération",
+      "objet": "vd/24_RES_6"
+    },
+    {
+      "numero": "17",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Jerome De Benedictis et consorts au nom du Groupe vert'libéral - Contradiction No 1 : encourager la transition énergétique tout en taxant la transition énergétique (23_INT_156).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "18",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation David Vogel et consorts au nom Groupe Vert'libéral - Contradiction 3 : Encourager la mobilité douce sans pouvoir déduire les investissements dans la mobilité douce qu’il faut encourager (23_INT_162).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "19",
+      "titre": "Postulat David Vogel et consorts au nom des Vert'libéraux - De l’importance de lutter concrètement contre le travail au noir.",
+      "categorie": null,
+      "resultat": "Retiré",
+      "objet": "vd/23_POS_67"
+    },
+    {
+      "numero": "20",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Géraldine Dubuis et consorts - Fondation et association anti-avortement d’utilité publique, une réalité vaudoise ? (23_INT_138).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "21",
+      "titre": "Postulat Charles Monod et consorts au nom PLR - Une mesure incitative pour que tous les nouveaux toits des habitations de notre canton produisent de l’énergie.",
+      "categorie": null,
+      "resultat": "Pris en considération",
+      "objet": "vd/23_POS_2"
+    },
+    {
+      "numero": "22",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Laurence Cretegny - Echange automatique de renseignements, quelles conséquences pour le canton de Vaud ? (17_INT_052).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "23",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Florence Gross et consorts - Indemnités de grève - quel traitement? (23_INT_82).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "24",
+      "titre": "Postulat Céline Misiego et consorts au nom EP - Pour la protection des abeilles sauvages.",
+      "categorie": null,
+      "resultat": "Pris en considération",
+      "objet": "vd/22_POS_66"
+    },
+    {
+      "numero": "25",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Pierre Fonjallaz et consorts - Vers une viticulture durable en développant les cépages résistants. (21_POS_18).",
+      "categorie": null,
+      "resultat": "Adopté par le GC",
+      "objet": "vd/22_RAP_5"
+    },
+    {
+      "numero": "26",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Pierre Fonjallaz - Cépages résistants, une subvention robuste (23_INT_44).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "27",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Maurice Neyroud et consorts - Pour que la viticulture vaudoise sorte du confinement (20_POS_213).",
+      "categorie": null,
+      "resultat": "Adopté par le GC",
+      "objet": "vd/21_RAP_33"
+    },
+    {
+      "numero": "28",
+      "titre": "EMPL Projet de modification de la loi sur la viticulture (LV) (1er débat).",
+      "categorie": null,
+      "resultat": "2ème débat requis",
+      "objet": "vd/23_LEG_77"
+    },
+    {
+      "numero": "29",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation David Raedler et consorts au nom Les Vert.e.s vaudois.e.s - Des circuits-courts à souffle court, voire à bout de souffle ? (23_INT_14).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "30",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Martine Gerber et consorts au nom Les Vert.e.s - La laine, une ressource agricole gaspillée ! (23_INT_41).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "31",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Pierre-François Mottier et consorts - Sécheresse 2022 - Le Jura Vaudois très touché (22_INT_174).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "32",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Anna Perret et consorts au nom du groupe des Vertes et des Verts - Un avenir pour les abattoirs locaux? (23_INT_42).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "33",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Pierre-François Mottier et consorts - Est-ce que les mesures de protection contre le loup priment sur la protection des animaux ? (23_INT_83).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "34",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Olivier Petermann et consorts - Le loup, un vecteur de maladie épizootiques ? (23_INT_84).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "35",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Anne-Lise Rime et consorts - Présence du loup et chiens de protection des troupeaux ; où en sommes-nous ? (23_INT_86).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "36",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Didier Lohri - Plan Loup 2024 (23_INT_175).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "37",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Didier Lohri - Plan Loup 2024 analyse et argent fédéral (23_INT_176).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "38",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation David Raedler et consorts au nom Les vert.e.s vaudois.e.s - Une ombre plane-t-elle sur les données cadastrales au détriment des agricultrices et agriculteurs? (23_INT_109).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "39",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Alexandre Berthoud et consorts - Promotion des vignobles vaudois à l’Aéroport international de Genève (23_INT_129).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "40",
+      "titre": "EMPD portant sur le dépôt d'une initiative cantonale auprès de l'Assemblée fédérale afin que la gestion des volumes et du prix soit réorganisée et redéfinie avec force obligatoire entre les interprofessions, les acheteurs et les transformateurs dans un objectif de transparence quantitative et de planification pour chaque année laitière",
+      "categorie": null,
+      "resultat": null,
+      "objet": "vd/22_LEG_11"
+    },
+    {
+      "numero": "41",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Pierre-Alain Urfer et consorts - Une identité commune forte pour les produits du terroir vaudois (16_POS_202).",
+      "categorie": null,
+      "resultat": "Renvoyé par manque de temps",
+      "objet": "vd/21_RAP_9"
+    },
+    {
+      "numero": "42",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Claire Attinger Doepper et consorts - Un label Vaudois : une valeur ajoutée à la production agricole de notre Canton (16_POS_209).",
+      "categorie": null,
+      "resultat": "Renvoyé par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "43",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Romain Pilloud et consorts au nom du groupe socialiste - Que sait-on du niveau de vie des Vaudois·es ? (23_INT_144).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "44",
+      "titre": "EMPD prolongeant d'un an le délai de traitement de l'initiative populaire \"Pour un congé parental vaudois\" (1er débat).",
+      "categorie": null,
+      "resultat": "Adopté par le GC",
+      "objet": "vd/23_LEG_46"
+    },
+    {
+      "numero": "45",
+      "titre": "Rapport annuel 2022-2023 de la commission interparlementaire de contrôle de l’hôpital Riviera-Chablais, Vaud-Valais (HRC).",
+      "categorie": null,
+      "resultat": "Traité-e",
+      "objet": "vd/23_PAR_12"
+    },
+    {
+      "numero": "46",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Claire Attinger Doepper et consorts - Quel appui pour atteindre le filet social ? (23_INT_100).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "47",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Isabelle Freymond - L'Aide du canton n'est pas pour tout le monde (19_INT_361).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "48",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Céline Misiego et consorts au nom EP - Comment s'occupe-t-on de nos personnes vieillissantes avec des problématiques en santé mentale ? (23_INT_161).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "49",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Vincent Keller - Hébergement d’urgence du SleepIn à Malley : quel avenir dans le futur quartier de Malley ? (23_INT_13).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "50",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Vincent Keller au nom du groupe EP - Interpellation hébergement d’urgence (23_INT_130).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "51",
+      "titre": "EMPD Exposé des motifs et projet de décret visant l'adoption d'un décret relatif aux mesures prises sur l'adaptation des structures d'hébergement et d'accompagnement médico-social, liées à la lutte contre la pandémie de coronavirus (COVID-19) (1er débat).",
+      "categorie": null,
+      "resultat": "Adopté par le GC",
+      "objet": "vd/23_LEG_54"
+    },
+    {
+      "numero": "52",
+      "titre": "Pétition L'augmentation des primes d'assurance maladie n'est pas une fatalité ! C'est l'affaire de toutes et tous !.",
+      "categorie": null,
+      "resultat": "Prise en considération",
+      "objet": "vd/23_PET_9"
+    },
+    {
+      "numero": "53",
+      "titre": "Postulat Florence Gross et consorts - La région Lausannoise n'aurait-elle pas besoin d'un hôpital de ville?.",
+      "categorie": null,
+      "resultat": "Pris en considération",
+      "objet": "vd/22_POS_50"
+    },
+    {
+      "numero": "54",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil l'interpellation Marion Wahlen et consorts - Urgences médicales : à quand une vraie coordination pour répondre aux besoins ? (22_INT_132).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "55",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Hadrien Buclin et consorts - Privatisation et sous-traitance de la chirurgie ambulatoire : un fiasco ! (22_INT_162).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "56",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Nicola Di Giulio et consorts - Des machines à sous à tuer le temps ayant remplacé les puzzles, les flippers et les mots croisés. Une sensibilisation aux addictions des jeux d’argent semble importante. (22_POS_63) et sur le Postulat Stéphane Montangero et consorts au nom du groupe socialiste - Dépendance aux jeux d'argent et aux jeux vidéo (notamment en ligne ) : faire jouer les compétences cantonales et miser sur un plan d'action coordonné et ambitieux (19_POS_171).",
+      "categorie": null,
+      "resultat": "Renvoyé par manque de temps",
+      "objet": "vd/23_RAP_10"
+    },
+    {
+      "numero": "57",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Géraldine Dubuis et consorts - A quand un ou une délégué-e au handicap ? (23_INT_142).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "58",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil - RAPPORT COMPLEMENTAIRE - sur le postulat Werner Riesen et consorts - Pour un bon compromis suisse autour de la valeur du point tarifaire (VPT) (20_POS_201) - suite au refus du premier rapport.",
+      "categorie": null,
+      "resultat": "Renvoyé par manque de temps",
+      "objet": "vd/22_RAP_16"
+    },
+    {
+      "numero": "59",
+      "titre": "Initiative Jerome De Benedictis et consorts - Pour des communes libres du choix de leur système électoral (Développement et demande de prise en considération immédiate).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": "vd/24_INI_4"
+    }
+  ]
+}

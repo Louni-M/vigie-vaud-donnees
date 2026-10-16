@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223923,
+  "numero": "16_LEG_273",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-06-28"
+  },
+  "depose": "2016-06-14",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 5'350'000.-pour l'acquisition d'une parcelle d'environ 28'000 m2 à Romanel-sur-Lausanne, et l'autorisant à accorder sous conditions à la Commune de Lausanne un droit d'emption sur une fraction d'environ 8'100 m2 du bien-fonds no 2'568 de Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-06-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-06-21",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2016-06-28",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-06-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/273_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-06-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/273_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-28-juin-2016/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-dinvestissement-de-chf-5350000-pour-financer-lacquisition-dune-fraction-denviron-28000-m2-du-bien-fonds-n-222-de-romanel-sur-lausanne",
+  "communes": [
+    {
+      "ofs": 5592,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223548,
+  "numero": "15_LEG_227",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2015-09-29"
+  },
+  "depose": "2015-09-01",
+  "titre": "EMPD prolongeant d'un an le délai pour soumettre au vote populaire l'initiative « Interdisons la mendicité et l'exploitation de personnes à des fins de mendicité sur le territoire vaudois ! »",
+  "contributeurs": [
+    {
+      "nom": "Pierrette Roulet-Grin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierrette Roulet-Grin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierrette Roulet-Grin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-09-01",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2015-09-29",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-09-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/227_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-09-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/227_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-29-septembre-2015/empd-prolongeant-dun-an-le-delai-pour-soumettre-au-vote-populaire-linitiative-interdisons-la-mendicite-et-lexploitation-de-personnes-a-des-fins-de-mendicite-sur-le-territoire-vaudois",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5889,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

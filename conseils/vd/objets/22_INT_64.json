@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226371,
+  "numero": "22_INT_64",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-05-17"
+  },
+  "depose": "2022-05-10",
+  "titre": "Drame de Montreux : que fait l’Etat de Vaud pour protéger les jeunes entraînés dans des dérives sectaires ?",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-05-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-05-17",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "22_INT_64-Texte déposé",
+      "date": "2022-05-17",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2115136"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-06-13",
+      "lien": "https://www.sonomix.ch/live/gcvd/2541#8207"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/7f0a1bb7-bc6b-4841-a5d1-bac422dde25f/meeting/1013648",
+  "communes": [
+    {
+      "ofs": 5886,
+      "origine": "titre"
+    }
+  ]
+}

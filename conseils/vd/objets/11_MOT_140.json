@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222449,
+  "numero": "11_MOT_140",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2012-05-01"
+  },
+  "depose": "2011-08-30",
+  "titre": "L'installation sur sol vaudois de parcs éoliens",
+  "contributeurs": [
+    {
+      "nom": "Michel Renaud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Michel Renaud",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-08-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-10-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-05-01",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-03-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_140_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2012-03-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_140_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-08-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_140_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-1er-mai-2012/motion-bertrand-clot-concernant-linstallation-sur-sol-vaudois-de-parcs-eoliens",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5568,
+      "origine": "document"
+    },
+    {
+      "ofs": 5765,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5425,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    },
+    {
+      "ofs": 5537,
+      "origine": "document"
+    },
+    {
+      "ofs": 5929,
+      "origine": "document"
+    },
+    {
+      "ofs": 5480,
+      "origine": "document"
+    }
+  ]
+}

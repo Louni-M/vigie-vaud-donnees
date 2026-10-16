@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223323,
+  "numero": "14_MOT_047",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2014-11-11"
+  },
+  "depose": "2014-04-29",
+  "titre": "La connaissance systématique de l'appartenance religieuse des habitants vaudois",
+  "contributeurs": [
+    {
+      "nom": "Philippe Randin",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Randin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-04-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-05-13",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-11-11",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-10-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_047_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-10-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_047_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-05-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_047_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-11-novembre-2014/motion-filip-uffer-et-consorts-concernant-la-connaissance-systematique-de-lappartenance-religieuse-des-habitants-vaudois",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

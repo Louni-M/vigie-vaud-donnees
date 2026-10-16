@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228773,
+  "numero": "9_LEG_174",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-06-23"
+  },
+  "depose": "2009-06-09",
+  "titre": "Exposé des motifs et projet de loi sur l'interdiction de fumer dans les lieux publics (LIFLP). (traité à 14 heures)",
+  "contributeurs": [
+    {
+      "nom": "Claude-André Fardel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claude-André Fardel",
+      "parti": "RAD",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-06-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-06-09",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2009-06-16",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2009-06-23",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/174_Texte_CE.pdf"
+    },
+    {
+      "titre": "Tableau miroir après le 2ème débat",
+      "date": "2009-06-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/174_Tableau_apres_2eme_debat.pdf"
+    },
+    {
+      "titre": "Tableau miroir après le 1er débat",
+      "date": "2009-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/174_Tableau_apres_1er_debat.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/174_RC.pdf"
+    },
+    {
+      "titre": "Loi adoptée par le Grand Conseil le 23.06.09",
+      "date": "2009-06-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/174_loi_adoptee_version_finale.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-23-juin-2009/expose-des-motifs-et-projet-de-loi-sur-linterdiction-de-fumer-dans-les-lieux-publics",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

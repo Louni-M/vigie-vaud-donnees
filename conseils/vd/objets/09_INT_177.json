@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221567,
+  "numero": "09_INT_177",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2009-05-12"
+  },
+  "depose": "2009-01-20",
+  "titre": "Un meurtrier présumé serbe d'Epalinges et demandant comment les autorités ont géré son parcours",
+  "contributeurs": [
+    {
+      "nom": "François Brélaz",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "François Brélaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-01-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-01-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2009-05-12",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_177_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-01-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/09.01.15_Envoi_deputes/09_INT_177_Objet.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-12-mai-2009/reponse-du-conseil-detat-a-linterpellation-francois-brelaz",
+  "communes": [
+    {
+      "ofs": 5584,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

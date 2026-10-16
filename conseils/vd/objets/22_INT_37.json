@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226341,
+  "numero": "22_INT_37",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-04-26"
+  },
+  "depose": "2022-03-08",
+  "titre": "Pour un meilleur accès aux soins pour les femmes, notamment pour celles en situation précaire",
+  "contributeurs": [
+    {
+      "nom": "Nathalie Jaccard",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-03-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-03-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-04-26",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-03-15",
+      "lien": "https://www.sonomix.ch/live/gcvd/2072#571"
+    },
+    {
+      "titre": "Accès aux soins pour les femmes, dont celles en situation de précarité",
+      "date": "2023-04-26",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2172893"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/bed079ba-09f6-4c69-88af-2ef559e4080f/meeting/1013647",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226732,
+  "numero": "22_QUE_36",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-11-30"
+  },
+  "depose": "2022-09-13",
+  "titre": "Ne pas se laisser dépasser!",
+  "contributeurs": [
+    {
+      "nom": "Jean-Rémy Chevalley",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-09-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-11-30",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Préparatifs en vue d’une éventuelle pénurie d’électricité",
+      "date": "2022-11-30",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2148539"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5c4ae83c-6137-4d1b-8ebe-3fb01f515c72/meeting/1012632",
+  "communes": []
+}

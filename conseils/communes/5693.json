@@ -1,0 +1,1857 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5693,
+  "objets": [
+    {
+      "cle": "vd/24_INT_161",
+      "numero": "24_INT_161",
+      "type": "Interpellation",
+      "depose": "2024-11-12",
+      "titre": "Porcheries vaudoises : Quo va",
+      "auteurs": [
+        {
+          "nom": "Alberto Mocchi",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-08-19"
+      },
+      "derniere_etape": "2025-08-19",
+      "communes": [
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5535,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_POS_22",
+      "numero": "22_POS_22",
+      "type": "Postulat",
+      "depose": "2022-05-17",
+      "titre": "Pour ne pas regretter plus tard de s'être mis au service d'une collectivité : affiliation au deuxième pilier pour les municipales, municipaux, députées et députés",
+      "auteurs": [
+        {
+          "nom": "Yannick Maury",
+          "parti": "VER"
+        },
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2022-05-24"
+      },
+      "derniere_etape": "2022-05-24",
+      "communes": [
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5931,
+          "origine": "document"
+        },
+        {
+          "ofs": 5680,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5648,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_125",
+      "numero": "21_INT_125",
+      "type": "Interpellation",
+      "depose": "2021-09-28",
+      "titre": "Vendre ou ne pas vendre les objets patrimoniaux, telle est la question ?",
+      "auteurs": [
+        {
+          "nom": "Muriel Thalmann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2021-12-21"
+      },
+      "derniere_etape": "2021-12-21",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_RES_043",
+      "numero": "20_RES_043",
+      "type": "Résolution",
+      "depose": "2020-05-26",
+      "titre": "De l'exemplarité et de la solidarité de l'Etat de Vaud avec le travailleuses et travailleurs indigènes, ainsi que les PME vaudoises, face à la récession économique",
+      "auteurs": [
+        {
+          "nom": "Yann Glayre",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2020-06-30"
+      },
+      "derniere_etape": "2020-06-30",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5407,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5790,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5581,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_197",
+      "numero": "20_LEG_197",
+      "type": "Décret/Loi",
+      "depose": "2020-06-30",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit additionnel de CHF 562'944.20 pour le bouclement du crédit de CHF 2'200'000.- accordé par le Grand Conseil le 10 février 2004 pour la correction routière de la RC 537b entre Thierrens et la Cerjaulaz sur les communes de Thierrens, Neyruz et Moudon",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-06-30"
+      },
+      "derniere_etape": "2020-06-30",
+      "communes": [
+        {
+          "ofs": 5693,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5678,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_POS_205",
+      "numero": "16_POS_205",
+      "type": "Postulat",
+      "depose": "2016-11-15",
+      "titre": "Chauffage à bois : de l'effet contreproductif de certaines décisions destinées à préserver notre environnement, et de la nécessité d'étudier des mesures correctives",
+      "auteurs": [
+        {
+          "nom": "Fabienne Freymond Cantone",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée à commission",
+        "date": "2019-03-06"
+      },
+      "derniere_etape": "2019-03-06",
+      "communes": [
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5553,
+          "origine": "document"
+        },
+        {
+          "ofs": 5806,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5648,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5429,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_043",
+      "numero": "17_INT_043",
+      "type": "Interpellation",
+      "depose": "2017-10-03",
+      "titre": "Planification scolaire : pour que les villages restent des lieux vivants",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-02-19"
+      },
+      "derniere_etape": "2019-02-19",
+      "communes": [
+        {
+          "ofs": 5913,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5903,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5680,
+          "origine": "document"
+        },
+        {
+          "ofs": 5530,
+          "origine": "document"
+        },
+        {
+          "ofs": 5923,
+          "origine": "document"
+        },
+        {
+          "ofs": 5910,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_LEG_54",
+      "numero": "18_LEG_54",
+      "type": "Décret/Loi",
+      "depose": "2018-11-06",
+      "titre": "Exposé des motifs et projet de décret ordonnant la convocation des électeurs pour se prononcer sur l'initiative populaire « Pour un canton sans extraction d'hydrocarbures »",
+      "auteurs": [
+        {
+          "nom": "Jean-François Chapuisat",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Jean-François Chapuisat",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Transmise au CE",
+        "date": "2018-11-13"
+      },
+      "derniere_etape": "2018-11-13",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5863,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_MOT_037",
+      "numero": "18_MOT_037",
+      "type": "Motion",
+      "depose": "2018-05-01",
+      "titre": "Augmenter le pouvoir d'achat des contribuables vaudois par une baisse d'impôts de 3 points",
+      "auteurs": [
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2018-10-02"
+      },
+      "derniere_etape": "2018-10-02",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_LEG_50",
+      "numero": "18_LEG_50",
+      "type": "Décret/Loi",
+      "depose": "2018-03-27",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 14'500'000.- pour financer des travaux d'entretien de revêtements bitumineux, et maintenir la sécurité et la qualité des routes cantonales",
+      "auteurs": [
+        {
+          "nom": "Muriel Thalmann",
+          "parti": null
+        },
+        {
+          "nom": "Muriel Thalmann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2018-03-27"
+      },
+      "derniere_etape": "2018-03-27",
+      "communes": [
+        {
+          "ofs": 5643,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_LEG_13",
+      "numero": "18_LEG_13",
+      "type": "Décret/Loi",
+      "depose": "2018-01-16",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 4'500'000.- pour financer des travaux d'assainissement de trois routes cantonales : RC 58 Etoy-Lavigny, RC 533 Neyruz-Denezy et RC 790 Aigle-Ollon (route Industrielle)",
+      "auteurs": [
+        {
+          "nom": "Muriel Thalmann",
+          "parti": null
+        },
+        {
+          "nom": "Muriel Thalmann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2018-01-16"
+      },
+      "derniere_etape": "2018-01-16",
+      "communes": [
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_RAP_269",
+      "numero": "16_RAP_269",
+      "type": "Rapport",
+      "depose": "2016-06-21",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur les postulats Jean-Michel Dolivo et consorts demandant si le canton de Vaud réhabilitera les personnes détenues administrativement entre les années 1930 et 1980",
+      "auteurs": [
+        {
+          "nom": "Michel Collet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Michel Collet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2016-06-21"
+      },
+      "derniere_etape": "2016-06-21",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_LEG_296",
+      "numero": "16_LEG_296",
+      "type": "Décret/Loi",
+      "depose": "2016-05-24",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 4'479'000.- pour financer les travaux de reconstruction du pont en Marin situé au croisement entre la RC 559 et la RC 601 (route de Berne), à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2016-05-24"
+      },
+      "derniere_etape": "2016-05-24",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_PET_042",
+      "numero": "15_PET_042",
+      "type": "Pétition",
+      "depose": "2015-09-29",
+      "titre": "Pétition NON aux explorations et exploitations d'hydrocarbures dans le Canton de Vaud !",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-02-09"
+      },
+      "derniere_etape": "2016-02-09",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_MOT_071",
+      "numero": "15_MOT_071",
+      "type": "Motion",
+      "depose": "2015-09-01",
+      "titre": "Stop aux recherches d'hydrocarbures",
+      "auteurs": [
+        {
+          "nom": "Fabienne Despot",
+          "parti": null
+        },
+        {
+          "nom": "Fabienne Despot",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-02-09"
+      },
+      "derniere_etape": "2016-02-09",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5501,
+          "origine": "document"
+        },
+        {
+          "ofs": 5540,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5539,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_303",
+      "numero": "14_INT_303",
+      "type": "Interpellation",
+      "depose": "2014-10-28",
+      "titre": "Gaz, moratoire ou passoire ?",
+      "auteurs": [
+        {
+          "nom": "Michel Collet",
+          "parti": null
+        },
+        {
+          "nom": "Michel Collet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-04-21"
+      },
+      "derniere_etape": "2015-04-21",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5540,
+          "origine": "document"
+        },
+        {
+          "ofs": 5501,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_RAP_184",
+      "numero": "15_RAP_184",
+      "type": "Rapport",
+      "depose": "2015-03-03",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Jacques Chollet et consorts demandant de renforcer dans notre canton les moyens de lutte contre le surendettement de la personne et des ménages privés",
+      "auteurs": [
+        {
+          "nom": "Serge Melly",
+          "parti": "LIBRE"
+        },
+        {
+          "nom": "Serge Melly",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2015-03-03"
+      },
+      "derniere_etape": "2015-03-03",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/03_INT_124",
+      "numero": "03_INT_124",
+      "type": "Interpellation",
+      "depose": "2014-10-07",
+      "titre": "Sur l'avenir des maisons rurales vaudoises",
+      "auteurs": [
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-10-07"
+      },
+      "derniere_etape": "2014-10-07",
+      "communes": [
+        {
+          "ofs": 5693,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_LEG_149",
+      "numero": "14_LEG_149",
+      "type": "Décret/Loi",
+      "depose": "2014-06-17",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 18'600'000.- pour financer le réaménagement de la route RC 422-B-P entre Cronay et la rivière de la Menthue, sur le territoire de la commune de Cronay",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2014-06-17"
+      },
+      "derniere_etape": "2014-06-17",
+      "communes": [
+        {
+          "ofs": 5910,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5913,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5932,
+          "origine": "document"
+        },
+        {
+          "ofs": 5925,
+          "origine": "document"
+        },
+        {
+          "ofs": 5926,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_RAP_102",
+      "numero": "13_RAP_102",
+      "type": "Rapport",
+      "depose": "2013-11-26",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Jean-François Cachin et consorts - Il ne s'agit pas de prévoir le futur, mais d'être préparé au futur",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-11-26"
+      },
+      "derniere_etape": "2013-11-26",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5485,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_POS_018",
+      "numero": "13_POS_018",
+      "type": "Postulat",
+      "depose": "2013-02-26",
+      "titre": "Demandant si le canton de Vaud réhabilitera les personnes détenues administrativement entre les années 1930 et 1980",
+      "auteurs": [
+        {
+          "nom": "Jean-Luc Chollet",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Jean-Luc Chollet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2013-09-03"
+      },
+      "derniere_etape": "2013-09-03",
+      "communes": [
+        {
+          "ofs": 5693,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_INT_002",
+      "numero": "12_INT_002",
+      "type": "Interpellation",
+      "depose": "2012-08-28",
+      "titre": "Après Thierrens, quel calendrier pour le contrôle de la sécurité des bâtiments scolaires?",
+      "auteurs": [
+        {
+          "nom": "Catherine Labouchère",
+          "parti": null
+        },
+        {
+          "nom": "Catherine Labouchère",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-01-22"
+      },
+      "derniere_etape": "2013-01-22",
+      "communes": [
+        {
+          "ofs": 5693,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_472",
+      "numero": "12_LEG_472",
+      "type": "Décret/Loi",
+      "depose": "2012-06-12",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des Communes Chanéaz, Chapelle-sur-Moudon, Correvon, Denezy, Martherenges, Neyruz-sur-Moudon, Peyres-Possens, Saint-Cierges, Thierrens (Montanaire) etProjets de lois modifiant- la loi du 30 mai 2006 sur le découpage territorial et- la loi du 28 février 1956 sur les communes",
+      "auteurs": [
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": null
+        },
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-06-12"
+      },
+      "derniere_etape": "2012-06-12",
+      "communes": [
+        {
+          "ofs": 5693,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_365",
+      "numero": "11_LEG_365",
+      "type": "Décret/Loi",
+      "depose": "2011-04-05",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Champvent, Essert-sous-Champvent et Villars-sous-Champvent (Champvent)",
+      "auteurs": [
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-04-05"
+      },
+      "derniere_etape": "2011-04-05",
+      "communes": [
+        {
+          "ofs": 5905,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5913,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_364",
+      "numero": "11_LEG_364",
+      "type": "Décret/Loi",
+      "depose": "2011-04-05",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Servion et Les Cullayes (Servion)",
+      "auteurs": [
+        {
+          "nom": "Eric Sonnay",
+          "parti": null
+        },
+        {
+          "nom": "Eric Sonnay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-04-05"
+      },
+      "derniere_etape": "2011-04-05",
+      "communes": [
+        {
+          "ofs": 5799,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5806,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5803,
+          "origine": "document"
+        },
+        {
+          "ofs": 5792,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5790,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_363",
+      "numero": "11_LEG_363",
+      "type": "Décret/Loi",
+      "depose": "2011-04-05",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Donneloye et Prahins (Donneloye)",
+      "auteurs": [
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-04-05"
+      },
+      "derniere_etape": "2011-04-05",
+      "communes": [
+        {
+          "ofs": 5913,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5541,
+          "origine": "document"
+        },
+        {
+          "ofs": 5903,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_362",
+      "numero": "11_LEG_362",
+      "type": "Décret/Loi",
+      "depose": "2011-04-05",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Bussigny-sur-Oron, Châtillens, Chesalles-sur-Oron, Ecoteaux, Les Tavernes, Les Thioleyres, Oron-la-Ville, Oron-le-Châtel, Palézieux et Vuibroye (Oron)",
+      "auteurs": [
+        {
+          "nom": "Eric Sonnay",
+          "parti": null
+        },
+        {
+          "nom": "Eric Sonnay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-04-05"
+      },
+      "derniere_etape": "2011-04-05",
+      "communes": [
+        {
+          "ofs": 5805,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5790,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_316",
+      "numero": "10_LEG_316",
+      "type": "Décret/Loi",
+      "depose": "2010-11-09",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Lucens et Oulens-sur-Lucens (Lucens )",
+      "auteurs": [
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-11-09"
+      },
+      "derniere_etape": "2010-11-09",
+      "communes": [
+        {
+          "ofs": 5675,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5831,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5830,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_315",
+      "numero": "10_LEG_315",
+      "type": "Décret/Loi",
+      "depose": "2010-11-09",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Cerniaz, Combremont-le-Grand, Combremont-le-Petit, Granges-près-Marnand, Marnand, Sassel, Seigneux et Villars-Bramard (Valbroye)",
+      "auteurs": [
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-11-09"
+      },
+      "derniere_etape": "2010-11-09",
+      "communes": [
+        {
+          "ofs": 5831,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5830,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5671,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5819,
+          "origine": "document"
+        },
+        {
+          "ofs": 5828,
+          "origine": "document"
+        },
+        {
+          "ofs": 5812,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_314",
+      "numero": "10_LEG_314",
+      "type": "Décret/Loi",
+      "depose": "2010-11-09",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes d'Avenches et Oleyres (Avenches)",
+      "auteurs": [
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": null
+        },
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-11-09"
+      },
+      "derniere_etape": "2010-11-09",
+      "communes": [
+        {
+          "ofs": 5451,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5458,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_318",
+      "numero": "10_LEG_318",
+      "type": "Décret/Loi",
+      "depose": "2010-10-12",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Montaubion-Chardonney, Peney-le-Jorat, Sottens, Villars-Mendraz et Villars-Tiercelin (Jorat-Menthue)",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-12"
+      },
+      "derniere_etape": "2010-10-12",
+      "communes": [
+        {
+          "ofs": 5804,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5540,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5533,
+          "origine": "document"
+        },
+        {
+          "ofs": 5541,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_317",
+      "numero": "10_LEG_317",
+      "type": "Décret/Loi",
+      "depose": "2010-10-12",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Gressy et Yverdon-les-Bains (Yverdon-les-Bains)",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-12"
+      },
+      "derniere_etape": "2010-10-12",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5828,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_293",
+      "numero": "10_LEG_293",
+      "type": "Décret/Loi",
+      "depose": "2010-10-12",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes d'Eclagnens, Goumoens-la-Ville et Goumoens-le-Jux (Goumoëns)",
+      "auteurs": [
+        {
+          "nom": "Béatrice Métraux",
+          "parti": null
+        },
+        {
+          "nom": "Béatrice Métraux",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-12"
+      },
+      "derniere_etape": "2010-10-12",
+      "communes": [
+        {
+          "ofs": 5541,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5531,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5537,
+          "origine": "document"
+        },
+        {
+          "ofs": 5535,
+          "origine": "document"
+        },
+        {
+          "ofs": 5903,
+          "origine": "document"
+        },
+        {
+          "ofs": 5761,
+          "origine": "document"
+        },
+        {
+          "ofs": 5746,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_292",
+      "numero": "10_LEG_292",
+      "type": "Décret/Loi",
+      "depose": "2010-10-12",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Dommartin, Naz, Poliez-le-Grand et Sugnens (Montilliez)",
+      "auteurs": [
+        {
+          "nom": "Béatrice Métraux",
+          "parti": null
+        },
+        {
+          "nom": "Béatrice Métraux",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-12"
+      },
+      "derniere_etape": "2010-10-12",
+      "communes": [
+        {
+          "ofs": 5540,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5533,
+          "origine": "document"
+        },
+        {
+          "ofs": 5514,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_291",
+      "numero": "10_LEG_291",
+      "type": "Décret/Loi",
+      "depose": "2010-10-12",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes d'Aubonne et Pizy (Aubonne)",
+      "auteurs": [
+        {
+          "nom": "Valérie Schwaar",
+          "parti": null
+        },
+        {
+          "nom": "Valérie Schwaar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-12"
+      },
+      "derniere_etape": "2010-10-12",
+      "communes": [
+        {
+          "ofs": 5422,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5427,
+          "origine": "document"
+        },
+        {
+          "ofs": 5792,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_278",
+      "numero": "10_LEG_278",
+      "type": "Décret/Loi",
+      "depose": "2010-10-12",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des commuens de Bellerive, Chabrey, Constantine, Montmagny, Mur, Vallamand et Villars-le-Grand (Vully-Les-Lacs)",
+      "auteurs": [
+        {
+          "nom": "Frédéric Haenni",
+          "parti": "RAD"
+        },
+        {
+          "nom": "Frédéric Haenni",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-12"
+      },
+      "derniere_etape": "2010-10-12",
+      "communes": [
+        {
+          "ofs": 5464,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_339",
+      "numero": "10_INT_339",
+      "type": "Interpellation",
+      "depose": "2010-02-16",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation José Durussel intitulée Les pare-neiges de l'Etat de Vaud restent aux dépôts",
+      "auteurs": [
+        {
+          "nom": "José Durussel",
+          "parti": "UDC"
+        },
+        {
+          "nom": "José Durussel",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-09-28"
+      },
+      "derniere_etape": "2010-09-28",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5913,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_283",
+      "numero": "10_LEG_283",
+      "type": "Décret/Loi",
+      "depose": "2010-06-22",
+      "titre": "Exposé des motifs et projet de décret accordant la garantie de l'Etat de Vaud et la prise en charge du service de la dette pour l'emprunt de CHF 10'566'339.-, contracté par l'Association du Centre Intercommunal de Santé l'Oasis (ACISO), pour le financement des travaux de transformation de l'ancien hôpital de Moudon en établissement médico-social",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-06-22"
+      },
+      "derniere_etape": "2010-06-22",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5673,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5688,
+          "origine": "document"
+        },
+        {
+          "ofs": 5692,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_MOT_042",
+      "numero": "08_MOT_042",
+      "type": "Motion",
+      "depose": "2008-06-17",
+      "titre": "Le financement de la gestion des déchets par les communes",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2009-02-03"
+      },
+      "derniere_etape": "2009-02-03",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5588,
+          "origine": "document"
+        },
+        {
+          "ofs": 5858,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/8_RAP_69",
+      "numero": "8_RAP_69",
+      "type": "Rapport",
+      "depose": "2008-07-01",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat de la commission de gestion à la suite du refus par le Grand Conseil de la deuxième réponse sur l'entretien du Château cantonal",
+      "auteurs": [
+        {
+          "nom": "Anne-Marie Depoisier",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Anne-Marie Depoisier",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2008-07-01"
+      },
+      "derniere_etape": "2008-07-01",
+      "communes": [
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

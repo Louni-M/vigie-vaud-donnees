@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225261,
+  "numero": "20_LEG_186",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2020-06-09"
+  },
+  "depose": "2020-05-26",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit de CHF 1'430'800.- pour le Projet de développement régional agricole « Filière Noix de la Broye et du Pied du Jura »",
+  "contributeurs": [
+    {
+      "nom": "Hugues Gander",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Hugues Gander",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Hugues Gander",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-05-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-06-09",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-05-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/186_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-05-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/186_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-9-juin-2020/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-de-chf-1430800-pour-le-projet-de-developpement-regional-agricole-filiere-noix-de-la-broye-et-du-pied-du-jura",
+  "communes": [
+    {
+      "ofs": 5656,
+      "origine": "document"
+    },
+    {
+      "ofs": 5492,
+      "origine": "document"
+    },
+    {
+      "ofs": 5674,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5813,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

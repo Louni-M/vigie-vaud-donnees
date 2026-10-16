@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221601,
+  "numero": "09_INT_243",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-03-16"
+  },
+  "depose": "2009-05-12",
+  "titre": "Si les condamnés vaudois échappent aussi à leur peine et se jouent des jours amendes",
+  "contributeurs": [
+    {
+      "nom": "Michaël Buffat",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Michaël Buffat",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-05-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-05-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-03-16",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_243_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-11-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_243_Texte_CE.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-03-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_243_Texte_CE_new.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-16-mars-2010/reponse-du-conseil-detat-a-linterpellation-michael-buffat-jours-amendes",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

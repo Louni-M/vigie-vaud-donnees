@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227033,
+  "numero": "23_INT_182",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-09-09"
+  },
+  "depose": "2023-12-05",
+  "titre": "L'habit ne fait-il plus le moine ?",
+  "contributeurs": [
+    {
+      "nom": "Eliane Desarzens",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-12-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-12-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-03-06",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-09-09",
+      "lien": "https://www.sonomix.ch/live/gcvd/3202#10095"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-12-12",
+      "lien": "https://www.sonomix.ch/live/gcvd/2687#75"
+    },
+    {
+      "titre": "Situation au Lycée-collège de l'Abbaye de Saint-Maurice",
+      "date": "2024-03-06",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2225899"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/48d45a93-4196-4512-b6aa-62494e33e3a0/meeting/1029635",
+  "communes": [
+    {
+      "ofs": 5871,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

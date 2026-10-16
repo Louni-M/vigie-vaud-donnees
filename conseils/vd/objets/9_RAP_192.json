@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 202121,
+  "numero": "9_RAP_192",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2009-11-24"
+  },
+  "depose": "2009-11-24",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Nicolas Mattenberger et consorts tendant à ce que le délai de prescription de droit public vaudois en matière de responsabilité médicale soit fixé à cinq ans dès la connaissance du dommage et en tout cas dix ans dès l'acte dommageable",
+  "contributeurs": [
+    {
+      "nom": "Rémy Jaquier",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Rémy Jaquier",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Rémy Jaquier",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-11-24",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-11-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/192_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-11-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/192_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-24-novembre-2009/rapport-du-conseil-detat-sur-le-postulat-nicolas-mattenberger",
+  "communes": [
+    {
+      "ofs": 5412,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228718,
+  "numero": "19_INT_411",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-06-16"
+  },
+  "depose": "2019-10-29",
+  "titre": "Proverbe russe : Nous regardons le même soleil, mais nous ne mangeons pas le même dîner",
+  "contributeurs": [
+    {
+      "nom": "Didier Lohri",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-10-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-03-04",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-06-16",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_411_TexteCE.pdf"
+    },
+    {
+      "titre": "Formulaire cantonal d'annonce de pose des panneaux solaires",
+      "date": "2020-03-04",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=397098"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-16-juin-2020/reponse-du-conseil-detat-a-linterpellation-didier-lohri-proverbe-russe-nous-regardons-le-meme-soleil-mais-nous-ne-mangeons-pas-le-meme-diner",
+  "communes": [
+    {
+      "ofs": 5565,
+      "origine": "document"
+    },
+    {
+      "ofs": 5551,
+      "origine": "document"
+    }
+  ]
+}

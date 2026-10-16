@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224468,
+  "numero": "18_PET_023",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2019-06-04"
+  },
+  "depose": "2018-10-02",
+  "titre": "Pétition Sauvez Chasseron - Creux-du-Van",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2018-10-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-06-04",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-05-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_023_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-05-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_023_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-4-juin-2019/petition-sauvez-chasseron-creux-du-van",
+  "communes": [
+    {
+      "ofs": 5560,
+      "origine": "document"
+    },
+    {
+      "ofs": 5566,
+      "origine": "document"
+    },
+    {
+      "ofs": 5556,
+      "origine": "document"
+    },
+    {
+      "ofs": 5552,
+      "origine": "document"
+    },
+    {
+      "ofs": 5557,
+      "origine": "document"
+    },
+    {
+      "ofs": 5562,
+      "origine": "document"
+    },
+    {
+      "ofs": 5571,
+      "origine": "document"
+    },
+    {
+      "ofs": 5551,
+      "origine": "document"
+    },
+    {
+      "ofs": 5554,
+      "origine": "document"
+    }
+  ]
+}

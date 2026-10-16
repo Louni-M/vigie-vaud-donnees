@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224349,
+  "numero": "18_INT_265",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-05-07"
+  },
+  "depose": "2018-11-27",
+  "titre": "Les moyens mis en oeuvre pour la dépollution de sites sont-ils suffisants ?",
+  "contributeurs": [
+    {
+      "nom": "Hadrien Buclin",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Hadrien Buclin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-11-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-12-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-04-03",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2019-05-07",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-04-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_265_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-12-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_265_depot.pdf"
+    },
+    {
+      "titre": "Dépollution des sites contaminés",
+      "date": "2019-04-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=374110"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-7-mai-2019/reponse-du-conseil-detat-a-linterpellation-hadrien-buclin-les-moyens-mis-en-oeuvre-pour-la-depollution-de-sites-sont-ils-suffisants",
+  "communes": [
+    {
+      "ofs": 5480,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5745,
+      "origine": "document"
+    },
+    {
+      "ofs": 5727,
+      "origine": "document"
+    },
+    {
+      "ofs": 5760,
+      "origine": "document"
+    }
+  ]
+}

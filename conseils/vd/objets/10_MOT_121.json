@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222084,
+  "numero": "10_MOT_121",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2012-03-06"
+  },
+  "depose": "2010-12-14",
+  "titre": "Demandant que la loi sur le marchepied le long des lacs et sur les plans riverains (LML) soit modifiée afin de faciliter la réalisation des objectifs du Plan directeur des rives vaudoises du lac Léman",
+  "contributeurs": [
+    {
+      "nom": "Jacques Nicolet",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-12-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-12-14",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-03-06",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2011-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_121_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2011-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_121_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_121_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-12-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_121_Depot_bis.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-6-mars-2012/motion-jean-michel-favez-modifier-la-loi-sur-le-marchepied-le-long-des-lacs-et-sur-les-plans-riverains-afin-de-faciliter-la-realisation-des-objectifs-du-plan-directeur-des-rives-vaudoises-du-lac-leman",
+  "communes": [
+    {
+      "ofs": 5889,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

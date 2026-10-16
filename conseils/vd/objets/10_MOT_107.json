@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222071,
+  "numero": "10_MOT_107",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-10-12"
+  },
+  "depose": "2010-05-04",
+  "titre": "Le séquestre d'animaux en fourrière",
+  "contributeurs": [
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-05-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-05-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-10-12",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-10-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_107_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-10-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_107_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2010-05-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_107_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-12-octobre-2010/motion-pierre-zwahlen-sequestre-danimaux-en-fourriere",
+  "communes": []
+}

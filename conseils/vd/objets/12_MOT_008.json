@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222758,
+  "numero": "12_MOT_008",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2013-06-18"
+  },
+  "depose": "2012-09-18",
+  "titre": "Nécessité d'une solution plus souple afin de favoriser la création de logements",
+  "contributeurs": [
+    {
+      "nom": "Isabelle Freymond",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Isabelle Freymond",
+      "parti": "IND",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Isabelle Freymond",
+      "parti": "IND",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-09-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-09-18",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-06-18",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2013-06-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_MOT_008_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2013-06-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_MOT_008_Rc_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement ",
+      "date": "2013-06-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_MOT_008_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-09-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_MOT_008_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-18-juin-2013/motion-christelle-luisier-brodard-concernant-la-mesure-a11-du-plan-directeur-cantonal-necessite-dune-solution-plus-souple-afin-de-favoriser-la-creation-de-logements",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

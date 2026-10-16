@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223752,
+  "numero": "16_INT_497",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-08-23"
+  },
+  "depose": "2016-04-19",
+  "titre": "L'étonnante délocalisation des examens voitures et motos à Cossonay !",
+  "contributeurs": [
+    {
+      "nom": "Denis Rubattel",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Denis Rubattel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-04-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-04-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-08-23",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_497_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-04-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_497_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-23-aout-2016/reponse-du-conseil-detat-a-linterpellation-denis-rubattel-letonnante-delocalisation-des-examens-voitures-et-motos-a-cossonay",
+  "communes": [
+    {
+      "ofs": 5477,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5481,
+      "origine": "document"
+    },
+    {
+      "ofs": 5611,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

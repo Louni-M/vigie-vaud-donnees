@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 29696,
+  "numero": "POS25/006",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Décision : Renvoi en commission",
+    "date": "2025-03-04"
+  },
+  "depose": "2025-02-04",
+  "titre": "Une ferme au lieu d'un golf",
+  "contributeurs": [
+    {
+      "nom": "Loris Socchi",
+      "parti": "EàG",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-02-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-02-04",
+      "libelle": "Décision : Renvoi en Municipalité"
+    },
+    {
+      "date": "2025-03-04",
+      "libelle": "Décision : Renvoi en commission"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de commission",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/0e/0e77c530e910473a814211ee42c9e22b.pdf"
+    },
+    {
+      "titre": "Postulat de Socchi Loris - Une ferme au lieu d'un golf.pdf",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/e8/e892e6d8668443829b592c4a61c42570.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/56/009c36c18dfa49a8888993845c9d5a56.htm",
+  "communes": []
+}

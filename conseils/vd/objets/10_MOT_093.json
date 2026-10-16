@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222055,
+  "numero": "10_MOT_093",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-11-16"
+  },
+  "depose": "2010-01-26",
+  "titre": "Demandant si le canton de Vaud est pingre avec ses handicapés",
+  "contributeurs": [
+    {
+      "nom": "Pierre-Alain Mercier",
+      "parti": "LIB",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre-Alain Mercier",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-01-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-01-26",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-11-16",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-11-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_093_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-11-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_093_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-01-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_093_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-16-novembre-2010/motion-catherine-roulet-demandant-si-le-canton-de-vaud-est-pingre-avec-ses-handicapes",
+  "communes": []
+}

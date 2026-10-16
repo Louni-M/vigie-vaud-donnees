@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223028,
+  "numero": "13_MOT_028",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2014-01-21"
+  },
+  "depose": "2013-09-24",
+  "titre": "Pour un engagement cantonal en faveur des secteurs formation du LHC et du LS. DECS,",
+  "contributeurs": [
+    {
+      "nom": "Jacques Perrin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jacques Perrin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-09-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-09-24",
+      "libelle": "Zurückgewiesen"
+    },
+    {
+      "date": "2014-01-21",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-01-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_028_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-01-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_028_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-09-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_028_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-21-janvier-2014/motion-philippe-martinet-pour-un-engagement-cantonal-en-faveur-des-secteurs-formation-du-lhc-et-du-ls",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    }
+  ]
+}

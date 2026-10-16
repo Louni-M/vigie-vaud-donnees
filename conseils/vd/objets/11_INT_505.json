@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222235,
+  "numero": "11_INT_505",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-03-13"
+  },
+  "depose": "2011-05-03",
+  "titre": "Quelle politique le Conseil d'Etat entend-il demander à ses délégué-e-s au sein des entreprises électriques ?",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Montangero",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-05-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-05-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-03-13",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-02-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_505_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-05-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_505_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-13-mars-2012/reponse-du-conseil-detat-a-linterpellation-stephane-montangero-quelle-politique-le-conseil-detat-entend-il-demander-a-ses-delegue-e-s-au-sein-des-entreprises-electriques",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

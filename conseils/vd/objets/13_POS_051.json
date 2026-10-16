@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223077,
+  "numero": "13_POS_051",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2015-09-01"
+  },
+  "depose": "2013-11-26",
+  "titre": "Augmentons le nombre des logopédistes collaborateurs de l'Etat !",
+  "contributeurs": [
+    {
+      "nom": "Jacques-André Haury",
+      "parti": "V'L",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jacques-André Haury",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "François Brélaz",
+      "parti": "UDC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-11-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-12-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-09-01",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2014-09-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_051_RC_min.PDF"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2014-09-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_051_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-09-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_051_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-11-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_051_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-1er-septembre-2015/postulat-francois-brelaz-augmentons-le-nombre-des-logopedistes-collaborateurs-de-letat-copie-1",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

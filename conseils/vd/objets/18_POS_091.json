@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224532,
+  "numero": "18_POS_091",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2018-12-11"
+  },
+  "depose": "2018-12-05",
+  "titre": "Accessibilité des documents : nouveau site et nouvelles options !",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-12-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-12-11",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_091_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_091_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-12-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_091_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2020-11-03",
+      "lien": "https://www.sonomix.ch/live/gcvd/1620#9571"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a9214283-fd82-4449-b68d-b9c768325632/meeting/1000533",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

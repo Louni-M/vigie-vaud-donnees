@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222080,
+  "numero": "10_MOT_117",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2011-09-27"
+  },
+  "depose": "2010-11-16",
+  "titre": "Demandant l'inscription dans la loi sur les finances (LFin) d'indicateurs permettant de mieux comprendre la démarche budgétaire et d'oeuvrer dans le sens de la continuité et de l'efficience de l'action étatique",
+  "contributeurs": [
+    {
+      "nom": "Pierre-Yves Rapaz",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre-Yves Rapaz",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-11-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-11-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-09-27",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-09-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_117_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-09-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_117_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-11-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_117_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-27-septembre-2011/motion-beatrice-metraux-demandant-linscription-dans-la-loi-sur-les-finances-dindicateurs-permettant-de-mieux-comprendre-la-demarche-budgetaire",
+  "communes": [
+    {
+      "ofs": 5514,
+      "origine": "document"
+    }
+  ]
+}

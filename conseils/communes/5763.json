@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5763,
+  "objets": [
+    {
+      "cle": "vd/25_QUE_41",
+      "numero": "25_QUE_41",
+      "type": "Simple question",
+      "depose": "2025-05-13",
+      "titre": "Quelles aides en cas d'attaques de loups sur un troupeau?",
+      "auteurs": [
+        {
+          "nom": "Denis Corboz",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2025-06-25"
+      },
+      "derniere_etape": "2025-06-25",
+      "communes": [
+        {
+          "ofs": 5763,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_158",
+      "numero": "20_LEG_158",
+      "type": "Décret/Loi",
+      "depose": "2020-01-14",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'étude de CHF 2'200'000.- pour financer la création d'un poste de contrôle avancé (PCA) et la sécurisation du Pôle pénitentiaire du nord vaudois (PPNV)",
+      "auteurs": [
+        {
+          "nom": "Claude Matter",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Claude Matter",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-01-21"
+      },
+      "derniere_etape": "2020-01-21",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5763,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

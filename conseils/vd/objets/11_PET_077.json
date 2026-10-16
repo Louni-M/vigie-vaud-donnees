@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222497,
+  "numero": "11_PET_077",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2012-06-05"
+  },
+  "depose": "2011-12-07",
+  "titre": "Pétition en faveur de la desserte du site de Cery par les transports publics",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2011-12-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-06-05",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_PET_077_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_PET_077_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-5-juin-2012/petition-en-faveur-de-la-desserte-du-site-de-cery-par-les-transports-publics",
+  "communes": [
+    {
+      "ofs": 5589,
+      "origine": "document"
+    }
+  ]
+}

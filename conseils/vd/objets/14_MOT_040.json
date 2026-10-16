@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223317,
+  "numero": "14_MOT_040",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2015-02-17"
+  },
+  "depose": "2014-02-11",
+  "titre": "Pour la transparence des rémunérations dans le secteur subventionné vaudois",
+  "contributeurs": [
+    {
+      "nom": "Cédric Pillonel",
+      "parti": "VER",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-02-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-03-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-02-17",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2014-11-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_040_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2014-11-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_040_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-11-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_040_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-02-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_040_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-17-fevrier-2015/motion-jean-michel-dolivo-et-consorts-pour-la-transparence-des-remunerations-dans-le-secteur-subventionne-vaudois",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224693,
+  "numero": "19_INT_376",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-03-03"
+  },
+  "depose": "2019-06-25",
+  "titre": "Un mur d'incompréhension à Bourg-en-Lavaux",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-06-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-06-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-09-11",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-03-03",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_376_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-06-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_376_depot.pdf"
+    },
+    {
+      "titre": "Un mur indispensable pour la sécurité, et respectueux du site",
+      "date": "2019-09-11",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=386582"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-3-mars-2020/reponse-du-conseil-detat-a-linterpellation-jerome-christen-un-mur-dincomprehension-a-bourg-en-lavaux",
+  "communes": [
+    {
+      "ofs": 5613,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222478,
+  "numero": "11_MOT_154",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2013-01-29"
+  },
+  "depose": "2011-12-20",
+  "titre": "Demandant une ouverture plus large de l'exercice des droits populaires au sein des communes vaudoises",
+  "contributeurs": [
+    {
+      "nom": "Jacques-André Haury",
+      "parti": "V'L",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jacques-André Haury",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-12-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-12-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-01-29",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/455_RC.pdf"
+    },
+    {
+      "titre": "Objet et developpement",
+      "date": "2013-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_154_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-12-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_154_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-29-janvier-2013/motion-claude-alain-voiblet-demandant-une-ouverture-plus-large-de-lexercice-des-droits-populaires-au-sein-des-communes-vaudoises",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228080,
+  "numero": "25_HQU_41",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2025-04-08"
+  },
+  "depose": "2025-04-01",
+  "titre": "Que couvre exactement le montant de 118 millions ouvert à l'ACI suite à une séparation?",
+  "contributeurs": [
+    {
+      "nom": "Muriel Thalmann",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-04-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-04-08",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-04-08",
+      "lien": "https://www.sonomix.ch/live/gcvd/3100#324"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/3466bca6-18c5-45ab-bf2d-4fa82bca2445/meeting/1026885",
+  "communes": []
+}

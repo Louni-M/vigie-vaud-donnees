@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225140,
+  "numero": "20_INT_41",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-07-07"
+  },
+  "depose": "2020-10-27",
+  "titre": "Éventrer le Mormont : ça suffit !",
+  "contributeurs": [
+    {
+      "nom": "Pierre Zwahlen",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-10-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-11-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-07-07",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-10-12",
+      "lien": "https://www.sonomix.ch/live/gcvd/1943#3312"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2020-11-03",
+      "lien": "https://www.sonomix.ch/live/gcvd/1612#7447"
+    },
+    {
+      "titre": "Approvisionnement en ciment et extension de la carrière du Mormont",
+      "date": "2021-07-07",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2065799"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/accee74d-bf78-4a2a-9ccc-55a828130aa9/meeting/1004409",
+  "communes": [
+    {
+      "ofs": 5482,
+      "origine": "document"
+    },
+    {
+      "ofs": 5498,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    }
+  ]
+}

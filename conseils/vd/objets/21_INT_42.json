@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225672,
+  "numero": "21_INT_42",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-11-17"
+  },
+  "depose": "2021-03-23",
+  "titre": "Une Municipalité peut-elle descendre dans le caniveau pour faire campagne?",
+  "contributeurs": [
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-03-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-04-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-11-17",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-12-21",
+      "lien": "https://www.sonomix.ch/live/gcvd/2002#6242"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-04-20",
+      "lien": "https://www.sonomix.ch/live/gcvd/1803#1520"
+    },
+    {
+      "titre": "Légalité d'un tous-ménages",
+      "date": "2021-11-17",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2086537"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f84e23e8-90db-4250-95e7-e3e4cb888a64/meeting/1004423",
+  "communes": [
+    {
+      "ofs": 5482,
+      "origine": "document"
+    },
+    {
+      "ofs": 5649,
+      "origine": "document"
+    }
+  ]
+}

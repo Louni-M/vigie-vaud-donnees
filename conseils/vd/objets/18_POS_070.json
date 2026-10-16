@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224515,
+  "numero": "18_POS_070",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-10-28"
+  },
+  "depose": "2018-08-28",
+  "titre": "Approvisionnement d'eau sur les pâturages vaudois, des solutions naturelles pour l'avenir",
+  "contributeurs": [
+    {
+      "nom": "Patrick Simonin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Patrick Simonin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-08-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-08-27",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-10-28",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-05-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_070_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-05-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_070_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-09-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_070_depot.pdf"
+    },
+    {
+      "titre": "Approvisionnement en eau des pâturages vaudois",
+      "date": "2020-10-28",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2015803"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-27-aout-2019/postulat-jose-durussel-et-consorts-approvisionnement-deau-sur-les-paturages-vaudois-des-solutions-naturelles-pour-lavenir",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5561,
+      "origine": "document"
+    },
+    {
+      "ofs": 5566,
+      "origine": "document"
+    },
+    {
+      "ofs": 5703,
+      "origine": "document"
+    }
+  ]
+}

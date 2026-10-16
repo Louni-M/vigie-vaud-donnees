@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 327363,
+  "numero": "26_HQU_79",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2026-05-12"
+  },
+  "depose": "2026-05-05",
+  "titre": "Attribution et suivi des mandats au sein du DADN : des pratiques qui interrogent",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Cala",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-05-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-05-05",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Erledigt"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.vd.ch/fileadmin/user_upload/accueil/fichiers_pdf/2026_avril_actus/Rapport_enqu%C3%AAte_Meylan.pdf",
+      "date": "2026-05-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/accueil/fichiers_pdf/2026_avril_actus/Rapport_enqu%C3%AAte_Meylan.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5cf35a93-46f3-49d2-9779-8466f7235417/meeting/1029668",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    }
+  ]
+}

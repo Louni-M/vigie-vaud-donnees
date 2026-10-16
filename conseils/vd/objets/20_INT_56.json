@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225232,
+  "numero": "20_INT_56",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-03-03"
+  },
+  "depose": "2020-12-02",
+  "titre": "Test PCR vraiment fiable ?",
+  "contributeurs": [
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-12-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-12-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-03-03",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-03-16",
+      "lien": "https://www.sonomix.ch/live/gcvd/1755#4049"
+    },
+    {
+      "titre": "Test PCR vraiment fiable?",
+      "date": "2021-03-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2040892"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f63da46d-9cac-4e09-ab8b-161af9f8efae/meeting/1000553",
+  "communes": [
+    {
+      "ofs": 5413,
+      "origine": "document"
+    }
+  ]
+}

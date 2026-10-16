@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223280,
+  "numero": "14_LEG_152",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-06-17"
+  },
+  "depose": "2014-06-10",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 57'640'000.- pour financer la construction du Centre d'enseignement postobligatoire de l'Ouest lausannois (CEOL) à Renens",
+  "contributeurs": [
+    {
+      "nom": "Michaël Buffat",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-06-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-06-10",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2014-06-17",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-06-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/152_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2014-06-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/152_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2014-06-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/152_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-17-juin-2014/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-douvrage-de-chf-57640000-pour-financer-la-construction-du-centre-denseignement-postobligatoire-de-louest-lausannois-ceol-a-renens",
+  "communes": [
+    {
+      "ofs": 5591,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5566,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5611,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

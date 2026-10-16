@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223661,
+  "numero": "15_POS_123",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2015-09-29"
+  },
+  "depose": "2015-05-05",
+  "titre": "Daillens sous acide",
+  "contributeurs": [
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-05-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-05-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-09-29",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-09-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_123_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2015-09-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_123_Obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-05-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_123_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-29-septembre-2015/postulat-vassilis-venizelos-et-consorts-au-nom-du-groupe-des-verts-daillens-sous-acide",
+  "communes": [
+    {
+      "ofs": 5480,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

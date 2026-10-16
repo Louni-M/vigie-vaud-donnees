@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223458,
+  "numero": "15_INT_378",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-11-10"
+  },
+  "depose": "2015-04-28",
+  "titre": "Loi sur les auberges et débit de boissons : la LADB est-elle une auberge espagnole ?",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-04-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-04-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-11-10",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-11-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_378_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-04-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_378_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-10-novembre-2015/reponse-du-conseil-detat-a-linterpellation-jerome-christen-et-consorts-loi-sur-les-auberges-et-debit-de-boissons-la-ladb-est-elle-une-auberge-espagnole",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

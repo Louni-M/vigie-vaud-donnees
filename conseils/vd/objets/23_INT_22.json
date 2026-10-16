@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227050,
+  "numero": "23_INT_22",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2026-06-02"
+  },
+  "depose": "2023-02-21",
+  "titre": "Climat : UNIL, tu peux mieux faire ?",
+  "contributeurs": [
+    {
+      "nom": "Alice Genoud",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-02-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-02-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-03-20",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-06-02",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-02-28",
+      "lien": "https://www.sonomix.ch/live/gcvd/2322#739"
+    },
+    {
+      "titre": "Mise en œuvre des objectifs climatiques à l'UNIL",
+      "date": "2024-03-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2228816"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1e46e55c-6284-4619-8f8f-76adc40304f7/meeting/1029671",
+  "communes": []
+}

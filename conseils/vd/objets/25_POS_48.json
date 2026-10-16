@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 250345,
+  "numero": "25_POS_48",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2025-09-09"
+  },
+  "depose": "2025-09-02",
+  "titre": "Postulat demandant un rapport sur les relations établies entre la DGEJ et l'ordre judiciaire",
+  "contributeurs": [
+    {
+      "nom": "Jacques-André Haury",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jacques-André Haury",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Laurence Cretegny",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-09-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-09-02",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-09-09",
+      "lien": "https://www.sonomix.ch/live/gcvd/3202#4698"
+    },
+    {
+      "titre": "25_QUE_59",
+      "date": "2025-09-02",
+      "lien": "https://www.portail.vd.ch/institutions/siel/api/ged/88deb513-ca75-4dc9-924e-ea3744611309/pdf?revision=false"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/eb94e15f-56f2-4399-aaa8-6f7e79bef569/meeting/1029635",
+  "communes": []
+}

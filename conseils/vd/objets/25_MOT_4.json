@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228259,
+  "numero": "25_MOT_4",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2025-09-02"
+  },
+  "depose": "2025-01-28",
+  "titre": "Pour la création d’un film office doté d’un fonds incitatif afin de faciliter les productions dans le Canton de Vaud",
+  "contributeurs": [
+    {
+      "nom": "Valérie Zonca",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Olivier Petermann",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-01-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-09-02",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.cineforom.ch/site/files/Cine%CC%81forom_EtudeEY2019_Web.pdf",
+      "date": "2025-09-02",
+      "lien": "https://www.cineforom.ch/site/files/Cine%CC%81forom_EtudeEY2019_Web.pdf"
+    },
+    {
+      "titre": "https://ge.ch/grandconseil/data/texte/M03088.pdf",
+      "date": "2025-09-02",
+      "lien": "https://ge.ch/grandconseil/data/texte/M03088.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-02-04",
+      "lien": "https://www.sonomix.ch/live/gcvd/3017#1275"
+    },
+    {
+      "titre": "https://www.montreuxriviera.com/fr/Z12650/flr",
+      "date": "2025-09-02",
+      "lien": "https://www.montreuxriviera.com/fr/Z12650/flr"
+    },
+    {
+      "titre": "https://valaisfilmcommission.ch/fr/financements-pour-votre-film-cash-rebate/",
+      "date": "2025-09-02",
+      "lien": "https://valaisfilmcommission.ch/fr/financements-pour-votre-film-cash-rebate/"
+    },
+    {
+      "titre": "https://valaisfilmcommission.ch/fr/",
+      "date": "2025-09-02",
+      "lien": "https://valaisfilmcommission.ch/fr/"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/54378625-46f8-4e4a-9809-46e92e4bff8f/meeting/1029654",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5516,
+      "origine": "document"
+    }
+  ]
+}

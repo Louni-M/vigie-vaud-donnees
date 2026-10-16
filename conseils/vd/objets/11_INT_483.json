@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222216,
+  "numero": "11_INT_483",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-11-15"
+  },
+  "depose": "2011-02-15",
+  "titre": "Le redimensionnement des zones à bâtir",
+  "contributeurs": [
+    {
+      "nom": "Philippe Martinet",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-02-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-02-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-11-15",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-08-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_483_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-02-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_483_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-15-novembre-2011/reponse-du-conseil-detat-a-linterpellation-philippe-martinet-concernant-le-redimensionnement-des-zones-a-batir",
+  "communes": [
+    {
+      "ofs": 5721,
+      "origine": "document"
+    }
+  ]
+}

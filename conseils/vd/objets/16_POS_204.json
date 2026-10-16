@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224032,
+  "numero": "16_POS_204",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2018-09-11"
+  },
+  "depose": "2016-11-15",
+  "titre": "Organisation moderne des secours en forêt : un réseau de points T informatisé",
+  "contributeurs": [
+    {
+      "nom": "Rémy Jaquier",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Rémy Jaquier",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Rémy Jaquier",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-11-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-11-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-09-11",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_204_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_204_obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-11-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_204_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-de-mardi-11-septembre-2018/postulat-lena-lio-et-consorts-organisation-moderne-des-secours-en-foret-un-reseau-de-points-t-informatise",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

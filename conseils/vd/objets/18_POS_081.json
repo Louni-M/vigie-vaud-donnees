@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224525,
+  "numero": "18_POS_081",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2019-10-01"
+  },
+  "depose": "2018-10-09",
+  "titre": "Beaulieu... et après ?",
+  "contributeurs": [
+    {
+      "nom": "Séverine Evéquoz",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Séverine Evéquoz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-10-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-10-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-10-01",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_081_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_081_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-10-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_081_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-1er-octobre-2019/postulat-jean-francois-thuillard-et-consorts-beaulieu-et-apres",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225289,
+  "numero": "20_MOT_125",
+  "type": "Election",
+  "statut": {
+    "libelle": "Non pris en considération",
+    "date": "2020-01-28"
+  },
+  "depose": "2020-01-21",
+  "titre": "Pour plus de transparence dans l'élection des membres du Bureau et de la présidence du Grand Conseil",
+  "contributeurs": [
+    {
+      "nom": "Marc-Olivier Buffat",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-01-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-01-28",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2020-01-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_MOT_125_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-16",
+      "lien": "http://www.sonomix.ch/live/gcvd/1866#2574"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/009eb380-8635-4ebd-936c-870994b37137/meeting/1003920",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

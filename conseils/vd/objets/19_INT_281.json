@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224597,
+  "numero": "19_INT_281",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-03-10"
+  },
+  "depose": "2019-01-15",
+  "titre": "Medici saeculi ou le dossier médical à l'épreuve des décennies",
+  "contributeurs": [
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-01-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-01-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-06-05",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-03-10",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_281_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-01-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_281_depot.pdf"
+    },
+    {
+      "titre": "Conservation des dossiers patients",
+      "date": "2019-06-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=371841"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-10-mars-2020/reponse-du-conseil-detat-a-linterpellation-philippe-vuillemin-medici-saeculi-ou-le-dossier-medical-a-lepreuve-des-decennies",
+  "communes": []
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223702,
+  "numero": "15_RAP_197",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2015-05-19"
+  },
+  "depose": "2015-05-19",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Stéphane Montangero et consorts - Mise en valeur de l'inventaire du patrimoine culinaire vaudois",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marc Sordet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Marc Sordet",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-05-19",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-05-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/197_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-05-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/197_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-19-mai-2015/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-stephane-montangero-et-consorts-mise-en-valeur-de-linventaire-du-patrimoine-culinaire-vaudois",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5541,
+      "origine": "document"
+    },
+    {
+      "ofs": 5858,
+      "origine": "document"
+    }
+  ]
+}

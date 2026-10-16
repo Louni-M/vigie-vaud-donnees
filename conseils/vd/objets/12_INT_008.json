@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222617,
+  "numero": "12_INT_008",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-05-28"
+  },
+  "depose": "2012-09-04",
+  "titre": "La sécurité : Que la ville de Lausanne prenne ses responsabilités",
+  "contributeurs": [
+    {
+      "nom": "Mathieu Blanc",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-09-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-09-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-05-28",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2012-09-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_008_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-28-mai-2013/reponse-du-conseil-detat-a-linterpellation-mathieu-blanc-securite-dans-la-capitale-vaudoise-apres-un-ete-chaud-des-eclaircissements-simposent-et-a-linterpellation-gloria-capt-concernant-la-securite-que-la-ville-de-lausanne-prenne-ses-responsab",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225099,
+  "numero": "20_INI_025",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2021-06-15"
+  },
+  "depose": "2020-05-26",
+  "titre": "300 millions pour une relance favorable à la transition énergétique !",
+  "contributeurs": [
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Josephine Byrne Garelli",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-05-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-06-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-06-15",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2020-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INI_025_depot.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2021-06-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=404218"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/628e5a11-3ddc-4226-b78e-9e99ae8c7bfc/meeting/1000564",
+  "communes": []
+}

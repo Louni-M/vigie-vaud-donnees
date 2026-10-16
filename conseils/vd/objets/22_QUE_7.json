@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226755,
+  "numero": "22_QUE_7",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-03-30"
+  },
+  "depose": "2022-02-08",
+  "titre": "Quelle est l’appréciation du Conseil d’Etat s’agissant de la sécurité des pipelines situés sur le sol vaudois et à ses abords ?",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Rydlo",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-02-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-03-30",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Gestion du risque lié aux gazoducs",
+      "date": "2022-03-30",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2109068"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/682a35e6-8ec2-4433-9df0-7529c9e44792/meeting/1004429",
+  "communes": [
+    {
+      "ofs": 5757,
+      "origine": "document"
+    }
+  ]
+}

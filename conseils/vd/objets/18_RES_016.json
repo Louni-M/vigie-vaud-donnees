@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224578,
+  "numero": "18_RES_016",
+  "type": "Résolution",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2018-11-13"
+  },
+  "depose": "2018-10-30",
+  "titre": "L'Aquarius doit pouvoir naviguer",
+  "contributeurs": [
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-10-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-11-13",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2018-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_RES_016_depot.pdf"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2018-11-06",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-6-novembre-2018"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-13-novembre-2018/resolution-vassilis-venizelos-et-consorts-laquarius-doit-pouvoir-naviguer",
+  "communes": [
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5487,
+      "origine": "document"
+    },
+    {
+      "ofs": 5408,
+      "origine": "document"
+    }
+  ]
+}

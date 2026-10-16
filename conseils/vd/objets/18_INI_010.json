@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224175,
+  "numero": "18_INI_010",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2020-03-10"
+  },
+  "depose": "2018-12-18",
+  "titre": "Pour la gratuité des transports publics en terre vaudoise",
+  "contributeurs": [
+    {
+      "nom": "Pierrette Roulet-Grin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierrette Roulet-Grin",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Vincent Keller",
+      "parti": "EP",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-12-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-12-18",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-03-10",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INI_010_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INI_010_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INI_010_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-12-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INI_010_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-10-mars-2020/initiative-vincent-keller-et-consorts-pour-la-gratuite-des-transports-publics-en-terre-vaudoise",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5568,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5718,
+      "origine": "document"
+    },
+    {
+      "ofs": 5582,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5451,
+      "origine": "document"
+    }
+  ]
+}

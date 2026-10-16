@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222623,
+  "numero": "12_INT_014",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-03-05"
+  },
+  "depose": "2012-09-04",
+  "titre": "L'essai fait pour l'assainissement de la décharge des Saviez, suites... et fin ?",
+  "contributeurs": [
+    {
+      "nom": "Olivier Epars",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-09-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-09-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-03-05",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-02-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_014_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-09-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_014_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-5-mars-2013/reponse-du-conseil-detat-a-linterpellation-olivier-epars-concernant-lessai-fait-pour-lassainissement-de-la-decharge-des-saviez-suites-et-fin",
+  "communes": [
+    {
+      "ofs": 5413,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5408,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

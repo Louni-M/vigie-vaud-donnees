@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223696,
+  "numero": "15_RAP_180",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2015-05-05"
+  },
+  "depose": "2015-05-05",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Philippe Martinet et consorts au nom du groupe des Verts pour une politique de relève dans le secteur des ingénieurs",
+  "contributeurs": [
+    {
+      "nom": "Michel Miéville",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Michel Miéville",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Laurent Miéville",
+      "parti": "V'L",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-05-05",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-05-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/180_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-05-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/180_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-12-mai-2015/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-philippe-martinet-et-consorts-au-nom-du-groupe-des-verts-pour-une-politique-de-releve-dans-le-secteur-des-ingenieurs",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5581,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228815,
+  "numero": "9_LEG_244",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-12-15"
+  },
+  "depose": "2009-12-15",
+  "titre": "Exposé des motifs et projet de décrets accordant au Conseil d'Etat un crédit d'investissement de CHF 2'626'000.- destiné à financer le coût de réinternalisation de l'informatique cantonale d'exploitation et à créer un crédit d'inventaire du matériel informatique et de télécommunication",
+  "contributeurs": [
+    {
+      "nom": "Jacques Ansermet",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jacques Ansermet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-12-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-12-15",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/244_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/244_RC.pdf"
+    },
+    {
+      "titre": "Décret créant un crédit d'inventaire du matériel informatique et de télécommunication adopté par le Grand Conseil le 15.12.09",
+      "date": "2009-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/244_Decret_N__2_adopte_par_le_GC_le_15.12.09.pdf"
+    },
+    {
+      "titre": "Décret accordant au Conseil d'Etat un crédit d'investissement de CHF 2'626'000.- destiné à financer le coût de réinternalisation de l'informatique cantonale d'exploitation adopté par le Grand Conseil le 15.12.09",
+      "date": "2009-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/244_Decret_N__1_adopte_le_15.12.09.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seances-des-15-et-16-decembre-2009/expose-des-motifs-et-projet-de-decret-reinternalisation-de-linformatique-cantonale",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

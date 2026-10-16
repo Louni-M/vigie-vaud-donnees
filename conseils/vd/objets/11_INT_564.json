@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222295,
+  "numero": "11_INT_564",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-12-11"
+  },
+  "depose": "2011-11-22",
+  "titre": "Le centre Evam de Vennes : voudrait-on mettre la poussière sous le tapis... ou les requérants déboutés dans la rue ?",
+  "contributeurs": [
+    {
+      "nom": "Roger Saugy",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Roger Saugy",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-11-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-12-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-03-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_564_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-11-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_564_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seances-des-11-et-12-decembre-2012/reponse-du-conseil-detat-a-linterpellation-roger-saugy-concernant-le-centre-evam-de-vennes-voudrait-on-mettre-la-poussiere-sous-le-tapis-ou-les-requerants-deboutes-dans-la-rue",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224889,
+  "numero": "19_MOT_089",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2020-11-17"
+  },
+  "depose": "2019-05-07",
+  "titre": "Des signatures manuscrites pour les pétitions",
+  "contributeurs": [
+    {
+      "nom": "Fabien Deillon",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Vincent Keller",
+      "parti": "EP",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-05-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-05-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-11-17",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2019-05-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_089_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2020-11-17",
+      "lien": "https://www.sonomix.ch/live/gcvd/1637#6115"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/0b8c9b83-1777-4348-a25d-82c7b073ac3c/meeting/1000535",
+  "communes": []
+}

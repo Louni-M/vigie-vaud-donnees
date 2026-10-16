@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228432,
+  "numero": "8_LEG_61",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Eingereicht",
+    "date": "2008-05-20"
+  },
+  "depose": "2008-05-20",
+  "titre": "Exposé des motifs et projets de loi modifiant la loi du 16 mai 1989 sur l'exercice des droits politiques (LEDP) et la loi du 28 février 1956 sur les communes (LC) et Rapports du Conseil d'Etat au Grand Conseil sur- le postulat Jérôme Christen visant à permettre de joindre du matériel électoral non officiel au matériel de vote officiel et- le postulat Jean Schmutz demandant l'extension des droits populaires existant dans les communes aux associations, fédérations et agglomérations de communes et- le postulat Philippe Leuba visant à modifier la procédure parlementaire régissant la constatation de la validité d'une initiative populaire et- le postulat Laurent Ballif \"Si les électeurs prennent la peine d'exprimer leur avis, qu'au moins on ne leur complique pas les choses!\" et- le postulat Serge Melly \"pour éviter des rancoeurs électorales démobilisatrices\" et- la motion Daniel Friedli demandant que l'indication des votes des recommandations du Grand Conseil figure dans la brochure d'information sur les votations et- le postulat Jean-François Cachin demandant au Conseil d'Etat de mettre en adéquation l'article 43 RLEDP par rapport à l'article 17 a LEDP",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": null,
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jérôme Christen visant à permettre de joindre du matériel électoral non officiel au matériel de vote officiel et- le postulat Jean Schmutz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-05-20",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-05-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_20_mai08/61_Texte_adopte_par_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-05-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_20_mai08/61_Rapport_com.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-27-mai-2008/expose-des-motifs-et-projets-de-loi-ledp-et-lc-et-divers-rapports-du-conseil-detat",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222708,
+  "numero": "12_LEG_435",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-01-10"
+  },
+  "depose": "2012-01-10",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 7'486'700.- pour le renouvellement du système d'information et de gestion du Service de la population (SPOP) et pour la mise en oeuvre de la cyberadministration au SPOP",
+  "contributeurs": [
+    {
+      "nom": "Jacques Ansermet",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jacques Ansermet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-01-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-01-10",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-01-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/435_TexteCE.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 10.01.12",
+      "date": "2012-01-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/435_Texte_FAO.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-01-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/435_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-10-janvier-2012/expose-des-motifs-et-projet-de-decret-renouvellement-du-systeme-dinformation-et-de-gestion-du-service-de-la-population",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5638,
+      "origine": "document"
+    }
+  ]
+}

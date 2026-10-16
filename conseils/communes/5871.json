@@ -1,0 +1,482 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5871,
+  "objets": [
+    {
+      "cle": "vd/25_LEG_26",
+      "numero": "25_LEG_26",
+      "type": "Décret/Loi",
+      "depose": "2026-03-17",
+      "titre": "Exposé des motifs et projet de loi portant reconnaissance de la Fédération des Eglises anglicanes et catholique chrétienne dans le Canton de Vaud",
+      "auteurs": [
+        {
+          "nom": "Claude Nicole Grin",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2026-03-17"
+      },
+      "derniere_etape": "2026-03-17",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5719,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5714,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_LEG_213",
+      "numero": "24_LEG_213",
+      "type": "Décret/Loi",
+      "depose": "2025-11-25",
+      "titre": "Et projet de décret sur la fusion des communes de L’Abbaye, Le Chenit et Le Lieu et projet de loi modifiant la loi du 30 mai 2006 sur le découpage territorial",
+      "auteurs": [
+        {
+          "nom": "Sébastien Cala",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-11-25"
+      },
+      "derniere_etape": "2025-11-25",
+      "communes": [
+        {
+          "ofs": 5871,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5872,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5873,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_182",
+      "numero": "23_INT_182",
+      "type": "Interpellation",
+      "depose": "2023-12-05",
+      "titre": "L'habit ne fait-il plus le moine ?",
+      "auteurs": [
+        {
+          "nom": "Eliane Desarzens",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-09-09"
+      },
+      "derniere_etape": "2025-09-09",
+      "communes": [
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_136",
+      "numero": "22_INT_136",
+      "type": "Interpellation",
+      "depose": "2022-09-27",
+      "titre": "“Non ma fille, tu ne seras pas roi”. L’école obligatoire peut-elle être impliquée dans des événements sexistes ?",
+      "auteurs": [
+        {
+          "nom": "Oriane Sarrasin",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-07-05"
+      },
+      "derniere_etape": "2023-07-05",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_LEG_85",
+      "numero": "22_LEG_85",
+      "type": "Décret/Loi",
+      "depose": "2022-10-11",
+      "titre": "EMPD crédit d’investissement de CHF 44'150’000.-pour l’acquisition foncière et immobilière de l’UCP du CHUV et de la plateforme logistique Plexus Santé CHUV-HUG",
+      "auteurs": [
+        {
+          "nom": "Sylvie Podio",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-10-11"
+      },
+      "derniere_etape": "2022-10-11",
+      "communes": [
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_POS_8",
+      "numero": "20_POS_8",
+      "type": "Postulat",
+      "depose": "2020-09-15",
+      "titre": "Il « Vaud » la peine de savoir si la convention intercantonale en « Valais » le coup",
+      "auteurs": [
+        {
+          "nom": "Nicolas Croci Torti",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2021-12-22"
+      },
+      "derniere_etape": "2021-12-22",
+      "communes": [
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_506",
+      "numero": "20_INT_506",
+      "type": "Interpellation",
+      "depose": "2020-08-25",
+      "titre": "Gestion intégrée de l'Orbe : quel bilan sept ans après la signature de la convention intercommunale ?",
+      "auteurs": [
+        {
+          "nom": "Sébastien Cala",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2021-04-27"
+      },
+      "derniere_etape": "2021-04-27",
+      "communes": [
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_RAP_23",
+      "numero": "18_RAP_23",
+      "type": "Rapport",
+      "depose": "2018-06-05",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Dominique Richard Bonny et consorts - Eau lac des Rousses Haut",
+      "auteurs": [
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": null
+        },
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2018-06-05"
+      },
+      "derniere_etape": "2018-06-05",
+      "communes": [
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_208",
+      "numero": "14_INT_208",
+      "type": "Interpellation",
+      "depose": "2014-01-21",
+      "titre": "Le loup chez nous, à quel prix ?",
+      "auteurs": [
+        {
+          "nom": "José Durussel",
+          "parti": "UDC"
+        },
+        {
+          "nom": "José Durussel",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-10-07"
+      },
+      "derniere_etape": "2014-10-07",
+      "communes": [
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_192",
+      "numero": "13_INT_192",
+      "type": "Interpellation",
+      "depose": "2013-12-10",
+      "titre": "Quel soutien pour les communes qui attendent le versement de l'impôt sur les frontaliers ?",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-12-10"
+      },
+      "derniere_etape": "2013-12-10",
+      "communes": [
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_362",
+      "numero": "11_LEG_362",
+      "type": "Décret/Loi",
+      "depose": "2011-04-05",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Bussigny-sur-Oron, Châtillens, Chesalles-sur-Oron, Ecoteaux, Les Tavernes, Les Thioleyres, Oron-la-Ville, Oron-le-Châtel, Palézieux et Vuibroye (Oron)",
+      "auteurs": [
+        {
+          "nom": "Eric Sonnay",
+          "parti": null
+        },
+        {
+          "nom": "Eric Sonnay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-04-05"
+      },
+      "derniere_etape": "2011-04-05",
+      "communes": [
+        {
+          "ofs": 5805,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5790,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_322",
+      "numero": "10_LEG_322",
+      "type": "Décret/Loi",
+      "depose": "2010-11-09",
+      "titre": "Exposé des motifs et projet de décret sur la dissolution de la fraction de commune du village des Charbonnières",
+      "auteurs": [
+        {
+          "nom": "Jean-François Cachin",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Jean-François Cachin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-11-09"
+      },
+      "derniere_etape": "2010-11-09",
+      "communes": [
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5486,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

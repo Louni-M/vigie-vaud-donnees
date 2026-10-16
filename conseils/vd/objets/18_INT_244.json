@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224329,
+  "numero": "18_INT_244",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-09-10"
+  },
+  "depose": "2018-10-02",
+  "titre": "EPFL : une école victime de son succès !",
+  "contributeurs": [
+    {
+      "nom": "Thierry Dubois",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Thierry Dubois",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-10-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-10-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-02-13",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2019-09-10",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-05-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_244_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-10-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_244_depot.pdf"
+    },
+    {
+      "titre": "Accès et taux de réussite des étudiants en première année à l'EPFL",
+      "date": "2019-02-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=366607"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-10-septembre-2019/reponse-du-conseil-detat-a-linterpellation-thierry-dubois-epfl-une-ecole-victime-de-son-succes",
+  "communes": []
+}

@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222069,
+  "numero": "10_MOT_105",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2011-02-08"
+  },
+  "depose": "2010-03-16",
+  "titre": "Motion Bernard Borel et consorts pour une élection au Grand Conseil réellement représentative et proportionnelle",
+  "contributeurs": [
+    {
+      "nom": "Fabienne Despot",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Régis Courdesse",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Régis Courdesse",
+      "parti": "V'L",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-03-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-03-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-02-08",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2010-12-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_105_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2010-12-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_105_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-12-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_105_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-03-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_105_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-8-fevrier-2011/motion-bernard-borel-pour-une-election-au-grand-conseil-reellement-representative-et-proportionnelle",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

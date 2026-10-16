@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223967,
+  "numero": "16_MOT_093",
+  "type": "Election",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2016-06-07"
+  },
+  "depose": "2016-05-31",
+  "titre": "Motion Claire Richard et consorts - Réduction du temps d'attente entre les élections communales et la mise en service des nouvelles autorités",
+  "contributeurs": [
+    {
+      "nom": "Claire Richard",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-05-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-06-07",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2016-06-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_MOT_093_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-7-juin-2016/motion-claire-richard-et-consorts-reduction-du-temps-dattente-entre-les-elections-communales-et-la-mise-en-service-des-nouvelles-autorites",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

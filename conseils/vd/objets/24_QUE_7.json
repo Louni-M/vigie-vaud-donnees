@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227984,
+  "numero": "24_QUE_7",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-03-06"
+  },
+  "depose": "2024-01-23",
+  "titre": "Quel dispositif existe-t-il dans le canton pour contrôler l'état et l'aptitude à la conduite des chauffeurs-ses de bus scolaire et des bus des transports publics ?",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Rydlo",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-01-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-03-06",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Contrôle de l’aptitude à la conduite des personnes au volant des bus scolaires et des bus des transports publics",
+      "date": "2024-03-06",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2225999"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e4253f6d-d28c-48f7-a9d4-8b0162d56555/meeting/1019556",
+  "communes": [
+    {
+      "ofs": 5627,
+      "origine": "document"
+    }
+  ]
+}

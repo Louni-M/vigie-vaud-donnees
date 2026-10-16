@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228375,
+  "numero": "25_QUE_53",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-08-13"
+  },
+  "depose": "2025-06-10",
+  "titre": "CGN – plan stratégique",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-06-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-08-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Plan stratégique de la CGN",
+      "date": "2025-08-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2320300"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/84ad0b94-bea8-4605-9956-e9c02b8aa8d2/meeting/1026892",
+  "communes": []
+}

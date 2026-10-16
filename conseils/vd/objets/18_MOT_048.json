@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224441,
+  "numero": "18_MOT_048",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2019-10-08"
+  },
+  "depose": "2018-05-22",
+  "titre": "Davantage de liberté pour le renvoi de motions et postulats au plan communal",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-05-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-10-08",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_048_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_048_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_048_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-8-octobre-2019/motion-mathieu-blanc-et-consorts-davantage-de-liberte-pour-le-renvoi-de-motions-et-postulats-au-plan-communal",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

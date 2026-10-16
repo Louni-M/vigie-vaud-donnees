@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224209,
+  "numero": "18_INT_122",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Überwiesen",
+    "date": "2018-02-27"
+  },
+  "depose": "2018-02-13",
+  "titre": "Qu'est-ce qui se trame avec le tram ?",
+  "contributeurs": [
+    {
+      "nom": "Rebecca Joly",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Rebecca Joly",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-02-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-02-27",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_122_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-02-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_122_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-3-mars-2020/reponse-du-conseil-detat-a-linterpellation-rebecca-joly-et-consorts-quest-ce-qui-se-trame-avec-le-tram",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    }
+  ]
+}

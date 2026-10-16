@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226362,
+  "numero": "22_INT_57",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-11-16"
+  },
+  "depose": "2022-05-03",
+  "titre": "Le revers des bancs de la Cathédrale de Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Jean-Claude Glardon",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-05-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-05-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-11-16",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-05-10",
+      "lien": "https://www.sonomix.ch/live/gcvd/2105#5067"
+    },
+    {
+      "titre": "Bancs de la cathédrale de Lausanne: nouvelle ergonomie, sécurité renforcée et possibilité de places assises supplémentaires",
+      "date": "2022-11-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2146687"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/0473094e-422f-456c-bf8a-80847e976da3/meeting/1013635",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

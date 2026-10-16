@@ -1,0 +1,404 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5855,
+  "objets": [
+    {
+      "cle": "vd/22_LEG_207",
+      "numero": "22_LEG_207",
+      "type": "Décret/Loi",
+      "depose": "2023-05-09",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'étude de CHF 1'328'000.- pour financer les études du réaménagement de la RC 1 – Dully – Gland – Prangins – entre le carrefour de la Bossière (non compris) à Prangins, et la limite communale de Dully, sur les communes de Prangins et Gland",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-05-09"
+      },
+      "derniere_etape": "2023-05-09",
+      "communes": [
+        {
+          "ofs": 5855,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5721,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5725,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_RAP_1",
+      "numero": "21_RAP_1",
+      "type": "Rapport",
+      "depose": "2023-05-09",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Olivier Feller et consorts - intitulé des bus scolaires pour tous",
+      "auteurs": [
+        {
+          "nom": "Sylvain Freymond",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-05-09"
+      },
+      "derniere_etape": "2023-05-09",
+      "communes": [
+        {
+          "ofs": 5725,
+          "origine": "document"
+        },
+        {
+          "ofs": 5855,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_171",
+      "numero": "22_INT_171",
+      "type": "Interpellation",
+      "depose": "2022-12-13",
+      "titre": "La convocation des actionnaires de la CGN occasionne des vagues",
+      "auteurs": [
+        {
+          "nom": "Nicola Di Giulio",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-03-15"
+      },
+      "derniere_etape": "2023-03-15",
+      "communes": [
+        {
+          "ofs": 5725,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5855,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_LEG_116",
+      "numero": "22_LEG_116",
+      "type": "Décret/Loi",
+      "depose": "2023-03-14",
+      "titre": "EMPD EMPD accordant au Conseil d'Etat un crédit d’ouvrage de CHF 10'900'000.- pour financer des travaux d’aménagement et la création de bandes cyclables sur la RC 401-B-P entre Grandson et Vaumarcus",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-03-14"
+      },
+      "derniere_etape": "2023-03-14",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5554,
+          "origine": "document"
+        },
+        {
+          "ofs": 5555,
+          "origine": "document"
+        },
+        {
+          "ofs": 5565,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        },
+        {
+          "ofs": 5855,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_POS_56",
+      "numero": "22_POS_56",
+      "type": "Postulat",
+      "depose": "2022-10-04",
+      "titre": "Augmenter fortement les chances de survie d’une personne en arrêt cardio-respiratoire, en étudiant la possibilité d’étendre l’équipement de défibrillateurs dans les véhicules de transports publics",
+      "auteurs": [
+        {
+          "nom": "Nicola Di Giulio",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2022-10-11"
+      },
+      "derniere_etape": "2022-10-11",
+      "communes": [
+        {
+          "ofs": 5725,
+          "origine": "document"
+        },
+        {
+          "ofs": 5855,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_POS_40",
+      "numero": "23_POS_40",
+      "type": "Postulat",
+      "depose": "2022-01-18",
+      "titre": "Assurer suffisamment de places de parc lors de créations ou rénovations d’infrastructures professionnelles, sportives et culturelles dans notre canton",
+      "auteurs": [
+        {
+          "nom": "José Durussel",
+          "parti": "UDC"
+        },
+        {
+          "nom": "David Raedler",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Transformée en postulat",
+        "date": "2022-01-18"
+      },
+      "derniere_etape": "2022-01-18",
+      "communes": [
+        {
+          "ofs": 5725,
+          "origine": "document"
+        },
+        {
+          "ofs": 5855,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_48",
+      "numero": "19_LEG_48",
+      "type": "Décret/Loi",
+      "depose": "2019-01-29",
+      "titre": "Exposé des motifs et projets de loi modifiant la loi du 31 mai 2005 sur l'exercice des activités économiques (LEAE) et la loi du 25 novembre 1974 sur la circulation routière (LVCR) et Rapport du Conseil d'Etat au Grand Conseil sur le postulat Mathieu Blanc et consorts - pour une loi/réglementation cantonale du service de transport de personnes",
+      "auteurs": [
+        {
+          "nom": "Sonya Butera",
+          "parti": null
+        },
+        {
+          "nom": "Sonya Butera",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-03-12"
+      },
+      "derniere_etape": "2019-03-12",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5855,
+          "origine": "document"
+        },
+        {
+          "ofs": 5852,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_POS_103",
+      "numero": "15_POS_103",
+      "type": "Postulat",
+      "depose": "2015-02-10",
+      "titre": "Pour une politique de formation continue en faveur des Adultes aînés",
+      "auteurs": [
+        {
+          "nom": "Daniel Ruch",
+          "parti": null
+        },
+        {
+          "nom": "Daniel Ruch",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2015-08-25"
+      },
+      "derniere_etape": "2015-08-25",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5855,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_LEG_237",
+      "numero": "15_LEG_237",
+      "type": "Décret/Loi",
+      "depose": "2015-08-25",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 3'550'000.- pour financer la réalisation de la modification d'un carrefour avec création d'une voie de présélection pour les transports publics, la création d'un trottoir mixte et la réfection de la route sur la RC 1 à Dully",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2015-08-25"
+      },
+      "derniere_etape": "2015-08-25",
+      "communes": [
+        {
+          "ofs": 5855,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

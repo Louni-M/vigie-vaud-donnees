@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223495,
+  "numero": "15_INT_417",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-01-19"
+  },
+  "depose": "2015-08-25",
+  "titre": "Un préfet préside un congrès d'un parti politique ? Quid d'un Juge cantonal tant qu'à faire ?",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-08-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-09-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-01-19",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_417_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_417_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-19-janvier-2016/reponse-du-conseil-detat-a-linterpellation-nicolas-rochat-fernandez-et-consorts-un-prefet-preside-un-congres-dun-parti-politique-quid-dun-juge-cantonal-tant-qua-faire",
+  "communes": [
+    {
+      "ofs": 5408,
+      "origine": "document"
+    },
+    {
+      "ofs": 5425,
+      "origine": "document"
+    }
+  ]
+}

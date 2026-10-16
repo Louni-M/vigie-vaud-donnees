@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222173,
+  "numero": "10_RAP_260",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-06-01"
+  },
+  "depose": "2010-06-01",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Anne Papilloud et consorts demandant de combattre la discrimination homophobe",
+  "contributeurs": [
+    {
+      "nom": "Mireille Aubert",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Mireille Aubert",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-06-01",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-06-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/260_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-06-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/260_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-12-octobre-2010/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-anne-papilloud-discrimination-homophobe",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225719,
+  "numero": "21_INT_84",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-05-25"
+  },
+  "depose": "2021-06-16",
+  "titre": "La direction des écoles de Rolle et environs a-t-elle perdu la tête",
+  "contributeurs": [
+    {
+      "nom": "Josephine Byrne Garelli",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-06-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-06-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-05-25",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-23",
+      "lien": "http://www.sonomix.ch/live/gcvd/1877#175"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-09-06",
+      "lien": "https://www.sonomix.ch/live/gcvd/2165#3908"
+    },
+    {
+      "titre": "Large consultation, économicité et organisation scolaire",
+      "date": "2022-05-25",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2118035"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/3ab5acea-543c-4e75-b7d3-0a265df1c214/meeting/1012631",
+  "communes": [
+    {
+      "ofs": 5861,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5858,
+      "origine": "document"
+    },
+    {
+      "ofs": 5857,
+      "origine": "document"
+    },
+    {
+      "ofs": 5892,
+      "origine": "document"
+    }
+  ]
+}

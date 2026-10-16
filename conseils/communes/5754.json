@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5754,
+  "objets": [
+    {
+      "cle": "vd/16_INT_572",
+      "numero": "16_INT_572",
+      "type": "Interpellation",
+      "depose": "2016-09-20",
+      "titre": "Les cochons se cachent pour mourir",
+      "auteurs": [
+        {
+          "nom": "Yves Ferrari",
+          "parti": null
+        },
+        {
+          "nom": "Yves Ferrari",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-01-16"
+      },
+      "derniere_etape": "2018-01-16",
+      "communes": [
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5798,
+          "origine": "document"
+        },
+        {
+          "ofs": 5754,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5497,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

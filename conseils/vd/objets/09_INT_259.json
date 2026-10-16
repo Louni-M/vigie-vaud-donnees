@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221616,
+  "numero": "09_INT_259",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-01-25"
+  },
+  "depose": "2009-06-23",
+  "titre": "La prescription de la méthadone",
+  "contributeurs": [
+    {
+      "nom": "Fabienne Despot",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Fabienne Despot",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-06-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-06-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-01-25",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2009-06-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_259_depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-11-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_259_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-25-janvier-2011/reponse-du-conseil-detat-a-linterpellation-fabienne-despot-prescription-de-la-methadone",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

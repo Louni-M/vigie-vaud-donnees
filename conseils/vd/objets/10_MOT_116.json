@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222079,
+  "numero": "10_MOT_116",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2011-05-03"
+  },
+  "depose": "2010-11-09",
+  "titre": "L'accueil parascolaire",
+  "contributeurs": [
+    {
+      "nom": "Valérie Schwaar",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Valérie Schwaar",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Valérie Schwaar",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-11-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-11-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-05-03",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-05-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_116_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-05-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_116_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-11-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_116_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-3-mai-2011/motion-claude-eric-dufour-demandant-une-loi-specifique-concernant-laccueil-parascolaire",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

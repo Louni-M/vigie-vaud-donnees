@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224469,
+  "numero": "18_PET_024",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2020-11-18"
+  },
+  "depose": "2018-10-09",
+  "titre": "Pétition pour appliquer la décision du Grand Conseil vaudois de 2007 et sauver les chalets de la rive sud du lac de Neuchâtel",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2018-10-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-09-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-11-18",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_024_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_024_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_024_depot.pdf"
+    },
+    {
+      "titre": "Pétition relative aux chalets de la rive sud du lac de Neuchâtel",
+      "date": "2020-11-18",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2019729"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/907df89c-7191-455f-92ce-af4ab01b1c17/meeting/1000528",
+  "communes": [
+    {
+      "ofs": 5464,
+      "origine": "document"
+    },
+    {
+      "ofs": 5813,
+      "origine": "document"
+    }
+  ]
+}

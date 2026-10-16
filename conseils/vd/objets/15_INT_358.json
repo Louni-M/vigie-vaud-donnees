@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223442,
+  "numero": "15_INT_358",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-09-08"
+  },
+  "depose": "2015-03-17",
+  "titre": "Statistiques femmes - hommes des législatifs communaux",
+  "contributeurs": [
+    {
+      "nom": "Stéphanie Apothéloz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Stéphanie Apothéloz",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-03-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-03-17",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-09-08",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-09-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_358_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-03-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_358_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-8-septembre-2015/reponse-du-conseil-detat-a-linterpellation-stephanie-apotheloz-et-consorts-statistiques-femmes-hommes-des-legislatifs-communaux-copie-1",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

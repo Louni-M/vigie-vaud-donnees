@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 327671,
+  "numero": "26_PAR_6",
+  "type": "Recours de compétence",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2026-06-02"
+  },
+  "depose": "2026-05-12",
+  "titre": "Rapport annuel 2025 de la Commission interparlementaire de contrôle HES-SO (CIP HES-SO)",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Kessler",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-05-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-06-02",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/35e40c9e-4bd2-4cd4-9f40-c3ccced41fae/meeting/1029671",
+  "communes": []
+}

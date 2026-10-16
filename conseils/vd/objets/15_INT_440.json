@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223518,
+  "numero": "15_INT_440",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-05-03"
+  },
+  "depose": "2015-10-27",
+  "titre": "Maîtrise de classe au secondaire",
+  "contributeurs": [
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-10-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-11-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-05-03",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-05-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_440_TexteC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-11-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_440_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-3-mai-2016/reponse-du-conseil-detat-a-linterpellation-raphael-mahaim-maitrise-de-classe-au-secondaire",
+  "communes": []
+}

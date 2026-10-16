@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228575,
+  "numero": "17_INT_001",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-05-29"
+  },
+  "depose": "2017-08-22",
+  "titre": "Marche contre Monsanto du 20 mai 2017 : un dispositif policier disproportionné ?",
+  "contributeurs": [
+    {
+      "nom": "Hadrien Buclin",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Hadrien Buclin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-08-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-29",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_INT_001_TexteCE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-29-mai-2018/reponse-du-conseil-detat-a-linterpellation-hadrien-buclin-marche-contre-monsanto-du-20-mai-2017-un-dispositif-policier-disproportionne",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

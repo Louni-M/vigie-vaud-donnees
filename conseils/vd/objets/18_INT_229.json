@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224314,
+  "numero": "18_INT_229",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-11-26"
+  },
+  "depose": "2018-09-04",
+  "titre": "Les Vaudois dans l'espace, à quand l'épisode final ?",
+  "contributeurs": [
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-09-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-11-26",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-11-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_229_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_229_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-26-novembre-2019/reponse-du-conseil-detat-e-linterpellation-jessica-jaccoud-et-consorts-les-vaudois-dans-lespace-a-quand-lepisode-final",
+  "communes": [
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

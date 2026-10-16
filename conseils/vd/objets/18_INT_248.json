@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224335,
+  "numero": "18_INT_248",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-04-09"
+  },
+  "depose": "2018-09-25",
+  "titre": "Plus de salaire, plus d'alloc, enfin ... pas tout de suite !",
+  "contributeurs": [
+    {
+      "nom": "Isabelle Freymond",
+      "parti": "IND",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Isabelle Freymond",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-09-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-10-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-03-20",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2019-04-09",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-04-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_248_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-10-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_248_depot.pdf"
+    },
+    {
+      "titre": "Délai de traitement de certaines demandes d'allocations familiales de parents sans activité lucrative",
+      "date": "2019-03-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=363050"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-9-avril-2019/reponse-du-conseil-detat-a-linterpellation-isabelle-freymond-et-consorts-plus-de-salaire-plus-dalloc-enfin-pas-tout-de-suite",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

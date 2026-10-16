@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222078,
+  "numero": "10_MOT_115",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2011-12-20"
+  },
+  "depose": "2010-11-09",
+  "titre": "Demandant de légiférer en vue de l'implantation d'éoliennes sur le territoire vaudois et de prévoir une loi spécifique pour la construction d'éoliennes",
+  "contributeurs": [
+    {
+      "nom": "Michel Renaud",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Michel Renaud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-11-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-11-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-12-20",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet et développement",
+      "date": "2011-03-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_115_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-11-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_115_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-20-decembre-2011/motion-bertrand-clot-demandant-de-legiferer-en-vue-de-limplantation-deoliennes-sur-le-territoire-vaudois-et-de-prevoir-une-loi-specifique-pour-la-construction-deoliennes",
+  "communes": [
+    {
+      "ofs": 5568,
+      "origine": "document"
+    },
+    {
+      "ofs": 5514,
+      "origine": "document"
+    },
+    {
+      "ofs": 5534,
+      "origine": "document"
+    },
+    {
+      "ofs": 5566,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

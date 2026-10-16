@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222700,
+  "numero": "12_LEG_437",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-07-03"
+  },
+  "depose": "2012-05-29",
+  "titre": "Préavis du Conseil d'Etat au Grand Conseil sur l'initiative législative Philippe Cornamusaz et consorts au nom des groupes Alliance du centre, Radical, UDC, Libéral, Verts visant à introduire le concept de pollueur payeur pour l'enlèvement des ordures ménagères",
+  "contributeurs": [
+    {
+      "nom": "Claudine Wyssa",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Michel Dolivo",
+      "parti": "EP",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-05-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-06-05",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2012-07-03",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/437_TexteCE.pdf"
+    },
+    {
+      "titre": "Tableau comparatif à l'issue du 1er débat",
+      "date": "2012-06-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/437_tableau_apr%C3%A8s_1er_debat.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2012-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/437_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2012-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/437_RC_maj.pdf"
+    },
+    {
+      "titre": "Tableau miroir avant le 2ème débat",
+      "date": "2012-07-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_doc/Tablea03.DOC"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-3-juillet-2012/preavis-du-conseil-detat-au-grand-conseil-sur-linitiative-legislative-philippe-cornamusaz-visant-a-introduire-le-concept-de-pollueur-payeur-pour-lenlevement-des-ordures-menageres",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5592,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

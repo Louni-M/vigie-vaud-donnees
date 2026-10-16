@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225071,
+  "numero": "20_HQU_3",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2020-09-08"
+  },
+  "depose": "2020-09-01",
+  "titre": "DGEJ : comment les réseaux assurent-ils l’intérêt supérieur de l’enfant ?",
+  "contributeurs": [
+    {
+      "nom": "Pierre Zwahlen",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre Zwahlen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-09-08",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/821f5f0a-df33-4ae5-8ef0-e7bd1772eae9/meeting/1000526",
+  "communes": []
+}

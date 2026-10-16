@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226187,
+  "numero": "22_HQU_55",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-05-10"
+  },
+  "depose": "2022-05-03",
+  "titre": "Dis Pascal, c'est encore loin Vevey ?",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Croci Torti",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-05-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-05-10",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/9253e330-8882-421f-b471-a440f5ed674d/meeting/1004435",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "titre"
+    }
+  ]
+}

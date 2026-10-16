@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228546,
+  "numero": "09_INT_207",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2009-11-03"
+  },
+  "depose": "2009-09-15",
+  "titre": "Si, pour le secours routier, une sécurité à deux vitesses est acceptable",
+  "contributeurs": [
+    {
+      "nom": "Jacques Nicolet",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-11-03",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_207_Texte_CE_01.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-3-novembre-2009/reponse-du-conseil-detat-a-linterpellation-jacques-nicolet-secours-routier",
+  "communes": [
+    {
+      "ofs": 5764,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5749,
+      "origine": "document"
+    }
+  ]
+}

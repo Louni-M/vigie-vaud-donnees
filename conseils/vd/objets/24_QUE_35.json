@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227946,
+  "numero": "24_QUE_35",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-08-28"
+  },
+  "depose": "2024-04-23",
+  "titre": "Gens du voyage ; quels sont les coût de l'intervention du 11 avril dernier ?",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Berthoud",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-04-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-08-28",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Gens du voyage : frais d’une intervention de police en avril dernier",
+      "date": "2024-08-28",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2256054"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1ea49a66-b8a5-452d-bf10-5b364f686e9e/meeting/1019566",
+  "communes": [
+    {
+      "ofs": 5511,
+      "origine": "document"
+    },
+    {
+      "ofs": 5527,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5451,
+      "origine": "document"
+    }
+  ]
+}

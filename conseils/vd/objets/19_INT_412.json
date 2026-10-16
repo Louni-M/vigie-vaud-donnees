@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224724,
+  "numero": "19_INT_412",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-11-05"
+  },
+  "depose": "2019-10-29",
+  "titre": "L'Etat de Vaud commande une ligne de transports publics et les communes paient !",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-10-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-11-05",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2019-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_412_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-04-20",
+      "lien": "https://www.sonomix.ch/live/gcvd/1803#10341"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ac3876c9-b782-48e6-a329-f52604f4bd8e/meeting/1000556",
+  "communes": [
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5408,
+      "origine": "document"
+    }
+  ]
+}

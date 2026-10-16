@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224913,
+  "numero": "19_MOT_112",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-06-16"
+  },
+  "depose": "2019-10-08",
+  "titre": "Pour une aide cantonale généralisée au développement du chauffage à distance à base énergétique renouvelable. DES",
+  "contributeurs": [
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-10-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-10-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-06-16",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_112_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_112_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-10-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_112_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-16-juin-2020/motion-pierre-dessemontet-et-consorts-pour-une-aide-cantonale-generalisee-au-developpement-du-chauffage-a-distance-a-base-energetique-renouvelable",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5889,
+      "origine": "document"
+    }
+  ]
+}

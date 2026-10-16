@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223000,
+  "numero": "13_LEG_67",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-08-27"
+  },
+  "depose": "2013-08-27",
+  "titre": "Exposé des motifs et projets de décret accordant à la compagnie du chemin de fer Lausanne - Echallens - Bercher SA (LEB), aux Transports de la région Morges - Bière - Cossonay SA (MBC), aux Transports Montreux - Vevey - Riviera SA (MVR), à la Compagnie du chemin de fer Nyon - St-Cergue - Morez SA (NStCM) et aux Transports Vallée-de-Joux - Yverdon-les-Bains - Sainte-Croix SA (Travys) une garantie de l'Etat de 157.7 millions de francs pour l'acquisition de matériel roulant et accordant au Conseil d'Etat un crédit-cadre de 144.7 millions de francs pour l'octroi de prêts conditionnellement remboursables aux chemins de fer privés concernant les contributions d'investissement destinées à l'infrastructure (3e crédit-cadre cantonal) etRapport du Conseil d'Etat au Grand Conseil sur le postulat Albert Chapalay et consorts",
+  "contributeurs": [
+    {
+      "nom": "Philippe Modoux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Modoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-08-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-08-27",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-08-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/67_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-08-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/67_RC.pdf"
+    },
+    {
+      "titre": "Décret de 157.7 mio adopté par le GC le 27.08.13",
+      "date": "2013-08-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/67_157.7mio_FAO.pdf"
+    },
+    {
+      "titre": "Décret de 144.7 mio adopté par le GC le 27.08.13",
+      "date": "2013-08-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/67_144.7mio_FAO.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-27-aout-2013/expose-des-motifs-et-projets-de-decret-accordant-a-diverses-compagnies-de-transport-une-garantie-de-letat-de-1577-millions-de-francs-pour-lacquisition-de-materiel-roulant-et-accordant-au-conseil-detat-un-credit-cadre-de-1447-millions-de-francs",
+  "communes": [
+    {
+      "ofs": 5886,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5890,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5724,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5727,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5938,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5568,
+      "origine": "titre"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224649,
+  "numero": "19_INT_333",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-11-03"
+  },
+  "depose": "2019-04-09",
+  "titre": "Après le moratoire demandé par le Grand Conseil et la décision du Conseil d'Etat de suspendre la pose d'antennes 5G par mesure de précaution, quelle responsabilité envers la population suite aux émissions sonores des éoliennes industrielles ?",
+  "contributeurs": [
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-04-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-04-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-11-03",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2019-04-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_333_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-01-18",
+      "lien": "https://www.sonomix.ch/live/gcvd/2036#6002"
+    },
+    {
+      "titre": "Emissions sonores des éoliennes et impacts sur la santé",
+      "date": "2021-11-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2083645"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/81ed5493-f4ad-4925-9fc1-173280857280/meeting/1004427",
+  "communes": [
+    {
+      "ofs": 5568,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

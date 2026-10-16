@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221718,
+  "numero": "09_PET_035",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-03-23"
+  },
+  "depose": "2010-01-12",
+  "titre": "Pétition de [particulier] s'adressant au Président du Grand Conseil au sujet de la loi sur l'accueil de jour",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2010-01-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-03-23",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_PET_035_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_PET_035_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-23-mars-2010/petition-au-sujet-de-la-loi-sur-laccueil-de-jour",
+  "communes": [
+    {
+      "ofs": 5564,
+      "origine": "document"
+    }
+  ]
+}

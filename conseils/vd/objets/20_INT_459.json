@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225172,
+  "numero": "20_INT_459",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-06-09"
+  },
+  "depose": "2020-03-03",
+  "titre": "Hôpital Riviera-Chablais : en cas d'urgence vitale, chaque minute compte !",
+  "contributeurs": [
+    {
+      "nom": "Taraneh Aminian",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Taraneh Aminian",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-03-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-03-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-06-09",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_459_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_459_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-9-juin-2020/reponse-du-conseil-detat-a-linterpellation-taraneh-aminian-hopital-riviera-chablais-en-cas-durgence-vitale-chaque-minute-compte",
+  "communes": [
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5889,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5892,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    }
+  ]
+}

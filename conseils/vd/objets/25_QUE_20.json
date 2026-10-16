@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228338,
+  "numero": "25_QUE_20",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-04-09"
+  },
+  "depose": "2025-03-04",
+  "titre": "Pourquoi le rôle des ASSC est-il limité au CHUV ?",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-03-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-04-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-04-09",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rôle des assistants en soins et santé communautaire au CHUV",
+      "date": "2025-04-09",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2297474"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/0d5f2084-856b-4ea5-a755-d5e2f94d1c78/meeting/1026880",
+  "communes": []
+}

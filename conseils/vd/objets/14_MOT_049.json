@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223325,
+  "numero": "14_MOT_049",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-01-20"
+  },
+  "depose": "2014-05-13",
+  "titre": "Congé pour aide en cas de maladie d'un membre de sa famille",
+  "contributeurs": [
+    {
+      "nom": "Alice Glauser",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Claire Attinger Doepper",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claire Attinger Doepper",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-05-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-05-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-01-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2014-12-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_049_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2014-12-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_049_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-12-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_049_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-05-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_049_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-20-janvier-2015/motion-amelie-cherbuin-et-consorts-concernant-la-lpers-vd-conge-pour-aide-en-cas-de-maladie-dun-membre-de-sa-famille",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

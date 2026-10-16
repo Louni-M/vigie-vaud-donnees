@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226203,
+  "numero": "22_HQU_74",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-09-13"
+  },
+  "depose": "2022-09-06",
+  "titre": "Les trains partent à l’heure, et le chantier de la gare de Lausanne?",
+  "contributeurs": [
+    {
+      "nom": "Marc Vuilleumier",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-09-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-09-13",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/08edb524-6c57-4bb3-b618-2ea3534ff46d/meeting/1012632",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

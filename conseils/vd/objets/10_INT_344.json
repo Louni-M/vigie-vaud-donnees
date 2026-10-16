@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221831,
+  "numero": "10_INT_344",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-01-18"
+  },
+  "depose": "2010-02-23",
+  "titre": "Des divers problèmes générés par les accords Dublin II",
+  "contributeurs": [
+    {
+      "nom": "Serge Melly",
+      "parti": "LIBRE",
+      "role": null,
+      "sorte": "personne"
+    },
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-02-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-02-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-01-18",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2010-02-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_344_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-08-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_344_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-18-janvier-2011/reponse-du-conseil-detat-a-linterpellation-serge-melly-divers-problemes-generes-par-les-accords-dublin-ii",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

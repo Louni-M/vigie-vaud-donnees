@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223882,
+  "numero": "16_INT_629",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2017-12-19"
+  },
+  "depose": "2016-11-22",
+  "titre": "Quel avenir pour les employé-e-s de l'entreprise Bell ?",
+  "contributeurs": [
+    {
+      "nom": "Brigitte Crottaz",
+      "parti": "SOC",
+      "role": null,
+      "sorte": "personne"
+    },
+    {
+      "nom": "Brigitte Crottaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-11-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-12-13",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2017-12-19",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2016-11-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_629_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/autorites/grand-conseil/seances-precedentes/annee-2017/seance-du-mardi-19-decembre-2017/reponse-du-conseil-detat-a-linterpellation-brigitte-crottaz-et-consorts-quel-avenir-pour-les-employe-e-s-de-lentreprise-bell",
+  "communes": [
+    {
+      "ofs": 5582,
+      "origine": "document"
+    }
+  ]
+}

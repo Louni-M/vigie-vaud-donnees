@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222006,
+  "numero": "10_LEG_273",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-09-28"
+  },
+  "depose": "2010-09-28",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit de CHF 200'000.-- destiné à financer une étude de site et réévaluation programme futur Musée romain d'AvenchesetRapport du Conseil d'Etat au Grand Conseil sur la motion Roxanne Meyer et consorts demandant le dégel du dossier du site et musée romains d'Avenches",
+  "contributeurs": [
+    {
+      "nom": "André Chatelain",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "André Chatelain",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-09-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-09-28",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/273_Texte_CE_01.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/273_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 28.09.10",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/273_Decret_adopte.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-28-septembre-2010/expose-des-motifs-et-projet-de-decret-futur-musee-romain-davenches",
+  "communes": [
+    {
+      "ofs": 5451,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    }
+  ]
+}

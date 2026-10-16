@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224865,
+  "numero": "19_LEG_97",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-04-30"
+  },
+  "depose": "2019-03-19",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 17'275'000.- pour financer des subventions aux communes portant sur les mesures en faveur des deux-roues non motorisés des projets d'agglomération et pour renforcer l'activité du Guichet cantonal vélo",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-03-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-04-30",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-03-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/97_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-03-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/97_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-30-avril-2019/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-dinvestissement-de-chf-17275000-pour-financer-des-subventions-aux-communes-portant-sur-les-mesures-en-faveur-des-deux-roues-non-motorises-des-projets-dagglomeration-et-pour",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

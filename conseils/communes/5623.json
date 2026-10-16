@@ -1,0 +1,178 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5623,
+  "objets": [
+    {
+      "cle": "vd/24_INT_160",
+      "numero": "24_INT_160",
+      "type": "Interpellation",
+      "depose": "2024-11-12",
+      "titre": "Mise en œuvre de la règlementation cadrant les locations par l’intermédiaire de plateformes d’hébergement en ligne : quel bilan ?",
+      "auteurs": [
+        {
+          "nom": "Muriel Thalmann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2025-09-16"
+      },
+      "derniere_etape": "2025-09-16",
+      "communes": [
+        {
+          "ofs": 5623,
+          "origine": "document"
+        },
+        {
+          "ofs": 5431,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_155",
+      "numero": "13_INT_155",
+      "type": "Interpellation",
+      "depose": "2013-09-03",
+      "titre": "La poste ferme des bureaux : jusqu'à quand ?",
+      "auteurs": [
+        {
+          "nom": "Marc Oran",
+          "parti": null
+        },
+        {
+          "nom": "Marc Oran",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-04-08"
+      },
+      "derniere_etape": "2014-04-08",
+      "communes": [
+        {
+          "ofs": 5588,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5623,
+          "origine": "document"
+        },
+        {
+          "ofs": 5831,
+          "origine": "document"
+        },
+        {
+          "ofs": 5743,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_272",
+      "numero": "10_LEG_272",
+      "type": "Décret/Loi",
+      "depose": "2010-06-01",
+      "titre": "Exposé des motifs et projet de loi sur les péréquations intercommunalesetprojet de lois modifiant- la loi du 24 novembre 2003 sur l'organisation et le financement de la politique sociale (LOF)- la loi du 2 décembre 2003 sur l'action sociale vaudoise (LASV)- la loi du 7 mars 2006 sur l'aide aux requérants d'asile et à certaines catégories d'étrangers (LARA)- la loi scolaire du 12 juin 1984 (LS)- la loi du 25 mai 1977 sur l'enseignement spécialisé (LES)- la loi du 25 juin 1996 d'application vaudoise de la loi fédérale sur l'assurance- maladie (LVLAMal)etprojet de décrets :- fixant pour les années 2011 à 2018 les modalités d'application de la loi sur les péréquations- modifiant le décret du 2 octobre 2007 réglant les modalités d'application de l'impact financier de la RPT sur les communes vaudoises pour la facture sociale (DRPTC)etRapports du Conseil d'Etat au Grand Conseil sur les postulats :- Jean-Pierre Grin et consorts demandant au Conseil d'Etat d'étudier la répartition de la facture sociale entre les communes uniquement selon la valeur du point d'impôt- Albert Chapalay demandant au Conseil d'Etat un rapport expliquant les différences administratives et financières qui peuvent résulter d'une nouvelle formule de décompte pour la répartition de la facture sociale Etat-Communes- Jacques Haldy et consorts « répartissons équitablement les charges et prestations sociales »- Michel Golay pour une autonomie véritable des communes",
+      "auteurs": [
+        {
+          "nom": "Jacques Ansermet",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Jacques Ansermet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-06-15"
+      },
+      "derniere_etape": "2010-06-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5623,
+          "origine": "document"
+        },
+        {
+          "ofs": 5710,
+          "origine": "document"
+        },
+        {
+          "ofs": 5650,
+          "origine": "document"
+        },
+        {
+          "ofs": 5411,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_262",
+      "numero": "09_INT_262",
+      "type": "Interpellation",
+      "depose": "2009-06-30",
+      "titre": "Relative à la carrière des Bruyères",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-12-15"
+      },
+      "derniere_etape": "2009-12-15",
+      "communes": [
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5623,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

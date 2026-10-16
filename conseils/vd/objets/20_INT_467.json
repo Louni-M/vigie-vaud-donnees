@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225181,
+  "numero": "20_INT_467",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2020-06-09"
+  },
+  "depose": "2020-03-10",
+  "titre": "Le Conseil d'Etat rampe-t-il devant les oppositions ?",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Rezso",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-03-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-06-09",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Dépôt",
+      "date": "2020-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_467_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-08",
+      "lien": "https://www.sonomix.ch/live/gcvd/1854#5463"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f3dde5e3-7b24-4b17-ac48-b4d46e507524/meeting/1000563",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5635,
+      "origine": "document"
+    }
+  ]
+}

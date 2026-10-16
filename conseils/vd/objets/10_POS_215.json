@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222147,
+  "numero": "10_POS_215",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2011-09-27"
+  },
+  "depose": "2010-10-05",
+  "titre": "Pour un partage stimulant de la part cantonale de la RPLP avec les communes",
+  "contributeurs": [
+    {
+      "nom": "Bertrand Clot",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-10-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-10-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-09-27",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-09-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_215_RC.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-09-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_215_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-10-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_215_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-27-septembre-2011/postulat-francois-payot-pour-un-partage-stimulant-de-la-part-cantonale-de-la-rplp-avec-les-communes",
+  "communes": [
+    {
+      "ofs": 5561,
+      "origine": "document"
+    }
+  ]
+}

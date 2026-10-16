@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224184,
+  "numero": "18_INT_098",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-04-02"
+  },
+  "depose": "2018-01-16",
+  "titre": "Une dette si injuste",
+  "contributeurs": [
+    {
+      "nom": "Anne-Sophie Betschart",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Anne-Sophie Betschart",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-01-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-01-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-04-02",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-03-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_098_TexteCE.PDF"
+    },
+    {
+      "titre": "Objet ",
+      "date": "2018-01-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_098_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-2-avril-2019/reponse-du-conseil-detat-a-linterpellation-anne-sophie-betschart-une-dette-si-injuste",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

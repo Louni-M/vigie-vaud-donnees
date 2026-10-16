@@ -1,0 +1,453 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5813,
+  "objets": [
+    {
+      "cle": "vd/21_INT_18",
+      "numero": "21_INT_18",
+      "type": "Interpellation",
+      "depose": "2021-02-02",
+      "titre": "Au fil de l'eau un village à sauver",
+      "auteurs": [
+        {
+          "nom": "Anne-Sophie Betschart",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-02-09"
+      },
+      "derniere_etape": "2022-02-09",
+      "communes": [
+        {
+          "ofs": 5939,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_54",
+      "numero": "20_INT_54",
+      "type": "Interpellation",
+      "depose": "2020-12-01",
+      "titre": "Chalets de la Grande Cariçaie, quelles suites exactement ?",
+      "auteurs": [
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-03-17"
+      },
+      "derniere_etape": "2021-03-17",
+      "communes": [
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5464,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_PET_024",
+      "numero": "18_PET_024",
+      "type": "Pétition",
+      "depose": "2018-10-09",
+      "titre": "Pétition pour appliquer la décision du Grand Conseil vaudois de 2007 et sauver les chalets de la rive sud du lac de Neuchâtel",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2020-11-18"
+      },
+      "derniere_etape": "2020-11-18",
+      "communes": [
+        {
+          "ofs": 5464,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_186",
+      "numero": "20_LEG_186",
+      "type": "Décret/Loi",
+      "depose": "2020-05-26",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit de CHF 1'430'800.- pour le Projet de développement régional agricole « Filière Noix de la Broye et du Pied du Jura »",
+      "auteurs": [
+        {
+          "nom": "Hugues Gander",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Hugues Gander",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-06-09"
+      },
+      "derniere_etape": "2020-06-09",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5492,
+          "origine": "document"
+        },
+        {
+          "ofs": 5674,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_186",
+      "numero": "19_LEG_186",
+      "type": "Décret/Loi",
+      "depose": "2019-11-27",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit de CHF 1'430'800.- pour le Projet de développement régional agricole « Filière Noix de la Broye et du Pied du Jura »",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2019-11-27"
+      },
+      "derniere_etape": "2019-11-27",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5674,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5492,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_175",
+      "numero": "18_INT_175",
+      "type": "Interpellation",
+      "depose": "2018-05-08",
+      "titre": "E la nave ne va plus",
+      "auteurs": [
+        {
+          "nom": "Marc-Olivier Buffat",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Marc-Olivier Buffat",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2019-05-15"
+      },
+      "derniere_etape": "2019-05-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_POS_042",
+      "numero": "18_POS_042",
+      "type": "Postulat",
+      "depose": "2018-03-20",
+      "titre": "Pour plus de clarté lors des fouilles archéologiques - transparence du processus et des coûts. R",
+      "auteurs": [
+        {
+          "nom": "Laurent Miéville",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": [
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_POS_040",
+      "numero": "18_POS_040",
+      "type": "Postulat",
+      "depose": "2018-03-13",
+      "titre": "Pour une juste répartition des coûts des fouilles archéologiques entre les entités publiques concernées, Canton et communes, et une maîtrise des dépenses grâce à une saine concurrence entre les entreprises spécialisées en archéologie",
+      "auteurs": [
+        {
+          "nom": "Laurent Miéville",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5431,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_514",
+      "numero": "16_INT_514",
+      "type": "Interpellation",
+      "depose": "2016-05-10",
+      "titre": "Reviens Obelix !!!",
+      "auteurs": [
+        {
+          "nom": "Dominique-Richard Bonny",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Dominique-Richard Bonny",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-10-11"
+      },
+      "derniere_etape": "2016-10-11",
+      "communes": [
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5939,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5415,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_264",
+      "numero": "14_INT_264",
+      "type": "Interpellation",
+      "depose": "2014-06-24",
+      "titre": "Croisières à Yverdon : trois p'tits tours et puis s'en vont ?",
+      "auteurs": [
+        {
+          "nom": "Pierrette Roulet-Grin",
+          "parti": null
+        },
+        {
+          "nom": "Pierrette Roulet-Grin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-01-20"
+      },
+      "derniere_etape": "2015-01-20",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5554,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_602",
+      "numero": "11_INT_602",
+      "type": "Interpellation",
+      "depose": "2012-02-14",
+      "titre": "A Chevroux, les canards s'envolent et ce n'est pas forcément à cause de la bise et du froid de canard !",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-09-11"
+      },
+      "derniere_etape": "2012-09-11",
+      "communes": [
+        {
+          "ofs": 5813,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5939,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_210",
+      "numero": "09_INT_210",
+      "type": "Interpellation",
+      "depose": "2010-02-23",
+      "titre": "Le réseau Emeraude",
+      "auteurs": [
+        {
+          "nom": "Jacqueline Rostan",
+          "parti": "LIB"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-03-16"
+      },
+      "derniere_etape": "2010-03-16",
+      "communes": [
+        {
+          "ofs": 5428,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

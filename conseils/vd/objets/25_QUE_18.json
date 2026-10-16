@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228335,
+  "numero": "25_QUE_18",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-06-25"
+  },
+  "depose": "2025-03-04",
+  "titre": "« Source du Montant – Cézille – Gresolière » qui commande quoi, qui paye quoi ?",
+  "contributeurs": [
+    {
+      "nom": "Didier Lohri",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-03-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-25",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Second avis d’expert dans le cadre d’une procédure judiciaire en cours",
+      "date": "2025-06-25",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2312802"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/526bd7be-c822-475b-af78-a157b4cd6df7/meeting/1026880",
+  "communes": [
+    {
+      "ofs": 5718,
+      "origine": "document"
+    },
+    {
+      "ofs": 5702,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    }
+  ]
+}

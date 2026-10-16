@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223127,
+  "numero": "14_INT_213",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-09-09"
+  },
+  "depose": "2014-01-28",
+  "titre": "Affaire Claude D. - Suite: Le Conseil d'Etat, respectivement le Département des institutions et de la sécurité (ex-Département de l'intérieur) a-t-il vraiment communiqué toutes les informations et documents disponibles ?",
+  "contributeurs": [
+    {
+      "nom": "Marc-Olivier Buffat",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Marc-Olivier Buffat",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-01-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-01-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-09-09",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-09-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_213_Texte_CE_01.pdf"
+    },
+    {
+      "titre": "Réponse immédiate du Conseil d'Etat",
+      "date": "2014-01-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_213_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-01-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_213_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-9-septembre-2014/reponse-du-conseil-detat-a-linterpellation-marc-olivier-buffat-affaire-claude-d-suite-le-conseil-detat-respectivement-le-departement-des-institutions-et-de-la-securite-a-t-il-vraiment-communique-toute-les-informations-et-documents-disponibles",
+  "communes": []
+}

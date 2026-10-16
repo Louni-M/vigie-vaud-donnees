@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224232,
+  "numero": "18_INT_145",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-06-09"
+  },
+  "depose": "2018-03-20",
+  "titre": "Réponse à l'urgence : où en est-on ?",
+  "contributeurs": [
+    {
+      "nom": "Marion Wahlen",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Marion Wahlen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-03-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-03-27",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-01-23",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-06-09",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_145_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-03-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_145_depot.PDF"
+    },
+    {
+      "titre": "Prise en charge des urgences en dehors des hôpitaux",
+      "date": "2019-01-23",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=349387"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-9-juin-2020/reponse-du-conseil-detat-a-linterpellation-marion-wahlen-et-consorts-reponse-a-lurgence-ou-en-est-on",
+  "communes": []
+}

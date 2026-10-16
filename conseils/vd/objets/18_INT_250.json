@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224337,
+  "numero": "18_INT_250",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-11-05"
+  },
+  "depose": "2018-09-25",
+  "titre": "Système d'aide à l'engagement ProSDIS : mise en application alarmante",
+  "contributeurs": [
+    {
+      "nom": "Jean-Daniel Carrard",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Daniel Carrard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-09-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-10-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-01-23",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2019-11-05",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_250_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-10-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_250_depot.pdf"
+    },
+    {
+      "titre": "Système d'aide à l'engagement équipant le Centre de traitement des appels du 118",
+      "date": "2019-01-23",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=375792"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-5-novembre-2019/reponse-du-conseil-detat-a-linterpellation-jean-daniel-carrard-systeme-daide-a-lengagement-prosdis-mise-en-application-alarmante",
+  "communes": [
+    {
+      "ofs": 5409,
+      "origine": "document"
+    }
+  ]
+}

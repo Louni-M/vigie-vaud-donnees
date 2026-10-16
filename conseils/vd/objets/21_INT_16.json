@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225646,
+  "numero": "21_INT_16",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-05-05"
+  },
+  "depose": "2021-01-26",
+  "titre": "« Hôpital intercantonal Riviera-Chablais Vaud Valais : Vevey et la Riviera ont besoin d’un « bon Samaritain »",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-01-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-02-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-05-05",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-08",
+      "lien": "http://www.sonomix.ch/live/gcvd/1855#9409"
+    },
+    {
+      "titre": "Un projet pour la population de la Riviera sur le site du Samaritain à Vevey",
+      "date": "2021-05-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2052930"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/befc151c-ce91-48d4-8ef0-7165c0a73b66/meeting/1000563",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

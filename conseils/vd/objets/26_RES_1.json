@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 296084,
+  "numero": "26_RES_1",
+  "type": "Résolution",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2026-02-24"
+  },
+  "depose": "2026-01-27",
+  "titre": "DelSurv 2",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Suter",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-01-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-02-24",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-02-24",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2026-02-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/3355#2433"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ef5b4013-ac0d-493f-bbfe-5043fe32921f/meeting/1029658",
+  "communes": []
+}

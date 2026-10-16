@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226827,
+  "numero": "23_HQU_12",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2023-02-07"
+  },
+  "depose": "2023-01-31",
+  "titre": "Santé en prison : une étude est-elle prévue pour établir les facteurs de dégradation de la santé psychique des détenus ?",
+  "contributeurs": [
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-01-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-02-07",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "dans l'article du 24heures",
+      "date": "2023-01-31",
+      "lien": "https://www.24heures.ch/la-sante-des-detenus-vaudois-se-degrade-307087674377"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e97c7d50-3ff9-4f4a-91e5-09a60171f2d2/meeting/1013633",
+  "communes": [
+    {
+      "ofs": 5589,
+      "origine": "document"
+    },
+    {
+      "ofs": 5638,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5883,
+      "origine": "document"
+    }
+  ]
+}

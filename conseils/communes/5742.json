@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5742,
+  "objets": [
+    {
+      "cle": "vd/22_LEG_38",
+      "numero": "22_LEG_38",
+      "type": "Décret/Loi",
+      "depose": "2022-09-20",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit-cadre de CHF 12'200'000.- pour financer des travaux d’entretien de six tronçons de routes cantonales situés sur les RC 32 entre Begnins et La Cézille, RC 702 à l’entrée de Flendruz, RC 705 entre L'Etivaz et Les Martines, RC 763 entre Puidoux et Lignières, RC 284 entre Bofflens et Agiez ainsi que la RC 503 entre Cudrefin et La Sauge",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-09-20"
+      },
+      "derniere_etape": "2022-09-20",
+      "communes": [
+        {
+          "ofs": 5704,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5607,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5747,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5742,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5456,
+          "origine": "titre"
+        }
+      ]
+    }
+  ]
+}

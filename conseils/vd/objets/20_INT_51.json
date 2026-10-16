@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225227,
+  "numero": "20_INT_51",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-01-27"
+  },
+  "depose": "2020-11-24",
+  "titre": "Violences urbaines à Yverdon: que fait la police cantonale ?",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Balet",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-11-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-12-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-01-27",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2020-12-02",
+      "lien": "https://www.sonomix.ch/live/gcvd/1654#351"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-01",
+      "lien": "http://www.sonomix.ch/live/gcvd/1849#10005"
+    },
+    {
+      "titre": "Soirées du 1er août et d'Halloween: gestion de l'ordre public coordonnée à Yverdon-les-Bains",
+      "date": "2021-01-27",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2032482"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e0000187-8aac-434a-966b-50b75636ac78/meeting/1000562",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

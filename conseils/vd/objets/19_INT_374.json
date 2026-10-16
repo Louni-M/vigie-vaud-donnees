@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224691,
+  "numero": "19_INT_374",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-02-11"
+  },
+  "depose": "2019-06-18",
+  "titre": "Parcs éoliens vaudois, jusqu'à quand va-t-on brasser de l'air avant de voir une éolienne en brasser dans notre Canton ?",
+  "contributeurs": [
+    {
+      "nom": "Olivier Petermann",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Olivier Petermann",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-06-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-06-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-10-02",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-02-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_374_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-06-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_374_depot.pdf"
+    },
+    {
+      "titre": "Réalisation de parcs éoliens dans le canton",
+      "date": "2019-10-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=387378"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-11-fevrier-2020/reponse-du-conseil-detat-a-linterpellation-olivier-petermann-et-consorts-parcs-eoliens-vaudois-jusqua-quand-va-t-on-brasser-de-lair-avant-de-voir-une-eolienne-en-brasser-dans-notre-canton",
+  "communes": [
+    {
+      "ofs": 5568,
+      "origine": "document"
+    }
+  ]
+}

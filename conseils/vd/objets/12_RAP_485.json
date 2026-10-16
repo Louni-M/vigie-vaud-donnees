@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222818,
+  "numero": "12_RAP_485",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-11-06"
+  },
+  "depose": "2012-11-06",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur les opérations effectuées du 1er janvier 2010 au 31 décembre 2011 par le \"Fonds pour l'acquisition de droits réels et d'immeubles de réserve\" (FAIR), selon décret du 12 septembre 1994, modifié le 4 septembre 2007",
+  "contributeurs": [
+    {
+      "nom": "Valérie Schwaar",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Valérie Schwaar",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Valérie Schwaar",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-11-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-11-06",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/485_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/485_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-6-novembre-2012/rapport-du-conseil-detat-au-grand-conseil-sur-les-operation-effectuees-du-1er-janvier-2010-au-31-decembre-2011-par-le-fonds-pour-lacquisition-de-droits-reels-et-dimmeubles-de-reserve-fair-selon-decret-du-12-sept-1994-modifie-le-4-sept-2007",
+  "communes": []
+}

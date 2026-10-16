@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222446,
+  "numero": "11_LEG_429",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-10-04"
+  },
+  "depose": "2011-10-04",
+  "titre": "Projet de budget 2012 et exposé des motifs et projets de lois (EMPD N° 1 du projet de budget 2012) sur l'impôt 2012 et modifiant la loi du 27 février 1963 concernant le droit de mutation sur les transferts immobiliers et l'impôt sur les successions et donations (LMSD)",
+  "contributeurs": [
+    {
+      "nom": "Frédéric Grognuz",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Eric Bonjour",
+      "parti": "UDC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Michel Favez",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-10-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-10-04",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-10-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/429_Texte_CE.pdf"
+    },
+    {
+      "titre": "2ème rapport de la minorité de la commission",
+      "date": "2011-10-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/429_RC_min2.PDF"
+    },
+    {
+      "titre": "1er rapport de la minorité de la commission",
+      "date": "2011-10-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/429_RC_min1.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2011-10-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/429_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-4-octobre-2011/projet-de-budget-2012-et-expose-des-motifs-et-projets-de-lois-sur-limpot-2012",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

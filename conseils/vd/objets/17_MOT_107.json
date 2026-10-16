@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224107,
+  "numero": "17_MOT_107",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2018-03-13"
+  },
+  "depose": "2017-06-06",
+  "titre": "Subvention pour les routes cantonales en traversée de localité : que tout l'argent promis aille aux communes !",
+  "contributeurs": [
+    {
+      "nom": "Muriel Thalmann",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Muriel Thalmann",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-06-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-03-13",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-03-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_107_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-03-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/17_MOT_107_obj_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-13-mars-2018/motion-philippe-modoux-subvention-pour-les-routes-cantonales-en-traversee-de-localite-que-tout-largent-promis-aille-aux-communes",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5531,
+  "objets": [
+    {
+      "cle": "vd/10_LEG_293",
+      "numero": "10_LEG_293",
+      "type": "Décret/Loi",
+      "depose": "2010-10-12",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes d'Eclagnens, Goumoens-la-Ville et Goumoens-le-Jux (Goumoëns)",
+      "auteurs": [
+        {
+          "nom": "Béatrice Métraux",
+          "parti": null
+        },
+        {
+          "nom": "Béatrice Métraux",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-12"
+      },
+      "derniere_etape": "2010-10-12",
+      "communes": [
+        {
+          "ofs": 5541,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5531,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5537,
+          "origine": "document"
+        },
+        {
+          "ofs": 5535,
+          "origine": "document"
+        },
+        {
+          "ofs": 5903,
+          "origine": "document"
+        },
+        {
+          "ofs": 5761,
+          "origine": "document"
+        },
+        {
+          "ofs": 5746,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

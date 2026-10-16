@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226130,
+  "numero": "22_HQU_118",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-11-08"
+  },
+  "depose": "2022-11-01",
+  "titre": "Swiss Veggie Day",
+  "contributeurs": [
+    {
+      "nom": "Sonya Butera",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-11-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-11-08",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Veggie Day",
+      "date": "2022-11-08",
+      "lien": "https://www.stnet.ch/fr/swisstainable-veggie-day-2/"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/12db49d1-36e6-4af3-8235-4e582cf1c0fe/meeting/1012638",
+  "communes": []
+}

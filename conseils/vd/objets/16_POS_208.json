@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224036,
+  "numero": "16_POS_208",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-01-29"
+  },
+  "depose": "2016-11-22",
+  "titre": "Métropole lémanique : quel bilan, quelles perspectives ?",
+  "contributeurs": [
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-11-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-12-13",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-01-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-01-29",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-01-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_208_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-01-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_208_Obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-11-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_208_Depot.PDF"
+    },
+    {
+      "titre": "Métropole lémanique: bilan et perspectives",
+      "date": "2020-01-29",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=389522"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-15-janvier-2019/postulat-axel-marion-et-consorts-metropole-lemanique-quel-bilan-quelles-perspectives",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5624,
+      "origine": "document"
+    }
+  ]
+}

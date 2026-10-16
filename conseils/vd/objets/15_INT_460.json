@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223537,
+  "numero": "15_INT_460",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-06-07"
+  },
+  "depose": "2015-12-15",
+  "titre": "Les rives... suite des engagements du Conseil d'Etat ?",
+  "contributeurs": [
+    {
+      "nom": "Fabienne Freymond Cantone",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Fabienne Freymond Cantone",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-12-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-12-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-06-07",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_460_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_460_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-7-juin-2016/reponse-du-conseil-detat-a-linterpellation-fabienne-freymond-cantone-et-consorts-les-rives-suite-des-engagements-du-conseil-detat",
+  "communes": [
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5889,
+      "origine": "document"
+    }
+  ]
+}

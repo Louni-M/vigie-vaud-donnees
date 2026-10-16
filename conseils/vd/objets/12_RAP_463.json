@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222810,
+  "numero": "12_RAP_463",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-05-29"
+  },
+  "depose": "2012-05-29",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Nuria Gorrite et consorts concernant l'informatique et l'information lors des élections fédérales du 23 octobre 2011- derrière le bug de la DSI, le chaos au SECRI et Réponse à l'interpellation Jean-Marie Surer et consorts - Le bug de l'informatique et le bug de l'information",
+  "contributeurs": [
+    {
+      "nom": "Anne-Marie Depoisier",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Anne-Marie Depoisier",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-05-29",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/463_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/463_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-12-juin-2012/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-nuria-gorrite-concernant-linformatique-et-linformation-lors-des-elections-federales-du-21-octobre-2011-derriere-le-bug-de-la-dsi-le-chaos-au-secri",
+  "communes": [
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5425,
+      "origine": "document"
+    }
+  ]
+}

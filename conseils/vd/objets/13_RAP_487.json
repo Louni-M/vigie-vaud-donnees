@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223090,
+  "numero": "13_RAP_487",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-01-08"
+  },
+  "depose": "2013-01-08",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur les postulats- Nicolas Rochat et consorts intitulé \"Processus de Bologne : Vers une marchandisation progressive des études ?\"",
+  "contributeurs": [
+    {
+      "nom": "Jean-Yves Pidoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Yves Pidoux",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-01-08",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-01-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/487_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-01-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/487_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-22-janvier-2013/rapport-du-conseil-detat-au-grand-conseil-sur-les-postulats-nicolas-rochat-et-consorts-intitule-processus-de-bologne-vers-une-marchandisation-progressive-des-etudes-09-pos-168-et-bernard-borel-intitule-trahison-de-la-reforme-de-bologne",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

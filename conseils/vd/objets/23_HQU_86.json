@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226916,
+  "numero": "23_HQU_86",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2023-10-10"
+  },
+  "depose": "2023-10-03",
+  "titre": "Quelle collaboration de la DGS avec la Cour des Comptes ?",
+  "contributeurs": [
+    {
+      "nom": "Florence Bettschart-Narbel",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Florence Bettschart-Narbel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-10-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-10-10",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/b7c3de42-290b-4bbe-892a-5a6d31bd7199/meeting/1019543",
+  "communes": []
+}

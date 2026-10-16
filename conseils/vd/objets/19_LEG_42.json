@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224847,
+  "numero": "19_LEG_42",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Non entrée en matière",
+    "date": "2019-03-19"
+  },
+  "depose": "2019-03-12",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi du 9.9.75 sur le logement et Rapport du Conseil d'Etat au Grand Conseil au Grand Conseil sur la motion F. Freymond Cantone et consorts visant à encourager les constructions ou les rénovations de logements subventionnés exemplaires sur le plan énergétique",
+  "contributeurs": [
+    {
+      "nom": "Andreas Wüthrich",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Andreas Wüthrich",
+      "parti": "V'L",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Yvan Luccarini",
+      "parti": "EP",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-03-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-03-19",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-03-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/42_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2019-03-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/42_RCmaj.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2019-03-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/42_RC_min.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-19-mars-2019/expose-des-motifs-et-projet-de-loi-modifiant-la-loi-du-9975-sur-le-logement-et-rapport-du-conseil-detat-au-grand-conseil-au-grand-conseil-sur-la-motion-f-freymond-cantone-et-consorts-visant-a-encourager-les-constructions-ou-les-renovations-de-logement",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

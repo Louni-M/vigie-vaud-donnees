@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5559,
+  "objets": [
+    {
+      "cle": "vd/15_INT_429",
+      "numero": "15_INT_429",
+      "type": "Interpellation",
+      "depose": "2015-09-22",
+      "titre": "Une famille de réfugiés par commune?",
+      "auteurs": [
+        {
+          "nom": "Aliette Rey-Marion",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Aliette Rey-Marion",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-02-09"
+      },
+      "derniere_etape": "2016-02-09",
+      "communes": [
+        {
+          "ofs": 5559,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

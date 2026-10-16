@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222699,
+  "numero": "12_LEG_417",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-02-21"
+  },
+  "depose": "2012-01-17",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi sur la police cantonale du 17.11.1975 etRapport du Conseil d'Etat au Grand Conseil sur la motion Pierre Zwahlen et consorts pour la poursuite de l'investigation",
+  "contributeurs": [
+    {
+      "nom": "Michaël Buffat",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre Zwahlen",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-01-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-01-17",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2012-02-21",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Loi adoptée par le Grand Conseil le 17.01.12",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/428_Texte_FAO.pdf"
+    },
+    {
+      "titre": "Loi adoptée par le Grand Conseil le 21.02.12",
+      "date": "2012-02-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/417_Texte_FAO.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/417_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/417_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/417_RC_Maj.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-21-fevrier-2012/expose-des-motifs-et-projet-de-loi-modifiant-la-loi-sur-la-police-cantonale-du-17111975",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

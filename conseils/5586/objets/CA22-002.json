@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 29256,
+  "numero": "CA22/002",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2022-05-10"
+  },
+  "depose": "2022-02-21",
+  "titre": "M3 - Etudes de déplacement des réseaux",
+  "contributeurs": [
+    {
+      "nom": "Cécile Wolf",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-02-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-05-10",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Communication au CC signée",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/ac/ac70c6ef04af4301aed166d3d9d7cbcb.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/7e/b556eb1982f646558ec5b928acc62a7e.htm",
+  "communes": []
+}

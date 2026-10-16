@@ -1,0 +1,356 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5860,
+  "objets": [
+    {
+      "cle": "vd/26_QUE_35",
+      "numero": "26_QUE_35",
+      "type": "Simple question",
+      "depose": "2026-05-12",
+      "titre": "Coup d'oeil du 10.5.26 et révocation à Perroy",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traktandiert",
+        "date": "2026-05-12"
+      },
+      "derniere_etape": "2026-05-12",
+      "communes": [
+        {
+          "ofs": 5860,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_MOT_27",
+      "numero": "24_MOT_27",
+      "type": "Motion",
+      "depose": "2024-04-30",
+      "titre": "Accompagnons le développement du VTT et du VTT à assistance électrique au travers d'une stratégie VTT cantonale !",
+      "auteurs": [
+        {
+          "nom": "Sébastien Cala",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Blaise Vionnet",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2025-05-06"
+      },
+      "derniere_etape": "2025-05-06",
+      "communes": [
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5860,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/25_QUE_2",
+      "numero": "25_QUE_2",
+      "type": "Simple question",
+      "depose": "2025-01-14",
+      "titre": "Quel bilan carbone des déplacements privés en jets et hélicoptères dans le Canton ?",
+      "auteurs": [
+        {
+          "nom": "Mathilde Marendaz",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2025-03-05"
+      },
+      "derniere_etape": "2025-03-05",
+      "communes": [
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5860,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_QUE_93",
+      "numero": "24_QUE_93",
+      "type": "Simple question",
+      "depose": "2024-12-04",
+      "titre": "Futur tronçon CFF Lausanne-Genève - Quelles perspectives chronologiques ?",
+      "auteurs": [
+        {
+          "nom": "Romain Pilloud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2025-01-20"
+      },
+      "derniere_etape": "2025-01-20",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5860,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_INT_29",
+      "numero": "24_INT_29",
+      "type": "Interpellation",
+      "depose": "2024-02-20",
+      "titre": "Morges – Perroy : Tout le monde n’a pas vu le bout du tunnel",
+      "auteurs": [
+        {
+          "nom": "Marc Morandi",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-02-27"
+      },
+      "derniere_etape": "2024-02-27",
+      "communes": [
+        {
+          "ofs": 5642,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5860,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_45",
+      "numero": "23_INT_45",
+      "type": "Interpellation",
+      "depose": "2023-03-21",
+      "titre": "Les travaux de la Gare de Lausanne dépassent le quart d’heure vaudois : quelles mesures sont prévues pour éviter que la mobilité dans son ensemble n’en souffre ?",
+      "auteurs": [
+        {
+          "nom": "David Raedler",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-11-01"
+      },
+      "derniere_etape": "2023-11-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5860,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_73",
+      "numero": "23_INT_73",
+      "type": "Interpellation",
+      "depose": "2023-05-02",
+      "titre": "Le prix de l’énergie s’envole, le bénéfice de Romande Energie aussi !",
+      "auteurs": [
+        {
+          "nom": "Cédric Roten",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-05-09"
+      },
+      "derniere_etape": "2023-05-09",
+      "communes": [
+        {
+          "ofs": 5646,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5860,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_RES_17",
+      "numero": "22_RES_17",
+      "type": "Résolution",
+      "depose": "2022-10-11",
+      "titre": "Gare CFF de Lausanne - les travaux restent à quai",
+      "auteurs": [
+        {
+          "nom": "Xavier de Haller",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Transmise au CE",
+        "date": "2023-02-22"
+      },
+      "derniere_etape": "2023-02-22",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5860,
+          "origine": "document"
+        },
+        {
+          "ofs": 5851,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_187",
+      "numero": "09_INT_187",
+      "type": "Interpellation",
+      "depose": "2009-02-10",
+      "titre": "Le différend entre la Commune de Rolle et Rivesrolle SA",
+      "auteurs": [
+        {
+          "nom": "Jean Guignard",
+          "parti": null
+        },
+        {
+          "nom": "Jean Guignard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-02-02"
+      },
+      "derniere_etape": "2010-02-02",
+      "communes": [
+        {
+          "ofs": 5861,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5860,
+          "origine": "document"
+        },
+        {
+          "ofs": 5859,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

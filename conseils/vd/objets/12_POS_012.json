@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222783,
+  "numero": "12_POS_012",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2013-03-26"
+  },
+  "depose": "2012-11-13",
+  "titre": "Croisée, Etablissements Portes Ouvertes, ou est-il plus facile d'en sortir que d'y rentrer",
+  "contributeurs": [
+    {
+      "nom": "Claude Matter",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claude Matter",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Claude Matter",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-11-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-11-13",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-03-26",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-03-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_POS_012_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2013-03-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_POS_012_Objet_et_d%C3%A9v_02.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-11-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_POS_012_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-26-mars-2013/postulat-alice-glauser-et-consorts-concernant-lepo-croisee-etablissements-portes-ouvertes-ou-est-il-plus-facile-den-sortir-que-dy-rentrer",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5749,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5497,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226727,
+  "numero": "22_QUE_31",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-11-02"
+  },
+  "depose": "2022-08-30",
+  "titre": "Centre de requérants “Les Rochat”",
+  "contributeurs": [
+    {
+      "nom": "José Durussel",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-08-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-11-02",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Site d’accueil des Rochat, à Provence",
+      "date": "2022-11-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2143043"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f1dea2d9-2d11-4ae5-afef-afbcc09fad9d/meeting/1012630",
+  "communes": [
+    {
+      "ofs": 5566,
+      "origine": "document"
+    },
+    {
+      "ofs": 5561,
+      "origine": "document"
+    }
+  ]
+}

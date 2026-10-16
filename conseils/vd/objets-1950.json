@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "conseil": "vd",
+  "annee": 1950,
+  "objets": [
+    {
+      "cle": "vd/V_01.1.1950",
+      "numero": "V 01.1.1950",
+      "type": "Consultation",
+      "depose": "1950-01-01",
+      "titre": "Consultation concernant l’avant-projet de révision partielle de la loi du 4 décembre 1985 sur l’aménagement du territoire et les constructions (LATC)",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Consultation concernant l’avant-projet de révision partielle de la loi du 4 décembre 1985 sur l’aménagement du territoire et les constructions (LATC)",
+        "date": "1950-01-01"
+      },
+      "derniere_etape": "1950-01-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5592,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

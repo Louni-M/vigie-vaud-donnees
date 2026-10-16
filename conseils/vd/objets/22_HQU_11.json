@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226121,
+  "numero": "22_HQU_11",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-01-25"
+  },
+  "depose": "2022-01-18",
+  "titre": "Suppression des offices d’impôts : après la Vallée de Joux, Aigle ?",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Montangero",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-01-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-01-25",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/021c1e50-183f-41a6-98b3-f7736af736c2/meeting/1004428",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "titre"
+    }
+  ]
+}

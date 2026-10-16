@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 176289,
+  "numero": "21_HQU_18",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2021-01-19"
+  },
+  "depose": "2021-01-12",
+  "titre": "Buffet froid",
+  "contributeurs": [
+    {
+      "nom": "Valérie Induni",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-01-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-01-19",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ff2b8143-41c3-4327-b70a-8ccd5911e0ea/meeting/1000545",
+  "communes": []
+}

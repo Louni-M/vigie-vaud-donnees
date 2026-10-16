@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222100,
+  "numero": "10_PET_060",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2011-12-20"
+  },
+  "depose": "2011-12-06",
+  "titre": "Pétition de l'Association lausannoise pour la libération animale intitulée \"Interdisons le meurtre des renards\"",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2011-12-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-12-20",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-12-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_PET_060_RC.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-12-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_PET_060_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-20-decembre-2011/petition-de-lassociation-lausannoise-pour-la-liberation-animale-intitulee-interdisons-le-meurtre-des-renards",
+  "communes": []
+}

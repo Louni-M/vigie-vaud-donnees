@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224871,
+  "numero": "19_MOT_070",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2020-03-10"
+  },
+  "depose": "2019-01-08",
+  "titre": "Pour une accessibilité à pied et en transports publics du Centre Blécherette de la Police cantonale au Mont-sur-Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-01-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-01-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-03-10",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_070_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_070_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-01-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_070_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-10-mars-2020/motion-alexandre-rydlo-et-consorts-pour-une-accessibilite-a-pied-et-en-transports-publics-du-centre-blecherette-de-la-police-cantonale-au-mont-sur-lausanne",
+  "communes": [
+    {
+      "ofs": 5587,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5648,
+      "origine": "document"
+    },
+    {
+      "ofs": 5412,
+      "origine": "document"
+    }
+  ]
+}

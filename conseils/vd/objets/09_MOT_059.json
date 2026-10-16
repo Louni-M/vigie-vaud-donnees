@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221679,
+  "numero": "09_MOT_059",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2009-05-19"
+  },
+  "depose": "2009-01-27",
+  "titre": "Au sujet de l'extension de la procédure de contrôle des soumissionnaires par les partenaires sociaux à toutes les collectivités publiques du Canton",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": "SOC",
+      "role": null,
+      "sorte": "personne"
+    },
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-01-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-01-27",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2009-05-19",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2009-01-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/09.01.22_Envoi_deputes/09_MOT_059_Depot.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-05-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_059_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2009-05-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_059_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-19-mai-2009/motion-nicolas-rochat",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5649,
+      "origine": "document"
+    }
+  ]
+}

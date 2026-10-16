@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224855,
+  "numero": "19_LEG_76",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-05-07"
+  },
+  "depose": "2019-04-30",
+  "titre": "Exposé des motifs et projet de décret portant modification du Plan directeur des carrières (PDCar)",
+  "contributeurs": [
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Yvan Pahud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-04-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-05-07",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-04-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/76_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-04-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/76_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-7-mai-2019/expose-des-motifs-et-projet-de-decret-portant-modification-du-plan-directeur-des-carrieres-pdcar",
+  "communes": [
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5408,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

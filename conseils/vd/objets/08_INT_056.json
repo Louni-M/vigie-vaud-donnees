@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228512,
+  "numero": "08_INT_056",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2008-09-16"
+  },
+  "depose": "2008-07-01",
+  "titre": "Le Toxicobox de la Riponne",
+  "contributeurs": [
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-07-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-09-16",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-09-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_16_septembre_2008/08_INT_056_Texte_CE.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-07-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_1er_juillet_2008/08_INT_056_Texte_adopte_par_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-16-septembre-2008/reponse-du-conseil-detat-a-linterpellation-olivier-golaz",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

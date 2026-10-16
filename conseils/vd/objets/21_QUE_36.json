@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226046,
+  "numero": "21_QUE_36",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-12-15"
+  },
+  "depose": "2021-10-12",
+  "titre": "Quelle est la subvention de l’Etat de Vaud à la Fondation Jean-Marc Landry?",
+  "contributeurs": [
+    {
+      "nom": "Pierre-François Mottier",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-10-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-12-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Suivi du loup et accompagnement des exploitants agricoles",
+      "date": "2021-12-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2092584"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/7c89e32c-7e28-4059-b0ed-f522aa034305/meeting/1004409",
+  "communes": []
+}

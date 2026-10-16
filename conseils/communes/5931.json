@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5931,
+  "objets": [
+    {
+      "cle": "vd/22_POS_22",
+      "numero": "22_POS_22",
+      "type": "Postulat",
+      "depose": "2022-05-17",
+      "titre": "Pour ne pas regretter plus tard de s'être mis au service d'une collectivité : affiliation au deuxième pilier pour les municipales, municipaux, députées et députés",
+      "auteurs": [
+        {
+          "nom": "Yannick Maury",
+          "parti": "VER"
+        },
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2022-05-24"
+      },
+      "derniere_etape": "2022-05-24",
+      "communes": [
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5931,
+          "origine": "document"
+        },
+        {
+          "ofs": 5680,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5648,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_PET_027",
+      "numero": "08_PET_027",
+      "type": "Pétition",
+      "depose": "2009-09-15",
+      "titre": "Pétition pour une sécurité accrue de la route Essert-sous-Champvent à Peney au Lieu-dit Le Pilon qui subit année après année de graves accidents",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2009-09-15"
+      },
+      "derniere_etape": "2009-09-15",
+      "communes": [
+        {
+          "ofs": 5766,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5931,
+          "origine": "document"
+        },
+        {
+          "ofs": 5904,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

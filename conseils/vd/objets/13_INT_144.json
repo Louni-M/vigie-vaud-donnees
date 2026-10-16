@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222890,
+  "numero": "13_INT_144",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-01-20"
+  },
+  "depose": "2013-07-02",
+  "titre": "Réponse du Conseil d'Etat à l'interpellation François Brélaz à propos d'une éventuelle reconnaissance de la communauté musulmane",
+  "contributeurs": [
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-07-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-07-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-01-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-01-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_144_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-07-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_144_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-20-janvier-2015/reponse-du-conseil-detat-a-linterpellation-francois-brelaz-a-propos-dune-eventuelle-reconnaissance-de-la-communaute-musulmane",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5627,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    }
+  ]
+}

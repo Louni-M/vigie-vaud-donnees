@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228369,
+  "numero": "25_QUE_48",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-07-02"
+  },
+  "depose": "2025-05-20",
+  "titre": "Corvidés problématiques...encore et toujours à l'ordre du jour sans action efficace et concrète du Conseil d'Etat!",
+  "contributeurs": [
+    {
+      "nom": "Marion Wahlen",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-05-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-07-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-07-02",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Le Canton de Vaud lutte activement contre les dommages causés par les corvidés",
+      "date": "2025-07-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2314619"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/cebfb5bf-d965-4e85-b18a-8527f45cfb9a/meeting/1026888",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

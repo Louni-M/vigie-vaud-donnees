@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221884,
+  "numero": "10_INT_400",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-01-25"
+  },
+  "depose": "2010-06-22",
+  "titre": "Nucléaire : la Suisse, les Vaudois et le Conseil d'Etat",
+  "contributeurs": [
+    {
+      "nom": "Yves Ferrari",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-06-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-06-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-01-25",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-01-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_400_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-06-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_400_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-25-janvier-2011/reponse-du-conseil-detat-a-linterpellation-yves-ferrari-nucleaire-la-suisse-les-vaudois-et-le-conseil-detat",
+  "communes": []
+}

@@ -1,0 +1,245 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5760,
+  "objets": [
+    {
+      "cle": "vd/24_HQU_87",
+      "numero": "24_HQU_87",
+      "type": "Question orale",
+      "depose": "2024-09-03",
+      "titre": "Rapport Braegger : nouvelle jurisprudence sur l'obligation de transparence des documents officiels d'intérêt public",
+      "auteurs": [
+        {
+          "nom": "Mathilde Marendaz",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Terminée",
+        "date": "2024-09-10"
+      },
+      "derniere_etape": "2024-09-10",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5760,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_POS_20",
+      "numero": "22_POS_20",
+      "type": "Postulat",
+      "depose": "2022-05-03",
+      "titre": "Agissons pour favoriser la participation aux élections cantonales et assurer la représentativité de nos institutions!",
+      "auteurs": [
+        {
+          "nom": "David Raedler",
+          "parti": "VER"
+        },
+        {
+          "nom": "Alexandre Démétriadès",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2022-05-10"
+      },
+      "derniere_etape": "2022-05-10",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5760,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_265",
+      "numero": "18_INT_265",
+      "type": "Interpellation",
+      "depose": "2018-11-27",
+      "titre": "Les moyens mis en oeuvre pour la dépollution de sites sont-ils suffisants ?",
+      "auteurs": [
+        {
+          "nom": "Hadrien Buclin",
+          "parti": "EP"
+        },
+        {
+          "nom": "Hadrien Buclin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-05-07"
+      },
+      "derniere_etape": "2019-05-07",
+      "communes": [
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5745,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5760,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_LEG_165",
+      "numero": "14_LEG_165",
+      "type": "Décret/Loi",
+      "depose": "2014-11-25",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 14'875'000 pour financer l'assainissement des infrastructures techniques des Etablissements de la plaine de l'Orbe",
+      "auteurs": [
+        {
+          "nom": "Pierre Guignard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2015-03-31"
+      },
+      "derniere_etape": "2015-03-31",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5760,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_484",
+      "numero": "12_LEG_484",
+      "type": "Décret/Loi",
+      "depose": "2012-11-27",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 3'600'000 pour la participation cantonale à la réalisation de la deuxième étape du Centre sportif « Aux Isles » à Yverdon-les-Bains",
+      "auteurs": [
+        {
+          "nom": "Conseil d'État",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-12-04"
+      },
+      "derniere_etape": "2012-12-04",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5760,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/8_LEG_111",
+      "numero": "8_LEG_111",
+      "type": "Décret/Loi",
+      "depose": "2008-11-11",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit-cadre de CHF 4'697’000.- pour financer les travaux de restauration et transformation des cures de Chavornay, Rances et Goumoens-la-Ville",
+      "auteurs": [
+        {
+          "nom": "Albert Chapalay",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Albert Chapalay",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2008-11-11"
+      },
+      "derniere_etape": "2008-11-11",
+      "communes": [
+        {
+          "ofs": 5749,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5760,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5541,
+          "origine": "titre"
+        }
+      ]
+    }
+  ]
+}

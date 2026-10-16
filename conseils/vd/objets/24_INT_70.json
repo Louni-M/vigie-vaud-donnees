@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227715,
+  "numero": "24_INT_70",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2024-10-30"
+  },
+  "depose": "2024-04-16",
+  "titre": "En faveur des jeunes en risque de pauvreté",
+  "contributeurs": [
+    {
+      "nom": "Pierre Zwahlen",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-04-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-04-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-10-30",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-01-21",
+      "lien": "https://www.sonomix.ch/live/gcvd/3009#8925"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-04-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/2809#966"
+    },
+    {
+      "titre": "Sensibilisation et accompagnement pour les jeunes endettés",
+      "date": "2024-10-30",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2267589"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/8e7c74a2-3c6e-4147-a706-b4819c58bda3/meeting/1026875",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

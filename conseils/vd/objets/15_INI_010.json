@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 203031,
+  "numero": "15_INI_010",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2016-03-01"
+  },
+  "depose": "2015-03-10",
+  "titre": "Formation professionnelle agricole confiée au département en charge de l'agriculture",
+  "contributeurs": [
+    {
+      "nom": "Sylvie Podio",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Sylvie Podio",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Sylvie Podio",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-03-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-03-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-03-01",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-03-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INI_010_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-03-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INI_010_Obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INI_010_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-1er-mars-2016/initiative-frederic-borloz-et-consorts-formation-professionnelle-agricole-confiee-au-departement-en-charge-de-lagriculture",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

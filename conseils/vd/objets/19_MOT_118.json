@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224919,
+  "numero": "19_MOT_118",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2020-10-27"
+  },
+  "depose": "2019-11-19",
+  "titre": "Livreurs de repas, presque bénévoles, indemnisés et taxés",
+  "contributeurs": [
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Monique Ryf",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-11-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-11-26",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-10-27",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2019-11-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_118_depot.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2020-10-27",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=392631"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ad4aa8a8-ffdb-4309-8dbf-30df8dcd05ad/meeting/1000532",
+  "communes": [
+    {
+      "ofs": 5675,
+      "origine": "document"
+    }
+  ]
+}

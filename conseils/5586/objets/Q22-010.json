@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 120619,
+  "numero": "Q22/010",
+  "type": "Question écrite",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2022-09-13"
+  },
+  "depose": "2022-03-08",
+  "titre": "Allo Lausanne ?",
+  "contributeurs": [
+    {
+      "nom": "Céline Misiego",
+      "parti": "EàG",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-03-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-03-08",
+      "libelle": "Décision : Renvoi en Municipalité"
+    },
+    {
+      "date": "2022-08-29",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2022-09-13",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Question écrite n° 10 de Misiego Céline - Allo Lausanne ?",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/87/871da3623de94f5e920314e42f697e00.pdf"
+    },
+    {
+      "titre": "Réponse à la question signée",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/a9/a90101291e484f61833898408228c978.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/33/812dc7e358664e8683e037917fd24433.htm",
+  "communes": []
+}

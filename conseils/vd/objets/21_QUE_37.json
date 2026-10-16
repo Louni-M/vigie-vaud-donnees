@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226047,
+  "numero": "21_QUE_37",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-12-15"
+  },
+  "depose": "2021-10-12",
+  "titre": "Pour un soutien pérenne au refuge pour animaux \"Erminea\"",
+  "contributeurs": [
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-10-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-12-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Soutien cantonal aux centres de soins pour animaux",
+      "date": "2021-12-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2092578"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/12e35cbd-ec36-4c98-ad66-8abc3baf84ef/meeting/1004409",
+  "communes": [
+    {
+      "ofs": 5749,
+      "origine": "document"
+    },
+    {
+      "ofs": 5636,
+      "origine": "document"
+    },
+    {
+      "ofs": 5731,
+      "origine": "document"
+    }
+  ]
+}

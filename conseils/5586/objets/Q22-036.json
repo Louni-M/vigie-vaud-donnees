@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 29805,
+  "numero": "Q22/036",
+  "type": "Question écrite",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2023-01-17"
+  },
+  "depose": "2022-11-08",
+  "titre": "Bike on bus aussi à Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Matthieu Carrel",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-11-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-11-08",
+      "libelle": "Décision : Renvoi en Municipalité"
+    },
+    {
+      "date": "2022-12-23",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2023-01-17",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Question écrite de Carrel Matthieu - Bike on bus aussi à Lausanne",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/18/18e270339c084889a3b6463894ff4d96.pdf"
+    },
+    {
+      "titre": "Réponse à la question signée",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/75/7555fa2406334de8b37ba1dce0abd707.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/90/e82c936f1d8a49bf80ad70924a156c90.htm",
+  "communes": []
+}

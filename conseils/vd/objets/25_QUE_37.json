@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228356,
+  "numero": "25_QUE_37",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-07-02"
+  },
+  "depose": "2025-05-06",
+  "titre": "Révision du PAC de la Ville haute de Moudon, le temps file et rien ne point à l'horizon ?",
+  "contributeurs": [
+    {
+      "nom": "Muriel Thalmann",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-05-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-07-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-07-02",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Révision du plan d’affectation cantonal de la Ville haute de Moudon",
+      "date": "2025-07-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2314616"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d800314b-3131-4bc8-830f-9f9d1e5e892f/meeting/1026887",
+  "communes": [
+    {
+      "ofs": 5678,
+      "origine": "titre"
+    }
+  ]
+}

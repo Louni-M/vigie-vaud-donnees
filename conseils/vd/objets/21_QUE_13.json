@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 176415,
+  "numero": "21_QUE_13",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-05-12"
+  },
+  "depose": "2021-03-30",
+  "titre": "Interception de convois de gitans : pourquoi une telle différence de pratique entre Vaud et Valais ?",
+  "contributeurs": [
+    {
+      "nom": "Dylan Karlen",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-03-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-05-12",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Gens du voyage",
+      "date": "2021-05-12",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2053829"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5f9cd2ea-88a8-426b-a7e4-87461586333c/meeting/1000555",
+  "communes": [
+    {
+      "ofs": 5412,
+      "origine": "document"
+    }
+  ]
+}

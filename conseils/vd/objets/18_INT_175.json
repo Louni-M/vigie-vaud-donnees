@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222925,
+  "numero": "18_INT_175",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2019-05-15"
+  },
+  "depose": "2018-05-08",
+  "titre": "E la nave ne va plus",
+  "contributeurs": [
+    {
+      "nom": "Marc-Olivier Buffat",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Marc-Olivier Buffat",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-05-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-05-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_175_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-05-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_175_depot.pdf"
+    },
+    {
+      "titre": "Bateau de la brigade du lac d'Yverdon-les-Bains",
+      "date": "2019-05-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=359800"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-10-mars-2020/reponse-du-conseil-detat-a-linterpellation-marc-olivier-buffat-et-consorts-e-la-nave-ne-va-plus",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5813,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

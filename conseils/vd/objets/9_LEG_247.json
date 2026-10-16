@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228816,
+  "numero": "9_LEG_247",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-12-08"
+  },
+  "depose": "2009-12-01",
+  "titre": "Exposé des motifs et projet de décret accordant à la Fondation Silo la garantie de l'Etat de Vaud et la prise en charge du service de la dette, d'une part, sur un emprunt complémentaire jusqu'à un maximum de CHF 1'815'000.- en vue de financer les hausses légales encourues et une partie des coûts supplémentaires relatifs aux travaux d'extension et de transformation de l'EMS Silo à Echichens et, d'autre part, sur un emprunt jusqu'à un maximum de CHF 2'700'000.- en vue de financer l'acquisition du terrain et des bâtiments de l'EMS du Château de Féchy, à Féchy, et la réalisation de quelques travaux urgents dans ces derniers bâtiments",
+  "contributeurs": [
+    {
+      "nom": "Philippe Martinet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Martinet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-12-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-12-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-12-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/247_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-12-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/247_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 08.12.09",
+      "date": "2009-12-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/247_Decret_adopte_le_08.12.09.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seances-des-8-et-9-decembre-2009/expose-des-motifs-et-projet-de-decret-fondation-silo",
+  "communes": [
+    {
+      "ofs": 5634,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5427,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

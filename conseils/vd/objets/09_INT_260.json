@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221617,
+  "numero": "09_INT_260",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-05-25"
+  },
+  "depose": "2009-06-23",
+  "titre": "La signalisation des régions touristiques et demandant si l'on sait exactement qui fait quoi et qui va payer quoi dans le cas de la signalisation du Lavaux",
+  "contributeurs": [
+    {
+      "nom": "Pierre-Yves Rapaz",
+      "parti": "UDC",
+      "role": null,
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre-Yves Rapaz",
+      "parti": "UDC",
+      "role": null,
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-06-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-06-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-05-25",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2009-06-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_260_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-10-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_260_Texte_CE.pdf"
+    },
+    {
+      "titre": "Détermination acceptée par le Grand Conseil le 25.05.10",
+      "date": "2010-05-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_260_Determination.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-25-mai-2010/reponse-du-conseil-detat-a-linterpellation-philippe-modoux",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

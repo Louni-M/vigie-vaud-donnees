@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226780,
+  "numero": "22_RES_13",
+  "type": "Résolution",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2022-11-30"
+  },
+  "depose": "2022-08-23",
+  "titre": "Task force énergie vaudoise",
+  "contributeurs": [
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-08-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-08-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-11-30",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Développement des énergies renouvelables pour pallier la pénurie énergétique",
+      "date": "2022-11-30",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2148546"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-08-30",
+      "lien": "http://www.sonomix.ch/live/gcvd/2163#5093"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/3479bd80-422e-4ae8-be83-2567dde37e8d/meeting/1012630",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227507,
+  "numero": "24_HQU_6",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2024-01-23"
+  },
+  "depose": "2024-01-16",
+  "titre": "Plan Climat vaudois : que faire des mesures de politiques publiques recommandées dans l'audit ?",
+  "contributeurs": [
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-01-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-01-23",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "la coalition Objectif Climat",
+      "date": "2024-01-16",
+      "lien": "https://objectifclimat.ch/"
+    },
+    {
+      "titre": "Dans l'audit",
+      "date": "2024-01-16",
+      "lien": "http://https://www.vd.ch/fileadmin/user_upload/themes/environnement/climat/fichiers_pdf/Rapport_d_audit_du_plan_climat_vaudois_1e%CC%80re_ge%CC%81ne%CC%81ration_titre-combin%C3%A9_1.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/86427995-96ad-4ec6-ae98-23a82adf2156/meeting/1019556",
+  "communes": [
+    {
+      "ofs": 5590,
+      "origine": "document"
+    }
+  ]
+}

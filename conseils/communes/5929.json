@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5929,
+  "objets": [
+    {
+      "cle": "vd/11_MOT_140",
+      "numero": "11_MOT_140",
+      "type": "Motion",
+      "depose": "2011-08-30",
+      "titre": "L'installation sur sol vaudois de parcs éoliens",
+      "auteurs": [
+        {
+          "nom": "Michel Renaud",
+          "parti": null
+        },
+        {
+          "nom": "Michel Renaud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2012-05-01"
+      },
+      "derniere_etape": "2012-05-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5765,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5425,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5537,
+          "origine": "document"
+        },
+        {
+          "ofs": 5929,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

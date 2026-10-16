@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224152,
+  "numero": "17_POS_244",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2018-09-25"
+  },
+  "depose": "2018-09-11",
+  "titre": "Des tests de médicaments non autorisés ont-ils été effectués sur des patients dans les cliniques psychiatriques vaudoises entre 1940 et 1980 ?",
+  "contributeurs": [
+    {
+      "nom": "Claire Attinger Doepper",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Claire Attinger Doepper",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-09-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-25",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_POS_244_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/17_POS_244_obj_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-25-septembre-2018/postulat-jean-michel-dolivo-et-consorts-des-tests-de-medicaments-non-autorises-ont-ils-ete-effectues-sur-des-patients-dans-les-cliniques-psychiatriques-vaudoises-entre-1940-et-1980",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5725,
+      "origine": "document"
+    }
+  ]
+}

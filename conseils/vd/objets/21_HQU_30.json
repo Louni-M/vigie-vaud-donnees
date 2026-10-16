@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225521,
+  "numero": "21_HQU_30",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2021-02-09"
+  },
+  "depose": "2021-02-02",
+  "titre": "Quid des narcisses de la Riviera",
+  "contributeurs": [
+    {
+      "nom": "Olivier Epars",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-02-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-02-09",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/67b86aef-780c-4c2b-9b7b-f23622efa2b8/meeting/1000548",
+  "communes": []
+}

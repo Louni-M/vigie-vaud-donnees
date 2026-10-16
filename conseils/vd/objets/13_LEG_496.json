@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222986,
+  "numero": "13_LEG_496",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-03-19"
+  },
+  "depose": "2013-02-05",
+  "titre": "Exposé des motifs et projet de loi sur la facturation des prestations matérielles fournies par les services de l'Etat lorsde manifestationset modifiant- la loi sur la police cantonale du 17 novembre 1975 (LPol)- la loi sur les subventions du 22 février 2005",
+  "contributeurs": [
+    {
+      "nom": "François Brélaz",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "François Brélaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-02-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-03-12",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2013-03-19",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-02-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/496_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-02-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/496_RC.pdf"
+    },
+    {
+      "titre": "LSubv adoptée par le Grand Conseil le 19.03.13",
+      "date": "2013-03-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/496_LSubv_FAO.pdf"
+    },
+    {
+      "titre": "LPol adoptée par le Grand Conseil le 19.03.13",
+      "date": "2013-03-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/496_LPol_FAO.pdf"
+    },
+    {
+      "titre": "Loi sur la facturation adoptée par le Grand Conseil le 19.03.13",
+      "date": "2013-03-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/496_Loi_sur_la_facturation_FAO.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-19-mars-2013/expose-des-motifs-et-projet-de-loi-sur-la-facturation-des-prestations-materielles-fournies-par-letat-et-modifiant-la-loi-sur-la-police-cantonale-du-17-novembre-1975-lpol-la-loi-sur-les-subventions-du-22-fevrier-2005",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5841,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    }
+  ]
+}

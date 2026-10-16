@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224464,
+  "numero": "18_PET_019",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2020-03-03"
+  },
+  "depose": "2018-06-19",
+  "titre": "Pétition au Bureau du Grand Conseil pour adapter les rapports de la Commission des pétitions aux termes exacts de la LGC et pour corriger les fausses interprétations d'application du rapport, de l'art 107 L",
+  "contributeurs": [
+    {
+      "nom": "Vincent Keller",
+      "parti": "EP",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Vincent Keller",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Vincent Keller",
+      "parti": "EP",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-06-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-03-03",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_019_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_019_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-3-mars-2020/petition-au-bureau-du-grand-conseil-pour-adapter-les-rapports-de-la-commission-des-petitions-aux-termes-exacts-de-la-lgc-et-pour-corriger-les-fausses-interpretations-dapplication-du-rapport-de-lart-107-lgc",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

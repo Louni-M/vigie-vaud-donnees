@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222179,
+  "numero": "10_RAP_284",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-08-31"
+  },
+  "depose": "2010-08-31",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Xavier Koeb - Non à l'exclusion numérique, si on ne sait pas brancher un ordinateur",
+  "contributeurs": [
+    {
+      "nom": "Jacques Ansermet",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jacques Ansermet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-08-31",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/284_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/284_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-14-septembre-2010/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-xavier-koeb-non-a-lexclusion-numerique",
+  "communes": [
+    {
+      "ofs": 5841,
+      "origine": "document"
+    }
+  ]
+}

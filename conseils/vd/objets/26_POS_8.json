@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 296070,
+  "numero": "26_POS_8",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Traktandiert",
+    "date": "2026-03-03"
+  },
+  "depose": "2026-02-24",
+  "titre": "Quel est l’impact réel du 30 km/h sur le sommeil et la santé de la population vaudoise ?",
+  "contributeurs": [
+    {
+      "nom": "Yolanda Müller Chabloz",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Géraldine Dubuis",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-02-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-02-24",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-03-03",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.colaus-psycolaus.ch/autres-etudes/hypnolaus",
+      "date": "2026-02-24",
+      "lien": "https://www.colaus-psycolaus.ch/autres-etudes/hypnolaus"
+    },
+    {
+      "titre": "https://www.colaus-psycolaus.ch/",
+      "date": "2026-02-24",
+      "lien": "https://www.colaus-psycolaus.ch/"
+    },
+    {
+      "titre": "https://www.bfs.admin.ch/news/fr/2024-0165",
+      "date": "2026-02-24",
+      "lien": "https://www.bfs.admin.ch/news/fr/2024-0165"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ce65fca8-27bf-44f9-85f4-d03c3649945e/meeting/1029658",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

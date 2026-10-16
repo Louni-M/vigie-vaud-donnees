@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223719,
+  "numero": "16_INI_018",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2016-10-04"
+  },
+  "depose": "2016-03-15",
+  "titre": "Auprès de l'Assemblée fédérale : Pour que l'imposition individuelle soit possible au niveau cantonal",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Rydlo",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Gérard Mojon",
+      "parti": "PLR",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-03-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-04-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-10-04",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2016-10-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INI_018_RCmin.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2016-10-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INI_018_RCmaj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-10-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INI_018_Obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INI_018_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-4-octobre-2016/initiative-legislative-martial-de-montmollin-et-consorts-aupres-de-lassemblee-federale-pour-que-limposition-individuelle-soit-possible-au-niveau-cantonal",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5627,
+      "origine": "document"
+    }
+  ]
+}

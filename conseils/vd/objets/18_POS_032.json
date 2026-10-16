@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224478,
+  "numero": "18_POS_032",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2018-11-20"
+  },
+  "depose": "2018-02-06",
+  "titre": "Pour une réforme des Conseils généraux (art. 118ss L",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-02-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-02-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-11-20",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-11-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_032_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-11-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_032_obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-02-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_032_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-20-novembre-2018/postulat-nicolas-rochat-fernandez-et-consorts-pour-une-reforme-des-conseils-generaux-art-118ss-lgc",
+  "communes": [
+    {
+      "ofs": 5873,
+      "origine": "document"
+    },
+    {
+      "ofs": 5480,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

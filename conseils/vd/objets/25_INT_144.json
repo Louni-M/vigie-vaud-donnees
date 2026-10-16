@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 280144,
+  "numero": "25_INT_144",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2025-11-11"
+  },
+  "depose": "2025-11-04",
+  "titre": "Informatique WiFi EMPD 2020-2023, réfléchissons et appliquons un stop et go !",
+  "contributeurs": [
+    {
+      "nom": "Didier Lohri",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-11-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-11-04",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-11-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-11-11",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-11-11",
+      "lien": "https://www.sonomix.ch/live/gcvd/3259#4634"
+    },
+    {
+      "titre": "Réseau informatique dans un collège : deux approches",
+      "date": "2025-11-11",
+      "lien": "https://computis.substack.com/p/reseau-informatique-dans-un-college"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/8574f3a2-a7a6-4a45-aaad-7ba586616c6e/meeting/1029642",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5718,
+      "origine": "document"
+    },
+    {
+      "ofs": 5587,
+      "origine": "document"
+    }
+  ]
+}

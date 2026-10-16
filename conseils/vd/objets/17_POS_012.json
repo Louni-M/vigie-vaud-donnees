@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224127,
+  "numero": "17_POS_012",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2019-04-10"
+  },
+  "depose": "2017-10-24",
+  "titre": "En savoir un peu plus sur les PIG (prestations d'intérêt général)",
+  "contributeurs": [
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-10-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-04-10",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_POS_012_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_POS_012_obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Affectation des prestations d'intérêt général du CHUV",
+      "date": "2019-04-10",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=336289"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-25-septembre-2018/postulat-christelle-luisier-brodard-et-consorts-en-savoir-un-peu-plus-sur-les-pig-prestations-dinteret-general",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

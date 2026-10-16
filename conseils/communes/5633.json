@@ -1,0 +1,804 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5633,
+  "objets": [
+    {
+      "cle": "vd/24_INT_135",
+      "numero": "24_INT_135",
+      "type": "Interpellation",
+      "depose": "2024-09-10",
+      "titre": "Sécurité et responsabilités sur le chemin de l’école",
+      "auteurs": [
+        {
+          "nom": "Jerome De Benedictis",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-09-09"
+      },
+      "derniere_etape": "2025-09-09",
+      "communes": [
+        {
+          "ofs": 5643,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_POS_50",
+      "numero": "22_POS_50",
+      "type": "Postulat",
+      "depose": "2022-09-13",
+      "titre": "La région Lausannoise n'aurait-elle pas besoin d'un hôpital de ville?",
+      "auteurs": [
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Sylvie Podio",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2025-04-09"
+      },
+      "derniere_etape": "2025-04-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5520,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_MOT_11",
+      "numero": "22_MOT_11",
+      "type": "Motion",
+      "depose": "2022-03-22",
+      "titre": "Pour tripler les rénovations énergétiques avec l’aide indirecte de la Banque nationale",
+      "auteurs": [
+        {
+          "nom": "Pierre Zwahlen",
+          "parti": "VER"
+        },
+        {
+          "nom": "Cendrine Cachemaille",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2024-03-26"
+      },
+      "derniere_etape": "2024-03-26",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_POS_16",
+      "numero": "22_POS_16",
+      "type": "Postulat",
+      "depose": "2022-03-22",
+      "titre": "Pour que l’Unil rende honneur au Professeur Jean Wintsch et révoque le doctorat honoris causas à Mussolini",
+      "auteurs": [
+        {
+          "nom": "Elodie Lopez",
+          "parti": "EP"
+        },
+        {
+          "nom": "Alberto Mocchi",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Non pris en considération",
+        "date": "2023-08-29"
+      },
+      "derniere_etape": "2023-08-29",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_POS_18",
+      "numero": "22_POS_18",
+      "type": "Postulat",
+      "depose": "2022-03-22",
+      "titre": "Formation gardien-ne d’animaux avec orientation animaux de rente",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        },
+        {
+          "nom": "Olivier Petermann",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2023-05-17"
+      },
+      "derniere_etape": "2023-05-17",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_73",
+      "numero": "23_INT_73",
+      "type": "Interpellation",
+      "depose": "2023-05-02",
+      "titre": "Le prix de l’énergie s’envole, le bénéfice de Romande Energie aussi !",
+      "auteurs": [
+        {
+          "nom": "Cédric Roten",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-05-09"
+      },
+      "derniere_etape": "2023-05-09",
+      "communes": [
+        {
+          "ofs": 5646,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5860,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_POS_29",
+      "numero": "21_POS_29",
+      "type": "Postulat",
+      "depose": "2021-05-25",
+      "titre": "Lutte contre la pollution des sols du canton",
+      "auteurs": [
+        {
+          "nom": "Claire Attinger Doepper",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Taraneh Aminian",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2022-06-29"
+      },
+      "derniere_etape": "2022-06-29",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_241",
+      "numero": "21_LEG_241",
+      "type": "Décret/Loi",
+      "depose": "2022-03-29",
+      "titre": "EMPD EMPD accordant au Conseil d'Etat un crédit d’ouvrage de CHF 25'900'000.- pour financer les travaux d’assainissement des murs, estacades sur la RC 719 et du pont de la Barboleuse situés sur le territoire de la Commune de Gryon",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-03-29"
+      },
+      "derniere_etape": "2022-03-29",
+      "communes": [
+        {
+          "ofs": 5405,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_226",
+      "numero": "21_LEG_226",
+      "type": "Décret/Loi",
+      "depose": "2022-03-29",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d’études de CHF 800'000.- pour financer les études préalables à la phase d’exécution des travaux de réaménagement de la RC 80 entre le carrefour des Pressoirs (compris) et le carrefour de la route de la Gare (non compris), sur les communes de Lonay, Denges et Echandens",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-03-29"
+      },
+      "derniere_etape": "2022-03-29",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5632,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5633,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5643,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5649,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_119",
+      "numero": "21_INT_119",
+      "type": "Interpellation",
+      "depose": "2021-09-21",
+      "titre": "L'île du Paradis, vraiment",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-02-09"
+      },
+      "derniere_etape": "2022-02-09",
+      "communes": [
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_POS_30",
+      "numero": "21_POS_30",
+      "type": "Postulat",
+      "depose": "2021-06-01",
+      "titre": "N’en jetez plus, il y en a assez !!!",
+      "auteurs": [
+        {
+          "nom": "Nathalie Jaccard",
+          "parti": "VER"
+        },
+        {
+          "nom": "Maurice Treboux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2021-06-08"
+      },
+      "derniere_etape": "2021-06-08",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_RAP_298",
+      "numero": "16_RAP_298",
+      "type": "Rapport",
+      "depose": "2016-08-30",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Anne Baehler Bech et consorts demandant au Conseil d'Etat d'établir un rapport sur l'accès au logement des jeunes en formation et de présenter les mesures qu'il entend prendre pour améliorer et favoriser l'accès des jeunes en formation au logement",
+      "auteurs": [
+        {
+          "nom": "Nicolas Croci Torti",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Nicolas Croci Torti",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2016-08-30"
+      },
+      "derniere_etape": "2016-08-30",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5627,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_297",
+      "numero": "14_INT_297",
+      "type": "Interpellation",
+      "depose": "2014-10-28",
+      "titre": "Des logements pour étudiants, oui ! Mais aussi des lieux de vie !",
+      "auteurs": [
+        {
+          "nom": "Graziella Schaller",
+          "parti": null
+        },
+        {
+          "nom": "Graziella Schaller",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-03-10"
+      },
+      "derniere_etape": "2015-03-10",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5627,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_LEG_160",
+      "numero": "14_LEG_160",
+      "type": "Décret/Loi",
+      "depose": "2014-11-04",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 5'678'000.- pour financer les études générales d'accidents (relevés statistiques et analyses détaillées des accidents), ainsi que les travaux d'élimination de trois points noirs du réseau routier cantonal vaudois hors traversée de localité (RC 79-B-P: Echandens, carrefour du Pont du Brizet, RC 780-B-P / RC 705-B-P: Yvorne, carrefour de Pré Nové et RC 519-B-P / RC 524-B-P: Payerne, giratoire de la Coulaz)",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2014-11-04"
+      },
+      "derniere_etape": "2014-11-04",
+      "communes": [
+        {
+          "ofs": 5633,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5415,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5822,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5486,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_LEG_82",
+      "numero": "13_LEG_82",
+      "type": "Décret/Loi",
+      "depose": "2013-11-19",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 6'440'000.- pour financer la modernisation du système d'information du Service des automobiles et de la navigation",
+      "auteurs": [
+        {
+          "nom": "Fabienne Despot",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Fabienne Despot",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-11-19"
+      },
+      "derniere_etape": "2013-11-19",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_374",
+      "numero": "10_INT_374",
+      "type": "Interpellation",
+      "depose": "2010-04-20",
+      "titre": "Nouveau centre de formation post-obligatoire de Nyon, assez tergiversé!",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-11-30"
+      },
+      "derniere_etape": "2010-11-30",
+      "communes": [
+        {
+          "ofs": 5724,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        },
+        {
+          "ofs": 5643,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_295",
+      "numero": "10_LEG_295",
+      "type": "Décret/Loi",
+      "depose": "2010-08-31",
+      "titre": "Exposé des motifs et projet de décret autorisant le Conseil d'Etat à vendre, dans le cadre de l'assainissement du parc immobilier de l'Etat de Vaud, le bien-fonds portant le numéro de parcelle 10'253 du cadastre de la Commune de Lausanne, comprenant l'immeuble du \"Lausanne-Moudon\", pour un montant de CHF 3'000'000.-",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Mercier",
+          "parti": "LIB"
+        },
+        {
+          "nom": "Pierre-Alain Mercier",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-05"
+      },
+      "derniere_etape": "2010-10-05",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5643,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5471,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

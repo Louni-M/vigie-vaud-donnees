@@ -1,0 +1,928 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5498,
+  "objets": [
+    {
+      "cle": "vd/22_POS_66",
+      "numero": "22_POS_66",
+      "type": "Postulat",
+      "depose": "2022-11-22",
+      "titre": "Pour la protection des abeilles sauvages",
+      "auteurs": [
+        {
+          "nom": "Céline Misiego",
+          "parti": "EP"
+        },
+        {
+          "nom": "Nicolas Suter",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2025-07-02"
+      },
+      "derniere_etape": "2025-07-02",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5427,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5610,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_LEG_74",
+      "numero": "22_LEG_74",
+      "type": "Décret/Loi",
+      "depose": "2024-09-17",
+      "titre": "Exposé des motifs EXPOSE DES MOTIFS ET PROJET DE DECRET accordant au Conseil d'Etat un crédit-cadre de CHF 4'227'000 pour financer l'acquisition des moyens de base pour la lutte contre les incendies de forêt et",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2024-09-17"
+      },
+      "derniere_etape": "2024-09-17",
+      "communes": [
+        {
+          "ofs": 5646,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5639,
+          "origine": "document"
+        },
+        {
+          "ofs": 5649,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5490,
+          "origine": "document"
+        },
+        {
+          "ofs": 5483,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5497,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_INT_46",
+      "numero": "24_INT_46",
+      "type": "Interpellation",
+      "depose": "2024-03-05",
+      "titre": "Comment la Venoge, légalement protégée, reste-t-elle la rivière plus polluée ?",
+      "auteurs": [
+        {
+          "nom": "Pierre Zwahlen",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-08-28"
+      },
+      "derniere_etape": "2024-08-28",
+      "communes": [
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5496,
+          "origine": "document"
+        },
+        {
+          "ofs": 5471,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5654,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_QUE_11",
+      "numero": "24_QUE_11",
+      "type": "Simple question",
+      "depose": "2024-01-30",
+      "titre": "Des projets autoroutiers au détriment de l'agriculture ?",
+      "auteurs": [
+        {
+          "nom": "Romain Pilloud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2024-03-20"
+      },
+      "derniere_etape": "2024-03-20",
+      "communes": [
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5627,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_POS_79",
+      "numero": "23_POS_79",
+      "type": "Postulat",
+      "depose": "2023-12-12",
+      "titre": "Reconnaître le coût environnemental et climatique du béton",
+      "auteurs": [
+        {
+          "nom": "Mathilde Marendaz",
+          "parti": "EP"
+        },
+        {
+          "nom": "Nicolas Suter",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2023-12-19"
+      },
+      "derniere_etape": "2023-12-19",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5511,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_QUE_52",
+      "numero": "22_QUE_52",
+      "type": "Simple question",
+      "depose": "2022-12-13",
+      "titre": "Autoroutes vaudoises, ne poussons pas le bouchon trop loin !",
+      "auteurs": [
+        {
+          "nom": "Nicola Di Giulio",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2023-03-01"
+      },
+      "derniere_etape": "2023-03-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_153",
+      "numero": "21_INT_153",
+      "type": "Interpellation",
+      "depose": "2021-11-30",
+      "titre": "Les Zadistes et la suite ?.......bis",
+      "auteurs": [
+        {
+          "nom": "Jean-Luc Bezençon",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-11-30"
+      },
+      "derniere_etape": "2022-11-30",
+      "communes": [
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_13",
+      "numero": "22_INT_13",
+      "type": "Interpellation",
+      "depose": "2022-01-25",
+      "titre": "Le marchand de sable est-il passé pour endormir le Gouvernement vaudois ?",
+      "auteurs": [
+        {
+          "nom": "Claude-Alain Gebhard",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-05-18"
+      },
+      "derniere_etape": "2022-05-18",
+      "communes": [
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_POS_163",
+      "numero": "19_POS_163",
+      "type": "Postulat",
+      "depose": "2019-09-17",
+      "titre": "Des mesures ciblées afin de mieux intégrer les migrants qualifiés, notamment les femmes, dans le marché du travail",
+      "auteurs": [
+        {
+          "nom": "Sylvie Podio",
+          "parti": "VER"
+        },
+        {
+          "nom": "Sylvie Podio",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2022-03-23"
+      },
+      "derniere_etape": "2022-03-23",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_9",
+      "numero": "21_LEG_9",
+      "type": "Décret/Loi",
+      "depose": "2021-10-12",
+      "titre": "EMPL sur le transport de sécurité de biens ou de valeurs",
+      "auteurs": [
+        {
+          "nom": "Jean-François Cachin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-10-12"
+      },
+      "derniere_etape": "2021-10-12",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_41",
+      "numero": "20_INT_41",
+      "type": "Interpellation",
+      "depose": "2020-10-27",
+      "titre": "Éventrer le Mormont : ça suffit !",
+      "auteurs": [
+        {
+          "nom": "Pierre Zwahlen",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-07-07"
+      },
+      "derniere_etape": "2021-07-07",
+      "communes": [
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_QUE_12",
+      "numero": "20_QUE_12",
+      "type": "Simple question",
+      "depose": "2020-11-17",
+      "titre": "Nouvelle gare du Day, où en sommes-nous ?",
+      "auteurs": [
+        {
+          "nom": "Sébastien Cala",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2021-01-13"
+      },
+      "derniere_etape": "2021-01-13",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_295",
+      "numero": "19_INT_295",
+      "type": "Interpellation",
+      "depose": "2019-01-29",
+      "titre": "Le Service de l'emploi est-il resté passif face à une infraction à la procédure sur les licenciements collectifs par Elis SA ?",
+      "auteurs": [
+        {
+          "nom": "Hadrien Buclin",
+          "parti": "EP"
+        },
+        {
+          "nom": "Hadrien Buclin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-10-01"
+      },
+      "derniere_etape": "2019-10-01",
+      "communes": [
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_POS_205",
+      "numero": "16_POS_205",
+      "type": "Postulat",
+      "depose": "2016-11-15",
+      "titre": "Chauffage à bois : de l'effet contreproductif de certaines décisions destinées à préserver notre environnement, et de la nécessité d'étudier des mesures correctives",
+      "auteurs": [
+        {
+          "nom": "Fabienne Freymond Cantone",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée à commission",
+        "date": "2019-03-06"
+      },
+      "derniere_etape": "2019-03-06",
+      "communes": [
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5553,
+          "origine": "document"
+        },
+        {
+          "ofs": 5806,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5648,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5429,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_669",
+      "numero": "17_INT_669",
+      "type": "Interpellation",
+      "depose": "2017-02-07",
+      "titre": "Pour que le patrimoine ne soit pas que financier !",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": [
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_PET_028",
+      "numero": "14_PET_028",
+      "type": "Pétition",
+      "depose": "2015-02-03",
+      "titre": "Pétition du groupe Socialiste, Verts et Sympathisants pour une amélioration à court terme du confort des voyageurs à la gare de Cossonay Penthalaz",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2015-03-10"
+      },
+      "derniere_etape": "2015-03-10",
+      "communes": [
+        {
+          "ofs": 5477,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5495,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_124",
+      "numero": "13_INT_124",
+      "type": "Interpellation",
+      "depose": "2013-04-30",
+      "titre": "Le Conseil d'Etat a-t-il des projets pour rendre plus fluide le trafic entre Cossonay-Gare et Cossonay-Ville ?",
+      "auteurs": [
+        {
+          "nom": "François Brélaz",
+          "parti": null
+        },
+        {
+          "nom": "François Brélaz",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-10-08"
+      },
+      "derniere_etape": "2013-10-08",
+      "communes": [
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5486,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_PET_003",
+      "numero": "12_PET_003",
+      "type": "Pétition",
+      "depose": "2013-04-23",
+      "titre": "Pétition pour l'aménagement par le canton de Vaud de terrains de stationnement pour les gens du voyage indigènes, en vertu de la reconnaissance par la Confédération de leur communauté au titre de minorité ethnique nationale",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2013-04-30"
+      },
+      "derniere_etape": "2013-04-30",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_MOT_128",
+      "numero": "11_MOT_128",
+      "type": "Motion",
+      "depose": "2011-02-01",
+      "titre": "24 janvier et 14 avril : deux dates à connaître de l'histoire vaudoise",
+      "auteurs": [
+        {
+          "nom": "Truffer J.-J. Décision:",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2012-01-17"
+      },
+      "derniere_etape": "2012-01-17",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_436",
+      "numero": "10_INT_436",
+      "type": "Interpellation",
+      "depose": "2010-10-05",
+      "titre": "Le Château de la Sarraz, perdra-t-il lui aussi ses collections ?",
+      "auteurs": [
+        {
+          "nom": "Béatrice Métraux",
+          "parti": null
+        },
+        {
+          "nom": "Béatrice Métraux",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-04-05"
+      },
+      "derniere_etape": "2011-04-05",
+      "communes": [
+        {
+          "ofs": 5498,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_INT_088",
+      "numero": "08_INT_088",
+      "type": "Interpellation",
+      "depose": "2008-04-29",
+      "titre": "L'adaptation des établissements sanitaires aux nouvelles normes de l'ECA",
+      "auteurs": [
+        {
+          "nom": "Pierre Rochat",
+          "parti": "LIB"
+        },
+        {
+          "nom": "Pierre Rochat",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-01-20"
+      },
+      "derniere_etape": "2009-01-20",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

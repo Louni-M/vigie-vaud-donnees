@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5485,
+  "objets": [
+    {
+      "cle": "vd/19_POS_137",
+      "numero": "19_POS_137",
+      "type": "Postulat",
+      "depose": "2019-04-02",
+      "titre": "Instaurons une journée cantonale pour le climat !",
+      "auteurs": [
+        {
+          "nom": "Anne Baehler Bech",
+          "parti": "VER"
+        },
+        {
+          "nom": "Anne Baehler Bech",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2020-02-04"
+      },
+      "derniere_etape": "2020-02-04",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5485,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_148",
+      "numero": "19_LEG_148",
+      "type": "Décret/Loi",
+      "depose": "2019-11-05",
+      "titre": "Exposé des motifs et projets de décrets accordant au Conseil d'État un crédit d'investissement de CHF 93'175'000.- pour l'octroi d'une subvention à fonds perdu aux Chemins de fer fédéraux suisses (CFF) au titre du financement de la nouvelle station du m2 à la gare de Lausanne et de la participation cantonale à l'interface multimodale de la gare de Lausanne pour un montant de CHF 60'675'000.- et au titre du financement du nouveau tunnel du métro m2 sous la gare de Lausanne pour un montant de CHF 32'500'000.- et accordant au Conseil d'État un crédit d'études de 60'600'000.- pour financer la poursuite des études- du nouveau tracé du métro m2 entre la station de Grancy et la station de Lausanne-Flon et de la nouvelle station du métro m3 à Lausanne-Flon- du tracé du m3 entre Lausanne-Flon et la Blécherette - de la nouvelle arrière gare des Croisettes sur la ligne du m2- de l'extension du garage-atelier et du remisage de Vennes- du fonctionnement futur du système des métros m2 et m3, des automatismes et de la gestion globale des chantiers et pour le financement de l'équipe de projet",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": null
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-11-12"
+      },
+      "derniere_etape": "2019-11-12",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5485,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_RAP_102",
+      "numero": "13_RAP_102",
+      "type": "Rapport",
+      "depose": "2013-11-26",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Jean-François Cachin et consorts - Il ne s'agit pas de prévoir le futur, mais d'être préparé au futur",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-11-26"
+      },
+      "derniere_etape": "2013-11-26",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5485,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

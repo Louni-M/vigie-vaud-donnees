@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223357,
+  "numero": "14_POS_073",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2014-11-11"
+  },
+  "depose": "2014-06-03",
+  "titre": "Améliorer le contrôle financier des entités intercommunales",
+  "contributeurs": [
+    {
+      "nom": "Jacques Perrin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jacques Perrin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-06-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-06-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-11-11",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-11-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_073_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-11-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_073_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-06-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_073_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-11-novembre-2014/postulat-eric-zueger-et-consorts-ameliorer-le-controle-financier-des-entites-intercommunales",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5471,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5489,
+      "origine": "document"
+    }
+  ]
+}

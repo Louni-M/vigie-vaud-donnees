@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224110,
+  "numero": "17_PET_002",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2018-05-29"
+  },
+  "depose": "2017-08-29",
+  "titre": "Pétition [particulier]",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2017-08-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-29",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-02-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_PET_002_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-02-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/17_PET_002_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-29-mai-2018/petition-m-h",
+  "communes": [
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5613,
+      "origine": "document"
+    }
+  ]
+}

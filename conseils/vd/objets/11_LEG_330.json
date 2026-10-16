@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222388,
+  "numero": "11_LEG_330",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-03-08"
+  },
+  "depose": "2011-02-08",
+  "titre": "Exposé des motifs et projet de loi sur la haute surveillance du Tribunal cantonal et projets de lois- modifiant la loi sur le Grand Conseil- modifiant la loi d'organisation judiciaireetRapport du Conseil d'Etat au Grand Conseil sur la motion Anne Baehler Bech demandant une loi d'application de l'article 135 de la Constitution vaudoise",
+  "contributeurs": [
+    {
+      "nom": "Pierre Grandjean",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre Grandjean",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-02-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-02-22",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2011-03-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-02-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/330_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-02-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/330_RC_new.pdf"
+    },
+    {
+      "titre": "Loi modifiant la Loi d'organisation judiciaire adoptée par le Grand Conseil le 08.03.11",
+      "date": "2011-03-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/330_Loi_org_jud.pdf"
+    },
+    {
+      "titre": "Loi sur la haute surveillance du TC adoptée par le Grand Conseil le 08.03.11",
+      "date": "2011-03-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/330_Loi_haute_surveillance.pdf"
+    },
+    {
+      "titre": "Loi modifiant le Loi sur le Grand Conseil adoptée par le Grand Conseil le 08.03.11",
+      "date": "2011-03-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/330_LGC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-8-mars-2011/expose-des-motifs-et-projet-de-loi-haute-surveillance-du-tribunal-cantonal",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

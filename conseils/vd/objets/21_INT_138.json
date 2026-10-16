@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225628,
+  "numero": "21_INT_138",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-09-20"
+  },
+  "depose": "2021-11-02",
+  "titre": "Partout, foires et salons reprennent... Sauf dans la coquille éternellement vide des halles de Beaulieu!",
+  "contributeurs": [
+    {
+      "nom": "Gilles Meystre",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-11-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-11-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-09-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-05-07",
+      "lien": "https://www.sonomix.ch/live/gcvd/2820#6449"
+    },
+    {
+      "titre": "Gestion de Beaulieu",
+      "date": "2023-09-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2196879"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5ab8c426-496e-491d-a929-1e6a5f50366b/meeting/1019568",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    }
+  ]
+}

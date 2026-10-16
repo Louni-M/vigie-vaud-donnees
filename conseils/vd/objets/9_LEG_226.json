@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228811,
+  "numero": "9_LEG_226",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-12-08"
+  },
+  "depose": "2009-12-01",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit d'ouvrage de CHF 4'700'000.- destiné à financer un nouvel établissement d'exécution des peines semi-détention / travail externe, sis à la rue du Simplon 43 à Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Sandrine Bavaud",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Sandrine Bavaud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-12-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-12-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-12-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/226_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-12-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/226_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 08.12.09",
+      "date": "2009-12-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/226_Decret_adopte_le_08.12.09.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seances-des-8-et-9-decembre-2009/expose-des-motifs-et-projet-de-decret-etablissement-dexecution-des-peines-de-semi-detention",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5474,
+      "origine": "document"
+    }
+  ]
+}

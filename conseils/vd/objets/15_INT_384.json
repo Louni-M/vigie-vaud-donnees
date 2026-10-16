@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223462,
+  "numero": "15_INT_384",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-11-24"
+  },
+  "depose": "2015-05-05",
+  "titre": "Les cantons de Bâle-Ville, Genève et Zurich sortent du moratoire LAT; le canton de Vaud a-t-il la stratégie de ses ambitions ?",
+  "contributeurs": [
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-05-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-05-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-11-24",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-11-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_384_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_384_Dep%C3%B4t.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-24-novembre-2015/reponse-du-conseil-detat-a-linterpellation-jessica-jaccoud-et-consorts-les-cantons-de-bale-ville-geneve-et-zurich-sortent-du-moratoire-lat-le-canton-de-vaud-a-t-il-la-strategie-de-ses-ambitions",
+  "communes": []
+}

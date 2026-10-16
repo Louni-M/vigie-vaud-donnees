@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224897,
+  "numero": "19_MOT_096",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-01-28"
+  },
+  "depose": "2019-06-04",
+  "titre": "Pour un canton sans amiante ajoutée",
+  "contributeurs": [
+    {
+      "nom": "Rebecca Joly",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Rebecca Joly",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-06-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-06-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-01-28",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-01-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_096_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-01-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_096_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-06-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_096_depot.pdf"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2020-01-28",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-28-janvier-2020"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2020-01-21",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-21-janvier-2020"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-28-janvier-2020/motion-valerie-induni-et-consorts-pour-un-canton-sans-amiante-ajoutee",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

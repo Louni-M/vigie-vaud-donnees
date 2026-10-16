@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224258,
+  "numero": "18_INT_174",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-05-07"
+  },
+  "depose": "2018-05-08",
+  "titre": "N'y aurait-il pas le feu au lac avec les déchets des festivals ?",
+  "contributeurs": [
+    {
+      "nom": "Nathalie Jaccard",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nathalie Jaccard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-05-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-05-07",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-04-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_174_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-05-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_174_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-7-mai-2019/reponse-du-conseil-detat-a-linterpellation-nathalie-jaccard-et-consorts-ny-aurait-il-pas-le-feu-au-lac-avec-les-dechets-des-festivals",
+  "communes": [
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5713,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5889,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,365 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5552,
+  "objets": [
+    {
+      "cle": "vd/23_LEG_127",
+      "numero": "23_LEG_127",
+      "type": "Décret/Loi",
+      "depose": "2024-02-06",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d’ouvrage de CHF 35’100'000.- pour financer les travaux de réhabilitation et de sécurisation de la RC 254-B-P Vuiteboeuf - Sainte-Croix, 2e étape, sur les communes de Bullet et de Sainte-Croix",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-02-06"
+      },
+      "derniere_etape": "2024-02-06",
+      "communes": [
+        {
+          "ofs": 5766,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5568,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5552,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_107",
+      "numero": "21_INT_107",
+      "type": "Interpellation",
+      "depose": "2021-08-31",
+      "titre": "Identification numérique VaudID-Santé: une procédure invraisemblable et inadaptée malgré l'importance primordiale du dossier électronique du patient",
+      "auteurs": [
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-05-04"
+      },
+      "derniere_etape": "2022-05-04",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5922,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5909,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5646,
+          "origine": "document"
+        },
+        {
+          "ofs": 5552,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_90",
+      "numero": "21_INT_90",
+      "type": "Interpellation",
+      "depose": "2021-06-23",
+      "titre": "Il faut fermer la place de tir de Vugelles-la-Mothe",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-12-08"
+      },
+      "derniere_etape": "2021-12-08",
+      "communes": [
+        {
+          "ofs": 5904,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5924,
+          "origine": "document"
+        },
+        {
+          "ofs": 5552,
+          "origine": "document"
+        },
+        {
+          "ofs": 5560,
+          "origine": "document"
+        },
+        {
+          "ofs": 5564,
+          "origine": "document"
+        },
+        {
+          "ofs": 5634,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_216",
+      "numero": "18_INT_216",
+      "type": "Interpellation",
+      "depose": "2018-07-03",
+      "titre": "La fête des écoles se mue-t-elle en promontoire d'actions politiques ?",
+      "auteurs": [
+        {
+          "nom": "Alain Bovay",
+          "parti": null
+        },
+        {
+          "nom": "Alain Bovay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-09-10"
+      },
+      "derniere_etape": "2019-09-10",
+      "communes": [
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5766,
+          "origine": "document"
+        },
+        {
+          "ofs": 5552,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5730,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_PET_023",
+      "numero": "18_PET_023",
+      "type": "Pétition",
+      "depose": "2018-10-02",
+      "titre": "Pétition Sauvez Chasseron - Creux-du-Van",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2019-06-04"
+      },
+      "derniere_etape": "2019-06-04",
+      "communes": [
+        {
+          "ofs": 5560,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        },
+        {
+          "ofs": 5556,
+          "origine": "document"
+        },
+        {
+          "ofs": 5552,
+          "origine": "document"
+        },
+        {
+          "ofs": 5557,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        },
+        {
+          "ofs": 5554,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_111",
+      "numero": "19_LEG_111",
+      "type": "Décret/Loi",
+      "depose": "2019-04-30",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'étude de CHF 2'043'000.- pour financer les études de la RC 254-B-P Vuiteboeuf - Sainte-Croix, 2e étape, sur les communes de Bullet et de Sainte-Croix",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": null
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-05-21"
+      },
+      "derniere_etape": "2019-05-21",
+      "communes": [
+        {
+          "ofs": 5766,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5568,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5552,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_188",
+      "numero": "18_INT_188",
+      "type": "Interpellation",
+      "depose": "2018-06-05",
+      "titre": "Pourquoi continuer de faire le nettoyage de printemps à nos belles rivières ?",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": null
+        },
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-05-07"
+      },
+      "derniere_etape": "2019-05-07",
+      "communes": [
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5766,
+          "origine": "document"
+        },
+        {
+          "ofs": 5552,
+          "origine": "document"
+        },
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5669,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

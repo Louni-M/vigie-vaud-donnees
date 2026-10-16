@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227239,
+  "numero": "23_POS_3",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2025-03-19"
+  },
+  "depose": "2023-01-17",
+  "titre": "Alberto Mocchi - Faire une place au soleil sur les bâtiments de l’Etat",
+  "contributeurs": [
+    {
+      "nom": "Alberto Mocchi",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Suter",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-01-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-01-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-03-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-03-19",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-02-27",
+      "lien": "https://www.sonomix.ch/live/gcvd/2748#10431"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-01-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/2295#1208"
+    },
+    {
+      "titre": "Rapport 2023 sur le recours à l'énergie solaire des bâtiments appartenant à l'État ou financés par ce dernier",
+      "date": "2025-03-19",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2294427"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/801036e9-b3b6-42b5-94c6-d101722688d4/meeting/1019560",
+  "communes": [
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    }
+  ]
+}

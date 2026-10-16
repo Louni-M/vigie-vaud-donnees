@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222322,
+  "numero": "11_INT_592",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-12-11"
+  },
+  "depose": "2012-01-31",
+  "titre": "Requérants d'asile à Pully, a-t-on étudié l'impact d'un accueil au centre-ville ?",
+  "contributeurs": [
+    {
+      "nom": "Philippe Ducommun",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Ducommun",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-01-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-01-31",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-12-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_592_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-01-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_592_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seances-des-11-et-12-decembre-2012/reponse-du-conseil-detat-a-linterpellation-philippe-ducommun-requerants-dasile-a-pully-a-t-on-etudie-limpact-dun-accueil-au-centre-ville",
+  "communes": [
+    {
+      "ofs": 5590,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5587,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5704,
+      "origine": "document"
+    },
+    {
+      "ofs": 5635,
+      "origine": "document"
+    }
+  ]
+}

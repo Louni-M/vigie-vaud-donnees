@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221487,
+  "numero": "08_PET_021",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2009-01-27"
+  },
+  "depose": "2009-01-20",
+  "titre": "Pétition contre le réaménagement du tronçon de la Route de Berne - Chalet-à-Gobert - Epalinges",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2009-01-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-01-27",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-01-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/08_PET_021_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-01-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/08_PET_021_Objet.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-27-janvier-2009/petition-contre-le-reamenagement-du-troncon-de-la-route-de-berne-chalet-a-gobet-epalinges",
+  "communes": [
+    {
+      "ofs": 5584,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

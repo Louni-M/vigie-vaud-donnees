@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221705,
+  "numero": "09_MOT_086",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2010-11-30"
+  },
+  "depose": "2009-12-01",
+  "titre": "Demanant au Conseil d'Etat de modifier la loi scolaire pour introduire l'interdiction du port du voile tout au long de la scolarité obligatoire",
+  "contributeurs": [
+    {
+      "nom": "Maximilien Bernhard",
+      "parti": "AdC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre-Yves Rapaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierre-Yves Rapaz",
+      "parti": "UDC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-12-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-12-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-11-30",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_086_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_086_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_086_Objet_et_dev_01.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-12-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_086_new_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-30-novembre-2010/motion-pierre-yves-rapaz-modification-de-la-loi-scolaire-port-du-voile",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

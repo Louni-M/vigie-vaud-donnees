@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227627,
+  "numero": "24_INT_159",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2025-03-12"
+  },
+  "depose": "2024-11-05",
+  "titre": "Licenciements chez SICPA SA : Quelles mesures de sauvegarde des emplois dans le Canton de Vaud ?",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Rydlo",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-11-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-11-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-03-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-03-12",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-11-12",
+      "lien": "https://www.sonomix.ch/live/gcvd/2953#8026"
+    },
+    {
+      "titre": "Licenciements chez SICPA SA",
+      "date": "2025-03-12",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2292173"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f38452c3-9a0f-4bdb-9ca1-fd2f559bf179/meeting/1026885",
+  "communes": [
+    {
+      "ofs": 5589,
+      "origine": "document"
+    },
+    {
+      "ofs": 5749,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

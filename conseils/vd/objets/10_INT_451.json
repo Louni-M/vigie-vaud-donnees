@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221937,
+  "numero": "10_INT_451",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-05-31"
+  },
+  "depose": "2010-11-16",
+  "titre": "La décharge au lieu-dit Teilegg à la frontière Vaud-Berne",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2010-11-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-11-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-05-31",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-03-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_451_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-11-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_451_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-31-mai-2011/reponse-du-conseil-detat-a-linterpellation-philippe-randin-sur-la-decharge-au-lieu-dit-teilegg-a-la-frontiere-vaud-berne",
+  "communes": [
+    {
+      "ofs": 5843,
+      "origine": "document"
+    },
+    {
+      "ofs": 5842,
+      "origine": "document"
+    }
+  ]
+}

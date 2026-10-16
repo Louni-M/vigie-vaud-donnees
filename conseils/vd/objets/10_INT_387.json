@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221870,
+  "numero": "10_INT_387",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-12-14"
+  },
+  "depose": "2010-05-11",
+  "titre": "Manifester, oui. Mais pas à 12 ou 13 ans!",
+  "contributeurs": [
+    {
+      "nom": "Véronique Hurni",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-05-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-05-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-12-14",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-12-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_387_Texte_CE.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2010-05-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_387_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seances-des-14-et-15-decembre-2010/reponse-du-conseil-detat-a-linterpellation-veronique-hurni-manifester-oui-mais-pas-a-12-ou-13-ans",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

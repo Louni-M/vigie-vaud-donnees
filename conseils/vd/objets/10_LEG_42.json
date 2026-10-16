@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222052,
+  "numero": "10_LEG_42",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-02-02"
+  },
+  "depose": "2010-01-26",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit de CHF 3'950'000.- pour la correction de la RC 47 entre Le Pontet et Gimel, sur le territoire des communes d'Essertines-sur-Rolle et de Gimel",
+  "contributeurs": [
+    {
+      "nom": "Philippe Reymond",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Reymond",
+      "parti": "RAD",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-01-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-01-26",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2010-02-02",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-01-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/42_texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-01-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/42_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 02.02.2010",
+      "date": "2010-02-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/42_Decret_adopte.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-2-fevrier-2010/expose-des-motifs-et-projet-de-decret-correction-rc-47-entre-le-pontet-et-gimel",
+  "communes": [
+    {
+      "ofs": 5428,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5856,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5436,
+      "origine": "document"
+    },
+    {
+      "ofs": 5861,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

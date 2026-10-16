@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226308,
+  "numero": "22_INT_168",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-09-09"
+  },
+  "depose": "2022-12-06",
+  "titre": "Une résiliation résiliente",
+  "contributeurs": [
+    {
+      "nom": "Sonya Butera",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-12-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-12-14",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-04-26",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-09-09",
+      "lien": "https://www.sonomix.ch/live/gcvd/3202#7353"
+    },
+    {
+      "titre": "FAO 93",
+      "date": "2022-12-06",
+      "lien": "https://www.faovd.ch/actualite/681/valorisation-reussie-avec-plusieurs-objectifs-atteints/"
+    },
+    {
+      "titre": "2022",
+      "date": "2022-12-06",
+      "lien": "https://www.bfs.admin.ch/bfs/fr/home/statistiques/education-science/transitions-parcours-domaine-formation.gnpdetail.2022-0064.html"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-12-14",
+      "lien": "http://www.sonomix.ch/live/gcvd/2279#1045"
+    },
+    {
+      "titre": "Résiliations de contrats d'apprentissage",
+      "date": "2023-04-26",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2172869"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e3a0ecfd-3745-47ab-b1a9-d8b7b1b06cfc/meeting/1029635",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5568,
+      "origine": "document"
+    }
+  ]
+}

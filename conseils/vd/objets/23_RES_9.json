@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227292,
+  "numero": "23_RES_9",
+  "type": "Résolution",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2023-08-23"
+  },
+  "depose": "2023-04-25",
+  "titre": "L’écologie ne rime pas avec vandalisme",
+  "contributeurs": [
+    {
+      "nom": "Loïc Bardet",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-04-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-05-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-08-23",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-05-02",
+      "lien": "https://www.sonomix.ch/live/gcvd/2369#5481"
+    },
+    {
+      "titre": "Déprédations commises dans différents golfs du canton",
+      "date": "2023-08-23",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2192283"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/20a2dfda-1d82-453b-b097-a7befc7eecbd/meeting/1013642",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

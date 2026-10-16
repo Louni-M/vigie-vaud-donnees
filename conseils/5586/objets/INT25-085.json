@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 289518,
+  "numero": "INT25/085",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Décision : Réponse immédiate",
+    "date": "2026-01-20"
+  },
+  "depose": "2026-01-13",
+  "titre": "Rue de Genève 85 : adresse fictive, facture bien réelle",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Hurni",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-01-13",
+      "libelle": "Décision : Non-traîté, renvoi en Municipalité"
+    },
+    {
+      "date": "2026-01-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-01-20",
+      "libelle": "Décision : Réponse immédiate"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Délibéré 12e séance CC du 20.01.2026",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/c6/c6ed72ca32f7451f94640b76e659f793.pdf"
+    },
+    {
+      "titre": "Interpellation_urgente_Hurni_rue_geneve_85.pdf v3.0",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/6c/6c65959901cd4a91b0b162baa9d7b7f8.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/27/47cc74a5d6af4cd4b6f2f46a00d13a27.htm",
+  "communes": []
+}

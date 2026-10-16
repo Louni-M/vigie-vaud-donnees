@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223167,
+  "numero": "14_INT_254",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-01-20"
+  },
+  "depose": "2014-05-13",
+  "titre": "Le parc national d'innovation et la politique technologique du Canton de Vaud",
+  "contributeurs": [
+    {
+      "nom": "Christian Kunze",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Christian Kunze",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-05-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-05-27",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-01-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-01-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_254_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-05-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_254_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-20-janvier-2015/reponse-du-conseil-detat-a-linterpellation-christian-kunze-et-consorts-le-parc-national-dinnovation-et-la-politique-technologique-du-canton-de-vaud",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

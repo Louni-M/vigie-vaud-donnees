@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228751,
+  "numero": "9_LEG_137",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-05-26"
+  },
+  "depose": "2009-05-12",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi pénale vaudoise du 19 novembre 1940 (interdiction du port de cagoules et d'objets dangereux dans les manifestations)",
+  "contributeurs": [
+    {
+      "nom": "Martine Fiora-Guttmann",
+      "parti": "RAD",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Olivier Kernen",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-05-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-05-19",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2009-05-26",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/137_texte_CE.pdf"
+    },
+    {
+      "titre": "Tableau miroir en vue du 2ème débat",
+      "date": "2009-05-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/137_Tableau_miroir_pour_2eme_debat.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/137_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/137_RC_maj_01.pdf"
+    },
+    {
+      "titre": "Loi adoptée par le Grand Conseil le 26 mai 2009",
+      "date": "2009-05-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/137_Loi_adoptee_par_GC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-26-mai-2009/expose-des-motifs-et-projet-de-loi-loi-penale-vaudoise",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

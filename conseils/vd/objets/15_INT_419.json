@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223497,
+  "numero": "15_INT_419",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-03-08"
+  },
+  "depose": "2015-09-01",
+  "titre": "Favoriser l'autoconsommation d'électricité solaire photovoltaïque vaudoise",
+  "contributeurs": [
+    {
+      "nom": "Claude-Alain Voiblet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claude-Alain Voiblet",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-09-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-03-08",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-03-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_419_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_419_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-8-mars-2016/reponse-du-conseil-detat-a-linterpellation-regis-courdesse-au-nom-du-groupe-vertliberal-et-consorts-favoriser-lautoconsommation-delectricite-solaire-photovoltaique-vaudoise",
+  "communes": [
+    {
+      "ofs": 5892,
+      "origine": "document"
+    }
+  ]
+}

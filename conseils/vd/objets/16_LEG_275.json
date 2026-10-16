@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223924,
+  "numero": "16_LEG_275",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-06-21"
+  },
+  "depose": "2016-06-14",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 1'700'000.- destiné à financer l'assainissement de la décharge de l'Arsat sur la Commune d'Ormont-Dessous",
+  "contributeurs": [
+    {
+      "nom": "Pierre-Alain Favrod",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre-Alain Favrod",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierre-Alain Favrod",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-06-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-06-21",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-06-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/275_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-06-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/275_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-21-juin-2016/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-dinvestissement-de-chf-1700000-destine-a-financer-lassainissement-de-la-decharge-de-larsat-sur-la-commune-dormont-dessous",
+  "communes": [
+    {
+      "ofs": 5410,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5843,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5408,
+      "origine": "document"
+    }
+  ]
+}

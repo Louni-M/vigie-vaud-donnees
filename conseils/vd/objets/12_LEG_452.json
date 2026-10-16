@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222721,
+  "numero": "12_LEG_452",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-05-08"
+  },
+  "depose": "2012-05-01",
+  "titre": "Exposé des motifs et projets de lois- sur la géoinformation (Lgéo-VD)- modifiant la loi du 28 février 1956 sur les communes(LC)",
+  "contributeurs": [
+    {
+      "nom": "Jean-Jacques Truffer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Jacques Truffer",
+      "parti": "LIB",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-05-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-05-01",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2012-05-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "LC adoptée par le Grand Conseil le 08.05.12",
+      "date": "2012-05-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/452_LC_FAO.pdf"
+    },
+    {
+      "titre": "LVLGéo adoptée par le Grand Conseil le 08.05.12",
+      "date": "2012-05-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/dinf/sit/fichiers_pdf/452_LVLGeo_FAO.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/452_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/452_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-8-mai-2012/expose-des-motifs-et-projets-de-lois-sur-la-geoinformation-et-la-loi-du-28-fevrier-1956-sur-les-communes-lc",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

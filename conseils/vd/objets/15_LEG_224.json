@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223581,
+  "numero": "15_LEG_224",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2015-06-23"
+  },
+  "depose": "2015-06-23",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 1'485'000.- pour financer la densification, 2ème étape, des Archives cantonales vaudoises (ACV) à Chavannes-près-Renens",
+  "contributeurs": [
+    {
+      "nom": "Hugues Gander",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Hugues Gander",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Hugues Gander",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-06-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-06-23",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-06-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/224_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-06-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/224_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-23-juin-2015/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-douvrage-de-chf-1485000-pour-financer-la-densification-2eme-etape-des-archives-cantonales-vaudoises-acv-a-chavannes-pres-renens",
+  "communes": [
+    {
+      "ofs": 5627,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5675,
+      "origine": "document"
+    }
+  ]
+}

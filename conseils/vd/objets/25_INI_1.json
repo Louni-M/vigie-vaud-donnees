@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228127,
+  "numero": "25_INI_1",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2026-06-09"
+  },
+  "depose": "2025-06-03",
+  "titre": "La Suisse doit reconnaître l’Etat Palestinien",
+  "contributeurs": [
+    {
+      "nom": "Joëlle Minacci",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Cédric Echenard",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-06-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-06-09",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-06-10",
+      "lien": "https://www.sonomix.ch/live/gcvd/3142#5090"
+    },
+    {
+      "titre": "https://www.letemps.ch/suisse/gaza-ignazio-cassis-sous-pression-croissante-meme-au-sein-de-son-propre-departement",
+      "date": "2025-06-10",
+      "lien": "https://www.letemps.ch/suisse/gaza-ignazio-cassis-sous-pression-croissante-meme-au-sein-de-son-propre-departement"
+    },
+    {
+      "titre": "https://www.eda.admin.ch/eda/fr/dfae/dfae/aktuell/dossiers/ch-positionnahostkonflikt.html",
+      "date": "2025-06-10",
+      "lien": "https://www.eda.admin.ch/eda/fr/dfae/dfae/aktuell/dossiers/ch-positionnahostkonflikt.html"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/384dc8a8-879c-4d98-9c50-c61936786a01/meeting/1029672",
+  "communes": []
+}

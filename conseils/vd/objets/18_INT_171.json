@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224255,
+  "numero": "18_INT_171",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-04-02"
+  },
+  "depose": "2018-05-08",
+  "titre": "Spécialistes en gériatrie où en est-on pour faire face aux besoins ?",
+  "contributeurs": [
+    {
+      "nom": "Catherine Labouchère",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Catherine Labouchère",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-05-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-04-02",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-03-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_171_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-05-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_171_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-2-avril-2019/reponse-du-conseil-detat-a-linterpellation-catherine-labouchere-et-consorts-specialistes-en-geriatrie-ou-en-est-on-pour-faire-face-aux-besoins",
+  "communes": [
+    {
+      "ofs": 5904,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

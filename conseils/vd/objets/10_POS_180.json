@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222111,
+  "numero": "10_POS_180",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2011-02-08"
+  },
+  "depose": "2010-02-23",
+  "titre": "Demandant la mise en place d'un plan d'action cantonal contre la mendicité en compagnie de mineurs",
+  "contributeurs": [
+    {
+      "nom": "Félix Glutz",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Félix Glutz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Anne Décosterd",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-02-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-02-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-02-08",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2011-02-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_180_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2011-02-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_180_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-02-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_180_Objet_et_dev_new.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-02-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_180_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-8-fevrier-2011/postulat-mireille-aubert-mise-en-place-dun-plan-daction-cantonal-contre-la-mendicite-en-compagnie-de-mineurs",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

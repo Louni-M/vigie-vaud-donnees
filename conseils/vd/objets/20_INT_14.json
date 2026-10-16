@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225111,
+  "numero": "20_INT_14",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-02-03"
+  },
+  "depose": "2020-09-22",
+  "titre": "Accord Canton-Communes sur la répartition de la facture sociale : quid des communes dont l’aide péréquative est plafonnée ?",
+  "contributeurs": [
+    {
+      "nom": "Pierre Dessemontet",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-09-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-09-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-02-03",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-29",
+      "lien": "https://www.sonomix.ch/live/gcvd/1884#7831"
+    },
+    {
+      "titre": "Répartition de la facture sociale pour les communes dont l’aide péréquative est plafonnée",
+      "date": "2021-02-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2033898"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4953513b-c543-4bc0-9776-22f8b2ab75cf/meeting/1000566",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5688,
+      "origine": "document"
+    }
+  ]
+}

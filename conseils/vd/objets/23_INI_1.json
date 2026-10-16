@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226932,
+  "numero": "23_INI_1",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Non pris en considération",
+    "date": "2023-01-17"
+  },
+  "depose": "2023-01-17",
+  "titre": "Un peu d'air pour les contribuables modestes !",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Cala",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Cédric Weissert",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-01-17",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-01-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/2295#1448"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-11-28",
+      "lien": "https://www.sonomix.ch/live/gcvd/2662#4924"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1403d3b9-2a59-4a4a-bc72-51408fff5953/meeting/1019548",
+  "communes": []
+}

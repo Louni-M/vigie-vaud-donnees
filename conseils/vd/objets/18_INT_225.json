@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224310,
+  "numero": "18_INT_225",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-03-10"
+  },
+  "depose": "2018-08-28",
+  "titre": "Liaison ferroviaire Yverdon-les-Bains - Morges : bientôt 15 minutes supplémentaires ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Daniel Carrard",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Daniel Carrard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-08-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-10-02",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-03-10",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_225_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-09-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_225_depot.pdf"
+    },
+    {
+      "titre": "Desserte ferroviaire directe entre Yverdon-les-Bains et Morges",
+      "date": "2019-10-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=387472"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-10-mars-2020/reponse-du-conseil-detat-a-linterpellation-jean-daniel-carrard-et-consorts-liaison-ferroviaire-yverdon-les-bains-morges-bientot-15-minutes-supplementaires",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5624,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

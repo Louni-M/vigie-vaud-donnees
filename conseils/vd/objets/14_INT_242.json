@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223155,
+  "numero": "14_INT_242",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-01-20"
+  },
+  "depose": "2014-04-08",
+  "titre": "\"Vol spécial vers le Kosovo\": le principe de proportionnalité a-t-il été respecté ?",
+  "contributeurs": [
+    {
+      "nom": "Denis-Olivier Maillefer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Denis-Olivier Maillefer",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-04-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-04-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-01-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-01-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_242_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-04-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_242_d%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-20-janvier-2015/reponse-du-conseil-detat-a-linterpellation-denis-olivier-maillefer-et-consorts-vol-special-vers-le-kosovo-le-principe-de-proportionnalite-a-t-il-ete-respecte",
+  "communes": [
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

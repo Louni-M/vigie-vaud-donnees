@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227355,
+  "numero": "23_QUE_62",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-02-28"
+  },
+  "depose": "2023-12-19",
+  "titre": "Quelles mesures complémentaires pour traiter les violences des hooligans du sport ?",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Rydlo",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-12-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-02-28",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Lutte contre la violence dans le sport",
+      "date": "2024-02-28",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2224472"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/12331339-ca2c-4374-a3a6-9ce07a9bd5ba/meeting/1019551",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5627,
+      "origine": "document"
+    }
+  ]
+}

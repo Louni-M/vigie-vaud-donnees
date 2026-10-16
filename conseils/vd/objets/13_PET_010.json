@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223039,
+  "numero": "13_PET_010",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-03-25"
+  },
+  "depose": "2013-05-28",
+  "titre": "Pétition concernant la fermeture du guichet CFF de Moudon",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2013-05-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-06-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-03-25",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-05-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_PET_010_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-05-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_PET_010_D%C3%A9p%C3%B4t.pdf"
+    },
+    {
+      "titre": "Guichet de la gare de Moudon",
+      "date": "2020-03-25",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=400168"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-4-juin-2013/petition-concernant-la-fermeture-du-guichet-cff-de-moudon",
+  "communes": [
+    {
+      "ofs": 5678,
+      "origine": "titre"
+    }
+  ]
+}

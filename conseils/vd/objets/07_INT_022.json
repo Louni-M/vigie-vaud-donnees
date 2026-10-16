@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228482,
+  "numero": "07_INT_022",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-05-11"
+  },
+  "depose": "2010-04-27",
+  "titre": "Comment évaluer si les achats effectués par les établissements sanitaires reconnus d'intérêt public répondent à une règle d'économie ?",
+  "contributeurs": [
+    {
+      "nom": "Lise Peters",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Lise Peters",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-04-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-05-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-04-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/07_INT_022_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-11-mai-2010/reponse-du-conseil-detat-a-linterpellation-lise-peters",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

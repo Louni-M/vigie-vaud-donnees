@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221962,
+  "numero": "10_LEG_198",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-01-26"
+  },
+  "depose": "2010-01-26",
+  "titre": "Exposé des motifs et projets de décrets accordant au Conseil d'Etat un crédit d'objet de CHF 10'160'000.- pour les travaux de la première étape de la réhabilitation de la RC 1 entre l'avenue Forel et l'avenue du Tir-Fédéral, sur les communes d'Ecublens et de St-Sulpice et accordant au Conseil d'Etat un crédit d'étude de CHF 600'000.- pour les études de la deuxième étape de la requalification de la RC 1 entre le giratoire de l'UNIL et la Venoge, sur les communes d'Ecublens et de St-Sulpice",
+  "contributeurs": [
+    {
+      "nom": "Bertrand Clot",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Bertrand Clot",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-01-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-01-26",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Décret de 600'000.- adopté par le Grand Conseil le 26.01.10",
+      "date": "2010-01-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/198_Decret_600_000_adopte.pdf"
+    },
+    {
+      "titre": "Décret de 10'160'000.- adopté par le Grand Conseil le 26.01.10",
+      "date": "2010-01-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/198_Decret_10_160_00_adopte.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-26-janvier-2010/expose-des-motifs-et-projets-de-decrets-travaux-de-rehabilitation-rc-1-ecublens-st-sulpice-et-requalification-rc-1-entre-le-giratoire-unil-et-la-venoge",
+  "communes": [
+    {
+      "ofs": 5635,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5648,
+      "origine": "titre"
+    }
+  ]
+}

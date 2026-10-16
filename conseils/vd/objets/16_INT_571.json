@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223822,
+  "numero": "16_INT_571",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-09-04"
+  },
+  "depose": "2016-09-20",
+  "titre": "Banque Cantonale Vaudoise : Quid du développement durable ?",
+  "contributeurs": [
+    {
+      "nom": "Anne Décosterd",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Anne Décosterd",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-09-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-09-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-09-04",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adotpé par le Conseil d'Etat",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/16_INT_571_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-09-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_571_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-4-septembre-2018/reponse-du-conseil-detat-a-linterpellation-anne-decosterd-au-nom-du-groupe-des-verts-banque-cantonale-vaudoise-quid-du-developpement-durable",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

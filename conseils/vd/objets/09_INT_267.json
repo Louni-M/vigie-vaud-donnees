@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221624,
+  "numero": "09_INT_267",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-03-20"
+  },
+  "depose": "2009-08-25",
+  "titre": "Si l'ECA prend l'eau ou s'il joue avec le feu",
+  "contributeurs": [
+    {
+      "nom": "Cesla Amarelle",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-08-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-08-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-03-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2009-08-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_267_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-03-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_267_TexteCE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-20-mars-2012/reponse-du-conseil-detat-a-linterpellation-cesla-amarelle-demandant-si-leca-prend-leau-ou-sil-joue-avec-le-feu",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

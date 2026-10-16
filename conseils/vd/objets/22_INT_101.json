@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226238,
+  "numero": "22_INT_101",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-12-14"
+  },
+  "depose": "2022-08-23",
+  "titre": "Car Postal aurait-elle un train de...retard ?",
+  "contributeurs": [
+    {
+      "nom": "Alberto Mocchi",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-08-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-08-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-12-14",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-08-30",
+      "lien": "https://www.sonomix.ch/live/gcvd/2163#2638"
+    },
+    {
+      "titre": "Les correspondances des réseaux de bus doivent s’adapter aux retards ferroviaires",
+      "date": "2022-12-14",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2151671"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5f052779-3320-420b-a19a-0797d1f376bd/meeting/1013632",
+  "communes": [
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5480,
+      "origine": "document"
+    },
+    {
+      "ofs": 5471,
+      "origine": "document"
+    },
+    {
+      "ofs": 5535,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5495,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5512,
+      "origine": "document"
+    }
+  ]
+}

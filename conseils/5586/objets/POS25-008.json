@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 120534,
+  "numero": "POS25/008",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Décision : Renvoi en commission",
+    "date": "2025-03-04"
+  },
+  "depose": "2025-02-04",
+  "titre": "Nos beaux murs gris",
+  "contributeurs": [
+    {
+      "nom": "Loris Socchi",
+      "parti": "EàG",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-02-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-02-04",
+      "libelle": "Décision : Renvoi en Municipalité"
+    },
+    {
+      "date": "2025-03-04",
+      "libelle": "Décision : Renvoi en commission"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de commission n° 82",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/ca/cac17da62ade4556a7e406b435540603.pdf"
+    },
+    {
+      "titre": "Postulat de Socchi Loris - Nos beaux murs gris",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/13/138899530931405dbfc91dc17124bcc9.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/6e/106f254838b4467ebc9ff5301905be6e.htm",
+  "communes": []
+}

@@ -1,0 +1,708 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5601,
+  "objets": [
+    {
+      "cle": "vd/22_POS_50",
+      "numero": "22_POS_50",
+      "type": "Postulat",
+      "depose": "2022-09-13",
+      "titre": "La région Lausannoise n'aurait-elle pas besoin d'un hôpital de ville?",
+      "auteurs": [
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Sylvie Podio",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2025-04-09"
+      },
+      "derniere_etape": "2025-04-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5520,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/V_3.2.2025",
+      "numero": "V 3.2.2025",
+      "type": "Consultation",
+      "depose": "2025-02-03",
+      "titre": "Avant-projet de loi sur les communes",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Avant-projet de loi sur les communes",
+        "date": "2025-03-31"
+      },
+      "derniere_etape": "2025-03-31",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5609,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_INT_36",
+      "numero": "24_INT_36",
+      "type": "Interpellation",
+      "depose": "2024-02-27",
+      "titre": "On débouchonne?",
+      "auteurs": [
+        {
+          "nom": "Sergei Aschwanden",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-08-14"
+      },
+      "derniere_etape": "2024-08-14",
+      "communes": [
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_POS_32",
+      "numero": "24_POS_32",
+      "type": "Postulat",
+      "depose": "2023-09-26",
+      "titre": "Pour que les capites de vignes répondent à la demande œnotouristique",
+      "auteurs": [
+        {
+          "nom": "Maurice Neyroud",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Patricia Spack Isenrich",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Transformée en postulat",
+        "date": "2023-09-26"
+      },
+      "derniere_etape": "2023-09-26",
+      "communes": [
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5427,
+          "origine": "document"
+        },
+        {
+          "ofs": 5882,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5426,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_82",
+      "numero": "22_INT_82",
+      "type": "Interpellation",
+      "depose": "2022-05-31",
+      "titre": "Le Lavaux-Riviera, paradis du naturisme vaudois ? Quel impact touristique ?",
+      "auteurs": [
+        {
+          "nom": "Philippe Vuillemin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-04-05"
+      },
+      "derniere_etape": "2023-04-05",
+      "communes": [
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_MOT_11",
+      "numero": "21_MOT_11",
+      "type": "Motion",
+      "depose": "2021-04-20",
+      "titre": "Pour limiter et rendre conforme aux normes du Conseil de l’Europe la durée des arrêts disciplinaires sous forme d’isolement au sein des établissements de détention vaudois",
+      "auteurs": [
+        {
+          "nom": "Muriel Cuendet Schmidt",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Florence Bettschart-Narbel",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Non pris en considération",
+        "date": "2021-04-20"
+      },
+      "derniere_etape": "2021-04-20",
+      "communes": [
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_QUE_9",
+      "numero": "20_QUE_9",
+      "type": "Simple question",
+      "depose": "2020-10-27",
+      "titre": "Besoins en traçage des infections COVID19 - les exigences de recrutement sont-elles proportionnées en regard des besoins ?",
+      "auteurs": [
+        {
+          "nom": "Laurent Miéville",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2020-12-09"
+      },
+      "derniere_etape": "2020-12-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5792,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5891,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_237",
+      "numero": "20_LEG_237",
+      "type": "Décret/Loi",
+      "depose": "2020-06-10",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit d'investissement de CHF 21'500'000.- pour financer les travaux de requalification de la RC 780 B-P sur le plat du Dézaley (entre Treytorrens et Rivaz) sur le territoire des communes de Puidoux et Rivaz (237)",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2020-06-10"
+      },
+      "derniere_etape": "2020-06-10",
+      "communes": [
+        {
+          "ofs": 5828,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5609,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5607,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_139",
+      "numero": "18_INT_139",
+      "type": "Interpellation",
+      "depose": "2018-03-13",
+      "titre": "\"Alternative 2050\" pour l'autoroute A9 : Du bruit ne peut pas être supprimé par du silence !",
+      "auteurs": [
+        {
+          "nom": "Andreas Wüthrich",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Andreas Wüthrich",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2020-03-03"
+      },
+      "derniere_etape": "2020-03-03",
+      "communes": [
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_RAP_91",
+      "numero": "14_RAP_91",
+      "type": "Rapport",
+      "depose": "2014-01-28",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Grégory Devaud concernant Pocama - rapport sur son fonctionnement et son évolution",
+      "auteurs": [
+        {
+          "nom": "Pierre-Yves Rapaz",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Pierre-Yves Rapaz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2014-01-28"
+      },
+      "derniere_etape": "2014-01-28",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5646,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_486",
+      "numero": "12_LEG_486",
+      "type": "Décret/Loi",
+      "depose": "2012-11-06",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 13'200'000.- pour financer la maintenance des ouvrages d'art du réseau routier cantonal pour la période de 2012 à 2015",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-11-06"
+      },
+      "derniere_etape": "2012-11-06",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_RAP_326",
+      "numero": "11_RAP_326",
+      "type": "Rapport",
+      "depose": "2011-09-20",
+      "titre": "Rapport sur la politique des Ressources Humaines 2011-2015 et Rapport du Conseil d'Etat au Grand Conseil sur les postulats :- Philippe Leuba visant à obtenir un rapport sur les rémunérations effectives moyennes des différentes fonctions existantes dans l'administration vaudoise, sur leur niveau en comparaison avec celles allouées dans les autres administrations cantonales et avec celles octroyées dans le secteur privé (04/POS/128)- Mireille Aubert et consorts pour un congé adoption (07/POS/020)- du groupe libéral demandant une feuille de route pour la législature sur le flux du personnel de l'Etat (07/POS/033)- Sandrine Bavaud et consorts pour une véritable politique du personnel (08/POS/101) etRéponses du Conseil d'Etat aux interpellations :- Stéphanie Apothéloz : Quelles réponses aux revendications de la journée de l'égalité des salaires entre femmes et hommes (Equal Pay Day) du 10 mars 2009 ? (09/INT/204)- Yves Rapaz : Quelle est la croissance et la charge des Equivalents Temps Plein « ETP » à l'Etat de Vaud, au cours de ces dernières années, en comparaison intercantonale ? (09/INT/305)",
+      "auteurs": [
+        {
+          "nom": "Philippe Vuillemin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-09-20"
+      },
+      "derniere_etape": "2011-09-20",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_427",
+      "numero": "10_INT_427",
+      "type": "Interpellation",
+      "depose": "2010-10-05",
+      "titre": "Le train des Vignes ne doit-il pas favoriser le trafic des voyageurs avant le transport des marchandises ?",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-02-01"
+      },
+      "derniere_etape": "2011-02-01",
+      "communes": [
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5607,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5883,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_261",
+      "numero": "10_LEG_261",
+      "type": "Décret/Loi",
+      "depose": "2010-04-20",
+      "titre": "Préavis du Conseil d'Etat au Grand Conseil sur la validité de l'initiative populaire cantonale \"Sauver Lavaux\" et projet de décret constatant la nullité de l'initiative populaire cantonale \"Sauver Lavaux\"",
+      "auteurs": [
+        {
+          "nom": "Laurent Ballif",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Jacques Haldy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-06-08"
+      },
+      "derniere_etape": "2010-06-08",
+      "communes": [
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5885,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5610,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_INT_146",
+      "numero": "08_INT_146",
+      "type": "Interpellation",
+      "depose": "2008-11-11",
+      "titre": "Des approximations dans les autorisations de construction du parking de Saint-Saphorin",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-05-19"
+      },
+      "derniere_etape": "2009-05-19",
+      "communes": [
+        {
+          "ofs": 5610,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5604,
+          "origine": "document"
+        },
+        {
+          "ofs": 5607,
+          "origine": "document"
+        },
+        {
+          "ofs": 5609,
+          "origine": "document"
+        },
+        {
+          "ofs": 5882,
+          "origine": "document"
+        },
+        {
+          "ofs": 5883,
+          "origine": "document"
+        },
+        {
+          "ofs": 5884,
+          "origine": "document"
+        },
+        {
+          "ofs": 5885,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

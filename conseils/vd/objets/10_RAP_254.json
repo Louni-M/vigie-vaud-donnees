@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222172,
+  "numero": "10_RAP_254",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-10-05"
+  },
+  "depose": "2010-10-05",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Yves Ferrari et consorts pour plus de publicité des contrôles des normes ORNI",
+  "contributeurs": [
+    {
+      "nom": "Fabienne Despot",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-10-05",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-10-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/254_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-10-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/254_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-5-octobre-2010/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-yves-ferrari-normes-orni",
+  "communes": [
+    {
+      "ofs": 5590,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222046,
+  "numero": "10_LEG_333",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-11-02"
+  },
+  "depose": "2010-11-02",
+  "titre": "Exposé des motifs et projet de décret accordant la garantie de l'Etat de Vaud et la prise en charge du service de la dette pour l'emprunt de CHF 10 millions contracté par le Groupement hospitalier de l'Ouest lémanique (GHOL) pour financer les travaux d'extension et de réorganisation des urgences de l'Hôpital de Nyon",
+  "contributeurs": [
+    {
+      "nom": "Philippe Martinet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Martinet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-11-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-11-02",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-11-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/333_Texte_CE_01.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-11-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/333_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 02.11.10",
+      "date": "2010-11-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/333_Decret_adopte.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-2-novembre-2010/expose-des-motifs-et-projet-de-decret-groupement-hospitalier-de-louest-lemanique-et-hopital-de-nyon",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5412,
+      "origine": "document"
+    }
+  ]
+}

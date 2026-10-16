@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223685,
+  "numero": "15_POS_150",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-06-03"
+  },
+  "depose": "2015-11-24",
+  "titre": "Pour un dispositif alerte enlèvement efficace",
+  "contributeurs": [
+    {
+      "nom": "Christa Calpini",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Christa Calpini",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-11-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-12-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-06-21",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-06-03",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-06-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_150_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-06-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_150_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-12-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_150_depot.pdf"
+    },
+    {
+      "titre": "Alerte enlèvement",
+      "date": "2020-06-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=329144"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-21-juin-2016/postulat-jessica-jaccoud-et-consorts-pour-un-dispositif-alerte-enlevement-efficace",
+  "communes": [
+    {
+      "ofs": 5648,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5587,
+      "origine": "document"
+    }
+  ]
+}

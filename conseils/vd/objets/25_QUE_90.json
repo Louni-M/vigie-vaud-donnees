@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 260549,
+  "numero": "25_QUE_90",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Traktandiert",
+    "date": "2025-10-07"
+  },
+  "depose": "2025-10-07",
+  "titre": "Le Canton de Vaud est-il anémique depuis 10 ans ?",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-10-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-10-07",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.bfs.admin.ch/bfs/rm/home/statisticas/economia-publica.assetdetail.32627395.html",
+      "date": "2025-10-07",
+      "lien": "https://www.bfs.admin.ch/bfs/rm/home/statisticas/economia-publica.assetdetail.32627395.html"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/74004778-4d9b-4cc5-9461-1998cf36dd13/meeting/1029639",
+  "communes": []
+}

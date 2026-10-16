@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224476,
+  "numero": "18_POS_030",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2018-12-11"
+  },
+  "depose": "2018-01-30",
+  "titre": "Lausanne la blanche !",
+  "contributeurs": [
+    {
+      "nom": "François Cardinaux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "François Cardinaux",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-01-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-02-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-12-11",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-11-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_030_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-11-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_030_obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet ",
+      "date": "2018-02-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_030_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-des-11-et-12-decembre-2018/postulat-thierry-dubois-et-consorts-lausanne-la-blanche",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224306,
+  "numero": "18_INT_221",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-04-02"
+  },
+  "depose": "2018-08-28",
+  "titre": "Le CHUV doit rester un service de l'Etat pour relever les défis de santé publique",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-08-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-04-02",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-04-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_221_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-09-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_221_depot.pdf"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2018-09-04",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-4-septembre-2018"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-2-avril-2019/reponse-du-conseil-detat-a-linterpellation-jean-tschopp-et-consorts-le-chuv-doit-rester-un-service-de-letat-pour-relever-les-defis-de-sante-publique",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5568,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

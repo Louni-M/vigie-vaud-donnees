@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221488,
+  "numero": "08_PET_022",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2009-02-10"
+  },
+  "depose": "2009-02-03",
+  "titre": "Pétition en faveur de la famille Guanoluisa",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2009-02-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-02-10",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_PET_022_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Divers/08_PET_022_Objet.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-10-fevrier-2009/petition-en-faveur-de-la-famille-guanoluisa",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5584,
+      "origine": "document"
+    }
+  ]
+}

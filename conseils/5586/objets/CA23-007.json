@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 29261,
+  "numero": "CA23/007",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2023-10-03"
+  },
+  "depose": "2023-05-11",
+  "titre": "Demande d'ouverture d'un compte d'attente pour la rénovation d'une cuve du réservoir des Dailles",
+  "contributeurs": [
+    {
+      "nom": "Isabelle Burgy",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-05-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-10-03",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "cc_ca_cuves_dailles.pdf v1.0",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/20/2092b549b4c04edd8f443590498c59f0.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/ce/6ad2ef0327d5474cbf88f4cac5e71dce.htm",
+  "communes": []
+}

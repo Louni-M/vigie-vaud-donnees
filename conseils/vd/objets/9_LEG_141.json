@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228753,
+  "numero": "9_LEG_141",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2009-03-17"
+  },
+  "depose": "2009-03-17",
+  "titre": "Exposé des motifs et projets de décrets accordant un crédit d'étude de CHF 7'679'000.- et un prêt conditionnellement remboursable de CHF 23'822'000.- aux Transports publics de la région lausannoise (TL), pour l'étude de la première étape du réseau d'axes forts de transports publics urbains dans l'agglomération Lausanne - Morges et accordant au Conseil d'Etat un crédit de CHF 1'030'000.- pour l'étude d'une centrale de gestion du trafic destinée aux besoins de l'agglomération Lausanne - Morges et Rapport du Conseil d'Etat au Grand Conseil sur le postulat Michel Miéville et consorts - Lausanne, Malley, Bussigny, en métro plutôt qu'en tramway",
+  "contributeurs": [
+    {
+      "nom": "Michele Mossi",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Michele Mossi",
+      "parti": "AdC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-03-17",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-03-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_17_mars_2009/141_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-03-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/RC-141.PDF"
+    },
+    {
+      "titre": "Décret de 7'679'000.- adopté par le GC le 24.03.09",
+      "date": "2009-03-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/141_Decret_7_679_000.pdf"
+    },
+    {
+      "titre": "Décret de 1'030'000.- adopté pe le GC le 24.03.09",
+      "date": "2009-03-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/141_Decret_1_030_000.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-17-mars-2009/expose-des-motifs-et-projets-de-decrets-tl",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5624,
+      "origine": "titre"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223259,
+  "numero": "14_LEG_121",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2014-04-08"
+  },
+  "depose": "2014-04-01",
+  "titre": "Exposé des motifs et projet de décret accordant au CE un crédit de CHF 5'623'766 destiné à financer la prise de participation dans la société Salines Suisses du Rhin SA, autorisant le CE à adhérer à la Convention intercantonale sur la vente du sel en Suisse du 22 novembre 1973, abrogeant la loi sur la contrebande du sel (LSel) du 29 mai 1804",
+  "contributeurs": [
+    {
+      "nom": "Susanne Jungclaus Delarze",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Susanne Jungclaus Delarze",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Susanne Jungclaus Delarze",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-04-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-04-08",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-04-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/121_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-04-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/121_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-8-avril-2014/expose-des-motifs-et-projet-de-decret-accordant-au-ce-un-credit-de-chf-5623766-destine-a-financer-la-prise-de-participation-dans-la-societe-salines-suisses-du-rhin-sa",
+  "communes": [
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223998,
+  "numero": "16_POS_168",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2016-10-11"
+  },
+  "depose": "2016-04-26",
+  "titre": "Secours alpin",
+  "contributeurs": [
+    {
+      "nom": "Albert Chapalay",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Albert Chapalay",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-04-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-04-26",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-10-11",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-10-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_168_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-10-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_168_Obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-04-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_168_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-11-octobre-2016/postulat-philippe-randin-et-consorts-secours-alpin",
+  "communes": [
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5841,
+      "origine": "document"
+    },
+    {
+      "ofs": 5407,
+      "origine": "document"
+    },
+    {
+      "ofs": 5568,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

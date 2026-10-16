@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 202326,
+  "numero": "9_RAP_210",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2009-11-10"
+  },
+  "depose": "2009-11-10",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur les postulats- Alessandra Silauri et consorts demandant d'étudier la possibilité aux personnes au bénéfice de l'aide d'urgence d'accéder aux produits nécessaires à leur hygiène de base,- Raphaël Mahaim et consorts pour l'amélioration des conditions de vie des personnes durablement soumises au régime de l'aide d'urgence, etle canton était plus dissuasif",
+  "contributeurs": [
+    {
+      "nom": "Pierre Grandjean",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre Grandjean",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-11-10",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-11-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/210_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-11-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/210_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-24-novembre-2009/rapport-du-conseil-detat-au-grand-conseil-sur-divers-postulats",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

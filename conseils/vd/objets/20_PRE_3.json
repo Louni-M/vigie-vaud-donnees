@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225419,
+  "numero": "20_PRE_3",
+  "type": "Préavis",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2021-11-23"
+  },
+  "depose": "2021-11-23",
+  "titre": "Préavis du Conseil d'Etat",
+  "contributeurs": [
+    {
+      "nom": "Sergei Aschwanden",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-11-23",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "RC-20_PRE_3 - Sergei Aschwanden",
+      "date": "2021-11-23",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2060808"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/cc950e26-be78-4343-a1e9-cd4e70b0c46d/meeting/1004411",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

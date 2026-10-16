@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224457,
+  "numero": "18_MOT_063",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-03-10"
+  },
+  "depose": "2018-10-02",
+  "titre": "La transparence démocratique nécessite des procédures de consultation encadrées par des règles claires, stables et cohérentes",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-10-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-10-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-03-10",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_063_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_063_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-10-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_063_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-10-mars-2020/motion-guy-philippe-bolay-et-consorts-la-transparence-democratique-necessite-des-procedures-de-consultation-encadrees-par-des-regles-claires-stables-et-coherentes",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

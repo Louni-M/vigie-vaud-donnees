@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228567,
+  "numero": "10_INT_366",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-05-03"
+  },
+  "depose": "2011-05-03",
+  "titre": "Intitulée \"Musée cantonal des Beaux-Arts (MCBA) dans la halle CFF de Lausanne : le Conseil d'Etat entend-il assumer son rôle de locomotive ?\"",
+  "contributeurs": [
+    {
+      "nom": "Marc-Olivier Buffat",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Marc-Olivier Buffat",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-05-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-05-03",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-05-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_366_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-3-mai-2011/reponse-du-conseil-detat-a-linterpellation-marc-olivier-buffat-et-consorts-intitulee-musee-cantonal-des-beaux-arts-dans-la-halle-cff-de-lausanne-le-conseil-detat-entend-il-assumer-son-role-de-locomotive",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

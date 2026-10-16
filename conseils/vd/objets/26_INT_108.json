@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 340096,
+  "numero": "26_INT_108",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2026-08-25"
+  },
+  "depose": "2026-08-18",
+  "titre": "Sécheresse et agriculture vaudoise : quelle gestion coordonnée et équitable de la ressource en eau?",
+  "contributeurs": [
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-08-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-08-25",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.letemps.ch/suisse/vaud/nourrir-leurs-betes-au-risque-de-manquer-de-fourrage-cet-hiver-ou-les-sacrifier-le-cruel-dilemme-des-eleveurs-romands",
+      "date": "2026-08-25",
+      "lien": "https://www.letemps.ch/suisse/vaud/nourrir-leurs-betes-au-risque-de-manquer-de-fourrage-cet-hiver-ou-les-sacrifier-le-cruel-dilemme-des-eleveurs-romands"
+    },
+    {
+      "titre": "https://www.blick.ch/fr/suisse/romande/pour-les-paysans-un-ete-dapocalypse-jevite-de-regarder-mes-champs-parce-que-ca-me-tord-le-bide-id22171504.html",
+      "date": "2026-08-25",
+      "lien": "https://www.blick.ch/fr/suisse/romande/pour-les-paysans-un-ete-dapocalypse-jevite-de-regarder-mes-champs-parce-que-ca-me-tord-le-bide-id22171504.html"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/058a1285-20e9-4f6f-ba19-e53131618b97/meeting/1033706",
+  "communes": [
+    {
+      "ofs": 5745,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222805,
+  "numero": "12_RAP_440",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-03-27"
+  },
+  "depose": "2012-03-27",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Doris Cohen-Dumani demandant au Conseil d'Etat un rapport sur les mesures visant à l'amélioration des relations entre l'enseignement privé et public ainsi que sur lesproblèmes posés par la territorialité dans l'enseignement public",
+  "contributeurs": [
+    {
+      "nom": "Christa Calpini",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Christa Calpini",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-03-27",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-03-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/440_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-03-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/440_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-3-avril-2012/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-doris-cohen-dumani-mesures-visant-a-ameliorer-les-relations-entre-lenseignement-prive-et-public",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

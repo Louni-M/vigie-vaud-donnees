@@ -1,0 +1,556 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 14078,
+  "date": "2020-03-10",
+  "nom": "Séance du mardi 10 mars 2020",
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-10-mars-2020",
+  "ordre_du_jour": [
+    {
+      "numero": "5",
+      "titre": "Interpellation Cédric Weissert - Renouvellement des permis d'établissement, la loi est-elle respectée ? (Pas de développement)",
+      "categorie": null,
+      "resultat": "RENV-CE",
+      "objet": "vd/20_INT_464"
+    },
+    {
+      "numero": "6",
+      "titre": "Interpellation Carole Dubois et consorts au nom du groupe PLR - Grève du climat : des comptes plus chauds que le climat. (Développement)",
+      "categorie": null,
+      "resultat": "RENV-CE",
+      "objet": "vd/20_INT_457"
+    },
+    {
+      "numero": "7",
+      "titre": "Interpellation Muriel Thalmann et consorts - Traitement et exportation de déchets urbains : quels contrôles et comment s'assurer qu'ils sont éliminés dans les règles de l'art ? (Développement)",
+      "categorie": null,
+      "resultat": "RENV-CE",
+      "objet": "vd/20_INT_458"
+    },
+    {
+      "numero": "8",
+      "titre": "Interpellation Taraneh Aminian - Hôpital Riviera-Chablais : en cas d'urgence vitale, chaque minute compte ! (Développement)",
+      "categorie": null,
+      "resultat": "RENV-CE",
+      "objet": "vd/20_INT_459"
+    },
+    {
+      "numero": "9",
+      "titre": "Interpellation Pierre-André Romanens et consorts - Beau temps pour les finances cantonales. (Développement)",
+      "categorie": null,
+      "resultat": "RENV-CE",
+      "objet": "vd/20_INT_460"
+    },
+    {
+      "numero": "10",
+      "titre": "Interpellation Florence Gross et consorts - Le Conseil d'Etat envisage-t-il d'instaurer une égalité de traitement fiscale des sociétés indépendamment de leur forme juridique ? (Développement)",
+      "categorie": null,
+      "resultat": "RENV-CE",
+      "objet": "vd/20_INT_461"
+    },
+    {
+      "numero": "11",
+      "titre": "Interpellation Jean-François Thuillard et consorts - Les deniers publics réchauffent le climat ! (Développement)",
+      "categorie": null,
+      "resultat": "RENV-CE",
+      "objet": "vd/20_INT_462"
+    },
+    {
+      "numero": "12",
+      "titre": "Interpellation Rebecca Joly et consorts - Transformez cette autoroute que je ne saurais voir ! (Développement)",
+      "categorie": null,
+      "resultat": "RENV-CE",
+      "objet": "vd/20_INT_463"
+    },
+    {
+      "numero": "13",
+      "titre": "Motion Jean Tschopp et consorts - Un climat assaini pour des logements abordables. (Développement et demande de renvoi à commission avec au moins 20 signatures)",
+      "categorie": null,
+      "resultat": "RENV-COM",
+      "objet": "vd/20_MOT_133"
+    },
+    {
+      "numero": "14",
+      "titre": "Motion Sergei Aschwanden et consorts - «Bref, cause tous jours... ou pas !?» (Développement et demande de renvoi à commission avec au moins 20 signatures)",
+      "categorie": null,
+      "resultat": "RENV-COM",
+      "objet": "vd/20_MOT_134"
+    },
+    {
+      "numero": "15",
+      "titre": "Motion Muriel Thalmann et consorts au nom du groupe thématique Intergroupe F - Modification de la Loi sur le Grand Conseil afin de protéger les député-e-s contre le harcèlement sexuel. (Développement et demande de renvoi à commission avec au moins 20 signatures)",
+      "categorie": null,
+      "resultat": "RENV-COM",
+      "objet": "vd/20_MOT_135"
+    },
+    {
+      "numero": "16",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Philippe Vuillemin - Medici saeculi ou le dossier médical à l'épreuve des décennies. DSAS.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/19_INT_281"
+    },
+    {
+      "numero": "17",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Florence Bettschart-Narbel - Rougeole : quelle est la situation dans le canton de Vaud ? DSAS.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/19_INT_383"
+    },
+    {
+      "numero": "18",
+      "titre": "Postulat Carole Dubois et consorts - Etude sur les raisons des réadmissions hospitalières potentiellement évitables : mieux vaut prévenir que guérir. DSAS.",
+      "categorie": null,
+      "resultat": "RENV-CE",
+      "objet": "vd/19_POS_104"
+    },
+    {
+      "numero": "19",
+      "titre": "Postulat Léonore Porchet et consorts - La mort c'est tabou, on en viendra tous à bout. DSAS.",
+      "categorie": null,
+      "resultat": "RENV-CE",
+      "objet": "vd/18_POS_094"
+    },
+    {
+      "numero": "20",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Graziella Schaller et consorts - Pour que les directives anticipées soient respectées. DSAS.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/19_INT_294"
+    },
+    {
+      "numero": "21",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Cédric Weissert - Les Témoins de Jéhovah, nouvelle religion pour le CHUV ? DSAS.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/19_INT_335"
+    },
+    {
+      "numero": "22",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Thierry Dubois - CHUV : des conditions de travail catastrophique ! A qui la faute ? DSAS.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/18_INT_253"
+    },
+    {
+      "numero": "23",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Hadrien Buclin - Croissance du secteur privé à but lucratif dans les soins à domicile : le Conseil d'Etat a-t-il réellement la volonté d'éviter la pression à la baisse sur les conditions de travail et de garantir la qualité et la sécurité des soins ? DSAS.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/19_INT_277"
+    },
+    {
+      "numero": "24",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Josephine Byrne Garelli et consorts - Quelle coordination entre les offices qui s'occupent des cas AI et ceux du chômage et RI ? DSAS.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/19_INT_339"
+    },
+    {
+      "numero": "25",
+      "titre": "Postulat Amélie Cherbuin et consorts - Pour des prestations complémentaires AVS/AI cantonales adaptées au niveau de vie des Vaudois et des Vaudoises. DSAS,",
+      "categorie": null,
+      "resultat": "RENV-CE",
+      "objet": "vd/19_POS_142"
+    },
+    {
+      "numero": "26",
+      "titre": "Postulat Claire Attinger Doepper et consorts - Pour un accès amélioré à des places en logements protégés. DSAS.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/19_POS_156"
+    },
+    {
+      "numero": "27",
+      "titre": "Postulat Marc Vuilleumier et consorts - Etendre l'Aide Individuelle au Logement (AIL) à l'ensemble du canton de Vaud. DSAS.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/19_POS_103"
+    },
+    {
+      "numero": "28",
+      "titre": "Postulat Jérôme Christen et consorts - Pour une adaptation des critères d'octroi de l'aide individuelle au logement (Développement et demande de prise en considération immédiate)",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/20_POS_190"
+    },
+    {
+      "numero": "29",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Vincent Jaques et consorts - Fin de parcours pour l'épicerie mobile de Caritas Vaud : les bénéficiaires resteront-ils au bord du chemin ? DSAS.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/19_INT_305"
+    },
+    {
+      "numero": "30",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Marc Vuilleumier et consorts - Information sur le droit aux subsides des cotisations d'assurance maladie : du périodique qui s'éternise. DSAS.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/17_INT_053"
+    },
+    {
+      "numero": "31",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Marc Vuilleumier et consorts - Quand les poursuites rattrapent les subsidiés-ées de l'assurance maladie. DSAS.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/19_INT_331"
+    },
+    {
+      "numero": "32",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Philippe Vuillemin - De Renens à Pékin, sur les traces de Marco Polo, quels bénéfices, quels cadeaux ? DSAS.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/18_INT_214"
+    },
+    {
+      "numero": "33",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Stéphane Montangero et consorts - Boissons énergisantes : leur \"effet cocktail\" est-il une \"bombe à retardement sanitaire\" pour notre société ? DSAS.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/18_INT_114"
+    },
+    {
+      "numero": "34",
+      "titre": "Résolution Vassilis Venizelos et consorts - Pour plus de transparence de la Banque Nationale Suisse (BNS) dans la gestion des risques liés au climat. (Développement et mise en discussion avec moins de 20 signatures)",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/20_RES_041"
+    },
+    {
+      "numero": "35",
+      "titre": "Initiative Vincent Keller et consorts - Pour la gratuité des transports publics en terre vaudoise. (Suite des débats) DIRH.",
+      "categorie": null,
+      "resultat": "REF",
+      "objet": "vd/18_INI_010"
+    },
+    {
+      "numero": "36",
+      "titre": "Motion Alexandre Rydlo et consorts - Pour une accessibilité à pied et en transports publics du Centre Blécherette de la Police cantonale au Mont-sur-Lausanne. DIRH.",
+      "categorie": null,
+      "resultat": "REF",
+      "objet": "vd/19_MOT_070"
+    },
+    {
+      "numero": "37",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'étude de CHF 800'000.- pour financer l'étude exploratoire de l'évolution du métro m1 et de son intégration dans l'ouest lausannois et rapport du Conseil d'Etat au Grand Conseil sur le postulat Alexandre Rydlo et consorts - Pour une extension de l'infrastructure et de l'offre du M1 (16_POS_218). (1er débat)",
+      "categorie": null,
+      "resultat": "OA",
+      "objet": null
+    },
+    {
+      "numero": "38",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Anne-Laure Botteron - Démantèlement du service routier du LEB. Quid des actifs de l'entreprise ? DIRH.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/18_INT_144"
+    },
+    {
+      "numero": "39",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Jean-Daniel Carrard et consorts - Liaison ferroviaire Yverdon-les-Bains - Morges : bientôt 15 minutes supplémentaires ? DIRH.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/18_INT_225"
+    },
+    {
+      "numero": "40",
+      "titre": "Exposé des motifs et projets de décrets accordant aux Transports de la région Morges-Bière-Cossonay SA (MBC) une garantie d'emprunt de l'Etat de Vaud de CHF 5'230'000.- pour le financement des investissements du funiculaire Cossonay-Penthalaz – Cossonay-Ville, aux Transports Montreux-Vevey-Riviera SA (MVR) une garantie d'emprunt de l'Etat de Vaud de CHF 11'638'000.- pour le financement des investissements des funiculaires Territet – Glion, Vevey – Chardonne – Mont-Pèlerin et Les Avants – Sonloup et aux Transports Publics du Chablais SA (TPC) une garantie d'emprunt de l'Etat de Vaud de CHF 35'580'000.- pour l'acquisition de matériel roulant, nécessaire à l'exploitation de la ligne Villars-sur-Ollon – Col-de-Bretaye. (1er débat)",
+      "categorie": null,
+      "resultat": "OA",
+      "objet": null
+    },
+    {
+      "numero": "41",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Jean-Daniel Carrard et consorts - Pour un soutien du Conseil d'Etat à la création d'une halte CFF au Parc Scientifique et Technologique d'Yverdon-les-Bains (Y-Parc). DIRH.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/18_INT_168"
+    },
+    {
+      "numero": "42",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Jean-Marie Surer - [particulier] : son état de santé serait-il assez bon pour être municipal et ainsi ne plus toucher de pensions ? DIRH.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/16_INT_489"
+    },
+    {
+      "numero": "43",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Grégory Devaud - Un ex conseiller d'Etat qui nous fait monter les tours... d'AÏ ! DIRH.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/19_INT_348"
+    },
+    {
+      "numero": "44",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Hadrien Buclin et consort - Frais d'avocats des conseillers d'Etat : qui paie ? DIRH.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/19_INT_346"
+    },
+    {
+      "numero": "45",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Valérie Induni et consorts - Ne pas se dévoyer pour des voyages. Quels processus de décision, quels contrôles et quelle publicité pour les voyages officiels du Conseil d'Etat ou de cadres de l'administration cantonale ? DIRH.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/18_INT_246"
+    },
+    {
+      "numero": "46",
+      "titre": "Motion Guy-Philippe Bolay et consorts - La transparence démocratique nécessite des procédures de consultation encadrées par des règles claires, stables et cohérentes. DIRH.",
+      "categorie": null,
+      "resultat": "RENV-CE",
+      "objet": "vd/18_MOT_063"
+    },
+    {
+      "numero": "47",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Stéphane Rezso et consorts - Qui contrôle qui ? DIRH.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/19_INT_363"
+    },
+    {
+      "numero": "48",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Felix Stürner et consorts - Consultation autour du cadre de référence établi par l'EIAP : à qui le soin de trancher ? DIRH.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/18_INT_207"
+    },
+    {
+      "numero": "49",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Catherine Labouchère et consorts - Marchés publics en 2018, où en est-on dans la poursuite de la simplification et la diminution de la charge administrative des procédures ? DIRH.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/18_INT_219"
+    },
+    {
+      "numero": "50",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Georges Zünd et consorts - De quels moyens de contrôle disposent les pouvoirs adjudicateurs et l'Etat après l'adjudication de marchés publics, en particulier sur les sous-traitants ? DIRH.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/19_INT_318"
+    },
+    {
+      "numero": "51",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Axel Marion et consorts - Quel accompagnement face à l'introduction du RGPD en mai prochain ? DIRH.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/18_INT_143"
+    },
+    {
+      "numero": "52",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Yann Glayre et consorts - Cybersécurité - Quelle est la stratégie de l'Etat de Vaud pour traiter la plus grande collection de fuite de données de l'histoire ? DIRH.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/19_INT_287"
+    },
+    {
+      "numero": "53",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Nathalie Jaccard et consorts - Et si on faisait un grand ménage de printemps dans nos boîtes de réception ! DIRH.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/19_INT_307"
+    },
+    {
+      "numero": "54",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Claude Alain Voiblet et consorts - Uniformisons la pratique romande en matière d'exécution des peines.",
+      "categorie": null,
+      "resultat": "OA",
+      "objet": null
+    },
+    {
+      "numero": "55",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Régis Courdesse - Comment se composent les flux financiers (charges et revenus) de l'assistance judiciaire ? DIS.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/18_INT_183"
+    },
+    {
+      "numero": "56",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Jean Tschopp et consorts - Développer la médiation carcérale. DIS.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/19_INT_290"
+    },
+    {
+      "numero": "57",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Thierry Dubois - Une faveur bien vaudoise ?! DIS.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/18_INT_162"
+    },
+    {
+      "numero": "58",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Christelle Luisier Brodard et consorts - Manifestations et frais de sécurité : un duo à questionner DIS.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/19_INT_316"
+    },
+    {
+      "numero": "59",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Arnaud Bouverat et consorts - Question de fonds : quelles mesures le Canton de Vaud est-il prêt à prendre pour renforcer la sécurité du convoyage de fonds ? DIS.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/19_INT_385"
+    },
+    {
+      "numero": "60",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Florence Bettschart-Narbel - Centre de Compétence Cyber : quelle plus-value pour les citoyens ? DIS.",
+      "categorie": null,
+      "resultat": "TRAITE",
+      "objet": "vd/19_INT_337"
+    },
+    {
+      "numero": "61",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Marc-Olivier Buffat et consorts - E la nave ne va plus... DIS.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/18_INT_175"
+    },
+    {
+      "numero": "62",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Cédric Weissert - Chauffards étrangers impunis dans leur pays. DTE.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/19_INT_300"
+    },
+    {
+      "numero": "63",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Valérie Schwaar - Remboursement du trop-perçu au SAN : un fonctionnement bimode ? DTE.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/19_INT_284"
+    },
+    {
+      "numero": "64",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Cédric Weissert - Automobilistes - La poule aux oeufs d'or ? DTE.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/19_INT_414"
+    },
+    {
+      "numero": "65",
+      "titre": "Pétition pour demander l'étude d'alternatives pour l'emplacement du bassin de rétention du Famolens.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/19_PET_028"
+    },
+    {
+      "numero": "66",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Olivier Epars - Hello POCAMA répondez, nous vous cherchons, ici la protection de la nature, hello POCAMA y a-t-il un pilote dans l'avion ? DTE.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/18_INT_230"
+    },
+    {
+      "numero": "67",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Raphaël Mahaim - JOJ et installations sportives : pour des procédures transparentes et démocratiques ! DTE.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/18_INT_224"
+    },
+    {
+      "numero": "68",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Jean Tschopp et consorts - Et si on arrêtait les frais face aux voyous qui défigurent nos communes ? DTE.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/19_INT_399"
+    },
+    {
+      "numero": "69",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Guy Gaudard et consorts - Récolte publique d'amiante : Quelles précautions vis-à-vis de la population ? DTE.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/18_POS_099"
+    },
+    {
+      "numero": "71",
+      "titre": "Motion Régis Courdesse et consorts au nom du groupe Vert'libéral - Constitution d'un fonds pour soutenir les investissements dans l'énergie solaire photovoltaïque. DTE, DFIRE .",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/19_MOT_103"
+    },
+    {
+      "numero": "72",
+      "titre": "Postulat Christian van Singer et consorts - Un canot de sauvetage à défaut d'un pont RPC : Adapter le soutien au photovoltaïque aux nouvelles dispositions fédérales. DTE.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/18_POS_043"
+    },
+    {
+      "numero": "73",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Philippe Grobéty et consorts - Enfin réaliser un palier hydroélectrique sur la partie vaudoise du Rhône.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": null
+    },
+    {
+      "numero": "74",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Vassilis Venizelos - Les Echatelards : quels impacts ? quels besoins ? DTE.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/18_INT_271"
+    },
+    {
+      "numero": "75",
+      "titre": "Pétition pour appliquer la décision du Grand Conseil vaudois de 2007 et sauver les chalets de la rive sud du lac de Neuchâtel.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/18_PET_024"
+    },
+    {
+      "numero": "76",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Yvan Pahud - Parc naturel périurbain du Jorat ou comment se priver d'une ressource locale et dépenser inutilement l'argent du contribuable ? DTE.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/19_INT_345"
+    },
+    {
+      "numero": "77",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Pierre-François Mottier et consorts - Promenons-nous dans les bois pendant que loup n'y est pas. DTE.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/18_INT_260"
+    },
+    {
+      "numero": "78",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Florence Gross et consorts - Application du Plan de gestion du sanglier 2017 - 2021 : quand le sanglier pullule, le Conseil d'Etat sur-régule ! DTE.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/19_INT_349"
+    },
+    {
+      "numero": "79",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Philippe Cornamusaz et consorts - Pêcheurs professionnels en difficulté. DTE.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/19_INT_369"
+    },
+    {
+      "numero": "80",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Vassilis Venizelos - Le printemps sera-t-il silencieux ? DTE.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/18_INT_156"
+    },
+    {
+      "numero": "81",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit additionnel de CHF 2'050'000 au crédit-cadre de CHF 5'000'000 accordé par le Grand Conseil le 12 mai 2015 afin de financer une aide aux communes pour la révision de leurs plans d'affectation en relation avec le Plan directeur cantonal et les mesures transitoires de la Loi fédéral  sur l'aménagement du territoire. (1er débat)",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": null
+    },
+    {
+      "numero": "82",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat de la Commission de gestion suite au refus de la seconde réponse à la 2e observation présentée dans le cadre du Département du territoire et de l'environnement (DTE) « Du matériel d'analyses en adéquation avec les nouveaux besoins ».",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": null
+    },
+    {
+      "numero": "83",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Jérôme Christen et consorts - Quelles mesures pour sauver le travail de réinsertion sociale du berger Grillon ? DTE.",
+      "categorie": null,
+      "resultat": "RENV-T",
+      "objet": "vd/18_INT_213"
+    }
+  ]
+}

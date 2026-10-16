@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221580,
+  "numero": "09_INT_196",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2009-09-15"
+  },
+  "depose": "2009-03-10",
+  "titre": "Les restrictions de salage sur les routes secondaires et les conséquences pour les usagers",
+  "contributeurs": [
+    {
+      "nom": "Ginette Duvoisin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Ginette Duvoisin",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-03-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-03-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2009-09-15",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_196_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_10_mars_2009/09_INT_196.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-15-septembre-2009/reponse-du-conseil-detat-a-linterpellation-ginette-duvoisin",
+  "communes": [
+    {
+      "ofs": 5402,
+      "origine": "document"
+    }
+  ]
+}

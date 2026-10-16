@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225563,
+  "numero": "21_HQU_89",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2021-10-12"
+  },
+  "depose": "2021-10-05",
+  "titre": "Enigme à la Pol Cant",
+  "contributeurs": [
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-10-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-10-12",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-10-12",
+      "lien": "https://www.sonomix.ch/live/gcvd/1943#346"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1aa9c526-4980-4ef3-921b-c11b23758a09/meeting/1004409",
+  "communes": []
+}

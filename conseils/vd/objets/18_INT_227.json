@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224312,
+  "numero": "18_INT_227",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-02-04"
+  },
+  "depose": "2018-08-28",
+  "titre": "Pour que le papier ne cache pas la forêt",
+  "contributeurs": [
+    {
+      "nom": "Felix Stürner",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-08-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-02-04",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_227_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-09-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_227_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-4-fevrier-2020/reponse-du-conseil-detat-a-linterpellation-felix-stuerner-pour-que-le-papier-ne-cache-pas-la-foret",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

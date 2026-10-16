@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227337,
+  "numero": "23_QUE_44",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-02-28"
+  },
+  "depose": "2023-09-12",
+  "titre": "Perte fiscale de l'impôt sur le revenu suite au départ du Canton de contribuables riches à la retraite",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-09-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-02-28",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Départs du canton de contribuables aisés de 65 ans et plus",
+      "date": "2024-02-28",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2224466"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a4c9bc20-c3c9-4985-a676-cc334dc7ae3f/meeting/1019539",
+  "communes": []
+}

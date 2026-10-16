@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224289,
+  "numero": "18_INT_204",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-12-18"
+  },
+  "depose": "2018-06-19",
+  "titre": "Au nom du groupe socialiste- Y a-t-il un concours entre les CFF et La Poste pour savoir qui fermera le plus grand nombre de points de vente ?",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Montangero",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Stéphane Montangero",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-06-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-06-26",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-12-18",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-12-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_204_TexteCE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-06-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_204_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-18-decembre-2018/reponse-du-conseil-detat-a-linterpellation-stephane-montangero-et-consorts-au-nom-du-groupe-socialiste-y-a-t-il-un-concours-entre-les-cff-et-la-poste-pour-savoir-qui-fermera-le-plus-grand-nombre-de-points-de-vente",
+  "communes": [
+    {
+      "ofs": 5805,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5765,
+  "objets": [
+    {
+      "cle": "vd/14_MOT_052",
+      "numero": "14_MOT_052",
+      "type": "Motion",
+      "depose": "2014-06-24",
+      "titre": "Réguler le lynx avec efficacité et célérité",
+      "auteurs": [
+        {
+          "nom": "Alexandre Rydlo",
+          "parti": null
+        },
+        {
+          "nom": "Albert Chapalay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2015-01-06"
+      },
+      "derniere_etape": "2015-01-06",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5765,
+          "origine": "document"
+        },
+        {
+          "ofs": 5854,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_251",
+      "numero": "14_INT_251",
+      "type": "Interpellation",
+      "depose": "2014-04-29",
+      "titre": "Informatique à l'école : fracture ou révolution numérique ?",
+      "auteurs": [
+        {
+          "nom": "Alexandre Rydlo",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Alexandre Rydlo",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-11-11"
+      },
+      "derniere_etape": "2014-11-11",
+      "communes": [
+        {
+          "ofs": 5765,
+          "origine": "document"
+        },
+        {
+          "ofs": 5914,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_MOT_140",
+      "numero": "11_MOT_140",
+      "type": "Motion",
+      "depose": "2011-08-30",
+      "titre": "L'installation sur sol vaudois de parcs éoliens",
+      "auteurs": [
+        {
+          "nom": "Michel Renaud",
+          "parti": null
+        },
+        {
+          "nom": "Michel Renaud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2012-05-01"
+      },
+      "derniere_etape": "2012-05-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5765,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5425,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5537,
+          "origine": "document"
+        },
+        {
+          "ofs": 5929,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_MOT_119",
+      "numero": "10_MOT_119",
+      "type": "Motion",
+      "depose": "2010-11-30",
+      "titre": "Assainissement du sol des installations de tir",
+      "auteurs": [
+        {
+          "nom": "Philippe Jobin",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2011-08-30"
+      },
+      "derniere_etape": "2011-08-30",
+      "communes": [
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5458,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5523,
+          "origine": "document"
+        },
+        {
+          "ofs": 5765,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

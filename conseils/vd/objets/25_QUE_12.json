@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228328,
+  "numero": "25_QUE_12",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-05-21"
+  },
+  "depose": "2025-02-25",
+  "titre": "Meute du Mont-Tendre, le retour",
+  "contributeurs": [
+    {
+      "nom": "Anne-Lise Rime",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-02-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-05-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-05-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Bilan de la régulation 2024-2025 de la meute du Mont Tendre",
+      "date": "2025-05-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2303096"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/39337194-dddb-4f37-b6fb-3c69f28a159d/meeting/1026879",
+  "communes": [
+    {
+      "ofs": 5425,
+      "origine": "document"
+    }
+  ]
+}

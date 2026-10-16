@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222479,
+  "numero": "11_MOT_155",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2012-08-28"
+  },
+  "depose": "2012-01-10",
+  "titre": "Au nom du comité du Groupe agricole du Grand Conseil pour une cohabitation harmonieuse entre agriculture et faune sauvage",
+  "contributeurs": [
+    {
+      "nom": "Michel Collet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Michel Collet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-01-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-01-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-08-28",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-08-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_155_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2012-08-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_155_Objet_et_d%C3%A9v.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-01-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_155_D%C3%A9p%C3%B4t_01.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-28-aout-2012/motion-jose-durussel-et-consorts-au-nom-du-comite-du-groupe-agricole-du-grand-conseil-pour-une-cohabitation-harmonieuse-entre-agriculture-et-faune-sauvage",
+  "communes": [
+    {
+      "ofs": 5456,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

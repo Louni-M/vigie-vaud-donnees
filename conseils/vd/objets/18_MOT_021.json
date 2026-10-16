@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224415,
+  "numero": "18_MOT_021",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2019-05-28"
+  },
+  "depose": "2018-02-27",
+  "titre": "Pour une taxe raisonnable et concurrentielle",
+  "contributeurs": [
+    {
+      "nom": "Valérie Schwaar",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Valérie Schwaar",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-02-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-03-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-05-28",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-05-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_021_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-05-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_021_obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-03-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_021_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-28-mai-2019/motion-pierre-volet-et-consorts-pour-une-taxe-raisonnable-et-concurrentielle",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

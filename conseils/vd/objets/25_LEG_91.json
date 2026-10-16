@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 327195,
+  "numero": "25_LEG_91",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2026-04-28"
+  },
+  "depose": "2026-04-21",
+  "titre": "Exposé des motifs",
+  "contributeurs": [
+    {
+      "nom": "Pierre-Alain Favrod",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-04-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-04-21",
+      "libelle": "Behandelt vom Parlament"
+    },
+    {
+      "date": "2026-04-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-04-28",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d0636b18-5611-4c29-936b-f4bb126a7a28/meeting/1029677",
+  "communes": []
+}

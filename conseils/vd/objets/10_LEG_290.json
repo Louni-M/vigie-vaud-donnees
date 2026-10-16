@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222021,
+  "numero": "10_LEG_290",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-06-22"
+  },
+  "depose": "2010-06-15",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 6'359'000.- pour la mise en oeuvre de l'étape 1 du socle de la cyberadministration et du guichet électronique",
+  "contributeurs": [
+    {
+      "nom": "Jacques Ansermet",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jacques Ansermet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-06-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-06-22",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-06-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/290_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-06-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/290_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 22.06.10",
+      "date": "2010-06-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/290_Decret.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-22-juin-2010/expose-des-motifs-et-projet-de-decret-mise-en-oeuvre-de-letape-1-du-socle-de-la-cyberadministration-et-du-guichet-electronique",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

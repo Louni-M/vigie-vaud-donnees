@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222914,
+  "numero": "13_INT_169",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-02-17"
+  },
+  "depose": "2013-10-29",
+  "titre": "Sécurité des sites et monuments historiques, attention danger, on ferme !",
+  "contributeurs": [
+    {
+      "nom": "José Durussel",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-10-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-10-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-02-17",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-01-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_169_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-10-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_169_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-17-fevrier-2015/reponse-du-conseil-detat-a-linterpellation-jose-durussel-securite-des-sites-et-monuments-historiques-attention-danger-on-ferme",
+  "communes": [
+    {
+      "ofs": 5921,
+      "origine": "document"
+    },
+    {
+      "ofs": 5908,
+      "origine": "document"
+    }
+  ]
+}

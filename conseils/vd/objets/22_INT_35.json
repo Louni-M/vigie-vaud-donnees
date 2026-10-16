@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226339,
+  "numero": "22_INT_35",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-09-21"
+  },
+  "depose": "2022-03-01",
+  "titre": "La route cantonale entre Pampigny et Apples est-elle à l'abandon?",
+  "contributeurs": [
+    {
+      "nom": "Sylvain Freymond",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-03-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-03-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-09-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-03-08",
+      "lien": "https://www.sonomix.ch/live/gcvd/2066#1418"
+    },
+    {
+      "titre": "Route cantonale Pampigny – Apples",
+      "date": "2022-09-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2135609"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e6061a5b-300c-4530-9bbc-57ea949f716b/meeting/1013632",
+  "communes": [
+    {
+      "ofs": 5656,
+      "origine": "titre"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221678,
+  "numero": "09_INT_321",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-12-14"
+  },
+  "depose": "2010-01-12",
+  "titre": "Les étrangers élus au niveau communal et demandant si ce sont des citoyens de 2e catégorie",
+  "contributeurs": [
+    {
+      "nom": "Florence Golaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Florence Golaz",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-01-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-01-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-12-14",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-05-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_321_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_321_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seances-des-14-et-15-decembre-2010/reponse-du-conseil-detat-a-linterpellation-florence-golaz-les-etrangers-elus-au-niveau-communal-sont-ils-des-citoyens-de-2e-categorie",
+  "communes": []
+}

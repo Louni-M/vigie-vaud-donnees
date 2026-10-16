@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223379,
+  "numero": "14_RAP_114",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-05-20"
+  },
+  "depose": "2014-05-20",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Grégory Devaud et consorts - Le suicide des jeunes, quelle prévention dans notre canton ?",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-05-20",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-05-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/114_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-05-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/114_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-17-juin-2014/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-gregory-devaud-et-consorts-le-suicide-des-jeunes-quelle-prevention-dans-notre-canton",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5884,
+      "origine": "document"
+    }
+  ]
+}

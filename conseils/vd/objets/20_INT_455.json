@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225168,
+  "numero": "20_INT_455",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2020-03-03"
+  },
+  "depose": "2020-02-25",
+  "titre": "Le Malley fait... CA va le puck ou bien ?",
+  "contributeurs": [
+    {
+      "nom": "Sergei Aschwanden",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-02-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-03-03",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_455_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-05-18",
+      "lien": "https://www.sonomix.ch/live/gcvd/1829#4193"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/02a7ce50-bd50-46b8-992f-d1a52dcc57fa/meeting/1000560",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

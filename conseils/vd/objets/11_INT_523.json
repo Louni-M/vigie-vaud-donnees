@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222252,
+  "numero": "11_INT_523",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-01-10"
+  },
+  "depose": "2011-06-28",
+  "titre": "Le noeud ferroviaire et de bus de Palézieux est-il menacé ?",
+  "contributeurs": [
+    {
+      "nom": "Jean Christophe Schwaab",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean Christophe Schwaab",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-06-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-06-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-01-10",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-01-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_523_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-06-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_523_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-10-janvier-2012/reponse-du-conseil-detat-a-linterpellation-jean-christophe-schwaab-noeud-ferroviaire-de-palezieux",
+  "communes": [
+    {
+      "ofs": 5805,
+      "origine": "titre"
+    }
+  ]
+}

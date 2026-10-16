@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228548,
+  "numero": "09_INT_209",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2009-10-27"
+  },
+  "depose": "2009-10-06",
+  "titre": "Les réponses divergentes entre le Département des Infrastructures et la Confédération au sujet de la jonction d'Ecublens",
+  "contributeurs": [
+    {
+      "nom": "Claudine Wyssa",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claudine Wyssa",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-10-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-10-27",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-10-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_209_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-27-octobre-2009/reponse-du-conseil-detat-a-linterpellation-claudine-wyssa",
+  "communes": [
+    {
+      "ofs": 5635,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5651,
+      "origine": "document"
+    },
+    {
+      "ofs": 5621,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5712,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    }
+  ]
+}

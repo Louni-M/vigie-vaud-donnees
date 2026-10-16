@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 289524,
+  "numero": "Q26/002",
+  "type": "Question écrite",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2026-03-03"
+  },
+  "depose": "2026-01-13",
+  "titre": "Des conséquences concrètes de la longueur des noms de rue",
+  "contributeurs": [
+    {
+      "nom": "Jacques-Etienne Rastorfer",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-01-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-01-13",
+      "libelle": "Décision : Renvoi en Municipalité"
+    },
+    {
+      "date": "2026-02-13",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2026-03-03",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Réponse à la question signée",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/68/68a9380f09bb4412bc275f4478565714.pdf"
+    },
+    {
+      "titre": "QE_Rastorfer_noms de rues",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/e7/e7733c616d554b2f9a2d2bde28b59568.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/b3/a00fff90c7384636a4ac9460efe6b6b3.htm",
+  "communes": []
+}

@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224307,
+  "numero": "18_INT_222",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-08-27"
+  },
+  "depose": "2018-08-28",
+  "titre": "Citernes d'ailleurs pour l'eau de là",
+  "contributeurs": [
+    {
+      "nom": "Carole Dubois",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Carole Dubois",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-08-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-01-23",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2019-08-27",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-05-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_222_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-09-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_222_depot.pdf"
+    },
+    {
+      "titre": "Livraison d'eau sur les pâturages vaudois du Jura et des Alpes",
+      "date": "2019-01-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=360906"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-27-aout-2019/reponse-du-conseil-detat-a-linterpellation-carole-dubois-et-consorts-citernes-dailleurs-pour-leau-de-la",
+  "communes": [
+    {
+      "ofs": 5484,
+      "origine": "document"
+    }
+  ]
+}

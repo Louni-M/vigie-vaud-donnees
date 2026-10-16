@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222484,
+  "numero": "11_MOT_160",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2012-09-11"
+  },
+  "depose": "2012-03-06",
+  "titre": "Pour des allègements fiscaux mieux contrôlés et plus transparents (en faveur des entreprises dans les zones économiques en redéploiement)",
+  "contributeurs": [
+    {
+      "nom": "Rémy Jaquier",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Rémy Jaquier",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Mattenberger",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-03-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-09-11",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet et développement",
+      "date": "2012-06-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_160_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-03-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_160_D%C3%A9p%C3%B4t.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2012-06-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_159_160_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2012-06-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_159_160_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-11-septembre-2012/motion-alessandra-silauri-pour-des-allegements-fiscaux-mieux-controles-et-plus-transparents",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

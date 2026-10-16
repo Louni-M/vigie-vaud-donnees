@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223446,
+  "numero": "15_INT_362",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-11-10"
+  },
+  "depose": "2015-03-24",
+  "titre": "Mettons fin à la discrimination des hygiénistes dentaires vaudois-es !",
+  "contributeurs": [
+    {
+      "nom": "François Brélaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "François Brélaz",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-03-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-03-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-11-10",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-09-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_362_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-03-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_362_Depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-10-novembre-2015/reponse-du-conseil-detat-a-linterpellation-francois-brelaz-mettons-fin-a-la-discrimination-des-hygienistes-dentaires-vaudois-es",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

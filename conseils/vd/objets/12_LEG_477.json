@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222738,
+  "numero": "12_LEG_477",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-08-28"
+  },
+  "depose": "2012-08-28",
+  "titre": "Exposé des motifs et projet de lois modifiant:- la loi sur la gestion des déchets,- la loi sur l'assainissement des sites pollués,- la loi sur la protection des eaux contre la pollution,- la loi sur la police des eaux dépendant du domaine public",
+  "contributeurs": [
+    {
+      "nom": "Florence Golaz",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-08-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-08-28",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-08-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/477_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-08-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/477_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-28-aout-2012/expose-des-motifs-et-projet-de-lois-modifiant-la-loi-sur-la-gestion-des-dechets-la-loi-sur-lassainissement-des-sites-pollues-la-loi-sur-la-protection-des-eaux-contre-la-pollution-la-loi-sur-la-police-des-eaux-dependant-du-domaine-public",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

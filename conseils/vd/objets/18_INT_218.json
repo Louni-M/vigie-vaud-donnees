@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224303,
+  "numero": "18_INT_218",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-09-11"
+  },
+  "depose": "2018-08-28",
+  "titre": "Pour que la collection Baud ne suive pas le triste chemin de celle de Reuge. L'Etat peut-il soutenir Sainte-Croix ?",
+  "contributeurs": [
+    {
+      "nom": "Vincent Keller",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-08-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-09-11",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2018-09-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_218_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2020-11-03",
+      "lien": "https://www.sonomix.ch/live/gcvd/1612#7106"
+    },
+    {
+      "titre": "Achat de la Collection Baud par la fondation du Centre international de la mécanique d'art (CIMA)",
+      "date": "2019-09-11",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2009362"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/297e5c07-728d-42ba-adab-b7593b9b5bf1/meeting/1000533",
+  "communes": [
+    {
+      "ofs": 5568,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5712,
+      "origine": "document"
+    }
+  ]
+}

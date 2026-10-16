@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 296041,
+  "numero": "26_INT_18",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traktandiert",
+    "date": "2026-03-03"
+  },
+  "depose": "2026-02-24",
+  "titre": "Bouclier d'Achille, version Pascal Broulis dans Le Matin du 22.2.2026",
+  "contributeurs": [
+    {
+      "nom": "Didier Lohri",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-02-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-02-24",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-03-03",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "sur le site que l’État consacre au bouclier fiscal",
+      "date": "2026-03-03",
+      "lien": "https://www.vd.ch/dfts/dgf/administration-cantonale-des-impots/bouclier-fiscal"
+    },
+    {
+      "titre": "depuis 2011",
+      "date": "2026-02-24",
+      "lien": "https://www.24heures.ch/bouclier-fiscal-le-fisc-savait-depuis-2011-et-na-rien-fait-380880846028"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/7dfef70c-7ae2-410f-a608-b5e33f355d42/meeting/1029658",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

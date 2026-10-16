@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222614,
+  "numero": "12_INT_005",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-04-08"
+  },
+  "depose": "2012-08-28",
+  "titre": "Qui du canton ou de l'utilisateur des transports publics va passer à la caisse?",
+  "contributeurs": [
+    {
+      "nom": "Claude-Alain Voiblet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claude-Alain Voiblet",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-08-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-08-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-04-08",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-03-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_005_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-08-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_005_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-8-avril-2014/reponse-du-conseil-detat-a-linterpellation-claude-alain-voiblet-qui-du-canton-ou-de-lutilisateur-des-transports-publics-va-passer-a-la-caisse",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

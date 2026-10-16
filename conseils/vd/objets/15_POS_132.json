@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223669,
+  "numero": "15_POS_132",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2024-07-03"
+  },
+  "depose": "2015-08-25",
+  "titre": "Les Archives cantonales vaudoises, mémoire de notre Canton, quid des archives audiovisuelles ?",
+  "contributeurs": [
+    {
+      "nom": "Fabienne Despot",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Fabienne Despot",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-08-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-09-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-03-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-07-03",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-03-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_132_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-03-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_132_Obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-09-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_132_Depot.pdf"
+    },
+    {
+      "titre": "Archives audiovisuelles",
+      "date": "2024-07-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2252999"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-8-mars-2016/postulat-fabienne-freymond-cantone-et-consorts-les-archives-cantonales-vaudoises-memoire-de-notre-canton-quid-des-archives-audiovisuelles",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

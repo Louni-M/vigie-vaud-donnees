@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224902,
+  "numero": "19_MOT_101",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-01-14"
+  },
+  "depose": "2019-06-25",
+  "titre": "Taxe automobile : stop à la taxation de la mobilité réduite !",
+  "contributeurs": [
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-06-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-07-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-01-14",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-01-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_101_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-01-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_101_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-07-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_101_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-14-janvier-2020/motion-arnaud-bouverat-et-consorts-taxe-automobile-stop-a-la-taxation-de-la-mobilite-reduite",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

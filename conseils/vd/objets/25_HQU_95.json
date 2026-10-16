@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 250337,
+  "numero": "25_HQU_95",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2025-09-09"
+  },
+  "depose": "2025-09-02",
+  "titre": "Journée internationale de prévention du suicide, le Canton publie-t-il des statistiques selon le sexe ?",
+  "contributeurs": [
+    {
+      "nom": "Laurent Miéville",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-09-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-09-02",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Erledigt"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Pensées et comportements suicidaires",
+      "date": "2025-09-09",
+      "lien": "https://www.obsan.admin.ch/fr/publications/2024-pensees-et-comportements-suicidaires"
+    },
+    {
+      "titre": "Suicide selon l'âge et le sexe",
+      "date": "2025-09-09",
+      "lien": "https://www.bfs.admin.ch/asset/fr/27925055"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/7271e22e-6cf8-4e25-9c1a-346cccee3359/meeting/1029635",
+  "communes": []
+}

@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223182,
+  "numero": "14_INT_269",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-10-28"
+  },
+  "depose": "2014-06-24",
+  "titre": "La non-application de la loi sur le marchepied le long des lacs et sur les plans riverains (LML)",
+  "contributeurs": [
+    {
+      "nom": "Jean-Michel Favez",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Michel Favez",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-06-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-06-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-10-28",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-10-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_269_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-06-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_269_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-28-octobre-2014/reponse-du-conseil-detat-a-linterpellation-jean-michel-favez-et-consort-sur-la-non-application-de-la-loi-sur-le-marchepied-le-long-des-lacs-et-sur-les-plans-riverains-lml",
+  "communes": [
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5889,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 280130,
+  "numero": "25_HQU_117",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2025-11-11"
+  },
+  "depose": "2025-11-04",
+  "titre": "EVAM - Des mesures d'économie pour les plus précaires",
+  "contributeurs": [
+    {
+      "nom": "Théophile Schenker",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-11-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-11-04",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-11-11",
+      "libelle": "Erledigt"
+    },
+    {
+      "date": "2025-11-11",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/057362c8-9739-49fb-ad61-d8b5550bc10d/meeting/1029642",
+  "communes": []
+}

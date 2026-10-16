@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5933,
+  "objets": [
+    {
+      "cle": "vd/18_INT_271",
+      "numero": "18_INT_271",
+      "type": "Interpellation",
+      "depose": "2018-12-18",
+      "titre": "Les Echatelards : quels impacts ? quels besoins ?",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-11-13"
+      },
+      "derniere_etape": "2019-11-13",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5933,
+          "origine": "document"
+        },
+        {
+          "ofs": 5747,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_PET_023",
+      "numero": "08_PET_023",
+      "type": "Pétition",
+      "depose": "2009-05-26",
+      "titre": "Pétition contre l'implantation d'une décharge contrôlée bioactive sur la Commune de Mathod au lieu dit Vigny",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2009-05-26"
+      },
+      "derniere_etape": "2009-05-26",
+      "communes": [
+        {
+          "ofs": 5919,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5933,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

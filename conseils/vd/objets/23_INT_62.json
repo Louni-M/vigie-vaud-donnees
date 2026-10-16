@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227094,
+  "numero": "23_INT_62",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-09-13"
+  },
+  "depose": "2023-04-04",
+  "titre": "Pour une nouvelle salle de gymnastique à Burier… conformément à ce qui a été voté !",
+  "contributeurs": [
+    {
+      "nom": "Vincent Bonvin",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-04-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-04-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-09-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-05-07",
+      "lien": "https://www.sonomix.ch/live/gcvd/2820#3092"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-04-25",
+      "lien": "https://www.sonomix.ch/live/gcvd/2368#464"
+    },
+    {
+      "titre": "Nouvelle salle de gymnastique à Burier",
+      "date": "2023-09-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2195902"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/eaf3d39b-8005-4a52-8bdf-3510c31ad87c/meeting/1019568",
+  "communes": [
+    {
+      "ofs": 5889,
+      "origine": "document"
+    },
+    {
+      "ofs": 5892,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

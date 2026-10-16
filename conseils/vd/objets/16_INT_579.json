@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223830,
+  "numero": "16_INT_579",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-11-20"
+  },
+  "depose": "2016-09-27",
+  "titre": "Mesures de contrainte et intimidation à l'encontre de requérant-e-s d'asile et depersonnes solidaires : le gouvernement sort-il ses griffes ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Michel Dolivo",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Michel Dolivo",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-09-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-10-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-11-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_579_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-09-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_579_depot.PDF"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2018-11-13",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-13-novembre-2018"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-20-novembre-2018/reponse-du-conseil-detat-a-linterpellation-jean-michel-dolivo-et-consorts-mesures-de-contrainte-et-intimidation-a-lencontre-de-requerant-e-s-dasile-et-de-personnes-solidaires-le-gouvernement-sort-il-ses-griffes",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5408,
+      "origine": "document"
+    }
+  ]
+}

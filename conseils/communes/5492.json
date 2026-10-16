@@ -1,0 +1,380 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5492,
+  "objets": [
+    {
+      "cle": "vd/23_INT_87",
+      "numero": "23_INT_87",
+      "type": "Interpellation",
+      "depose": "2023-05-23",
+      "titre": "Promenons-nous dans les bois…. !?",
+      "auteurs": [
+        {
+          "nom": "John Desmeules",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-09-20"
+      },
+      "derniere_etape": "2023-09-20",
+      "communes": [
+        {
+          "ofs": 5492,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_114",
+      "numero": "21_INT_114",
+      "type": "Interpellation",
+      "depose": "2021-09-14",
+      "titre": "Que se passe-t-il du côté de l’aéroport de la Blécherette ?",
+      "auteurs": [
+        {
+          "nom": "Alice Genoud",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-01-19"
+      },
+      "derniere_etape": "2022-01-19",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5492,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_186",
+      "numero": "20_LEG_186",
+      "type": "Décret/Loi",
+      "depose": "2020-05-26",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit de CHF 1'430'800.- pour le Projet de développement régional agricole « Filière Noix de la Broye et du Pied du Jura »",
+      "auteurs": [
+        {
+          "nom": "Hugues Gander",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Hugues Gander",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-06-09"
+      },
+      "derniere_etape": "2020-06-09",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5492,
+          "origine": "document"
+        },
+        {
+          "ofs": 5674,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_155",
+      "numero": "19_LEG_155",
+      "type": "Décret/Loi",
+      "depose": "2019-12-17",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit-cadre de CHF 24 millions pour financer les subventions cantonales en faveur d'entreprises d'améliorations foncières agricoles pour les années 2019 à 2021",
+      "auteurs": [
+        {
+          "nom": "Hugues Gander",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Hugues Gander",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-12-17"
+      },
+      "derniere_etape": "2019-12-17",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5492,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_186",
+      "numero": "19_LEG_186",
+      "type": "Décret/Loi",
+      "depose": "2019-11-27",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit de CHF 1'430'800.- pour le Projet de développement régional agricole « Filière Noix de la Broye et du Pied du Jura »",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2019-11-27"
+      },
+      "derniere_etape": "2019-11-27",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5674,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5492,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_LEG_22",
+      "numero": "18_LEG_22",
+      "type": "Décret/Loi",
+      "depose": "2018-03-13",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 20 millions pour financer les subventions cantonales en faveur d'entreprises d'améliorations foncières agricoles pour les années 2017 à 2019",
+      "auteurs": [
+        {
+          "nom": "Alexandre Démétriadès",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Alexandre Démétriadès",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2018-03-13"
+      },
+      "derniere_etape": "2018-03-13",
+      "communes": [
+        {
+          "ofs": 5492,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_LEG_20",
+      "numero": "13_LEG_20",
+      "type": "Décret/Loi",
+      "depose": "2013-05-14",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 1'400'000.- pour le projet de développement régional agricole (PDRA) de valorisation des produits du Pied du Jura / Montricher et région",
+      "auteurs": [
+        {
+          "nom": "Catherine Aellen",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Catherine Aellen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-05-21"
+      },
+      "derniere_etape": "2013-05-21",
+      "communes": [
+        {
+          "ofs": 5492,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_POS_274",
+      "numero": "11_POS_274",
+      "type": "Postulat",
+      "depose": "2011-12-13",
+      "titre": "Demandant la mise à l'étude d'un plan pour la gestion de l'eau durant les périodes de sécheresse",
+      "auteurs": [
+        {
+          "nom": "Anne Décosterd",
+          "parti": "VER"
+        },
+        {
+          "nom": "Anne Décosterd",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2012-08-28"
+      },
+      "derniere_etape": "2012-08-28",
+      "communes": [
+        {
+          "ofs": 5492,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_391",
+      "numero": "12_LEG_391",
+      "type": "Décret/Loi",
+      "depose": "2012-03-06",
+      "titre": "Exposé des motifs et projet de loi forestière",
+      "auteurs": [
+        {
+          "nom": "Jacques Nicolet",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Jean-Yves Pidoux",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-05-08"
+      },
+      "derniere_etape": "2012-05-08",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        },
+        {
+          "ofs": 5492,
+          "origine": "document"
+        },
+        {
+          "ofs": 5648,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_197",
+      "numero": "09_INT_197",
+      "type": "Interpellation",
+      "depose": "2009-03-10",
+      "titre": "Un Français comme surveillant permanent de la faune",
+      "auteurs": [
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-03-02"
+      },
+      "derniere_etape": "2010-03-02",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5492,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

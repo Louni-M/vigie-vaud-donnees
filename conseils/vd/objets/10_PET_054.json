@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222095,
+  "numero": "10_PET_054",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2011-01-18"
+  },
+  "depose": "2011-01-11",
+  "titre": "Pétition demandant de surseoir aux renvois des familles R. Hailat et J. Assefa",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2011-01-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-01-18",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-01-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_PET_054_RC.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2011-01-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_PET_054_Depot_new.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-18-janvier-2011/petition-demandant-de-surseoir-aux-renvois-des-familles-r-hailat-et-j-assefa",
+  "communes": [
+    {
+      "ofs": 5407,
+      "origine": "document"
+    }
+  ]
+}

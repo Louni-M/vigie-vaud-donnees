@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221811,
+  "numero": "10_INT_324",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-09-28"
+  },
+  "depose": "2010-01-19",
+  "titre": "Interrogeant si Lausanne verra le bout du tunnel",
+  "contributeurs": [
+    {
+      "nom": "Valérie Schwaar",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Valérie Schwaar",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-01-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-01-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-09-28",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-06-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_324_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-01-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_324_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-28-septembre-2010/reponse-du-conseil-detat-a-linterpellation-valerie-schwaar-lausanne-verra-t-elle-le-bout-du-tunnel",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

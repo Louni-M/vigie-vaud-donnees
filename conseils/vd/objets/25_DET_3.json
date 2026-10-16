@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228040,
+  "numero": "25_DET_3",
+  "type": "Détermination",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-04-30"
+  },
+  "depose": "2025-02-04",
+  "titre": "Sur la une débâcle catastrophique",
+  "contributeurs": [
+    {
+      "nom": "Yann Glayre",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-02-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-04-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-04-30",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Financement de la rénovation du bateau \"Simplon\"",
+      "date": "2025-04-30",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2300170"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/68d8f2a5-d255-4506-a129-01482fb15eed/meeting/1026877",
+  "communes": []
+}

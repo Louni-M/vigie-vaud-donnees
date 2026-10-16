@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222735,
+  "numero": "12_LEG_473",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-05-01"
+  },
+  "depose": "2012-05-01",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 1'951'000.- pour financer les travaux de réaménagement et d'assainissement de la route cantonale 401b au droit de la halte LEB Vernand - Camarès sur le territoire des communes de Romanel-sur-Lausanne et de Lausanne etRéponses du Conseil d'Etat aux interpellations Jean-François Cachin - Suppression des passages à niveau, du réaménagement du quai voyageur de la halte de Vernand-Camarès et de la RC 401 B",
+  "contributeurs": [
+    {
+      "nom": "Valérie Schwaar",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Valérie Schwaar",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-05-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-05-01",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/473_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/473_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-1er-mai-2012/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-de-chf-1951000-pour-financer-les-travaux-de-reamenagement-de-la-route-cantonale-401b",
+  "communes": [
+    {
+      "ofs": 5592,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5582,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    }
+  ]
+}

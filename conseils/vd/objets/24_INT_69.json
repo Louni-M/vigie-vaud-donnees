@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227713,
+  "numero": "24_INT_69",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2025-02-04"
+  },
+  "depose": "2024-04-16",
+  "titre": "Un sauvetage historique pour une débâcle catastrophique",
+  "contributeurs": [
+    {
+      "nom": "Yann Glayre",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-04-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-04-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-01-15",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-02-04",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-04-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/2809#694"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-02-04",
+      "lien": "https://www.sonomix.ch/live/gcvd/3018#1917"
+    },
+    {
+      "titre": "Incident impliquant le bateau Simplon",
+      "date": "2025-01-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2281786"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/169045e8-874e-4455-bafe-5afbea21f184/meeting/1026877",
+  "communes": [
+    {
+      "ofs": 5613,
+      "origine": "document"
+    }
+  ]
+}

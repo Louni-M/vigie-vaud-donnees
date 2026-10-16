@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221619,
+  "numero": "09_INT_262",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2009-12-15"
+  },
+  "depose": "2009-06-30",
+  "titre": "Relative à la carrière des Bruyères",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2009-06-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-06-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2009-12-15",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-12-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_262_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-06-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_262_Depot_new.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seances-des-15-et-16-decembre-2009/reponse-du-conseil-detat-a-linterpellation-patrick-de-preux",
+  "communes": [
+    {
+      "ofs": 5636,
+      "origine": "document"
+    },
+    {
+      "ofs": 5623,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223331,
+  "numero": "14_MOT_055",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2015-03-03"
+  },
+  "depose": "2014-09-09",
+  "titre": "Modification du mode de perception de la participation des communes à la facture sociale",
+  "contributeurs": [
+    {
+      "nom": "Amélie Cherbuin",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Amélie Cherbuin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Amélie Cherbuin",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-09-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-09-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-03-03",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_055_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2015-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_055_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-09-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_055_D%C3%A9p%C3%B4t_01.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-3-mars-2015/motion-albert-chapalay-et-consorts-modification-du-mode-de-perception-de-la-participation-des-communes-a-la-facture-sociale",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

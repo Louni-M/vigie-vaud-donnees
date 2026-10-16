@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225349,
+  "numero": "20_PAR_8",
+  "type": "Recours de compétence",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-10-27"
+  },
+  "depose": "2020-10-27",
+  "titre": "Rapport/préavis du Bureau du Grand Conseil et prestation de serment de Mmes Cendrine Cachemaille et Sylvie Pittet Blanchette",
+  "contributeurs": [
+    {
+      "nom": "Laurence Cretegny",
+      "parti": "PLR",
+      "role": "Rapporteur(s)",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-10-27",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "20_PAR_8 Vérification des titres d'éligibilité",
+      "date": "2020-10-27",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2012474"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5bf65bd3-d9f4-41b7-a255-b233b5484e57/meeting/1000532",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5745,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

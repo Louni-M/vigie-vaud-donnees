@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225427,
+  "numero": "20_QUE_5",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2020-11-04"
+  },
+  "depose": "2020-09-22",
+  "titre": "Pourquoi l’administration cantonale, en particulier le Bureau d’information et de communication de l’Etat de Vaud, fait-elle un usage sporadique de la majuscule initiale lorsque référence est faite au Canton de Vaud ?",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Masson",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-09-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-11-04",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Règle concernant l'usage de la majuscule dans l'expression \"Canton de Vaud\"",
+      "date": "2020-11-04",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2016676"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/adff66e3-47e5-4473-b794-5d3b42153c8a/meeting/1000528",
+  "communes": []
+}

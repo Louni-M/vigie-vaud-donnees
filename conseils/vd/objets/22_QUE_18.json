@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226711,
+  "numero": "22_QUE_18",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-05-04"
+  },
+  "depose": "2022-03-29",
+  "titre": "Est-ce que le Canton désire vraiment aider les communes en matière de plans directeurs communaux ?",
+  "contributeurs": [
+    {
+      "nom": "Didier Lohri",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-03-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-05-04",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Procédure d'approbation des plans d’affectation communaux",
+      "date": "2022-05-04",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2114040"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/445fbaef-af73-43d1-8f18-c379b78a079a/meeting/1004433",
+  "communes": []
+}

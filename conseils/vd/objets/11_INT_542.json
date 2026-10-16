@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222272,
+  "numero": "11_INT_542",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-09-04"
+  },
+  "depose": "2011-10-04",
+  "titre": "Requérants d'asile à Gland, bis repetita !",
+  "contributeurs": [
+    {
+      "nom": "Gabriel Poncet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Gabriel Poncet",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-10-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-10-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-09-04",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-02-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_542_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-10-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_542_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-4-septembre-2012/reponse-du-conseil-detat-a-linterpellation-gabriel-poncet-requerants-dasile-a-gland-bis-repetita",
+  "communes": [
+    {
+      "ofs": 5721,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5853,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

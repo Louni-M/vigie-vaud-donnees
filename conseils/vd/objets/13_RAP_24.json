@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223081,
+  "numero": "13_RAP_24",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-03-05"
+  },
+  "depose": "2013-03-05",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Raphaël Mahaim et consorts - Pour que la complexité du système électoral ne soit pas un obstacle à la participation des électeurs !",
+  "contributeurs": [
+    {
+      "nom": "Laurent Ballif",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Laurent Ballif",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-03-05",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-03-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/24_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-03-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/24_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-26-mars-2013/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-raphael-mahaim-et-consorts-pour-que-la-complexite-du-systeme-electoral-ne-soit-pas-un-obstacle-a-la-participation-des-electeurs",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

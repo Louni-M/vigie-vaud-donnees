@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227020,
+  "numero": "23_INT_170",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-08-19"
+  },
+  "depose": "2023-11-14",
+  "titre": "Accès au portail sécurisé des prestations en ligne",
+  "contributeurs": [
+    {
+      "nom": "Julien Eggenberger",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-11-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-11-21",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-01-29",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-08-19",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-08-19",
+      "lien": "https://www.sonomix.ch/live/gcvd/3172#6383"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-11-21",
+      "lien": "https://www.sonomix.ch/live/gcvd/2649#562"
+    },
+    {
+      "titre": "Accès aux prestations en ligne",
+      "date": "2025-01-29",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2284356"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/232a73ff-46fe-469a-81bd-4b727231a24f/meeting/1029632",
+  "communes": [
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226176,
+  "numero": "22_HQU_45",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-05-10"
+  },
+  "depose": "2022-05-03",
+  "titre": "Fermeture de l'Office d'impôt d'Aigle : qu'en sera-t-il de la cybersécurité ?",
+  "contributeurs": [
+    {
+      "nom": "Dylan Karlen",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-05-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-05-10",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/fbbdf674-3be6-41d1-b49e-e9fe69ab0d85/meeting/1004435",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "titre"
+    }
+  ]
+}

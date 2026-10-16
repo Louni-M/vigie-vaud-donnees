@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222437,
+  "numero": "11_LEG_402",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-11-15"
+  },
+  "depose": "2011-10-11",
+  "titre": "EMPD accordant un crédit d'ouvrage de CHF 4'200'000 pour la restructuration des bâtiments, deuxième étape, de la Haute Ecole pédagogique du Canton de Vaud (HEP-VD) à Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Gabriel Poncet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Gabriel Poncet",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-10-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-15",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-10-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/402_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-10-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/402_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-15-novembre-2011/expose-des-motifs-et-projet-de-decret-accordant-un-credit-douvrage-de-chf-4200000-pour-la-restructuration-des-batiments-de-la-hep-vd-a-lausanne",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5464,
+      "origine": "document"
+    }
+  ]
+}

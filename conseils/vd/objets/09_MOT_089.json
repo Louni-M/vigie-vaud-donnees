@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221708,
+  "numero": "09_MOT_089",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-10-12"
+  },
+  "depose": "2010-01-12",
+  "titre": "Pour un fonds cantonal pour l'assainissement énergétique des bâtiments communaux",
+  "contributeurs": [
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jacques Nicolet",
+      "parti": "UDC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-01-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-01-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-10-12",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2010-10-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_089_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2010-10-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_089_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-10-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_089_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_089_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-12-octobre-2010/motion-valerie-schwaar-fonds-cantonal-pour-lassainissement-energetique-des-batiments-communaux",
+  "communes": [
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5422,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

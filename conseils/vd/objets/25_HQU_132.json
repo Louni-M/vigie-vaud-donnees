@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 296003,
+  "numero": "25_HQU_132",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2025-12-09"
+  },
+  "depose": "2025-12-02",
+  "titre": "Souveraineté numérique du Canton",
+  "contributeurs": [
+    {
+      "nom": "Aurélien Demaurex",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-12-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-12-09",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "F. Moscheni",
+      "date": "2025-12-02",
+      "lien": "https://www.vd.ch/gc/depute-e-s/detail-objet/objet/25_QUE_113/membre/624919"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/8f67eb5e-31de-4013-be4b-e043e6d07159/meeting/1029648",
+  "communes": []
+}

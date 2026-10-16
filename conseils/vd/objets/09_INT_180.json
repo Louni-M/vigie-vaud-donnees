@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221570,
+  "numero": "09_INT_180",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2009-02-03"
+  },
+  "depose": "2009-02-03",
+  "titre": "La fermeture de la nursery de Marcelin",
+  "contributeurs": [
+    {
+      "nom": "Nicole Jufer Tissot",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-02-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-02-03",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-03-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_180_221_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_3_fevrier_2009/09_INT_180_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-9-mars-2010/reponse-du-conseil-detat-aux-interpellations-nicole-jufer-tissot-et-nuria-gorrite",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

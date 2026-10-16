@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226233,
+  "numero": "22_INI_4",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2023-10-31"
+  },
+  "depose": "2022-09-27",
+  "titre": "« Redonnons un peu de marge aux effectifs de notre PCi »",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Montangero",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Rémy Chevalley",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jerome De Benedictis",
+      "parti": "V'L",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-09-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-10-31",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-10-31",
+      "lien": "https://www.sonomix.ch/live/gcvd/2625#5704"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-10-04",
+      "lien": "http://www.sonomix.ch/live/gcvd/2198#555"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/85a79789-8c59-44bd-8bb8-d86908efa785/meeting/1019544",
+  "communes": []
+}

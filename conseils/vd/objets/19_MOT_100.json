@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224901,
+  "numero": "19_MOT_100",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-02-04"
+  },
+  "depose": "2019-06-25",
+  "titre": "Pour pacifier les conflits entre rénovation énergétique et protection des monuments, il est temps d'édicter une directive !",
+  "contributeurs": [
+    {
+      "nom": "Guy Gaudard",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Guy Gaudard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-06-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-07-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-02-04",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_100_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_100_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-07-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_100_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-4-fevrier-2020/motion-francois-pointet-et-consorts-au-nom-du-groupe-vertliberal-pour-pacifier-les-conflits-entre-renovation-energetique-et-protection-des-monuments-il-est-temps-dedicter-une-directive",
+  "communes": [
+    {
+      "ofs": 5857,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

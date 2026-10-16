@@ -1,0 +1,534 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5495,
+  "objets": [
+    {
+      "cle": "vd/24_INT_37",
+      "numero": "24_INT_37",
+      "type": "Interpellation",
+      "depose": "2024-02-27",
+      "titre": "Il est urgent de repenser les urgences dans toutes les régions du canton",
+      "auteurs": [
+        {
+          "nom": "Aliette Rey-Marion",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-07-03"
+      },
+      "derniere_etape": "2024-07-03",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_140",
+      "numero": "23_INT_140",
+      "type": "Interpellation",
+      "depose": "2023-08-29",
+      "titre": "Gens du voyage étrangers, afflux massif",
+      "auteurs": [
+        {
+          "nom": "Stéphane Jordan",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-05-29"
+      },
+      "derniere_etape": "2024-05-29",
+      "communes": [
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_QUE_18",
+      "numero": "23_QUE_18",
+      "type": "Simple question",
+      "depose": "2023-04-04",
+      "titre": "Du rififi à Bussy-Chardonney autour du transport de céréales",
+      "auteurs": [
+        {
+          "nom": "Yannick Maury",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2023-05-24"
+      },
+      "derniere_etape": "2023-05-24",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_LEG_274",
+      "numero": "22_LEG_274",
+      "type": "Décret/Loi",
+      "depose": "2023-03-28",
+      "titre": "EMPD Exposé des motifs et projets de décrets accordant au Conseil d'Etat un crédit d’ouvrage de CHF 5'260'000.- pour la surélévation du bâtiment administratif Riponne 10 à Lausanne et un crédit d’ouvrage de CHF 1'800'000.- pour la transformation du 2e étage du bâtiment administratif Université 5",
+      "auteurs": [
+        {
+          "nom": "Jean-François Cachin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-03-28"
+      },
+      "derniere_etape": "2023-03-28",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_101",
+      "numero": "22_INT_101",
+      "type": "Interpellation",
+      "depose": "2022-08-23",
+      "titre": "Car Postal aurait-elle un train de...retard ?",
+      "auteurs": [
+        {
+          "nom": "Alberto Mocchi",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-12-14"
+      },
+      "derniere_etape": "2022-12-14",
+      "communes": [
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5471,
+          "origine": "document"
+        },
+        {
+          "ofs": 5535,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_RAP_37",
+      "numero": "18_RAP_37",
+      "type": "Rapport",
+      "depose": "2018-01-30",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil concernant l'institution d'une Commission d'enquête parlementaire sur la gestion du Service pénitentiaire",
+      "auteurs": [
+        {
+          "nom": "Rémy Jaquier",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Rémy Jaquier",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Non entrée en matière",
+        "date": "2018-01-30"
+      },
+      "derniere_etape": "2018-01-30",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_RAP_274",
+      "numero": "16_RAP_274",
+      "type": "Rapport",
+      "depose": "2016-10-11",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Anne Papilloud et consorts – Quelle politique carcérale pour le canton ? – Et réponse du Conseil d'Etat à la détermination Marc-Olivier Buffat",
+      "auteurs": [
+        {
+          "nom": "Fabienne Despot",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Fabienne Despot",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2016-10-11"
+      },
+      "derniere_etape": "2016-10-11",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_POS_145",
+      "numero": "15_POS_145",
+      "type": "Postulat",
+      "depose": "2015-09-29",
+      "titre": "Promouvoir et soutenir davantage la participation des 18-25 ans au vote !",
+      "auteurs": [
+        {
+          "nom": "Philippe Vuillemin",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Vuillemin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-05-31"
+      },
+      "derniere_etape": "2016-05-31",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5747,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_LEG_267",
+      "numero": "16_LEG_267",
+      "type": "Décret/Loi",
+      "depose": "2016-03-08",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 7'730'000.- pour financer les travaux de consolidation et protection de neuf objets répertoriés dans le cadre des Dégâts des Forces dela Nature (DFN)",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2016-03-08"
+      },
+      "derniere_etape": "2016-03-08",
+      "communes": [
+        {
+          "ofs": 5665,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5842,
+          "origine": "document"
+        },
+        {
+          "ofs": 5704,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5529,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_380",
+      "numero": "15_INT_380",
+      "type": "Interpellation",
+      "depose": "2015-11-24",
+      "titre": "La Venoge au vitriol ?",
+      "auteurs": [
+        {
+          "nom": "Michel Collet",
+          "parti": null
+        },
+        {
+          "nom": "Michel Collet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-11-24"
+      },
+      "derniere_etape": "2015-11-24",
+      "communes": [
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_PET_028",
+      "numero": "14_PET_028",
+      "type": "Pétition",
+      "depose": "2015-02-03",
+      "titre": "Pétition du groupe Socialiste, Verts et Sympathisants pour une amélioration à court terme du confort des voyageurs à la gare de Cossonay Penthalaz",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2015-03-10"
+      },
+      "derniere_etape": "2015-03-10",
+      "communes": [
+        {
+          "ofs": 5477,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5495,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_217",
+      "numero": "9_LEG_217",
+      "type": "Décret/Loi",
+      "depose": "2009-12-01",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit-cadre de CHF 5'310'000.- destiné à financer la transformation de l'arsenal de Morges et la réorganisation des surfaces du BAP et d'autres locaux de l'administration cantonale",
+      "auteurs": [
+        {
+          "nom": "Philippe Deriaz",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Philippe Deriaz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-12-08"
+      },
+      "derniere_etape": "2009-12-08",
+      "communes": [
+        {
+          "ofs": 5642,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        },
+        {
+          "ofs": 5464,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

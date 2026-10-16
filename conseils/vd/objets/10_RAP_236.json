@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222168,
+  "numero": "10_RAP_236",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-10-05"
+  },
+  "depose": "2010-10-05",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Nuria Gorrite et consorts - Pour un dépôt volontaire et gratuit des armes personnelles des militaires à l'arsenal",
+  "contributeurs": [
+    {
+      "nom": "Olivier Mayor",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Olivier Mayor",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-10-05",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-10-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/236_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-10-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/236_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seances-des-14-et-15-decembre-2010/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-nuria-gorrite-depot-volontaire-et-gratuit-des-armes-personnelles-et-militaires-a-larsenal",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

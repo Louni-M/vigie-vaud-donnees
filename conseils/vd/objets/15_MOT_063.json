@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223608,
+  "numero": "15_MOT_063",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2015-11-10"
+  },
+  "depose": "2015-03-31",
+  "titre": "Pour permettre la vente par les communes des biens abandonnés par un locataire expulsé",
+  "contributeurs": [
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-03-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-03-31",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-11-10",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-11-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_063_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2015-11-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_063_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-03-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_063_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-10-novembre-2015/motion-jacques-haldy-et-consorts-pour-permettre-la-vente-par-les-communes-des-biens-abandonnes-par-un-locataire-expulse",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 340165,
+  "numero": "26_POS_51",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2026-09-29"
+  },
+  "depose": "2026-09-22",
+  "titre": "Quelles ressources hydriques dans la partie vaudoise de la chaîne du Jura ?",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Cala",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-09-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-09-22",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-09-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2026-09-29",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.swisstopo.admin.ch/fr/swissjura3d-fr",
+      "date": "2026-09-22",
+      "lien": "https://www.swisstopo.admin.ch/fr/swissjura3d-fr"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4193ea0d-fb28-494c-9aef-91d6c4625a00/meeting/1033711",
+  "communes": [
+    {
+      "ofs": 5727,
+      "origine": "document"
+    }
+  ]
+}

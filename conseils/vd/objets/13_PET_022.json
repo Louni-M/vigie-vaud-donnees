@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223030,
+  "numero": "13_PET_022",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2014-03-25"
+  },
+  "depose": "2014-03-25",
+  "titre": "Pétition pour le maintien de la Poste de Paudex",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2014-03-25",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-03-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_PET_022_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-03-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_PET_022_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-1-avril-2014/petition-pour-le-maintien-de-la-poste-de-paudex",
+  "communes": [
+    {
+      "ofs": 5588,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    },
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223747,
+  "numero": "16_INT_492",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-08-23"
+  },
+  "depose": "2016-03-08",
+  "titre": "Délocalisation des examens de conduite du Service des automobiles et de la navigation (SAN) de la Blécherette à Cossonay : pour qui ? pourquoi ?",
+  "contributeurs": [
+    {
+      "nom": "Claude-Alain Voiblet",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Claude-Alain Voiblet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-03-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-03-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-08-23",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_492_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-03-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_492_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-23-aout-2016/reponse-du-conseil-detat-a-linterpellation-claude-alain-voiblet-delocalisation-des-examens-de-conduite-du-service-des-automobiles-et-de-la-navigation-san-de-la-blecherette-a-cossonay-pour-qui-pourquoi",
+  "communes": [
+    {
+      "ofs": 5477,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5611,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

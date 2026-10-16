@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227922,
+  "numero": "24_QUE_15",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-03-20"
+  },
+  "depose": "2024-02-20",
+  "titre": "Pour mieux comprendre les prestations ambulatoires fournies par le HRC",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-02-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-03-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Description des prestations ambulatoires fournies par l’Hôpital Riviera-Chablais et l’Hôpital intercantonal de la Broye",
+      "date": "2024-03-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2228829"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/455ee183-a7af-46fa-8973-d8fbb58551fe/meeting/1019559",
+  "communes": []
+}

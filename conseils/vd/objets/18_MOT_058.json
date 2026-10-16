@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224452,
+  "numero": "18_MOT_058",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2019-10-01"
+  },
+  "depose": "2018-09-25",
+  "titre": "Acceptation de cadeaux par les élus : clarifier les règles du jeu",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-09-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-10-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-10-01",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_058_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_058_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-10-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_058_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-1er-octobre-2019/motion-raphael-mahaim-et-consorts-acceptation-de-cadeaux-par-les-elus-clarifier-les-regles-du-jeu",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

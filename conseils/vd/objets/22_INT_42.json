@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226347,
+  "numero": "22_INT_42",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-08-26"
+  },
+  "depose": "2022-03-08",
+  "titre": "Le DIRH chante « Ce sont les Valaisannes, que j’aime, que j’aime, ce sont les Valaisannes que j’aime le mieux! ». Mauvais refrain bientôt corrigé?",
+  "contributeurs": [
+    {
+      "nom": "Gilles Meystre",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Gilles Meystre",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-03-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-03-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-03-08",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-08-26",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-03-15",
+      "lien": "https://www.sonomix.ch/live/gcvd/2072#861"
+    },
+    {
+      "titre": "Contrat d’assurance accidents pour le personnel de l’État : une adjudication conforme au droit",
+      "date": "2023-03-08",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2164934"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/72e38a71-a1c4-4d9b-bcf1-8581ccc64715/meeting/1029633",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    }
+  ]
+}

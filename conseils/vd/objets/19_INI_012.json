@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224583,
+  "numero": "19_INI_012",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-02-04"
+  },
+  "depose": "2019-02-05",
+  "titre": "Pour le climat, réduisons nos émissions de CO2 avec des actes concrets ! Stop à l'importation d'électricité à base de charbon, utilisons nos ressources en énergies renouvelables",
+  "contributeurs": [
+    {
+      "nom": "Claude Schwab",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claude Schwab",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-02-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-02-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-02-04",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INI_012_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INI_012_obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-02-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INI_012_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-4-fevrier-2020/initiative-yvan-pahud-et-consorts-au-nom-du-groupe-udc-pour-le-climat-reduisons-nos-emissions-de-co2-avec-des-actes-concrets-stop-a-limportation-delectricite-a-base-de-charbon-utilisons-nos-ressources-en-energies-renouvelables",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

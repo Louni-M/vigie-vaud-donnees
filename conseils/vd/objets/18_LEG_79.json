@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224404,
+  "numero": "18_LEG_79",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2018-09-18"
+  },
+  "depose": "2018-09-18",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'État un crédit d'étude de CHF 12'000'000.- pour financer la construction, en deux étapes de travaux, d'un nouvel établissement pénitentiaire de 410 places à la Plaine de l'Orbe",
+  "contributeurs": [
+    {
+      "nom": "Claude Schwab",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claude Schwab",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Claude Schwab",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-09-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-18",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-09-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/79_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-09-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/79_RC.pdf"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2018-09-18",
+      "lien": "https://www.vd.ch/gc/documents-envoyes-2018/envoi-du-jeudi-13-septembre-2018"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-18-septembre-2018/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-detude-de-chf-12000000-pour-financer-la-construction-en-deux-etapes-de-travaux-dun-nouvel-etablissement-penitentiaire-de-410-places-a-la-plaine-de-lorbe",
+  "communes": [
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

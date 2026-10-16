@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227350,
+  "numero": "23_QUE_58",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-02-21"
+  },
+  "depose": "2023-12-05",
+  "titre": "Quel délai est admissible pour une correction du calcul manifestement erroné d’une rente AVS ?",
+  "contributeurs": [
+    {
+      "nom": "Nicola Di Giulio",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-12-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-02-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Calcul de rente AVS",
+      "date": "2024-02-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2223101"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/2176b0d3-ee4e-4edf-8039-71bc565b40ae/meeting/1019549",
+  "communes": []
+}

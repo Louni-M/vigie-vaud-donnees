@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221555,
+  "numero": "09_INI_022",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2010-03-16"
+  },
+  "depose": "2009-06-30",
+  "titre": "Pour une élection au Grand Conseil réellement représentative et proportionnelle",
+  "contributeurs": [
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-06-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-06-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-03-16",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2009-06-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INI_022_Depot.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-01-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INI_022_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-01-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INI_022_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-16-mars-2010/initiative-legislative-bernard-borel",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

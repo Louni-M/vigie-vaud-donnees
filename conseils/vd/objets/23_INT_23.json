@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227051,
+  "numero": "23_INT_23",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-09-09"
+  },
+  "depose": "2023-02-28",
+  "titre": "Maintien de la formation en médiamatique sur le Balcon du Jura Vaudois",
+  "contributeurs": [
+    {
+      "nom": "Jean-Franco Paillard",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-02-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-03-07",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-03-06",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-09-09",
+      "lien": "https://www.sonomix.ch/live/gcvd/3202#9927"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-03-07",
+      "lien": "https://www.sonomix.ch/live/gcvd/2329#548"
+    },
+    {
+      "titre": "La formation de médiamatique maintenue à Sainte-Croix",
+      "date": "2024-03-06",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2204347"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/af5de566-ee10-41d0-a6d9-98a0cadee991/meeting/1029635",
+  "communes": [
+    {
+      "ofs": 5568,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

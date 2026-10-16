@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226752,
+  "numero": "22_QUE_52",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-03-01"
+  },
+  "depose": "2022-12-13",
+  "titre": "Autoroutes vaudoises, ne poussons pas le bouchon trop loin !",
+  "contributeurs": [
+    {
+      "nom": "Nicola Di Giulio",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-12-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-03-01",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Interdiction de dépassement des poids lourds sur les autoroutes pendant les heures de pointe",
+      "date": "2023-03-01",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2163807"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/30c74eeb-4ddf-4530-b152-d0a4075b6b9e/meeting/1012643",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5749,
+      "origine": "document"
+    },
+    {
+      "ofs": 5498,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223110,
+  "numero": "14_INI_006",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2014-10-07"
+  },
+  "depose": "2014-03-11",
+  "titre": "Pour que le canton de Vaud demande à l'Assemblée fédérale d'attribuer aux cantons le choix du contingent annuel d'autorisations délivrées pour le séjour des étrangers en Suisse en vertu du nouvel article 121a de la Constitution fédérale adoptée le 9 février 2014",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Samuel Bendahan",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-03-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-03-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-10-07",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2014-10-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INI_006_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2014-10-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INI_006_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-10-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INI_006_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-03-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INI_006_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-7-octobre-2014/initiative-jerome-christen-pour-que-le-canton-de-vaud-demande-a-lassemblee-federale-dattribuer-aux-cantons-le-choix-du-contingent-annuel-dautorisations-delivrees-pour-le-sejour-des-etrangers-en-suisse",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

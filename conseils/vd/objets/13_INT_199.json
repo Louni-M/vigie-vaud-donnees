@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222946,
+  "numero": "13_INT_199",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-09-09"
+  },
+  "depose": "2013-12-11",
+  "titre": "La sécurité des agents de détention vaudois est-elle bien assurée ?",
+  "contributeurs": [
+    {
+      "nom": "José Durussel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "José Durussel",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-12-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-12-17",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-06-17",
+      "libelle": "Zurückgewiesen"
+    },
+    {
+      "date": "2014-09-09",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-06-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_199_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-12-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_199_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-9-septembre-2014/reponse-du-conseil-detat-a-linterpellation-jose-durussel-la-securite-des-agents-de-detention-vaudois-est-elle-bien-assuree",
+  "communes": [
+    {
+      "ofs": 5757,
+      "origine": "document"
+    }
+  ]
+}

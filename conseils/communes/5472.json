@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5472,
+  "objets": [
+    {
+      "cle": "vd/13_INT_093",
+      "numero": "13_INT_093",
+      "type": "Interpellation",
+      "depose": "2013-02-05",
+      "titre": "Où se situera la prochaine décharge contrôlée bioactive DCB ?",
+      "auteurs": [
+        {
+          "nom": "Michel Collet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-09-24"
+      },
+      "derniere_etape": "2013-09-24",
+      "communes": [
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5472,
+          "origine": "document"
+        },
+        {
+          "ofs": 5529,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_086",
+      "numero": "13_INT_086",
+      "type": "Interpellation",
+      "depose": "2013-01-22",
+      "titre": "Le Gros-de-Vaud va-t-il devenir le dépotoir de notre canton ?",
+      "auteurs": [
+        {
+          "nom": "Denis Rubattel",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-09-24"
+      },
+      "derniere_etape": "2013-09-24",
+      "communes": [
+        {
+          "ofs": 5472,
+          "origine": "document"
+        },
+        {
+          "ofs": 5529,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_639",
+      "numero": "11_INT_639",
+      "type": "Interpellation",
+      "depose": "2012-05-29",
+      "titre": "100 dB vaut-il 100'000 habitants ?",
+      "auteurs": [
+        {
+          "nom": "Véronique Hurni",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-03-12"
+      },
+      "derniere_etape": "2013-03-12",
+      "communes": [
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5472,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

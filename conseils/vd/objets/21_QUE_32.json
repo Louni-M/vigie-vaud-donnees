@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226042,
+  "numero": "21_QUE_32",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-10-13"
+  },
+  "depose": "2021-09-07",
+  "titre": "Lutte anti-grêle coordonnée et efficace",
+  "contributeurs": [
+    {
+      "nom": "Jean-Rémy Chevalley",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-09-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-10-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Lutte contre les dégâts dus à la grêle",
+      "date": "2021-10-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2080414"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c9dde5b1-7b3f-4ec9-bd49-f74fe8f5a767/meeting/1004404",
+  "communes": [
+    {
+      "ofs": 5704,
+      "origine": "document"
+    }
+  ]
+}

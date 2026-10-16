@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227419,
+  "numero": "24_HQU_107",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2024-10-08"
+  },
+  "depose": "2024-10-01",
+  "titre": "Le PDCom lausannois est-il tombé dans les limbes de la DGTL?",
+  "contributeurs": [
+    {
+      "nom": "David Raedler",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "David Raedler",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-10-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-10-08",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1024b4d1-12c3-43a2-8137-84f598dc66ad/meeting/1026862",
+  "communes": []
+}

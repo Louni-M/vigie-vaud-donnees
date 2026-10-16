@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222789,
+  "numero": "12_RAP_13",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-11-27"
+  },
+  "depose": "2012-11-27",
+  "titre": "Rapport annuel du Comité des visiteurs de prisons et deslieux de privation de liberté - avril 2011 à juin 2012",
+  "contributeurs": [
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-11-27",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_Texte_CE.pdf"
+    },
+    {
+      "titre": "Document complémentaire",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_Lettre_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-27-novembre-2012/rapport-annuel-du-comite-des-visiteurs-de-prisons-et-des-lieux-de-privation-de-liberte-avril-2011-a-juin-2012",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    }
+  ]
+}

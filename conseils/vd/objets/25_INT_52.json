@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228174,
+  "numero": "25_INT_52",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-09-09"
+  },
+  "depose": "2025-04-29",
+  "titre": "Quelle prise en charge des enfants avec un trouble du spectre autistique (TSA) ?",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Kessler",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-04-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-05-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-07-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-07-02",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-09-09",
+      "lien": "https://www.sonomix.ch/live/gcvd/3202#6688"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-05-06",
+      "lien": "https://www.sonomix.ch/live/gcvd/3108#703"
+    },
+    {
+      "titre": "« La fermeture d’une école pour enfants autistes indigne les spécialistes ",
+      "date": "2025-05-06",
+      "lien": "https://www.24heures.ch/lausanne-la-fermeture-dune-ecole-pour-enfants-autistes-inquiete-689588127851"
+    },
+    {
+      "titre": "Prise en charge des enfants avec un trouble du spectre autistique",
+      "date": "2025-07-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2314629"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/152d49a2-520a-4ad7-b60f-080881cfb2c5/meeting/1029635",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5499,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

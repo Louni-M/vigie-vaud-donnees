@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222443,
+  "numero": "11_LEG_418",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-11-01"
+  },
+  "depose": "2011-10-11",
+  "titre": "Exposé des motifs et projet de décret transférant l'entier du patrimoine de l'EMS Soerensen d'un fonds au bilan de l'Etat dans la comptabilité du CHUV",
+  "contributeurs": [
+    {
+      "nom": "Frédéric Grognuz",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Frédéric Grognuz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-10-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-01",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-10-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/418_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-10-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/418_RC.PDF"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 01.11.11",
+      "date": "2011-11-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/418_D%C3%A9cret.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-1-novembre-2011/expose-des-motifs-et-projet-de-decret-transferant-lentier-du-patrimoine-de-lems-soerensen-dun-fonds-au-bilan-de-letat-dans-la-comptabilite-du-chuv",
+  "communes": [
+    {
+      "ofs": 5428,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5725,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226377,
+  "numero": "22_INT_7",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-04-13"
+  },
+  "depose": "2022-01-18",
+  "titre": "Manque de place dans les locaux de la gendarmerie de Payerne, une solution pragmatique?",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Pedroli",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-01-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-01-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-04-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par CE - R-CE INT Pedroli 22_INT_7 - publié",
+      "date": "2022-08-23",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2111359"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/10315b4f-ac0a-4009-96ed-3e704a697ae0/meeting/1012629",
+  "communes": [
+    {
+      "ofs": 5822,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

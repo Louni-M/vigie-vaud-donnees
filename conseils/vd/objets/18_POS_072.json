@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224518,
+  "numero": "18_POS_072",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-10-28"
+  },
+  "depose": "2018-09-18",
+  "titre": "Mourir dans la pénombre des abattoirs",
+  "contributeurs": [
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-09-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-09-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-10-28",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-05-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_072_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-05-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_072_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-09-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_072_depot.pdf"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2018-09-25",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-25-septembre-2018"
+    },
+    {
+      "titre": "Activité des abattoirs, transport des animaux et surveillance vétérinaire",
+      "date": "2020-10-28",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2015811"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-24-septembre-2019/postulat-yvan-luccarini-et-consorts-mourir-dans-la-penombre-des-abattoirs",
+  "communes": [
+    {
+      "ofs": 5861,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5408,
+      "origine": "document"
+    },
+    {
+      "ofs": 5451,
+      "origine": "document"
+    }
+  ]
+}

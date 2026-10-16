@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228828,
+  "numero": "9_RAP_144",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-05-12"
+  },
+  "depose": "2009-05-12",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Claudine Dind et consorts concernant l'autoroute à Morges et les normes OPair",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Montangero",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Stéphane Montangero",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-05-12",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/144_RC.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Divers/144_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-12-mai-2009/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-claudine-dind",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "titre"
+    }
+  ]
+}

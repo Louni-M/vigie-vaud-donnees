@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 279885,
+  "numero": "25_QUE_96",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Traktandiert",
+    "date": "2025-10-28"
+  },
+  "depose": "2025-10-28",
+  "titre": "Pour un itinéraire pédestre entre Bière et le Marchairuz",
+  "contributeurs": [
+    {
+      "nom": "Hadrien Buclin",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-10-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-10-28",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/2ea780ca-3a5f-461a-85d0-d20414f470d4/meeting/1029640",
+  "communes": [
+    {
+      "ofs": 5425,
+      "origine": "titre"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224386,
+  "numero": "18_LEG_383",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2018-03-13"
+  },
+  "depose": "2018-02-13",
+  "titre": "Exposé des motifs et projet de décret autorisant le Conseil d'Etat à ratifier, au nom de l'Etat de Vaud, la modification du Concordat du 24 mars 2005 sur l'exécution de la détention pénale des personnes mineures des cantons romands (et partiellement du Tessin) adoptée par la Conférence latine des chefs des départements de justice et police le 26 mars 2015",
+  "contributeurs": [
+    {
+      "nom": "Mathieu Blanc",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Mathieu Blanc",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Mathieu Blanc",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-02-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-03-13",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-02-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/383_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-02-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/383_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-13-mars-2018/empd-autorisant-le-conseil-detat-a-ratifier-au-nom-de-letat-de-vaud-la-modification-du-concordat-du-24-mars-2005-sur-lexecution-de-la-detention-penale-des-personnes-mineures-des-cantons-romands",
+  "communes": [
+    {
+      "ofs": 5731,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

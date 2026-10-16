@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225153,
+  "numero": "20_INT_442",
+  "type": "Election",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-08-23"
+  },
+  "depose": "2020-02-11",
+  "titre": "Elections et votations vaudoises : « la boulette, faites vos jeux, rien ne va plus ! »",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-02-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-02-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-08-23",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2020-02-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_442_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-10-01",
+      "lien": "https://www.sonomix.ch/live/gcvd/2923#7470"
+    },
+    {
+      "titre": "Envoi de matériel de vote",
+      "date": "2023-08-23",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2192271"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e77f8808-82cf-41e7-ba70-31ff5942d0ad/meeting/1026861",
+  "communes": [
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224113,
+  "numero": "17_PET_005",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2018-08-28"
+  },
+  "depose": "2017-10-24",
+  "titre": "Pétition des commerçants de la commune d'Ollon contre la fermeture de leur office postal",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2017-10-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-08-28",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2018-07-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_PET_005_depot.PDF"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-07-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_PET_004_005_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-28-aout-2018/petition-des-commercants-de-la-commune-dollon-contre-la-fermeture-de-leur-office-postal",
+  "communes": [
+    {
+      "ofs": 5409,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

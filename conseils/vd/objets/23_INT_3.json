@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227058,
+  "numero": "23_INT_3",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-04-05"
+  },
+  "depose": "2023-01-17",
+  "titre": "Un Taxibus remodelé poussant à privilégier la voiture individuelle ?",
+  "contributeurs": [
+    {
+      "nom": "David Raedler",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-01-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-01-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-04-05",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.t-l.ch/horaires-plans/autres-solutions-de-mobilite/taxibus",
+      "date": "2023-01-24",
+      "lien": "https://www.t-l.ch/horaires-plans/autres-solutions-de-mobilite/taxibus"
+    },
+    {
+      "titre": "https://www.t-l.ch/horaires-plans/autres-solutions-de-mobilite/reseau-nocturne",
+      "date": "2023-01-24",
+      "lien": "https://www.t-l.ch/horaires-plans/autres-solutions-de-mobilite/reseau-nocturne"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-01-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/2707#7896"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-01-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/2295#594"
+    },
+    {
+      "titre": "https://mon-espace.t-l.ch/fr/faq/index/detail?id=563",
+      "date": "2023-01-24",
+      "lien": "https://mon-espace.t-l.ch/fr/faq/index/detail?id=563"
+    },
+    {
+      "titre": "Abandon du service sur demande Taxibus par les tl",
+      "date": "2023-04-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2170098"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/63fe5ffb-5d7a-4ab5-be2d-405be32356af/meeting/1019556",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5588,
+      "origine": "document"
+    },
+    {
+      "ofs": 5489,
+      "origine": "document"
+    },
+    {
+      "ofs": 5648,
+      "origine": "document"
+    },
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5523,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

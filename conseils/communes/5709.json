@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5709,
+  "objets": [
+    {
+      "cle": "vd/12_LEG_483",
+      "numero": "12_LEG_483",
+      "type": "Décret/Loi",
+      "depose": "2012-11-27",
+      "titre": "Exposé des motifs et projet de loi sur l'éducation physique et le sport etRapport du Conseil d'Etat au Grand Conseil sur- la motion Pierre Volet et consorts pour un soutien important aux infrastructures sportives en général et tout particulièrement à l'aide à la construction de piscines dans le canton",
+      "auteurs": [
+        {
+          "nom": "Jean-Michel Favez",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Jean-Michel Favez",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2012-12-11"
+      },
+      "derniere_etape": "2012-12-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5709,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_MOT_047",
+      "numero": "08_MOT_047",
+      "type": "Motion",
+      "depose": "2008-08-26",
+      "titre": "Pour tous",
+      "auteurs": [
+        {
+          "nom": "Philippe Ducommun",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2009-01-27"
+      },
+      "derniere_etape": "2009-01-27",
+      "communes": [
+        {
+          "ofs": 5709,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

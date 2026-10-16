@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224962,
+  "numero": "19_POS_128",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2020-02-04"
+  },
+  "depose": "2019-03-12",
+  "titre": "Décharges : Pour une meilleure planification intercantonale",
+  "contributeurs": [
+    {
+      "nom": "Jean-Claude Glardon",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Claude Glardon",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-03-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-03-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-02-04",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_128_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_128_obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-03-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_128_depot.pdf"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2019-03-19",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-19-mars-2019"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-4-fevrier-2020/postulat-vassilis-venizelos-et-consorts-decharges-pour-une-meilleure-planification-intercantonale",
+  "communes": [
+    {
+      "ofs": 5561,
+      "origine": "document"
+    },
+    {
+      "ofs": 5480,
+      "origine": "document"
+    },
+    {
+      "ofs": 5529,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

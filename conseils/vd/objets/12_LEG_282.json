@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222691,
+  "numero": "12_LEG_282",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2012-09-25"
+  },
+  "depose": "2012-01-24",
+  "titre": "Exposé des motifs et- projet de loi sur le financement des formations politiques (motion Montangero) et- projet de loi modifiant la loi du 16 mai 1989 sur l'exercice des droits politiques (contre-projet du Conseil d'Etat à la motion Montangero)et Rapport du Conseil d'Etat au Grand Conseil sur la motion Stéphane Montangero et consorts visant à modifier la loi sur l'exercice des droits politiques en introduisant les notions de transparence des coûts et de plafonnement des dépenses électorales pour les campagnes politique",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Mattenberger",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alain Monod",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Alain Monod",
+      "parti": "RAD",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-01-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-01-31",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2012-02-07",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-09-25",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-01-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/282_Texte_CE.pdf"
+    },
+    {
+      "titre": "Tableau miroir avant le 2ème débat",
+      "date": "2012-02-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/282_Tableau_avant_2emes_d%C3%A9bats.pdf"
+    },
+    {
+      "titre": "Tableau miroir avant le 1er débat",
+      "date": "2012-01-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/282_Tableau_avant_1er_d%C3%A9bat_01.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2012-01-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/282_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2012-01-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/282_RC_maj.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-09-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/282_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-25-septembre-2012/expose-des-motifs-et-projet-de-loi-sur-le-financement-des-formations-politiques-motion-montangero-et-projet-de-loi-modifiant-la-loi-du-16-mai-1989-sur-lexercice-des-droits-politiques",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

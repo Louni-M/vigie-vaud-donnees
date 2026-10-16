@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223469,
+  "numero": "15_INT_450",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-04-26"
+  },
+  "depose": "2015-11-17",
+  "titre": "En route pour les salons de beauté !",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-11-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-11-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-04-26",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_450_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-11-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_450_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-26-avril-2016/reponse-du-conseil-detat-a-linterpellation-jean-tschopp-et-consorts-en-route-pour-les-salons-de-beaute",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

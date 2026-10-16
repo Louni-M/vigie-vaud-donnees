@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224412,
+  "numero": "18_MOT_018",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2018-12-11"
+  },
+  "depose": "2018-02-06",
+  "titre": "Surpopulation carcérale et manque de places de détention : il y a urgence !",
+  "contributeurs": [
+    {
+      "nom": "Claude Schwab",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Claude Schwab",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Ducommun",
+      "parti": "UDC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-02-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-12-11",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2018-11-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_018_RC_min.PDF"
+    },
+    {
+      "titre": "Rapport de la majorité de la  commission",
+      "date": "2018-11-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_018_RC_maj.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-11-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_018_Obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-02-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_018_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-des-11-et-12-decembre-2018/motion-marc-olivier-buffat-et-consorts-surpopulation-carcerale-et-manque-de-places-de-detention-il-y-a-urgence",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5638,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    },
+    {
+      "ofs": 5853,
+      "origine": "document"
+    },
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5892,
+      "origine": "document"
+    }
+  ]
+}

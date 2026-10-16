@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226003,
+  "numero": "21_POS_53",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Non pris en considération",
+    "date": "2022-06-15"
+  },
+  "depose": "2021-11-09",
+  "titre": "Favorisons concrètement les coopératives qui construisent des habitats à stationnement réduits",
+  "contributeurs": [
+    {
+      "nom": "David Raedler",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Salvatore Guarna",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Rémy Chevalley",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-11-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-11-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-06-15",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-06-15",
+      "lien": "https://www.sonomix.ch/live/gcvd/2135#3201"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-11-16",
+      "lien": "https://www.sonomix.ch/live/gcvd/1965#527"
+    },
+    {
+      "titre": "https://serval.unil.ch/resource/serval:BIB_2053C99A97BC.P001/REF",
+      "date": "2022-05-24",
+      "lien": "https://serval.unil.ch/resource/serval:BIB_2053C99A97BC.P001/REF"
+    },
+    {
+      "titre": "https://habitat-mobilitedurable.ch/quoipourquoi/pourquoi-de-lhabitat-a-stationnement-reduit/arguments/?L=1#c449",
+      "date": "2022-05-24",
+      "lien": "https://habitat-mobilitedurable.ch/quoipourquoi/pourquoi-de-lhabitat-a-stationnement-reduit/arguments/?L=1#c449"
+    },
+    {
+      "titre": "https://habitat-mobilitedurable.ch/exemples/ch-quartiers-en-projet/?L=1",
+      "date": "2022-05-24",
+      "lien": "https://habitat-mobilitedurable.ch/exemples/ch-quartiers-en-projet/?L=1"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a288d517-2956-4383-a30a-7f4d107baeac/meeting/1014410",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5861,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5610,
+      "origine": "document"
+    }
+  ]
+}

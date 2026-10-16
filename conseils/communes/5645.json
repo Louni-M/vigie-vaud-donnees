@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5645,
+  "objets": [
+    {
+      "cle": "vd/19_RAP_133",
+      "numero": "19_RAP_133",
+      "type": "Rapport",
+      "depose": "2019-11-12",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Stéphane Montangero et consorts - Payons le juste prix, pour le lait mais pas seulement !",
+      "auteurs": [
+        {
+          "nom": "Claire Attinger Doepper",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Claire Attinger Doepper",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-11-12"
+      },
+      "derniere_etape": "2019-11-12",
+      "communes": [
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5645,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_248",
+      "numero": "17_POS_248",
+      "type": "Postulat",
+      "depose": "2017-06-06",
+      "titre": "Payons le juste prix, pour le lait mais pas seulement !",
+      "auteurs": [
+        {
+          "nom": "Claire Attinger Doepper",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Claire Attinger Doepper",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2019-04-10"
+      },
+      "derniere_etape": "2019-04-10",
+      "communes": [
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5645,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

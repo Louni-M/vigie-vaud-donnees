@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224424,
+  "numero": "18_MOT_030",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2018-11-27"
+  },
+  "depose": "2018-04-17",
+  "titre": "Pour un Centre de compétence de la consommation énergétique vaudoise des bâtiments et des ménages",
+  "contributeurs": [
+    {
+      "nom": "Pierre Dessemontet",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre Dessemontet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-04-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-04-17",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-11-27",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_030_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_030_Obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-04-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_030_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-27-novembre-2018/motion-anne-baehler-bech-et-consorts-pour-un-centre-de-competence-de-la-consommation-energetique-vaudoise-des-batiments-et-des-menages",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

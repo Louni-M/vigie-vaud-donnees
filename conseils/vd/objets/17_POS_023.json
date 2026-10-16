@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224138,
+  "numero": "17_POS_023",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2018-12-18"
+  },
+  "depose": "2017-11-21",
+  "titre": "Réveillons et ... recyclons la Belle au bois dormante !",
+  "contributeurs": [
+    {
+      "nom": "Maurice Neyroud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Maurice Neyroud",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-11-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-12-18",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-12-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_POS_023_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-12-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_POS_023_obj_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-18-decembre-2018/postulat-felix-stuerner-et-consorts-reveillons-et-recyclons-la-belle-au-bois-dormante",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

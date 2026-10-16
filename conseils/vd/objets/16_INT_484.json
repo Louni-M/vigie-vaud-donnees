@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221757,
+  "numero": "16_INT_484",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-06-07"
+  },
+  "depose": "2016-03-01",
+  "titre": "Chalom doit-il mourir ?",
+  "contributeurs": [
+    {
+      "nom": "Marc Oran",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Marc Oran",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-03-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-03-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-06-07",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_484_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-03-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_484_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-7-juin-2016/reponse-du-conseil-detat-a-linterpellation-marc-oran-chalom-doit-il-mourir",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

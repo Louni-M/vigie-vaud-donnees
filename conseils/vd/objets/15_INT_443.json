@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223521,
+  "numero": "15_INT_443",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-09-04"
+  },
+  "depose": "2015-11-10",
+  "titre": "Ancien dirigeant de la BCV acquitté : 1.8 million à la charge du contribuable, comment en est-on arrivé là ?",
+  "contributeurs": [
+    {
+      "nom": "Alain Bovay",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Alain Bovay",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-11-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-11-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-09-04",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adotpé par le Conseil d'Etat",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_443_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-11-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_443_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-4-septembre-2018/reponse-du-conseil-detat-a-linterpellation-alain-bovay-ancien-dirigeant-de-la-bcv-acquitte-18-million-a-la-charge-du-contribuable-comment-en-est-on-arrive-la",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

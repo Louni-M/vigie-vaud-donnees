@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227650,
+  "numero": "24_INT_179",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2025-07-02"
+  },
+  "depose": "2024-12-10",
+  "titre": "Port du turban au Gymnase d'Yverdon déroulement des faits et futures mesures",
+  "contributeurs": [
+    {
+      "nom": "Fabien Deillon",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-12-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-12-17",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-07-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-07-02",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-12-17",
+      "lien": "https://www.sonomix.ch/live/gcvd/2996#464"
+    },
+    {
+      "titre": "Port de signes religieux ostentatoires pour le personnel de l'administration cantonale",
+      "date": "2025-07-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2314644"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a06a4308-e236-41f4-945e-3f4c05379fba/meeting/1026872",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "titre"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222995,
+  "numero": "13_LEG_61",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-10-08"
+  },
+  "depose": "2013-10-01",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 8'631'500.- destiné à financer la mise en place de mesures de diminution du risque et du pilotage de la sécurité des SI au sein de la DSI",
+  "contributeurs": [
+    {
+      "nom": "Fabienne Despot",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Fabienne Despot",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-10-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-10-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/61_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/61_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 08.10.13",
+      "date": "2013-10-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/61_FAO.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-8-octobre-2013/expose-des-motifs-et-projet-de-decret-accordant-un-credit-dinvestissement-de-chf-8631500-destine-a-financer-la-mise-en-place-de-mesures-de-diminution-du-risque-et-du-pilotage-de-la-securite-des-si-au-sein-de-la-dsi",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

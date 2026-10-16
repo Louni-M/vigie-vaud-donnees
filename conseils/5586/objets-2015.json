@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "conseil": "5586",
+  "annee": 2015,
+  "objets": [
+    {
+      "cle": "5586/POS15-007",
+      "numero": "POS15/007",
+      "type": "Postulat",
+      "depose": "2015-12-08",
+      "titre": "Pour contribuer à la lutte contre le réchauffement climatique, la Caisse de pensions du personnel communal de Lausanne doit désinvestir les énergies fossiles",
+      "auteurs": [
+        {
+          "nom": "Hadrien Buclin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2022-10-11"
+      },
+      "derniere_etape": "2022-10-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS15-008",
+      "numero": "POS15/008",
+      "type": "Postulat",
+      "depose": "2015-11-24",
+      "titre": "Un plan d'action pour lutter contre la bureaucratie et la surrèglementation communale",
+      "auteurs": [
+        {
+          "nom": "Mathieu Blanc",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2022-05-24"
+      },
+      "derniere_etape": "2022-05-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT15-021",
+      "numero": "INT15/021",
+      "type": "Interpellation",
+      "depose": "2015-11-24",
+      "titre": "Pour un état des lieux du logement étudiant à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Vincent Brayer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS15-006",
+      "numero": "POS15/006",
+      "type": "Postulat",
+      "depose": "2015-06-16",
+      "titre": "Une gouvernance participative pour l'écoquartier des Plaines-du-Loup",
+      "auteurs": [
+        {
+          "nom": "Valéry Beaud",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2022-02-08"
+      },
+      "derniere_etape": "2022-02-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS15-025",
+      "numero": "POS15/025",
+      "type": "Postulat",
+      "depose": "2015-06-02",
+      "titre": "Pour une pérennisation des ateliers d'artistes lausannois",
+      "auteurs": [
+        {
+          "nom": "Yvan Salzmann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2022-02-15"
+      },
+      "derniere_etape": "2022-02-15",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS15-032",
+      "numero": "POS15/032",
+      "type": "Postulat",
+      "depose": "2015-03-03",
+      "titre": "\"Pour une exonération à tout le moins partielle des taxes d'amarrage et d'occupation pour les pêcheurs professionnels lausannois\"",
+      "auteurs": [
+        {
+          "nom": "Jean-Daniel Henchoz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2022-02-15"
+      },
+      "derniere_etape": "2022-02-15",
+      "communes": []
+    }
+  ]
+}

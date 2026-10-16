@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223151,
+  "numero": "14_INT_238",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-11-11"
+  },
+  "depose": "2014-03-18",
+  "titre": "Les femmes qui prévoient d'avoir des enfants ou dont on s'imagine qu'elles peuvent en avoir, doivent-elles toujours craindre pour leur carrière médicale ?",
+  "contributeurs": [
+    {
+      "nom": "Samuel Bendahan",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Samuel Bendahan",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-03-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-03-18",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-11-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-11-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_238_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-03-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_238_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-11-novembre-2014/reponse-du-conseil-detat-a-linterpellation-samuel-bendahan-et-consorts-les-femmes-qui-prevoient-davoir-des-enfants-ou-dont-on-simagine-quelles-peuvent-en-avoir-doivent-elles-toujours-craindre-pour-leur-carriere-medicale",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

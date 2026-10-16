@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223602,
+  "numero": "15_LEG_257",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2015-12-08"
+  },
+  "depose": "2015-12-01",
+  "titre": "Exposé des motifs et projet de loi modifiant l'art. 19 al.2 LEDP et rapport du Conseil d'Etat au Grand Conseil sur le postulat Golaz « Pour réduire le délai entre l'élection générale et l'entrée en fonction des nouveaux élus »",
+  "contributeurs": [
+    {
+      "nom": "Oscar Tosato",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Oscar Tosato",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-12-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-12-01",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2015-12-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-12-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/257_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-12-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/257_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-8-decembre-2015/expose-des-motifs-et-projet-de-loi-modifiant-lart-19-al2-ledp-et-rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-golaz-pour-reduire-le-delai-entre-lelection-generale-et-lentree-en-fonction-des-nouveaux-elus-12-pos-001",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

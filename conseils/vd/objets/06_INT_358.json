@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228477,
+  "numero": "06_INT_358",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-11-29"
+  },
+  "depose": "2011-10-11",
+  "titre": "La réorganisation de l'office des écoles en santé (ODES) initiée par la cheffe du département de la formation et de la jeunesse et le chef du département de la santé et de l'action sociale",
+  "contributeurs": [
+    {
+      "nom": "Olivier Feller",
+      "parti": "RAD",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Olivier Feller",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-10-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-29",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-10-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/06_INT_358_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-29-novembre-2011/reponse-du-conseil-detat-a-linterpellation-olivier-feller-reorganisation-de-loffice-des-ecoles-de-sante-odes",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    }
+  ]
+}

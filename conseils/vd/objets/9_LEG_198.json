@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228793,
+  "numero": "9_LEG_198",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2009-12-15"
+  },
+  "depose": "2009-12-15",
+  "titre": "Exposé des motifs et projets de décrets accordant au Conseil d'Etat un crédit d'objet de CHF 10'160'000.- pour les travaux de la première étape de la réhabilitation de la RC 1 entre l'avenue Forel et l'avenue du Tir-Fédéral, sur les communes d'Ecublens et de St-Sulpice et accordant au Conseil d'Etat un crédit d'étude de CHF 600'000.- pour les études de la deuxième étape de la requalification de la RC 1 entre le giratoire de l'UNIL et la Venoge, sur les communes d'Ecublens et de St-Sulpice",
+  "contributeurs": [
+    {
+      "nom": "Bertrand Clot",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Bertrand Clot",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-12-15",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/198_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/198_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seances-des-15-et-16-decembre-2009/expose-des-motifs-et-projets-de-decrets-rehabilitation-de-la-rc1",
+  "communes": [
+    {
+      "ofs": 5635,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5648,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5646,
+      "origine": "document"
+    },
+    {
+      "ofs": 5634,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 331297,
+  "numero": "26_HQU_102",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2026-06-09"
+  },
+  "depose": "2026-06-02",
+  "titre": "Ligne VMCV 201, la cadence des promesses ralentit",
+  "contributeurs": [
+    {
+      "nom": "Aurélien Clerc",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-06-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-06-02",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-06-09",
+      "libelle": "Erledigt"
+    },
+    {
+      "date": "2026-06-09",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/2bc64eb7-bc15-45c1-a68d-6372ea76b358/meeting/1029672",
+  "communes": []
+}

@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223908,
+  "numero": "16_LEG_249",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-03-01"
+  },
+  "depose": "2016-02-09",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi du 17 novembre 1952 concernant l'assurance des bâtiments et du mobilier contre l'incendie et leséléments naturels (LAIEN) et Rapport du Conseil d'Etat au Grand Conseil sur le postulat Jacques Haldy et consorts relatif à la couverture par l'ECA des affaissements sur dolines",
+  "contributeurs": [
+    {
+      "nom": "Claire Richard",
+      "parti": "V'L",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Claire Richard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claire Richard",
+      "parti": "V'L",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-02-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-02-09",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2016-03-01",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-02-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/249_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-02-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/249_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-1er-mars-2016/expose-des-motifs-et-projet-de-loi-modifiant-la-loi-du-17-novembre-1952-concernant-lassurance-des-batiments-et-du-mobilier-contre-lincendie-et-les-elements-naturels-laien",
+  "communes": [
+    {
+      "ofs": 5805,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

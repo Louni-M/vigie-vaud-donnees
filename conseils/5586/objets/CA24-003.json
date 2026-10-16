@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 120080,
+  "numero": "CA24/003",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2024-08-27"
+  },
+  "depose": "2024-05-27",
+  "titre": "Assainissement du tunnel de la Barre et création d'une liaison verticale",
+  "contributeurs": [
+    {
+      "nom": "Anja Borgeaud",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-05-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-08-27",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "24_04_juillet_tunnel_de_la_barre_cc_communication.pdf v1.0",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/82/829bc1a57162439f938bb208c2376954.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/86/e97ccd3917f94cdca0b6d55c1948bd86.htm",
+  "communes": []
+}

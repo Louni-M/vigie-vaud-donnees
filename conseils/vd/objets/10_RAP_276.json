@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222178,
+  "numero": "10_RAP_276",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-06-08"
+  },
+  "depose": "2010-06-08",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Daniel Mange et consorts pour la création d'une quatrième piste sur la bretelle semi-autoroute Ballaigues-Orbe",
+  "contributeurs": [
+    {
+      "nom": "Denis-Olivier Maillefer",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Denis-Olivier Maillefer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-06-08",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-06-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/276_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-06-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/276_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-28-septembre-2010/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-daniel-mange-creation-dune-4eme-piste-sur-la-bretelle-semi-autoroute-ballaigues-orbe",
+  "communes": [
+    {
+      "ofs": 5744,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5764,
+      "origine": "document"
+    },
+    {
+      "ofs": 5755,
+      "origine": "document"
+    }
+  ]
+}

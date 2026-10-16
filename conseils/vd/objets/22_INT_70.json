@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226378,
+  "numero": "22_INT_70",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-11-23"
+  },
+  "depose": "2022-05-17",
+  "titre": "Comment lutter contre la fracture numérique alors que les guichets de gare ferment et que la vente de billets à bord des cars postaux est appelée à disparaître ?",
+  "contributeurs": [
+    {
+      "nom": "Muriel Thalmann",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-05-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-05-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-11-23",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-05-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/2120#2392"
+    },
+    {
+      "titre": "Abandon des ventes de billets de transports publics aux guichets ou dans le bus",
+      "date": "2022-11-23",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2147055"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ba0eca7b-fc1f-4473-8811-27a4f42f6f39/meeting/1013632",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

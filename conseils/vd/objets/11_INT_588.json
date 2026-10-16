@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222319,
+  "numero": "11_INT_588",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-05-29"
+  },
+  "depose": "2012-02-07",
+  "titre": "Futur parlement cantonal : le Conseil d'Etat entend-il passer comme chat sur braises sur un toit gris souris ?",
+  "contributeurs": [
+    {
+      "nom": "Marc-Olivier Buffat",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Marc-Olivier Buffat",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-02-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-02-07",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-05-29",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2012-02-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_588_D%C3%A9p%C3%B4t.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_588_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-29-mai-2012/reponse-du-conseil-detat-a-linterpellation-marc-olivier-buffat-futur-parlement-cantonal-le-conseil-detat-entend-il-passer-comme-chat-sur-braises-sur-un-toit-gris-souris",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

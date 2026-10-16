@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222035,
+  "numero": "10_LEG_315",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-11-09"
+  },
+  "depose": "2010-11-09",
+  "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Cerniaz, Combremont-le-Grand, Combremont-le-Petit, Granges-près-Marnand, Marnand, Sassel, Seigneux et Villars-Bramard (Valbroye)",
+  "contributeurs": [
+    {
+      "nom": "Roxanne Meyer Keller",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Roxanne Meyer Keller",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Roxanne Meyer Keller",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-11-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-11-09",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-11-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/315_Texte_CE.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 09.11.10",
+      "date": "2010-11-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/315_Decret.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-9-novembre-2010/expose-des-motifs-et-projet-de-decret-fusion-de-communes-valbroye",
+  "communes": [
+    {
+      "ofs": 5831,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5830,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    },
+    {
+      "ofs": 5671,
+      "origine": "document"
+    },
+    {
+      "ofs": 5693,
+      "origine": "document"
+    },
+    {
+      "ofs": 5675,
+      "origine": "document"
+    },
+    {
+      "ofs": 5819,
+      "origine": "document"
+    },
+    {
+      "ofs": 5828,
+      "origine": "document"
+    },
+    {
+      "ofs": 5812,
+      "origine": "document"
+    }
+  ]
+}

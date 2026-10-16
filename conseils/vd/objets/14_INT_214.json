@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223128,
+  "numero": "14_INT_214",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-08-26"
+  },
+  "depose": "2014-02-04",
+  "titre": "Fermeture du poste de gendarmerie de Coppet - La sécurité sera-t-elle toujours assurée pour les habitants de Terre-Sainte ?",
+  "contributeurs": [
+    {
+      "nom": "Amélie Cherbuin",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Amélie Cherbuin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-02-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-03-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-08-26",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-08-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_214_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_214_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-26-aout-2014/reponse-du-conseil-detat-a-linterpellation-amelie-cherbuin-fermeture-du-poste-de-gendarmerie-de-coppet-la-securite-sera-t-elle-toujours-assuree-pour-les-habitants-de-terre-sainte",
+  "communes": [
+    {
+      "ofs": 5712,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5713,
+      "origine": "document"
+    },
+    {
+      "ofs": 5707,
+      "origine": "document"
+    },
+    {
+      "ofs": 5853,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5705,
+      "origine": "document"
+    },
+    {
+      "ofs": 5711,
+      "origine": "document"
+    },
+    {
+      "ofs": 5723,
+      "origine": "document"
+    },
+    {
+      "ofs": 5729,
+      "origine": "document"
+    }
+  ]
+}

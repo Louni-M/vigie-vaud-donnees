@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222472,
+  "numero": "11_MOT_150",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2012-05-22"
+  },
+  "depose": "2011-11-22",
+  "titre": "Consolider les droits des salarié-e-s vaudois dans les procédures de licenciements collectifs",
+  "contributeurs": [
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-11-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-05-22",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2012-05-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_150_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2012-05-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_150_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2012-05-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_150_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-11-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_150_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-22-mai-2012/motion-nicolas-rochat-consolider-les-droits-des-salarie-e-s-vaudois-dans-les-procedures-de-licenciements-collectifs",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

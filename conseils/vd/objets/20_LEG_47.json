@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225277,
+  "numero": "20_LEG_47",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-03-16"
+  },
+  "depose": "2020-02-04",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'État un crédit d’ouvrage de CHF 3'800’000.- pour financer les travaux de réhabilitation de la RC 253-C-P entre le lieu-dit La Merlaz et Baulmes sur le territoire de la commune de Baulmes",
+  "contributeurs": [
+    {
+      "nom": "Circé Fuchs",
+      "parti": "V'L",
+      "role": "Rapporteurs de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Séverine Evéquoz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Séverine Evéquoz",
+      "parti": "VER",
+      "role": "Rapporteurs de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-02-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-02-11",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2020-02-25",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2021-03-16",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/47_TexteCe.pdf"
+    },
+    {
+      "titre": "Tableau miroir avant 3e débat",
+      "date": "2020-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/47_TableauMiroir_avant_3e_debat.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/45-47_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/45-47_RC_maj.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-04-20",
+      "lien": "https://www.sonomix.ch/live/gcvd/1803#1376"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-03-16",
+      "lien": "https://www.sonomix.ch/live/gcvd/1757#6618"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/7e4a1c59-9a5c-4a93-982f-8c5fe957a3fe/meeting/1000556",
+  "communes": [
+    {
+      "ofs": 5745,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

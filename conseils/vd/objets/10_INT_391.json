@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221874,
+  "numero": "10_INT_391",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-01-25"
+  },
+  "depose": "2010-05-18",
+  "titre": "Réponse du Conseil d'Etat à l'interpellation Fabienne Despot : Schengen, bénéfice ou désastre ?",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2010-05-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-05-18",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-01-25",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2010-05-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_391_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-01-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_391_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-25-janvier-2011/reponse-du-conseil-detat-a-linterpellation-fabienne-despot-schengen-benefice-ou-desastre",
+  "communes": [
+    {
+      "ofs": 5723,
+      "origine": "document"
+    },
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

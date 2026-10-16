@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221654,
+  "numero": "09_INT_295",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-12-14"
+  },
+  "depose": "2009-11-10",
+  "titre": "De la mendicité qui s'invite dans les trains entre Lausanne et Genève",
+  "contributeurs": [
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-11-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-11-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-12-14",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2009-11-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_295_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-12-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_295_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seances-des-14-et-15-decembre-2010/reponse-du-conseil-detat-a-linterpellation-gabriel-poncet-mendicite-dans-les-trains-entre-lausanne-et-geneve",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221895,
+  "numero": "10_INT_411",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-06-28"
+  },
+  "depose": "2010-08-31",
+  "titre": "Réponse du Conseil d'Etat à l'interpellation Philippe Martinet en faveur d'une approche dynamique de la conservation des ouvrages d'art historiques, à partir de l'exemple du Pont Farbel à Gland-Vich",
+  "contributeurs": [
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-08-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-08-31",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-06-28",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_411_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_411_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-28-juin-2011/reponse-du-conseil-detat-a-linterpellation-philippe-martinet-en-faveur-dune-approche-dynamique-de-la-conservation-des-ouvrages-dart-historiques",
+  "communes": [
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5732,
+      "origine": "document"
+    },
+    {
+      "ofs": 5725,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

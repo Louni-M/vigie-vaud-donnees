@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225177,
+  "numero": "20_INT_463",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2020-03-10"
+  },
+  "depose": "2020-03-03",
+  "titre": "Transformez cette autoroute que je ne saurais voir !",
+  "contributeurs": [
+    {
+      "nom": "Rebecca Joly",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-03-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-03-10",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_463_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-09-20",
+      "lien": "https://www.sonomix.ch/live/gcvd/2181#2357"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/fe4c1a51-7599-4bd5-a299-67e0c058c706/meeting/1012633",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5627,
+      "origine": "document"
+    }
+  ]
+}

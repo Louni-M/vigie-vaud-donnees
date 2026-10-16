@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225410,
+  "numero": "20_POS_222",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Non pris en considération",
+    "date": "2021-06-23"
+  },
+  "depose": "2020-08-25",
+  "titre": "Pour une police qui reflète la diversité de la population vaudoise et actrice dans la lutte contre les discriminations",
+  "contributeurs": [
+    {
+      "nom": "Carine Carvalho",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Eric Sonnay",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alice Genoud",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-08-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-09-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-06-23",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-23",
+      "lien": "http://www.sonomix.ch/live/gcvd/1877#699"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2020-09-01",
+      "lien": "https://www.sonomix.ch/live/gcvd/1549#2274"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5e4e03f0-d46a-4d58-8af5-615eacf6d410/meeting/1003921",
+  "communes": [
+    {
+      "ofs": 5892,
+      "origine": "document"
+    },
+    {
+      "ofs": 5861,
+      "origine": "document"
+    }
+  ]
+}

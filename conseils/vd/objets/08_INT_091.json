@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221364,
+  "numero": "08_INT_091",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2008-11-11"
+  },
+  "depose": "2008-05-06",
+  "titre": "L'installation d'une STEP liée à l'agrandissement de l'usine Merck-Serono à Corsier-sur-Vevey",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2008-05-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-11-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-09-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_4_novembre_2008/08_INT_091_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2008-05-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_6_mai_2008/08_INT_091.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-11-novembre-2008/reponse-du-conseil-detat-a-linterpellation-olivier-epars-1",
+  "communes": [
+    {
+      "ofs": 5884,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

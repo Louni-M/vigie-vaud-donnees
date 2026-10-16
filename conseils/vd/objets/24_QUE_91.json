@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228009,
+  "numero": "24_QUE_91",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-02-26"
+  },
+  "depose": "2024-12-04",
+  "titre": "Que pense la Conseil d'Etat des canapés forestiers ?",
+  "contributeurs": [
+    {
+      "nom": "Jacques-André Haury",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-12-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-02-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-02-26",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.vs.ch/web/sfnp/canapes-forestiers",
+      "date": "2024-12-04",
+      "lien": "https://www.vs.ch/web/sfnp/canapes-forestiers"
+    },
+    {
+      "titre": "Canapés forestiers",
+      "date": "2025-02-26",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2289348"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e98549c6-f950-4821-9dd5-ae106e0859a0/meeting/1026869",
+  "communes": []
+}

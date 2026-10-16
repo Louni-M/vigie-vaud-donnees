@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221573,
+  "numero": "09_INT_183",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-11-02"
+  },
+  "depose": "2009-02-03",
+  "titre": "Au Conseil d'Etat d'annoncer ses intentions dans l'extension des activités ambulatoires du CHUV",
+  "contributeurs": [
+    {
+      "nom": "Jacques-André Haury",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jacques-André Haury",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-02-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-02-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-11-02",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_183_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_3_fevrier_2009/09_INT_183_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-2-novembre-2010/reponse-du-conseil-detat-a-linterpellation-jacques-andre-haury-activites-ambulatoires-du-chuv",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

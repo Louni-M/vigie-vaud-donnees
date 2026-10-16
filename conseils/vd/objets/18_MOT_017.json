@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224411,
+  "numero": "18_MOT_017",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2019-01-08"
+  },
+  "depose": "2018-01-23",
+  "titre": "Obsolescence non programmée de la Loi sur la profession d'architecte",
+  "contributeurs": [
+    {
+      "nom": "Jean-Daniel Carrard",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-01-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-01-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-01-08",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-01-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_017_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-01-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_017_Obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-01-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_017_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-8-janvier-2019/motion-etienne-raess-et-consorts-obsolescence-non-programmee-de-la-loi-sur-la-profession-darchitecte",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5723,
+      "origine": "document"
+    }
+  ]
+}

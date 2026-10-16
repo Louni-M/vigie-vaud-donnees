@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222414,
+  "numero": "11_LEG_367",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-03-08"
+  },
+  "depose": "2011-03-08",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit d'ouvrage de CHF 20'400'000.- pour la 2e étape de la réhabilitation et la correction routière au lieu-dit \"La Chaudanne\", ainsi que pour la réhabilitation et la correction du virage au lieu-dit \"Les Rez\" sur la commune de Rossinière (RC 702a)",
+  "contributeurs": [
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-03-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-03-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-03-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/367_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-03-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/367_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-8-mars-2011/expose-des-motifs-et-projet-de-decret-rehabilitation-et-correction-routiere-la-chaudanne",
+  "communes": [
+    {
+      "ofs": 5842,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5841,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

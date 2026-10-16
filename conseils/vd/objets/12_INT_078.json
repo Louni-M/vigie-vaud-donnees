@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222685,
+  "numero": "12_INT_078",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-08-27"
+  },
+  "depose": "2012-12-05",
+  "titre": "Fermeture du guichet de la gare de Moudon, le Conseil d'Etat regardera-t-il passer les trains sans réagir ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marc Chollet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Marc Chollet",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-12-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-12-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-08-27",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-08-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_078_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-12-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_078_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-27-aout-2013/reponse-du-conseil-detat-a-linterpellation-jean-marc-chollet-fermeture-du-guichet-de-la-gare-de-moudon-le-conseil-detat-regardera-t-il-passer-les-trains-sans-reagir",
+  "communes": [
+    {
+      "ofs": 5678,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    }
+  ]
+}

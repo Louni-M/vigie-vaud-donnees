@@ -1,0 +1,322 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5873,
+  "objets": [
+    {
+      "cle": "vd/24_LEG_213",
+      "numero": "24_LEG_213",
+      "type": "Décret/Loi",
+      "depose": "2025-11-25",
+      "titre": "Et projet de décret sur la fusion des communes de L’Abbaye, Le Chenit et Le Lieu et projet de loi modifiant la loi du 30 mai 2006 sur le découpage territorial",
+      "auteurs": [
+        {
+          "nom": "Sébastien Cala",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-11-25"
+      },
+      "derniere_etape": "2025-11-25",
+      "communes": [
+        {
+          "ofs": 5871,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5872,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5873,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_QUE_28",
+      "numero": "23_QUE_28",
+      "type": "Simple question",
+      "depose": "2023-05-30",
+      "titre": "Accueil de jour : l'offre pour les 1P-4P est-elle optimisée ?",
+      "auteurs": [
+        {
+          "nom": "Sébastien Cala",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2023-07-05"
+      },
+      "derniere_etape": "2023-07-05",
+      "communes": [
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_506",
+      "numero": "20_INT_506",
+      "type": "Interpellation",
+      "depose": "2020-08-25",
+      "titre": "Gestion intégrée de l'Orbe : quel bilan sept ans après la signature de la convention intercommunale ?",
+      "auteurs": [
+        {
+          "nom": "Sébastien Cala",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2021-04-27"
+      },
+      "derniere_etape": "2021-04-27",
+      "communes": [
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_POS_032",
+      "numero": "18_POS_032",
+      "type": "Postulat",
+      "depose": "2018-02-06",
+      "titre": "Pour une réforme des Conseils généraux (art. 118ss L",
+      "auteurs": [
+        {
+          "nom": "Jean Tschopp",
+          "parti": null
+        },
+        {
+          "nom": "Jean Tschopp",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-11-20"
+      },
+      "derniere_etape": "2018-11-20",
+      "communes": [
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_RAP_23",
+      "numero": "18_RAP_23",
+      "type": "Rapport",
+      "depose": "2018-06-05",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Dominique Richard Bonny et consorts - Eau lac des Rousses Haut",
+      "auteurs": [
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": null
+        },
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2018-06-05"
+      },
+      "derniere_etape": "2018-06-05",
+      "communes": [
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_192",
+      "numero": "13_INT_192",
+      "type": "Interpellation",
+      "depose": "2013-12-10",
+      "titre": "Quel soutien pour les communes qui attendent le versement de l'impôt sur les frontaliers ?",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-12-10"
+      },
+      "derniere_etape": "2013-12-10",
+      "communes": [
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_322",
+      "numero": "10_LEG_322",
+      "type": "Décret/Loi",
+      "depose": "2010-11-09",
+      "titre": "Exposé des motifs et projet de décret sur la dissolution de la fraction de commune du village des Charbonnières",
+      "auteurs": [
+        {
+          "nom": "Jean-François Cachin",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Jean-François Cachin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-11-09"
+      },
+      "derniere_etape": "2010-11-09",
+      "communes": [
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5486,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_RAP_264",
+      "numero": "10_RAP_264",
+      "type": "Rapport",
+      "depose": "2010-10-05",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Dominique Bonny et consorts demandant quelles mesures le Conseil d'Etat entend prendre pour réguler le débit minimum et la qualité sanitaire de l'Orbe supérieure",
+      "auteurs": [
+        {
+          "nom": "Anne Décosterd",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-05"
+      },
+      "derniere_etape": "2010-10-05",
+      "communes": [
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

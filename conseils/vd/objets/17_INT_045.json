@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228616,
+  "numero": "17_INT_045",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-05-22"
+  },
+  "depose": "2017-10-24",
+  "titre": "Introduction du vote électronique dans le canton de Vaud : CHvote (GE) versus La Poste",
+  "contributeurs": [
+    {
+      "nom": "Manuel Donzé",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Manuel Donzé",
+      "parti": "AdC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-10-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-22",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-05-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_INT_045_TexteCE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-22-mai-2018/reponse-du-conseil-detat-a-linterpellation-manuel-donze-au-nom-du-groupe-pdc-vaud-libre-et-consorts-introduction-du-vote-electronique-dans-le-canton-de-vaud-chvote-ge-versus-la-poste",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

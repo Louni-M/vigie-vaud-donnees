@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223672,
+  "numero": "15_POS_135",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2016-05-31"
+  },
+  "depose": "2015-09-01",
+  "titre": "Logements protégés avant 2030",
+  "contributeurs": [
+    {
+      "nom": "Hans Rudolf Kappeler",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Hans Rudolf Kappeler",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-10-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-05-31",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_135_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_135_Obj_et_d%C3%A9v.PDF"
+    },
+    {
+      "titre": "Objet ",
+      "date": "2015-10-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_135_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-31-mai-2016/postulat-filip-uffer-et-consorts-logements-proteges-avant-2030",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

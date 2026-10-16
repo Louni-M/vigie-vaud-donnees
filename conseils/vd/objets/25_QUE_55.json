@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228377,
+  "numero": "25_QUE_55",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-08-20"
+  },
+  "depose": "2025-06-17",
+  "titre": "Suppression des prix pour les apprenti·es",
+  "contributeurs": [
+    {
+      "nom": "Hadrien Buclin",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-06-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-08-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Prix pour les apprenties et apprentis",
+      "date": "2025-08-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2321880"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/02d3853f-80e2-4d5d-a7c5-31e7c1c3408e/meeting/1026893",
+  "communes": []
+}

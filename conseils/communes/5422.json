@@ -1,0 +1,1474 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5422,
+  "objets": [
+    {
+      "cle": "vd/23_INT_183",
+      "numero": "23_INT_183",
+      "type": "Interpellation",
+      "depose": "2023-12-05",
+      "titre": "Y en a point comme nos fruits !",
+      "auteurs": [
+        {
+          "nom": "Alberto Mocchi",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-08-19"
+      },
+      "derniere_etape": "2025-08-19",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5817,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5732,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_POS_38",
+      "numero": "21_POS_38",
+      "type": "Postulat",
+      "depose": "2021-06-23",
+      "titre": "Pour renforcer la protection des narcisses dans nos prairies",
+      "auteurs": [
+        {
+          "nom": "Léonard Studer",
+          "parti": "VER"
+        },
+        {
+          "nom": "Stéphane Montangero",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2025-05-07"
+      },
+      "derniere_etape": "2025-05-07",
+      "communes": [
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5745,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_QUE_11",
+      "numero": "24_QUE_11",
+      "type": "Simple question",
+      "depose": "2024-01-30",
+      "titre": "Des projets autoroutiers au détriment de l'agriculture ?",
+      "auteurs": [
+        {
+          "nom": "Romain Pilloud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2024-03-20"
+      },
+      "derniere_etape": "2024-03-20",
+      "communes": [
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5627,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_POS_8",
+      "numero": "24_POS_8",
+      "type": "Postulat",
+      "depose": "2024-02-27",
+      "titre": "Fermeture de l’abattoir de Clarens, projet d’un nouvel abattoir à Aubonne : une politique cantonale des abattoirs de proximité serait utile afin de construire un système alimentaire durable",
+      "auteurs": [
+        {
+          "nom": "Anna Perret",
+          "parti": "VER"
+        },
+        {
+          "nom": "Nicolas Bolay",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2024-03-05"
+      },
+      "derniere_etape": "2024-03-05",
+      "communes": [
+        {
+          "ofs": 5422,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_POS_67",
+      "numero": "21_POS_67",
+      "type": "Postulat",
+      "depose": "2021-12-21",
+      "titre": "De l’usage de l’histoire dans le secondaire I vaudois ou comment éviter que cela ne devienne la MER à boire",
+      "auteurs": [
+        {
+          "nom": "Felix Stürner",
+          "parti": "VER"
+        },
+        {
+          "nom": "Cédric Weissert",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2023-12-20"
+      },
+      "derniere_etape": "2023-12-20",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5415,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_42",
+      "numero": "23_INT_42",
+      "type": "Interpellation",
+      "depose": "2023-03-14",
+      "titre": "Un avenir pour les abattoirs locaux?",
+      "auteurs": [
+        {
+          "nom": "Anna Perret",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-06-21"
+      },
+      "derniere_etape": "2023-06-21",
+      "communes": [
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5762,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_LEG_131",
+      "numero": "22_LEG_131",
+      "type": "Décret/Loi",
+      "depose": "2023-06-20",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d’ouvrage de CHF 6'500'000.- pour financer la mise aux normes et la transformation de la piste d’exercices de la protection civile vaudoise au Centre de compétence de la protection de la population (CCPP) de Gollion",
+      "auteurs": [
+        {
+          "nom": "Jerome De Benedictis",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-06-20"
+      },
+      "derniere_etape": "2023-06-20",
+      "communes": [
+        {
+          "ofs": 5484,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_73",
+      "numero": "22_INT_73",
+      "type": "Interpellation",
+      "depose": "2022-05-17",
+      "titre": "Quel(s) contrôle(s) pour les exploitations de poules pondeuses de notre canton ?",
+      "auteurs": [
+        {
+          "nom": "Jean-Marc Nicolet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-10-05"
+      },
+      "derniere_etape": "2022-10-05",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5589,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_71",
+      "numero": "22_INT_71",
+      "type": "Interpellation",
+      "depose": "2022-05-17",
+      "titre": "Quelle politique cantonale en matière de recyclage des briques alimentaires ?",
+      "auteurs": [
+        {
+          "nom": "Yannick Maury",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-08-31"
+      },
+      "derniere_etape": "2022-08-31",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5589,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_MOT_068",
+      "numero": "15_MOT_068",
+      "type": "Motion",
+      "depose": "2015-06-30",
+      "titre": "Oui à un ASP dans un véhicule lors des contrôles radars immobiles pour excès de vitesse sans interception des contrevenants",
+      "auteurs": [
+        {
+          "nom": "Albert Chapalay",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Albert Chapalay",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2021-07-07"
+      },
+      "derniere_etape": "2021-07-07",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_POS_060",
+      "numero": "08_POS_060",
+      "type": "Postulat",
+      "depose": "2008-04-29",
+      "titre": "Intitulé des bus scolaires pour tous",
+      "auteurs": [
+        {
+          "nom": "Mireille Aubert",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Mireille Aubert",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2021-04-21"
+      },
+      "derniere_etape": "2021-04-21",
+      "communes": [
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5429,
+          "origine": "document"
+        },
+        {
+          "ofs": 5851,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_144",
+      "numero": "19_LEG_144",
+      "type": "Décret/Loi",
+      "depose": "2019-12-17",
+      "titre": "Exposé des motifs et projet de décret abrogeant celui du 6 décembre 2000 sur le regroupement de l'Ecole romande de pharmacie et Rapport du CE au GC sur le postulat Catherine Labouchère et consorts « Ecole de pharmacie Genève-Lausanne (EPGL) : bilan et suites de la période transitoire »",
+      "auteurs": [
+        {
+          "nom": "Olivier Mayor",
+          "parti": "VER"
+        },
+        {
+          "nom": "Olivier Mayor",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-12-17"
+      },
+      "derniere_etape": "2019-12-17",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5646,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_LEG_54",
+      "numero": "18_LEG_54",
+      "type": "Décret/Loi",
+      "depose": "2018-11-06",
+      "titre": "Exposé des motifs et projet de décret ordonnant la convocation des électeurs pour se prononcer sur l'initiative populaire « Pour un canton sans extraction d'hydrocarbures »",
+      "auteurs": [
+        {
+          "nom": "Jean-François Chapuisat",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Jean-François Chapuisat",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Transmise au CE",
+        "date": "2018-11-13"
+      },
+      "derniere_etape": "2018-11-13",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5863,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_087",
+      "numero": "17_INT_087",
+      "type": "Interpellation",
+      "depose": "2017-12-19",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Thierry Dubois – La police est-elle et se sent-elle soutenue tant par sa hiérarchie que pas nos conseillers d'Etat afin de répondre au plus près aux droits et devoirs de chacun, avec une autorité suffisante lors de manifestations non autorisées et radicalisées pratiquées par des manifestants dans un lieu privé ?",
+      "auteurs": [
+        {
+          "nom": "Conseil d'État",
+          "parti": null
+        },
+        {
+          "nom": "Thierry Dubois",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-29"
+      },
+      "derniere_etape": "2018-05-29",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5732,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_POS_106",
+      "numero": "15_POS_106",
+      "type": "Postulat",
+      "depose": "2015-03-10",
+      "titre": "Quelle efficacité pour la police coordonnée ?",
+      "auteurs": [
+        {
+          "nom": "Jean-François Cachin",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Jean-François Cachin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-05-10"
+      },
+      "derniere_etape": "2016-05-10",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5904,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_136",
+      "numero": "13_INT_136",
+      "type": "Interpellation",
+      "depose": "2013-06-11",
+      "titre": "Organismes de développement économique régionaux : quel partenariat avec les instances cantonales et quelle gouvernance ?",
+      "auteurs": [
+        {
+          "nom": "Dominique-Ella Christin",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Dominique-Ella Christin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-05-27"
+      },
+      "derniere_etape": "2014-05-27",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_LEG_20",
+      "numero": "13_LEG_20",
+      "type": "Décret/Loi",
+      "depose": "2013-05-14",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 1'400'000.- pour le projet de développement régional agricole (PDRA) de valorisation des produits du Pied du Jura / Montricher et région",
+      "auteurs": [
+        {
+          "nom": "Catherine Aellen",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Catherine Aellen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-05-21"
+      },
+      "derniere_etape": "2013-05-21",
+      "communes": [
+        {
+          "ofs": 5492,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_MOT_151",
+      "numero": "11_MOT_151",
+      "type": "Motion",
+      "depose": "2011-11-22",
+      "titre": "Pour un concept énergétique communal et régional ayant valeur légale",
+      "auteurs": [
+        {
+          "nom": "Alexis Bally",
+          "parti": "VER"
+        },
+        {
+          "nom": "Alexis Bally",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2013-01-22"
+      },
+      "derniere_etape": "2013-01-22",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_587",
+      "numero": "11_INT_587",
+      "type": "Interpellation",
+      "depose": "2012-01-24",
+      "titre": "Pourquoi tant d'attente au CHUV ?",
+      "auteurs": [
+        {
+          "nom": "Christa Calpini",
+          "parti": null
+        },
+        {
+          "nom": "Christa Calpini",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-11-20"
+      },
+      "derniere_etape": "2012-11-20",
+      "communes": [
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_632",
+      "numero": "11_INT_632",
+      "type": "Interpellation",
+      "depose": "2012-05-01",
+      "titre": "Petites ou grandes infractions à répétition : certains services de l'Etat doivent-ils continuer à subir ?",
+      "auteurs": [
+        {
+          "nom": "Claudine Dind",
+          "parti": null
+        },
+        {
+          "nom": "Claudine Dind",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-11-06"
+      },
+      "derniere_etape": "2012-11-06",
+      "communes": [
+        {
+          "ofs": 5634,
+          "origine": "document"
+        },
+        {
+          "ofs": 5428,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_405",
+      "numero": "10_INT_405",
+      "type": "Interpellation",
+      "depose": "2010-08-24",
+      "titre": "Résoudre le \"Rubik's Cube\" de la carte hospitalière vaudoise ?",
+      "auteurs": [
+        {
+          "nom": "Conseil d'État",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-01-24"
+      },
+      "derniere_etape": "2012-01-24",
+      "communes": [
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5857,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_415",
+      "numero": "12_LEG_415",
+      "type": "Décret/Loi",
+      "depose": "2012-01-10",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 5'578'000.- pour financer les travaux d'élimination de trois points noirs du réseau routier cantonal vaudois hors traversée de localité (RC 19: Trélex, giratoires des Migerendes et du Derby, RC 254: tronçon Essert-sous-Champvent - Peney)",
+      "auteurs": [
+        {
+          "nom": "Jacques Perrin",
+          "parti": null
+        },
+        {
+          "nom": "Jacques Perrin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-01-10"
+      },
+      "derniere_etape": "2012-01-10",
+      "communes": [
+        {
+          "ofs": 5730,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5905,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_MOT_102",
+      "numero": "10_MOT_102",
+      "type": "Motion",
+      "depose": "2010-03-02",
+      "titre": "Invitant le Conseil d'Etat à créer dans son administration de nouvelles places d'apprentissage, destinées en priorité aux écoliers issus de voies défavorisées sur le marché actuel de l'emploi",
+      "auteurs": [
+        {
+          "nom": "Isabelle Chevalley",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2010-12-21"
+      },
+      "derniere_etape": "2010-12-21",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_291",
+      "numero": "10_LEG_291",
+      "type": "Décret/Loi",
+      "depose": "2010-10-12",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes d'Aubonne et Pizy (Aubonne)",
+      "auteurs": [
+        {
+          "nom": "Valérie Schwaar",
+          "parti": null
+        },
+        {
+          "nom": "Valérie Schwaar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-12"
+      },
+      "derniere_etape": "2010-10-12",
+      "communes": [
+        {
+          "ofs": 5422,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5427,
+          "origine": "document"
+        },
+        {
+          "ofs": 5792,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_MOT_089",
+      "numero": "09_MOT_089",
+      "type": "Motion",
+      "depose": "2010-01-12",
+      "titre": "Pour un fonds cantonal pour l'assainissement énergétique des bâtiments communaux",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        },
+        {
+          "nom": "Jacques Nicolet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2010-10-12"
+      },
+      "derniere_etape": "2010-10-12",
+      "communes": [
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5589,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_MOT_104",
+      "numero": "10_MOT_104",
+      "type": "Motion",
+      "depose": "2010-03-09",
+      "titre": "L'entretien des routes cantonales en traversée de localités et demandant qui fait quoi",
+      "auteurs": [
+        {
+          "nom": "Michel Renaud",
+          "parti": null
+        },
+        {
+          "nom": "Michel Renaud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2010-09-28"
+      },
+      "derniere_etape": "2010-09-28",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5607,
+          "origine": "document"
+        },
+        {
+          "ofs": 5828,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_266",
+      "numero": "10_LEG_266",
+      "type": "Décret/Loi",
+      "depose": "2010-04-27",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 6'000'000 pour financer en 2010 des investissements périodiques lourds dans des hôpitaux privés reconnus d'intérêt public",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-05-04"
+      },
+      "derniere_etape": "2010-05-04",
+      "communes": [
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_INT_175",
+      "numero": "08_INT_175",
+      "type": "Interpellation",
+      "depose": "2009-01-13",
+      "titre": "La nouvelle définition de la réglementation de la vérification des AOC viticoles",
+      "auteurs": [
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-03-02"
+      },
+      "derniere_etape": "2010-03-02",
+      "communes": [
+        {
+          "ofs": 5427,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5553,
+          "origine": "document"
+        },
+        {
+          "ofs": 5828,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_254",
+      "numero": "09_INT_254",
+      "type": "Interpellation",
+      "depose": "2009-05-26",
+      "titre": "Demandant à quand le port du masque antipollution et des tampons auriculaires pour les habitants d'Aubonne",
+      "auteurs": [
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-01-26"
+      },
+      "derniere_etape": "2010-01-26",
+      "communes": [
+        {
+          "ofs": 5422,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5646,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5851,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_INT_058",
+      "numero": "08_INT_058",
+      "type": "Interpellation",
+      "depose": "2009-06-09",
+      "titre": "Le stakhanovisme du SDT",
+      "auteurs": [
+        {
+          "nom": "Christian Streit",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-10-06"
+      },
+      "derniere_etape": "2009-10-06",
+      "communes": [
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_INT_061",
+      "numero": "08_INT_061",
+      "type": "Interpellation",
+      "depose": "2008-10-28",
+      "titre": "Le Littoral Parc",
+      "auteurs": [
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": null
+        },
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2008-11-11"
+      },
+      "derniere_etape": "2008-11-11",
+      "communes": [
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5646,
+          "origine": "document"
+        },
+        {
+          "ofs": 5851,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_INT_070",
+      "numero": "08_INT_070",
+      "type": "Interpellation",
+      "depose": "2008-10-07",
+      "titre": "ACI, administration centralisée ou de proximité ?",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2008-10-07"
+      },
+      "derniere_etape": "2008-10-07",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

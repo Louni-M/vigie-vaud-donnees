@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228797,
+  "numero": "9_LEG_204",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2009-12-15"
+  },
+  "depose": "2009-12-15",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 1'800'000.- pour la réhabilitation de la RC 29 entre La Condémine et Le Martinet, sur le territoire des communes de Coinsins et de Genolier",
+  "contributeurs": [
+    {
+      "nom": "Bertrand Clot",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Bertrand Clot",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-12-15",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/204_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/204_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seances-des-15-et-16-decembre-2009/expose-des-motifs-et-projet-de-decret-rehabilitation-de-la-rc-29",
+  "communes": [
+    {
+      "ofs": 5710,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5718,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5715,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

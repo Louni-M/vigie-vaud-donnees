@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224758,
+  "numero": "19_LEG_72",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-03-26"
+  },
+  "depose": "2019-03-12",
+  "titre": "Exposé des motifs et projet de décret sur le plan stratégique pluriannuel 2017-2022 de l'Université de Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Florence Bettschart-Narbel",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Florence Bettschart-Narbel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Florence Bettschart-Narbel",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-03-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-03-26",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-03-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/72_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-03-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/72_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-26-mars-2019/expose-des-motifs-et-projet-de-decret-sur-le-plan-strategique-pluriannuel-2017-2022-de-luniversite-de-lausanne",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5584,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

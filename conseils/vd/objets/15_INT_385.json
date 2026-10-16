@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223463,
+  "numero": "15_INT_385",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-01-19"
+  },
+  "depose": "2015-05-12",
+  "titre": "Quelle évaluation du programme cantonal de la Petite enfance ?",
+  "contributeurs": [
+    {
+      "nom": "Claire Attinger Doepper",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Claire Attinger Doepper",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-05-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-05-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-01-19",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-01-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_385_Texte_CE_01.PDF"
+    },
+    {
+      "titre": "Objet ",
+      "date": "2015-05-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_385_D%C3%A9p%C3%B4t.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-19-janvier-2016/reponse-du-conseil-detat-a-linterpellation-claire-attinger-doepper-et-consorts-quelle-evaluation-du-programme-cantonal-de-la-petite-enfance",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

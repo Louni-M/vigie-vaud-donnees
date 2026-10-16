@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225684,
+  "numero": "21_INT_53",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-07-07"
+  },
+  "depose": "2021-04-20",
+  "titre": "Se faire le portrait…pour l’oublier ?",
+  "contributeurs": [
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-04-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-04-27",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-07-07",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-04-27",
+      "lien": "https://www.sonomix.ch/live/gcvd/1807#1411"
+    },
+    {
+      "titre": "Collection de portraits d’anciens professeurs de l’Académie de Lausanne de la Salle du Sénat au Palais de Rumine",
+      "date": "2021-07-07",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2065805"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/0089cc03-1e73-4623-b4c2-2d4e343c84c1/meeting/1004422",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5582,
+      "origine": "document"
+    },
+    {
+      "ofs": 5675,
+      "origine": "document"
+    }
+  ]
+}

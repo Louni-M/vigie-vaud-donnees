@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222731,
+  "numero": "12_LEG_483",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2012-12-11"
+  },
+  "depose": "2012-11-27",
+  "titre": "Exposé des motifs et projet de loi sur l'éducation physique et le sport etRapport du Conseil d'Etat au Grand Conseil sur- la motion Pierre Volet et consorts pour un soutien important aux infrastructures sportives en général et tout particulièrement à l'aide à la construction de piscines dans le canton",
+  "contributeurs": [
+    {
+      "nom": "Jean-Michel Favez",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Michel Favez",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-11-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-12-11",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/483_Texte_CE.pdf"
+    },
+    {
+      "titre": "Tableau miroir avant le 2ème débat",
+      "date": "2012-12-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/483_Tableau_avant_2%C3%A8me_d%C3%A9bat.pdf"
+    },
+    {
+      "titre": "Tableau miroir avant le 1er débat",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/483_Tableau_1.PDF"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/483_RC.PDF"
+    },
+    {
+      "titre": "Loi adoptée par le Grand Conseil le 18.12.12",
+      "date": "2012-12-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/483_FAO.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-18-decembre-2012/expose-des-motifs-et-projet-de-loi-sur-leducation-physique-et-le-sport",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5709,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228821,
+  "numero": "9_LEG_98",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2009-03-03"
+  },
+  "depose": "2009-03-03",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi sur la police cantonale du 17 novembre 1975 en vue de percevoir des frais d'intervention",
+  "contributeurs": [
+    {
+      "nom": "Gloria Capt",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Mattenberger",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-03-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-03-03",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_3_mars_2009/98_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/RC-98_min.PDF"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/RC-98_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-10-mars-2009/expose-des-motifs-et-projet-de-loi-police-cantonale",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

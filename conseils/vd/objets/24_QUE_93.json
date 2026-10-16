@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227972,
+  "numero": "24_QUE_93",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-01-20"
+  },
+  "depose": "2024-12-04",
+  "titre": "Futur tronçon CFF Lausanne-Genève - Quelles perspectives chronologiques ?",
+  "contributeurs": [
+    {
+      "nom": "Romain Pilloud",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-12-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-01-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Ligne ferroviaire Lausanne-Genève",
+      "date": "2025-01-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2282572"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/710eb7a9-8ffb-4318-9b28-83b1806b1d15/meeting/1026869",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5860,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

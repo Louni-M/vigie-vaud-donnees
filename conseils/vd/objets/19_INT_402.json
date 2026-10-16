@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228717,
+  "numero": "19_INT_402",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-03-03"
+  },
+  "depose": "2019-10-08",
+  "titre": "Unireso ou un réseau désuni",
+  "contributeurs": [
+    {
+      "nom": "Pierre-André Romanens",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierre-André Romanens",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-10-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-02-05",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-03-03",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_402_TexteCE.pdf"
+    },
+    {
+      "titre": "Hausse des prix des abonnements Terre Sainte à la suite de l'abandon du tarif Unireso",
+      "date": "2020-02-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=397563"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-3-mars-2020/reponse-du-conseil-detat-a-linterpellation-pierre-andre-romanens-et-consorts-unireso-ou-un-reseau-desuni",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5712,
+      "origine": "document"
+    },
+    {
+      "ofs": 5729,
+      "origine": "document"
+    },
+    {
+      "ofs": 5723,
+      "origine": "document"
+    }
+  ]
+}

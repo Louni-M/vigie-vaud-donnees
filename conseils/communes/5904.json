@@ -1,0 +1,284 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5904,
+  "objets": [
+    {
+      "cle": "vd/21_INT_90",
+      "numero": "21_INT_90",
+      "type": "Interpellation",
+      "depose": "2021-06-23",
+      "titre": "Il faut fermer la place de tir de Vugelles-la-Mothe",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-12-08"
+      },
+      "derniere_etape": "2021-12-08",
+      "communes": [
+        {
+          "ofs": 5904,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5924,
+          "origine": "document"
+        },
+        {
+          "ofs": 5552,
+          "origine": "document"
+        },
+        {
+          "ofs": 5560,
+          "origine": "document"
+        },
+        {
+          "ofs": 5564,
+          "origine": "document"
+        },
+        {
+          "ofs": 5634,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_171",
+      "numero": "18_INT_171",
+      "type": "Interpellation",
+      "depose": "2018-05-08",
+      "titre": "Spécialistes en gériatrie où en est-on pour faire face aux besoins ?",
+      "auteurs": [
+        {
+          "nom": "Catherine Labouchère",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Catherine Labouchère",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-02"
+      },
+      "derniere_etape": "2019-04-02",
+      "communes": [
+        {
+          "ofs": 5904,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_POS_106",
+      "numero": "15_POS_106",
+      "type": "Postulat",
+      "depose": "2015-03-10",
+      "titre": "Quelle efficacité pour la police coordonnée ?",
+      "auteurs": [
+        {
+          "nom": "Jean-François Cachin",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Jean-François Cachin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-05-10"
+      },
+      "derniere_etape": "2016-05-10",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5904,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_220",
+      "numero": "14_INT_220",
+      "type": "Interpellation",
+      "depose": "2014-02-04",
+      "titre": "Pourquoi sacrifier la policlinique d'Orbe et environs ?",
+      "auteurs": [
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": null
+        },
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-05-27"
+      },
+      "derniere_etape": "2014-05-27",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5904,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_RAP_77",
+      "numero": "13_RAP_77",
+      "type": "Rapport",
+      "depose": "2013-11-19",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Jacques-André Haury et consorts demandant au Conseil d'Etat d'exploiter les contestations formulées à l'endroit de factures du CHUV dans sa lutte contre la hausse des coûts de la santé",
+      "auteurs": [
+        {
+          "nom": "Catherine Roulet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Catherine Roulet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-11-19"
+      },
+      "derniere_etape": "2013-11-19",
+      "communes": [
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5904,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_PET_027",
+      "numero": "08_PET_027",
+      "type": "Pétition",
+      "depose": "2009-09-15",
+      "titre": "Pétition pour une sécurité accrue de la route Essert-sous-Champvent à Peney au Lieu-dit Le Pilon qui subit année après année de graves accidents",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2009-09-15"
+      },
+      "derniere_etape": "2009-09-15",
+      "communes": [
+        {
+          "ofs": 5766,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5931,
+          "origine": "document"
+        },
+        {
+          "ofs": 5904,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5673,
+  "objets": [
+    {
+      "cle": "vd/10_LEG_283",
+      "numero": "10_LEG_283",
+      "type": "Décret/Loi",
+      "depose": "2010-06-22",
+      "titre": "Exposé des motifs et projet de décret accordant la garantie de l'Etat de Vaud et la prise en charge du service de la dette pour l'emprunt de CHF 10'566'339.-, contracté par l'Association du Centre Intercommunal de Santé l'Oasis (ACISO), pour le financement des travaux de transformation de l'ancien hôpital de Moudon en établissement médico-social",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-06-22"
+      },
+      "derniere_etape": "2010-06-22",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5673,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5688,
+          "origine": "document"
+        },
+        {
+          "ofs": 5692,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

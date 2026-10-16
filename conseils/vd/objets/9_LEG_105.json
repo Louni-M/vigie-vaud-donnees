@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228471,
+  "numero": "9_LEG_105",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-03-10"
+  },
+  "depose": "2009-03-03",
+  "titre": "Exposé des motifs et projet de décrets autorisant le Conseil d'Etat a adhérer à la Convention intercantonale sur l’Hôpital Riviera-Chablais Vaud-Valais pour l'emprunt bancaire de CHF 16,125 millions contracté pour financer le concours et les études en vue de la construction de l'hôpital Riviera-Chablais Vaud-Valais sur le site de Rennaz (amendé suite aux travaux de la Commission interparlementaire Vaud-Valais) etRéponse du Conseil d'Etat à l’interpellation Pierre Rochat et consorts concernant l'avenir des établissements sanitaires privés d'intérêt public",
+  "contributeurs": [
+    {
+      "nom": "Laurent Wehrli",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Laurent Wehrli",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-03-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-03-10",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_24_fevrier_2009/105_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/105_RC.pdf"
+    },
+    {
+      "titre": "Décret sur l'adhésion adopté par le Grand Conseil le 10.03.09",
+      "date": "2009-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/105_Decret_autorisant_adopte.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-10-mars-2009/expose-des-motifs-et-projet-de-decrets-hopital-riviera-chablais-vaud-valais",
+  "communes": [
+    {
+      "ofs": 5412,
+      "origine": "titre"
+    }
+  ]
+}

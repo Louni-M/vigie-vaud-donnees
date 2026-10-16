@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 86164,
+  "numero": "21_INT_18",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-02-09"
+  },
+  "depose": "2021-02-02",
+  "titre": "Au fil de l'eau un village à sauver",
+  "contributeurs": [
+    {
+      "nom": "Anne-Sophie Betschart",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-02-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-02-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-02-09",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-03-29",
+      "lien": "https://www.sonomix.ch/live/gcvd/2086#3269"
+    },
+    {
+      "titre": "Constructions dans les réserves naturelles du lac de Neuchâtel à Yvonand",
+      "date": "2022-02-09",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2101126"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/63cb3327-cf4e-49e2-aa7a-e7428e46a883/meeting/1004433",
+  "communes": [
+    {
+      "ofs": 5939,
+      "origine": "document"
+    },
+    {
+      "ofs": 5561,
+      "origine": "document"
+    },
+    {
+      "ofs": 5813,
+      "origine": "document"
+    }
+  ]
+}

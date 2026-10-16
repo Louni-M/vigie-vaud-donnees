@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224328,
+  "numero": "18_INT_243",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-02-04"
+  },
+  "depose": "2018-09-18",
+  "titre": "Le club des 5G à la conquête du canton de Vaud",
+  "contributeurs": [
+    {
+      "nom": "Sabine Glauser Krug",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Sabine Glauser Krug",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-09-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-01-30",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-02-04",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_243_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-09-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_243_depot.pdf"
+    },
+    {
+      "titre": "Téléphonie mobile 5G et risques pour la santé",
+      "date": "2019-01-30",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=368533"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-4-fevrier-2020/reponse-du-conseil-detat-a-linterpellation-sabine-glauser-krug-le-club-des-5g-a-la-conquete-du-canton-de-vaud",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

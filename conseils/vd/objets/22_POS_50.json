@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226671,
+  "numero": "22_POS_50",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2025-04-09"
+  },
+  "depose": "2022-09-13",
+  "titre": "La région Lausannoise n'aurait-elle pas besoin d'un hôpital de ville?",
+  "contributeurs": [
+    {
+      "nom": "Florence Gross",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Sylvie Podio",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-09-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-09-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-04-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-04-09",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-04-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/2804#7753"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-09-20",
+      "lien": "https://www.sonomix.ch/live/gcvd/2181#1134"
+    },
+    {
+      "titre": "Analyse du Conseil d’État sur les besoins hospitaliers de la région lausannoise",
+      "date": "2025-04-09",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2298582"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f04c3254-39f7-442e-abc4-4cbbab5fab14/meeting/1019566",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5635,
+      "origine": "document"
+    },
+    {
+      "ofs": 5637,
+      "origine": "document"
+    },
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5601,
+      "origine": "document"
+    },
+    {
+      "ofs": 5520,
+      "origine": "document"
+    },
+    {
+      "ofs": 5633,
+      "origine": "document"
+    },
+    {
+      "ofs": 5624,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

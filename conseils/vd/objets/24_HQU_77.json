@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227525,
+  "numero": "24_HQU_77",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2024-09-10"
+  },
+  "depose": "2024-09-03",
+  "titre": "Sols pollués autour de la cimenterie d'Eclépens : quand est-il prévu de lever les doutes ?",
+  "contributeurs": [
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-09-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-09-10",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "24_HQU_77-Texte déposé",
+      "date": "2024-09-10",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2256958"
+    },
+    {
+      "titre": "des résultats inquiétants sur la contamination des sols autour de la cimenterie d'Eclépens",
+      "date": "2024-09-03",
+      "lien": "https://sauvonslemormont.ch/les-champs-pollues-par-les-cimenteries/"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/24012577-bed0-4992-b832-2b4e50f2b353/meeting/1026859",
+  "communes": [
+    {
+      "ofs": 5482,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5529,
+      "origine": "document"
+    }
+  ]
+}

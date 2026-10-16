@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228145,
+  "numero": "25_INT_24",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-08-26"
+  },
+  "depose": "2025-02-25",
+  "titre": "Train d’économies unilatéral au niveau fédéral : quelles répercussions sur les transports publics vaudois ?",
+  "contributeurs": [
+    {
+      "nom": "Laure Jaton",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-02-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-03-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-06-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-04",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-08-26",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-08-26",
+      "lien": "https://www.sonomix.ch/live/gcvd/3174#5605"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-03-04",
+      "lien": "https://www.sonomix.ch/live/gcvd/3055#304"
+    },
+    {
+      "titre": "Conséquences des mesures d’économie de la Confédération sur les transports publics vaudois",
+      "date": "2025-06-04",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2307793"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d1a493e4-10fe-40d0-b595-48637e7f7faa/meeting/1029633",
+  "communes": [
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5651,
+      "origine": "document"
+    }
+  ]
+}

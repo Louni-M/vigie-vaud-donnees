@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224315,
+  "numero": "18_INT_230",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-10-02"
+  },
+  "depose": "2018-09-04",
+  "titre": "Hello POCAMA répondez, nous vous cherchons, ici la protection de la nature, hello POCAMA y a-t-il un pilote dans l'avion ?",
+  "contributeurs": [
+    {
+      "nom": "Olivier Epars",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Olivier Epars",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-09-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-10-02",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_230_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_230_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2020-11-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/1641#6671"
+    },
+    {
+      "titre": "Portail cantonal des manifestations et respect de la législation sur la nature et le paysage",
+      "date": "2019-10-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=387767"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/16381d69-98c9-4c5e-ac58-ab19e6608283/meeting/1000536",
+  "communes": [
+    {
+      "ofs": 5414,
+      "origine": "document"
+    }
+  ]
+}

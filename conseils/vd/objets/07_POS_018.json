@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221335,
+  "numero": "07_POS_018",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Eingereicht",
+    "date": "2008-04-29"
+  },
+  "depose": "2008-04-29",
+  "titre": "La mendicité sur le territoire vaudois",
+  "contributeurs": [
+    {
+      "nom": "François Brélaz",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "François Brélaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-04-29",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-04-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_29_avril08/07_POS_018_Rapport_com.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2008-04-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_29_avril08/07_POS_018_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-29-avril-2008/postulat-francois-brelaz",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

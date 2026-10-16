@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222767,
+  "numero": "12_PET_002",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2012-12-11"
+  },
+  "depose": "2012-12-11",
+  "titre": "Pétition en faveur de la famille Sardaryan",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2012-12-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-12-11",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-12-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_PET_002_RC_new.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-12-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_PET_002_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seances-des-11-et-12-decembre-2012/petition-en-faveur-de-la-famille-sardaryan",
+  "communes": [
+    {
+      "ofs": 5764,
+      "origine": "document"
+    }
+  ]
+}

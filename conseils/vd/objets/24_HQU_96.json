@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227546,
+  "numero": "24_HQU_96",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2024-09-10"
+  },
+  "depose": "2024-09-03",
+  "titre": "Equitim et liens d'intérêt",
+  "contributeurs": [
+    {
+      "nom": "Romain Pilloud",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-09-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-09-10",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/350671e7-e9ab-46ef-a399-561f24d9a7f1/meeting/1026859",
+  "communes": []
+}

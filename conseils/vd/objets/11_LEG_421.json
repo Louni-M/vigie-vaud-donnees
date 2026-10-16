@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222445,
+  "numero": "11_LEG_421",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-11-29"
+  },
+  "depose": "2011-11-22",
+  "titre": "Exposé des motifs et projet de loi modifiant : la loi sur la planification et le financement des établissements sanitaires d'intérêt public (LPFES), la loi du 16 novembre 1993 sur les Hospices cantonaux (LHC)",
+  "contributeurs": [
+    {
+      "nom": "Catherine Roulet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Catherine Roulet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-11-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-22",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2011-11-29",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-11-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/421_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-11-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/421_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-29-novembre-2011/expose-des-motifs-et-projet-de-loi-modifiant-la-loi-sur-la-planification-et-le-financement-des-etablissement-sanitaires-dinteret-public-lpfes",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    },
+    {
+      "ofs": 5841,
+      "origine": "document"
+    },
+    {
+      "ofs": 5568,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222581,
+  "numero": "11_RAP_337",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2011-06-28"
+  },
+  "depose": "2011-04-12",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Philippe Randin et consorts sur la tradition vernaculaire de l'utilisation des tavillons",
+  "contributeurs": [
+    {
+      "nom": "Gabriel Poncet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Gabriel Poncet",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-04-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-06-28",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/337_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/337_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-28-juin-2011/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-philippe-randin-sur-la-tradition-vernaculaire-de-lutilisation-des-tavillons",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

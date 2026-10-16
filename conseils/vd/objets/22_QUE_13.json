@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226706,
+  "numero": "22_QUE_13",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-04-06"
+  },
+  "depose": "2022-03-01",
+  "titre": "Pour une voie cyclable sécurisée entre Tolochenaz et St-Prex",
+  "contributeurs": [
+    {
+      "nom": "Yannick Maury",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-03-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-04-06",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Voie cyclable entre Tolochenaz et St-Prex",
+      "date": "2022-04-06",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2110254"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/3d740add-8895-4c57-99f6-951a05f40a3f/meeting/1004437",
+  "communes": [
+    {
+      "ofs": 5649,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5646,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5851,
+      "origine": "document"
+    },
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5639,
+      "origine": "document"
+    }
+  ]
+}

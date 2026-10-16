@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227335,
+  "numero": "23_QUE_42",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-11-29"
+  },
+  "depose": "2023-09-12",
+  "titre": "Le Canton va-t-il réintroduire la rémunération des acomptes réglés avant l'année fiscale concernée?",
+  "contributeurs": [
+    {
+      "nom": "Muriel Thalmann",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-09-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-11-29",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Réintroduction de l'intérêt rémunératoire pour les acomptes d'impôts dès 2024",
+      "date": "2024-01-01",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2209949"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/79b08170-9b09-444b-be75-0216cca82a24/meeting/1019539",
+  "communes": []
+}

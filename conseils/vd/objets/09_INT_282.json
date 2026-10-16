@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221640,
+  "numero": "09_INT_282",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-10-05"
+  },
+  "depose": "2009-09-22",
+  "titre": "Demandant si, s'agissant de la CGN, le Conseil d'Etat navigue à vue",
+  "contributeurs": [
+    {
+      "nom": "Détermination",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Stéphane Montangero",
+      "parti": "SOC",
+      "role": null,
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-09-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-10-05",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-09-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_282_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-09-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_282_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-5-octobre-2010/reponse-du-conseil-detat-a-linterpellation-stephane-montangero-cgn",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

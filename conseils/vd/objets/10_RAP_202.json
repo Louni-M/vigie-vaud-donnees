@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222163,
+  "numero": "10_RAP_202",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-01-26"
+  },
+  "depose": "2010-01-26",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur les postulats :- Claude-Eric Dufour et consorts - Pour une adaptation rapide du tronçon autoroutier St-Prex - Rolle - Nyon - frontière cantonale genevoise, défendons nos intérêts à Berne- du Groupe UDC et consorts pour un prêt permettant le financement des adaptations ferroviaires et autoroutières indispensables sur l'arc lémanique- Nuria Gorrite et consorts concernant le contournement autoroutier de Morges et demandant une solution rapide, efficace, qui préserve vraiment les intérêts de Morges et sa régionRéponse du Conseil d'Etat aux interpellations : - Eric Bonjour au sujet du programme d'élimination des goulets d'étranglement autoroutier- Eric Bonjour concernant l'autoroute A1 Ecublens - Morges - St-Prex et demandant si l'Etat de Vaud a vraiment analysé toutes les variantes possibles pour réaménager ce tronçon autoroutier afin de soulager la ville de Morges et sa région du trafic toujours croissant- Claude-Eric Dufour - Quelles perspectives de soutien pour les infrastructures jugées nécessaires au développement de notre canton ?- Pierre-Yves Rapaz au nom des groupes UDC, radical et libéral concernant les 3èmes voies autoroutière et ferroviaire et demandant de passer de la parole aux actes",
+  "contributeurs": [
+    {
+      "nom": "Florence Golaz",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Florence Golaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-01-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-01-26",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-01-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/202_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-01-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/202_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-26-janvier-2010/rapport-du-conseil-detat-au-grand-conseil-sur-divers-postulats-et-reponses-du-conseil-detat-a-diverses-interpellations-themes-routiers",
+  "communes": [
+    {
+      "ofs": 5646,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5861,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5724,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5635,
+      "origine": "titre"
+    }
+  ]
+}

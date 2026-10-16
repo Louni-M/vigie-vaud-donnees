@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227947,
+  "numero": "24_QUE_36",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-06-19"
+  },
+  "depose": "2024-04-23",
+  "titre": "Changements d’affection et indemnisations, quel fonds ou quels fonds ?",
+  "contributeurs": [
+    {
+      "nom": "Patrick Simonin",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-04-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-06-19",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Fonds débiteur pour l’indemnisation en cas de restriction des droits à bâtir du Vallon de Valleyre au Mont-sur-Lausanne",
+      "date": "2024-06-19",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2246060"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/8e4c9395-eb2e-41d3-862c-b1e5403c878c/meeting/1019566",
+  "communes": [
+    {
+      "ofs": 5587,
+      "origine": "document"
+    }
+  ]
+}

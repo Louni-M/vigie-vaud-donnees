@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222625,
+  "numero": "12_INT_016",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-03-26"
+  },
+  "depose": "2012-09-04",
+  "titre": "Le Contrôle des chantiers dans le canton de Vaud bénéficie-t-il de moyens nécessaires pour mener à bien sa mission ?",
+  "contributeurs": [
+    {
+      "nom": "Rebecca Ruiz",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Rebecca Ruiz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-09-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-09-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-03-26",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-03-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_016_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-09-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_016_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-26-mars-2013/reponse-du-conseil-detat-iinterpellation-rebecca-ruiz-et-consorts-le-controle-des-chantiers-dans-le-canton-de-vaud-beneficie-t-il-de-moyens-necessaires-pour-mener-a-bien-sa-mission",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

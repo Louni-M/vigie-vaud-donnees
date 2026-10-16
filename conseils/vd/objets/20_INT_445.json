@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225157,
+  "numero": "20_INT_445",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2020-05-06"
+  },
+  "depose": "2020-02-25",
+  "titre": "Le schéma directeur au niveau communal, un déficit démocratique ?",
+  "contributeurs": [
+    {
+      "nom": "Léonard Studer",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-02-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-02-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-05-06",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2020-02-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_445_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-01-19",
+      "lien": "https://www.sonomix.ch/live/gcvd/1703#8415"
+    },
+    {
+      "titre": "Schémas directeurs communaux",
+      "date": "2020-05-06",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=400955"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6ed88d48-2872-4556-9fc9-c575985c0c37/meeting/1000545",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    }
+  ]
+}

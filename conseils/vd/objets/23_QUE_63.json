@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227356,
+  "numero": "23_QUE_63",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-03-20"
+  },
+  "depose": "2023-12-19",
+  "titre": "Peut-on agrandir la surface pour les piétons devant la trémie de sortie de l'arrêt du métro m2 de la gare de Lausanne et/ou synchroniser le passage au vert du feu de signalisation des piétons",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Rydlo",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-12-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-03-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Flux piétons devant la gare de Lausanne",
+      "date": "2024-03-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2228825"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/87ff2f40-d9e3-4070-92dd-a4ad6883be58/meeting/1019551",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5627,
+      "origine": "document"
+    }
+  ]
+}

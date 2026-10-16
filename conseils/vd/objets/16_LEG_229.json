@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223904,
+  "numero": "16_LEG_229",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-05-03"
+  },
+  "depose": "2016-04-12",
+  "titre": "Exposé des motifs et projet de décret pour la constitution de droits distincts et permanents de superficie (DDP) en faveur de la Société vaudoise pour la création de logements à loyers modérés (SVLM)",
+  "contributeurs": [
+    {
+      "nom": "Christelle Luisier Brodard",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Christelle Luisier Brodard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Christelle Luisier Brodard",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-04-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-04-26",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2016-05-03",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/229_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/229_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-3-mai-2016/expose-des-motifs-et-projet-de-decret-pour-la-constitution-de-droits-distincts-et-permanents-de-superficie-ddp-en-faveur-de-la-societe-vaudoise-pour-la-creation-de-logements-a-loyers-moderes-svlm",
+  "communes": [
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5643,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    },
+    {
+      "ofs": 5587,
+      "origine": "document"
+    },
+    {
+      "ofs": 5624,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

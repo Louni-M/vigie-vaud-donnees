@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222948,
+  "numero": "13_INT_201",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-09-09"
+  },
+  "depose": "2014-01-07",
+  "titre": "TL : une nouvelle perte de substance pour le Gros-de-Vaud ?",
+  "contributeurs": [
+    {
+      "nom": "Denis Rubattel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Denis Rubattel",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-01-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-01-07",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-09-09",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2014-01-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_201_D%C3%A9p%C3%B4t.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-09-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_175_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-9-septembre-2014/reponse-du-ce-aux-interpellations-denis-rubattel-leb-gagner-du-temps-pour-eviter-dautres-accidents-et-rapprochement-leb-tl-une-nouvelle-perte-de-substance-pour-le-gros-de-vaud",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5512,
+      "origine": "document"
+    }
+  ]
+}

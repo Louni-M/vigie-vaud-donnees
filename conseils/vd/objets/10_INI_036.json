@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221804,
+  "numero": "10_INI_036",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2012-03-20"
+  },
+  "depose": "2010-05-25",
+  "titre": "Demandant une modification de la Constitution du Canton de Vaud à son article 166 et visant la suppression de la Cour des comptes",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Mattenberger",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-05-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-05-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-03-20",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet et développement",
+      "date": "2012-02-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INI_036_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-05-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INI_036_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-20-mars-2012/initiative-legislative-constitutionnelle-pierre-yves-rapaz-demandant-une-modification-de-la-constitution-du-canton-de-vaud",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    }
+  ]
+}

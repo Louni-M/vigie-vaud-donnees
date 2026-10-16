@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222026,
+  "numero": "10_LEG_295",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-10-05"
+  },
+  "depose": "2010-08-31",
+  "titre": "Exposé des motifs et projet de décret autorisant le Conseil d'Etat à vendre, dans le cadre de l'assainissement du parc immobilier de l'Etat de Vaud, le bien-fonds portant le numéro de parcelle 10'253 du cadastre de la Commune de Lausanne, comprenant l'immeuble du \"Lausanne-Moudon\", pour un montant de CHF 3'000'000.-",
+  "contributeurs": [
+    {
+      "nom": "Pierre-Alain Mercier",
+      "parti": "LIB",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre-Alain Mercier",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-08-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-09-14",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2010-09-28",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2010-10-05",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Décret adopté par le Grand Conseil le 05.10.10",
+      "date": "2010-10-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/295_Decret_adopte.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/295_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/295_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-5-octobre-2010/expose-des-motifs-et-projet-de-decret-vente-de-bien-fonds-comprenant-limmeuble-du-lausanne-moudon",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5643,
+      "origine": "document"
+    },
+    {
+      "ofs": 5633,
+      "origine": "document"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    },
+    {
+      "ofs": 5471,
+      "origine": "document"
+    }
+  ]
+}

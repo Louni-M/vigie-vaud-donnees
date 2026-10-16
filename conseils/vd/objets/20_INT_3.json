@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225128,
+  "numero": "20_INT_3",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-06-29"
+  },
+  "depose": "2020-09-01",
+  "titre": "Grève du Climat du 4 septembre : quelle est la position du",
+  "contributeurs": [
+    {
+      "nom": "Florence Gross",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Florence Gross",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-09-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-06-29",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-09-06",
+      "lien": "https://www.sonomix.ch/live/gcvd/2165#6499"
+    },
+    {
+      "titre": "Absences des élèves en cas de grève du climat",
+      "date": "2022-06-29",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2125121"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e435212b-6944-4393-80a1-3878648f2eaf/meeting/1012631",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

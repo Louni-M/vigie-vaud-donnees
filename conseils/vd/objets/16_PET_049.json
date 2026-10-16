@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223981,
+  "numero": "16_PET_049",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2016-09-20"
+  },
+  "depose": "2016-03-01",
+  "titre": "Pétition du Syndicat suisse des services publics - Pour en finir avec les bas salaires au CHUV",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2016-03-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-09-20",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-09-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_PET_049_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-09-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_PET_049_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-20-septembre-2016/petition-du-syndicat-suisse-des-services-publics-pour-en-finir-avec-les-bas-salaires-au-chuv",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

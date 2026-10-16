@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224879,
+  "numero": "19_MOT_081",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-03-03"
+  },
+  "depose": "2019-03-05",
+  "titre": "Politique volontariste pour des véhicules de transports publics propres",
+  "contributeurs": [
+    {
+      "nom": "Jean-Claude Glardon",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Claude Glardon",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-03-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-03-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-03-03",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_081_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_081_obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-03-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_081_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-3-mars-2020/motion-didier-lohri-et-consorts-politique-volontariste-pour-des-vehicules-de-transports-publics-propres",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    }
+  ]
+}

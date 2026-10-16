@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226719,
+  "numero": "22_QUE_24",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-09-21"
+  },
+  "depose": "2022-06-21",
+  "titre": "L’Etat peut-il implémenter une annonce automatique dans le métro m2 pour rendre les gens attentifs à bien se tenir sur le tronçon à forte déclivité entre la station de Lausanne-Gare et celle de Lausanne-Flon ?",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Rydlo",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-06-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-09-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Aménagement des rames et stations du métro m2",
+      "date": "2022-09-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2135629"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/8dfc3f5f-3ea2-4244-ad97-51b46a538af8/meeting/1004444",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5627,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224867,
+  "numero": "19_MOT_067",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2020-09-22"
+  },
+  "depose": "2019-01-08",
+  "titre": "Développement d'un radar \"bruit\". Pour que le canton de Vaud s'associe aux travaux initiés par le canton de Genève",
+  "contributeurs": [
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-01-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-01-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-09-22",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_067_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_067_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-01-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_067_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e6fbded4-a55f-45e2-a06d-f84f1f28c16b/meeting/1000528",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

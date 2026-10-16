@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 330049,
+  "numero": "26_POS_26",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Transformée en postulat",
+    "date": "2026-05-26"
+  },
+  "depose": "2026-05-19",
+  "titre": "Les oiseaux se cognent à en mourir",
+  "contributeurs": [
+    {
+      "nom": "Alberto Mocchi",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Suter",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-05-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-05-19",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-05-26",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6f0a5264-f459-4852-ad1e-2fa9cce3a201/meeting/1029670",
+  "communes": []
+}

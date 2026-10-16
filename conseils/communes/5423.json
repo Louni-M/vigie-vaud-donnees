@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5423,
+  "objets": [
+    {
+      "cle": "vd/26_PET_5",
+      "numero": "26_PET_5",
+      "type": "Pétition",
+      "depose": "2026-06-16",
+      "titre": "Pétition NON à la mégagravière des Bois de Ballens !",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Traktandiert",
+        "date": "2026-06-16"
+      },
+      "derniere_etape": "2026-06-16",
+      "communes": [
+        {
+          "ofs": 5423,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/25_INT_14",
+      "numero": "25_INT_14",
+      "type": "Interpellation",
+      "depose": "2025-01-28",
+      "titre": "Collecte et valorisation des déchets organiques – Comment favoriser le retour à la terre ?",
+      "auteurs": [
+        {
+          "nom": "Jean Valentin de Saussure",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-08-19"
+      },
+      "derniere_etape": "2025-08-19",
+      "communes": [
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_INT_119",
+      "numero": "24_INT_119",
+      "type": "Interpellation",
+      "depose": "2024-08-27",
+      "titre": "Une gravière au Pied du Jura, des interrogations pour les communes et la population de la région",
+      "auteurs": [
+        {
+          "nom": "Yannick Maury",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-12-11"
+      },
+      "derniere_etape": "2024-12-11",
+      "communes": [
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5588,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_89",
+      "numero": "23_INT_89",
+      "type": "Interpellation",
+      "depose": "2023-05-23",
+      "titre": "Transport de céréales par la route plutôt que par le rail : Quel gâchis !",
+      "auteurs": [
+        {
+          "nom": "Sylvain Freymond",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-09-20"
+      },
+      "derniere_etape": "2023-09-20",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_HQU_12",
+      "numero": "22_HQU_12",
+      "type": "Question orale",
+      "depose": "2022-01-18",
+      "titre": "Belle balade (en camion) à la gravière et dans les bois de Ballens",
+      "auteurs": [
+        {
+          "nom": "Yannick Maury",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Terminée",
+        "date": "2022-01-25"
+      },
+      "derniere_etape": "2022-01-25",
+      "communes": [
+        {
+          "ofs": 5423,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_99",
+      "numero": "21_INT_99",
+      "type": "Interpellation",
+      "depose": "2021-08-24",
+      "titre": "Loup y es-tu, Etat que fais-tu?",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-01-19"
+      },
+      "derniere_etape": "2022-01-19",
+      "communes": [
+        {
+          "ofs": 5423,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_122",
+      "numero": "13_INT_122",
+      "type": "Interpellation",
+      "depose": "2013-04-30",
+      "titre": "L'avenir des Carrières d'Arvel est-il en mains du Conseil d'Etat ?",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-10-07"
+      },
+      "derniere_etape": "2014-10-07",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5655,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_LEG_20",
+      "numero": "13_LEG_20",
+      "type": "Décret/Loi",
+      "depose": "2013-05-14",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 1'400'000.- pour le projet de développement régional agricole (PDRA) de valorisation des produits du Pied du Jura / Montricher et région",
+      "auteurs": [
+        {
+          "nom": "Catherine Aellen",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Catherine Aellen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-05-21"
+      },
+      "derniere_etape": "2013-05-21",
+      "communes": [
+        {
+          "ofs": 5492,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_179",
+      "numero": "9_LEG_179",
+      "type": "Décret/Loi",
+      "depose": "2009-10-06",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit-cadre de CHF 3'205'000.- pour la réhabilitation de la RC 34, de la RC 67 et de la RC 632",
+      "auteurs": [
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-11-17"
+      },
+      "derniere_etape": "2009-11-17",
+      "communes": [
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5425,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

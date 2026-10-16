@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226214,
+  "numero": "22_HQU_84",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-09-13"
+  },
+  "depose": "2022-09-06",
+  "titre": "POP - Carrière à Bretonnières, nidification des oiseaux : quelles sont les justifications légales du CE ?",
+  "contributeurs": [
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-09-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-09-13",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "dans cette période de nidification des oiseaux",
+      "date": "2022-09-06",
+      "lien": "https://www.birdlife.ch/fr/content/achtung-vogelnester-bitte-straucher-jetzt-nur-moderat-zuruckschneiden"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e2b04c74-469c-4113-9f20-78bc6da068dc/meeting/1012632",
+  "communes": [
+    {
+      "ofs": 5748,
+      "origine": "titre"
+    }
+  ]
+}

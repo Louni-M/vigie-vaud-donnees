@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226753,
+  "numero": "22_QUE_53",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-02-22"
+  },
+  "depose": "2022-12-21",
+  "titre": "Gestion de l'Orbe supérieure : point de situation",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Cala",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-12-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-02-22",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Gestion de l’Orbe supérieure",
+      "date": "2023-02-22",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2162589"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6e12a128-ccea-4c7c-894b-e028f68723c2/meeting/1012647",
+  "communes": [
+    {
+      "ofs": 5872,
+      "origine": "document"
+    }
+  ]
+}

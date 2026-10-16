@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225062,
+  "numero": "20_HQU_18",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2020-10-06"
+  },
+  "depose": "2020-09-29",
+  "titre": "Les billets d’avions se sont-ils envolés ?",
+  "contributeurs": [
+    {
+      "nom": "Maurice Mischler",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-09-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-10-06",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/0007fbb2-7d6b-4ba4-adc5-85bbae764e34/meeting/1000530",
+  "communes": []
+}

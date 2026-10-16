@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221506,
+  "numero": "08_POS_059",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2008-04-22"
+  },
+  "depose": "2008-04-22",
+  "titre": "Postulat des groupes radical et libéral - 3ème voie autoroutière entre Lausanne et Genève - là aussi le Canton doit s'engager",
+  "contributeurs": [
+    {
+      "nom": "Jean-Jacques Truffer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Jacques Truffer",
+      "parti": "LIB",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Florence Golaz",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-04-22",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2008-11-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_18novembre_2008/08_POS_059_RC_min.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2008-11-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_18novembre_2008/08_POS_059_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2008-04-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_22_avril_2008/08_POS_059_Objet.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2008-11-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_18novembre_2008/08_POS_059_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-18-novembre-2008/postulat-des-groupes-radical-et-liberal",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5635,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5746,
+      "origine": "document"
+    }
+  ]
+}

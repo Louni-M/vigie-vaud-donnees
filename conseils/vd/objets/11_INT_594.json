@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222324,
+  "numero": "11_INT_594",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-11-06"
+  },
+  "depose": "2012-01-31",
+  "titre": "PAC 292 A région des Mosses",
+  "contributeurs": [
+    {
+      "nom": "Pierre Volet",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre Volet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-01-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-02-07",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-11-06",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2012-02-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_594_D%C3%A9p%C3%B4t.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-09-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_594_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-6-novembre-2012/reponse-du-conseil-detat-a-linterpellation-pierre-volet-pac-292-a-region-des-mosses",
+  "communes": []
+}

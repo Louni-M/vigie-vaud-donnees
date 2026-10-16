@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227312,
+  "numero": "23_QUE_2",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-02-22"
+  },
+  "depose": "2023-01-17",
+  "titre": "Pas de budget pour BioVaud et FIBL en 2023. Pourquoi?",
+  "contributeurs": [
+    {
+      "nom": "Anna Perret",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-01-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-02-22",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "La nouvelle convention avec BioVaud modifie les règles comptables de subventionnement",
+      "date": "2023-02-22",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2162602"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/92fa9760-df28-4b78-b9f9-0e7c17da0c3e/meeting/1013630",
+  "communes": []
+}

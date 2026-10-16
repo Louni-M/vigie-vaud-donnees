@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222243,
+  "numero": "11_INT_514",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-11-01"
+  },
+  "depose": "2011-06-14",
+  "titre": "Réponse du Conseil d'Etat à l'interpellation François Brélaz: Jusqu'à quand le Conseil d'Etat va-t-il tolérer le marché aux esclaves de Malley ?",
+  "contributeurs": [
+    {
+      "nom": "François Brélaz",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-06-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-06-14",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-11-01",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-11-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_514_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-06-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_514_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-1-novembre-2011/reponse-du-conseil-detat-a-linterpellation-francois-brelaz-jusqua-quand-le-conseil-detat-va-t-il-tolerer-le-marche-aux-esclaves-de-malley",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

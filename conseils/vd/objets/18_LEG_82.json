@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224406,
+  "numero": "18_LEG_82",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2018-10-30"
+  },
+  "depose": "2018-10-30",
+  "titre": "Exposé des motifs et projet de décret accordant à RailTech SA une garantie d'emprunt de l'Etat de Vaud de CHF 12'500'000.- pour financer la réalisation d'un centre romand d'entretien des bogies ferroviaires à Villeneuve",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-10-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-10-30",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-10-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/82_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-10-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/82_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-30-octobre-2018/expose-des-motifs-et-projet-de-decret-accordant-a-railtech-sa-une-garantie-demprunt-de-letat-de-vaud-de-chf-12500000-pour-financer-la-realisation-dun-centre-romand-dentretien-des-bogies-ferroviaires-a-villeneuve",
+  "communes": [
+    {
+      "ofs": 5414,
+      "origine": "titre"
+    }
+  ]
+}

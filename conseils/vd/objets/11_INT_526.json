@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221963,
+  "numero": "11_INT_526",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-01-17"
+  },
+  "depose": "2011-08-23",
+  "titre": "Objectifs biodiversité 2020",
+  "contributeurs": [
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-08-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-08-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-01-17",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_526_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_526_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-17-janvier-2012/reponse-du-conseil-detat-a-linterpellation-raphael-mahaim-objectifs-biodiversite-2020",
+  "communes": [
+    {
+      "ofs": 5718,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 258984,
+  "numero": "25_INT_126",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2025-10-07"
+  },
+  "depose": "2025-09-30",
+  "titre": "Manifestations du 18 septembre à Lausanne les droits fondamentaux ont ils été respectés ?",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Balet",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-09-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-09-30",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-10-07",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-10-07",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-10-07",
+      "lien": "https://www.sonomix.ch/live/gcvd/3223#541"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1f3fdbdb-79b9-4d3e-9b98-251a178db1c3/meeting/1029639",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

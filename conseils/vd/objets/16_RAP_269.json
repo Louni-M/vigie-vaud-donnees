@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224056,
+  "numero": "16_RAP_269",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-06-21"
+  },
+  "depose": "2016-06-21",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur les postulats Jean-Michel Dolivo et consorts demandant si le canton de Vaud réhabilitera les personnes détenues administrativement entre les années 1930 et 1980",
+  "contributeurs": [
+    {
+      "nom": "Michel Collet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Michel Collet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-06-21",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-06-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/269_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-06-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/269_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-21-juin-2016/rapport-du-conseil-detat-au-grand-conseil-sur-les-postulats-jean-michel-dolivo-et-consorts-demandant-si-le-canton-de-vaud-rehabilitera-les-personnes-detenues-administrativement-entre-les-annees-1930-et-1980",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5693,
+      "origine": "document"
+    }
+  ]
+}

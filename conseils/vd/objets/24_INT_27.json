@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227667,
+  "numero": "24_INT_27",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2026-06-02"
+  },
+  "depose": "2024-02-06",
+  "titre": "Examen annulé en cours de route : la HEP a-t-elle perdu le nord ?",
+  "contributeurs": [
+    {
+      "nom": "Rebecca Joly",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-02-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-02-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-09-18",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-06-02",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-02-20",
+      "lien": "https://www.sonomix.ch/live/gcvd/2743#1711"
+    },
+    {
+      "titre": "Examen annulé à la HEP",
+      "date": "2024-09-18",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2259813"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/836165b3-c256-4a2d-8cf9-6a4502e34bd6/meeting/1029671",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

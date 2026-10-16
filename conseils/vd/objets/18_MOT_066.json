@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224460,
+  "numero": "18_MOT_066",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-01-21"
+  },
+  "depose": "2018-12-12",
+  "titre": "Des élus et des élues suspendus... à leur rémunération !",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-12-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-12-18",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-01-21",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-10-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_066_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-10-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_066_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-12-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_066_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-21-janvier-2020/motion-yvan-luccarini-et-consorts-des-elus-et-des-elues-suspendus-a-leur-remuneration",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

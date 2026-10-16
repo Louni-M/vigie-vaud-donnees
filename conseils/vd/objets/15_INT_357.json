@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223441,
+  "numero": "15_INT_357",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-09-22"
+  },
+  "depose": "2015-03-10",
+  "titre": "Le Conseil d'Etat a-t-il assumé toutes ses responsabilités dans le contrôle de l'Hôpital intercantonal de la Broye, à Payerne ?",
+  "contributeurs": [
+    {
+      "nom": "Jacques-André Haury",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jacques-André Haury",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-03-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-03-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-09-22",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2015-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_357_D%C3%A9p%C3%B4t.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-09-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_352_et_357_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-22-septembre-2015/reponses-du-conseil-detat-a-linterpellation-jacques-andre-haury-le-conseil-detat-a-t-il-assume-toutes-ses-responsabilites-dans-le-controle-de-lhopital-intercantonal-de-la-broye-a-payerne",
+  "communes": [
+    {
+      "ofs": 5822,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

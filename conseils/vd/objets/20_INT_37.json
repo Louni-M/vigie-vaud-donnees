@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225135,
+  "numero": "20_INT_37",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-02-17"
+  },
+  "depose": "2020-10-27",
+  "titre": "Un goût de Provence...?!",
+  "contributeurs": [
+    {
+      "nom": "Sergei Aschwanden",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-10-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-11-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-02-17",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-16",
+      "lien": "https://www.sonomix.ch/live/gcvd/1870#10565"
+    },
+    {
+      "titre": "Pratique du sport au Gymnase Provence",
+      "date": "2021-02-17",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2037860"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/7c868d80-19c1-489b-b45c-44085bd85586/meeting/1003920",
+  "communes": [
+    {
+      "ofs": 5566,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5624,
+      "origine": "document"
+    }
+  ]
+}

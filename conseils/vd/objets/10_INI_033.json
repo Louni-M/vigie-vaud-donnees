@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221800,
+  "numero": "10_INI_033",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2010-09-28"
+  },
+  "depose": "2010-02-16",
+  "titre": "Visant à saisir le Grand Conseil du dossier de la loi sur les écoles de musique et à offrir un appui aux négociations menées par le Conseil d'Etat et les associations de communes",
+  "contributeurs": [
+    {
+      "nom": "Philippe Jobin",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Jobin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-02-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-02-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-09-28",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INI_033_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INI_033_Objet_et_dev_new.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2010-02-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INI_033_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-28-septembre-2010/initiative-raphael-mahaim-ecoles-de-musique",
+  "communes": []
+}

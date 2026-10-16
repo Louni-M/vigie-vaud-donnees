@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221824,
+  "numero": "10_INT_337",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-12-14"
+  },
+  "depose": "2010-02-16",
+  "titre": "Réponse du Conseil d'Etat à l'interpellation Pierre Guignard intitulée Canton de Vaud, aujourd'hui les catholiques sont plus nombreux que les protestants",
+  "contributeurs": [
+    {
+      "nom": "Pierre Guignard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierre Guignard",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-02-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-02-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-12-14",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-09-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_337_Texte_CE.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2010-02-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_337_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seances-des-14-et-15-decembre-2010/reponse-du-conseil-detat-a-linterpellation-pierre-guignard-canton-de-vaud-aujourdhui-les-catholiques-sont-plus-nombreux-que-les-protestants",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5451,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    }
+  ]
+}

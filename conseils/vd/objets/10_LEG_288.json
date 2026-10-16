@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222019,
+  "numero": "10_LEG_288",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-11-23"
+  },
+  "depose": "2010-10-12",
+  "titre": "Exposé des motifs sur la stratégie cantonale de lutte contre la pauvretéet projet de loi sur les prestations complémentaires cantonales pour familles et les prestations cantonales de la rente-pont (LPCFam)etprojet de loi modifiant la loi du 2 décembre 2003 sur l'action sociale vaudoise (LASV) et projet de loi modifiant la loi du 24 novembre 2003 sur l'organisation et le financement de la politique sociale (LOF)etrapport intermédiaire au postulat Grégoire Junod et consorts pour une assurance perte de gains en cas de maladie dans le Canton de Vaud",
+  "contributeurs": [
+    {
+      "nom": "Philippe Martinet",
+      "parti": "VER",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Rémy Pache",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Rémy Pache",
+      "parti": "LIB",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-10-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-11-16",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2010-11-23",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-10-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/288_Texte_CE.pdf"
+    },
+    {
+      "titre": "Tableau comparatif avant le 1er débat",
+      "date": "2010-10-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/288_Tableau_avant_1er_debat_01.pdf"
+    },
+    {
+      "titre": "LPCFam adoptée par le Grand Conseil le 23.11.10",
+      "date": "2010-11-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/288_LPCFam_adoptee.pdf"
+    },
+    {
+      "titre": "LASV adoptée par le Grand Conseil le 23.11.10",
+      "date": "2010-11-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/288_LASV_adoptee.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-23-novembre-2010/expose-des-motifs-et-projet-de-loi-strategie-cantonale-de-lutte-contre-la-pauvrete",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

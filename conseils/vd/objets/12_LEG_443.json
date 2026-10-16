@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222712,
+  "numero": "12_LEG_443",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-03-20"
+  },
+  "depose": "2012-03-20",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi du 18 juin 1984 sur la Caisse de pensions",
+  "contributeurs": [
+    {
+      "nom": "Frédéric Grognuz",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-03-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-03-20",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Loi adoptée par le Grand Conseil le 20.03.12",
+      "date": "2012-03-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/443_Texte_FAO.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-03-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/443_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-03-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/443_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-20-mars-2012/expose-des-motifs-et-projet-de-loi-modifiant-la-loi-du-18-juin-1984-sur-la-caisse-de-pensions",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

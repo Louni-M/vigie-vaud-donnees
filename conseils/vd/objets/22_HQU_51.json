@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226183,
+  "numero": "22_HQU_51",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-05-10"
+  },
+  "depose": "2022-05-03",
+  "titre": "Nouveau déni de démocratie à Nyon",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-05-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-05-10",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/62f99d18-e79b-434e-94b3-603742821166/meeting/1004435",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "titre"
+    }
+  ]
+}

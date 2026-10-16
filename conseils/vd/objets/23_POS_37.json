@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227247,
+  "numero": "23_POS_37",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Transformée en postulat",
+    "date": "2024-06-26"
+  },
+  "depose": "2023-01-17",
+  "titre": "AOC, pourquoi faire compliqué lorsque l’on peut faire simple ?",
+  "contributeurs": [
+    {
+      "nom": "Céline Baux",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Sébastien Cala",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-01-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-06-26",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-05-02",
+      "lien": "https://www.sonomix.ch/live/gcvd/2369#3456"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-01-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/2295#1337"
+    },
+    {
+      "titre": "L'abréviation AOC autorisée sur les étiquettes des vins vaudois",
+      "date": "2024-06-26",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2248753"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6f75a0b2-8e3f-4bc9-8c3b-f45e3f10c31e/meeting/1013642",
+  "communes": [
+    {
+      "ofs": 5759,
+      "origine": "document"
+    }
+  ]
+}

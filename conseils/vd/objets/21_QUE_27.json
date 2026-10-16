@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226035,
+  "numero": "21_QUE_27",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-05-18"
+  },
+  "depose": "2021-06-22",
+  "titre": "Cours d'instruction civique ou propagande politique ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Luc Bezençon",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-06-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-05-18",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Cours d'instruction civique",
+      "date": "2022-05-18",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2116906"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/56018f44-e04d-471b-bed2-3fae1fec48dc/meeting/1000565",
+  "communes": []
+}

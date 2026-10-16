@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "conseil": "5586",
+  "annee": 2014,
+  "objets": [
+    {
+      "cle": "5586/PE14-005",
+      "numero": "PE14/005",
+      "type": "Pétition",
+      "depose": "2014-12-09",
+      "titre": "\"Stop à la pénurie de places de crèches à Lausanne !\"",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-03-04"
+      },
+      "derniere_etape": "2025-03-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS14-029",
+      "numero": "POS14/029",
+      "type": "Postulat",
+      "depose": "2014-10-07",
+      "titre": "Pour une place Centrale conviviale et accueillante",
+      "auteurs": [
+        {
+          "nom": "Maria Dolores Velasco",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-02-07"
+      },
+      "derniere_etape": "2023-02-07",
+      "communes": []
+    }
+  ]
+}

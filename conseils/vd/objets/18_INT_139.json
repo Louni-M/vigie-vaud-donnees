@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224227,
+  "numero": "18_INT_139",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-03-03"
+  },
+  "depose": "2018-03-13",
+  "titre": "\"Alternative 2050\" pour l'autoroute A9 : Du bruit ne peut pas être supprimé par du silence !",
+  "contributeurs": [
+    {
+      "nom": "Andreas Wüthrich",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Andreas Wüthrich",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-03-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-03-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-03-03",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_139_TexteCE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-03-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_139_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-3-mars-2020/reponse-du-conseil-detat-a-linterpellation-andreas-wuethrich-et-consorts-alternative-2050-pour-lautoroute-a9-du-bruit-ne-peut-pas-etre-supprime-par-du-silence",
+  "communes": [
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5651,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5601,
+      "origine": "document"
+    }
+  ]
+}

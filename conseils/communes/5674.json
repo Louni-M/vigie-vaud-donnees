@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5674,
+  "objets": [
+    {
+      "cle": "vd/20_LEG_186",
+      "numero": "20_LEG_186",
+      "type": "Décret/Loi",
+      "depose": "2020-05-26",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit de CHF 1'430'800.- pour le Projet de développement régional agricole « Filière Noix de la Broye et du Pied du Jura »",
+      "auteurs": [
+        {
+          "nom": "Hugues Gander",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Hugues Gander",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-06-09"
+      },
+      "derniere_etape": "2020-06-09",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5492,
+          "origine": "document"
+        },
+        {
+          "ofs": 5674,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_186",
+      "numero": "19_LEG_186",
+      "type": "Décret/Loi",
+      "depose": "2019-11-27",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit de CHF 1'430'800.- pour le Projet de développement régional agricole « Filière Noix de la Broye et du Pied du Jura »",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2019-11-27"
+      },
+      "derniere_etape": "2019-11-27",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5674,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5492,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

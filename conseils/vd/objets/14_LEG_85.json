@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223306,
+  "numero": "14_LEG_85",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-05-13"
+  },
+  "depose": "2014-02-11",
+  "titre": "Exposé des motifs et projet de lois modifiant :- la loi du 10 mai 1926 sur le marchepied le long des lacs et surles plans riverains (LML) et- la loi du 5 septembre 1944 sur l'utilisation des lacs et cours d'eau dépendant du domaine public (LLC) etRapport du Conseil d'Etat au Grand Conseil sur les postulats :- Jean-Michel Favez et consorts demandant que la loi sur le marchepied le long des lacs et sur les plans riverains (LML) soit modifiée afin de faciliter la réalisation des objectifs sur le Plan directeur des rives vaudoises du Lac Léman (11/POS/290) ;- Fabienne Freymond Cantone et consorts demandant une définition plus restrictive des constructions considérées comme constructions légères sur le domaine public du lac (11/POS/292)",
+  "contributeurs": [
+    {
+      "nom": "Gérald Cretegny",
+      "parti": "AdC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Gérald Cretegny",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Alexis Bally",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-02-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-05-06",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2014-05-13",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-02-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/85_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2014-02-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/85_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2014-02-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/85_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-13-mai-2014/expose-des-motifs-et-projet-de-lois-modifiant-la-loi-du-10-mai-1926-sur-le-marchepied-le-long-des-lacs-et-sur-les-plans-riverains-lml-et-la-loi-du-5-septembre-1944-sur-lutilisation-des-lacs-et-cours-deau-dependant-du-domaine-public-llc",
+  "communes": [
+    {
+      "ofs": 5588,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5729,
+      "origine": "document"
+    }
+  ]
+}

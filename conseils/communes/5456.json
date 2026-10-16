@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5456,
+  "objets": [
+    {
+      "cle": "vd/22_LEG_38",
+      "numero": "22_LEG_38",
+      "type": "Décret/Loi",
+      "depose": "2022-09-20",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit-cadre de CHF 12'200'000.- pour financer des travaux d’entretien de six tronçons de routes cantonales situés sur les RC 32 entre Begnins et La Cézille, RC 702 à l’entrée de Flendruz, RC 705 entre L'Etivaz et Les Martines, RC 763 entre Puidoux et Lignières, RC 284 entre Bofflens et Agiez ainsi que la RC 503 entre Cudrefin et La Sauge",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-09-20"
+      },
+      "derniere_etape": "2022-09-20",
+      "communes": [
+        {
+          "ofs": 5704,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5607,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5747,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5742,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5456,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_1",
+      "numero": "21_INT_1",
+      "type": "Interpellation",
+      "depose": "2021-01-12",
+      "titre": "Après le HIB et le GYB, est-il possible de développer la collaboration policière entre les districts de la Broye-Vully et de la Broye?",
+      "auteurs": [
+        {
+          "nom": "Sébastien Pedroli",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-04-28"
+      },
+      "derniere_etape": "2021-04-28",
+      "communes": [
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5458,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_54",
+      "numero": "20_INT_54",
+      "type": "Interpellation",
+      "depose": "2020-12-01",
+      "titre": "Chalets de la Grande Cariçaie, quelles suites exactement ?",
+      "auteurs": [
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-03-17"
+      },
+      "derniere_etape": "2021-03-17",
+      "communes": [
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5464,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_706",
+      "numero": "17_INT_706",
+      "type": "Interpellation",
+      "depose": "2017-05-23",
+      "titre": "Ce très vieux serpent de lac va-t-il enfin être euthanasié par le Conseil d'Etat ?",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": null
+        },
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-05-07"
+      },
+      "derniere_etape": "2019-05-07",
+      "communes": [
+        {
+          "ofs": 5464,
+          "origine": "document"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_514",
+      "numero": "16_INT_514",
+      "type": "Interpellation",
+      "depose": "2016-05-10",
+      "titre": "Reviens Obelix !!!",
+      "auteurs": [
+        {
+          "nom": "Dominique-Richard Bonny",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Dominique-Richard Bonny",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-10-11"
+      },
+      "derniere_etape": "2016-10-11",
+      "communes": [
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5939,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5415,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_MOT_155",
+      "numero": "11_MOT_155",
+      "type": "Motion",
+      "depose": "2012-01-10",
+      "titre": "Au nom du comité du Groupe agricole du Grand Conseil pour une cohabitation harmonieuse entre agriculture et faune sauvage",
+      "auteurs": [
+        {
+          "nom": "Michel Collet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Michel Collet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2012-08-28"
+      },
+      "derniere_etape": "2012-08-28",
+      "communes": [
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_368",
+      "numero": "11_LEG_368",
+      "type": "Décret/Loi",
+      "depose": "2011-02-15",
+      "titre": "Exposé des motifs et projet de décrets :- ordonnant la convocation des électeurs pour définir les préavis du canton à la demande d'autorisation générale pour le projet de centrale nucléaire de Beznau (AG)- ordonnant la convocation des électeurs pour définir les préavis du canton à la demande d'autorisation générale pour le projet de centrale nucléaire de Mühleberg (BE)- ordonnant la convocation des électeurs pour définir les préavis du canton à la demande d'autorisation générale pour le projet de centrale nucléaire de Niederamt (SO)",
+      "auteurs": [
+        {
+          "nom": "Raphaël Mahaim",
+          "parti": "VER"
+        },
+        {
+          "nom": "Guy-Philippe Bolay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-02-22"
+      },
+      "derniere_etape": "2011-02-22",
+      "communes": [
+        {
+          "ofs": 5464,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5458,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_383",
+      "numero": "10_INT_383",
+      "type": "Interpellation",
+      "depose": "2010-05-11",
+      "titre": "Desmédecins-assistants pour tester les routiers ?- (10_INT_383) Christa Calpini - Les médecins agréés de l'OFAC (office fédéral de l'aviation civile) sont-ils moins compétents que ceux désignés par l'Etat de Vaud ?",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-12-14"
+      },
+      "derniere_etape": "2010-12-14",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5714,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_297",
+      "numero": "09_INT_297",
+      "type": "Interpellation",
+      "depose": "2009-11-10",
+      "titre": "Si les énergies renouvellables sont aussi vertes qu'on nous le dit- Béatrice Métraux demandant si Mülhleberg est aussi propre et sans danger qu'on nous le dit",
+      "auteurs": [
+        {
+          "nom": "Michel Miéville",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-12-14"
+      },
+      "derniere_etape": "2010-12-14",
+      "communes": [
+        {
+          "ofs": 5464,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5458,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_278",
+      "numero": "10_LEG_278",
+      "type": "Décret/Loi",
+      "depose": "2010-10-12",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des commuens de Bellerive, Chabrey, Constantine, Montmagny, Mur, Vallamand et Villars-le-Grand (Vully-Les-Lacs)",
+      "auteurs": [
+        {
+          "nom": "Frédéric Haenni",
+          "parti": "RAD"
+        },
+        {
+          "nom": "Frédéric Haenni",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-12"
+      },
+      "derniere_etape": "2010-10-12",
+      "communes": [
+        {
+          "ofs": 5464,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_MOT_077",
+      "numero": "09_MOT_077",
+      "type": "Motion",
+      "depose": "2009-06-23",
+      "titre": "Pour que la prise de données biométriques se fasse dans les préfectures",
+      "auteurs": [
+        {
+          "nom": "Olivier Mayor",
+          "parti": "VER"
+        },
+        {
+          "nom": "Olivier Mayor",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2009-12-15"
+      },
+      "derniere_etape": "2009-12-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_218",
+      "numero": "9_LEG_218",
+      "type": "Décret/Loi",
+      "depose": "2009-09-01",
+      "titre": "Exposé des motifs et projet de décret ordonnant la convocation des électeurs pour définir le préavis du canton à la demande de suppression de la limitation dans le temps de l'autorisation d'exploitation de la centrale nucléaire de Mühleberg, etRapport du Conseil d'Etat au Grand Conseil sur la motion Yves Ferrari et consorts au nom du groupe des Verts « Mühleberg : Pour que le peuple ait le dernier mot », ete nucléaire dans les droits démocratiques ? » etDétermination Yves Ferrari et Jean Christophe Schwaab relative aux mesures prises par le Conseil d'Etat pour que les entreprises productrices d'électricité en mains du canton appliquent l'article 56 de la Constitution cantonale visant à se passer de l'énergie nucléaire",
+      "auteurs": [
+        {
+          "nom": "Jean-Michel Favez",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-09-08"
+      },
+      "derniere_etape": "2009-09-08",
+      "communes": [
+        {
+          "ofs": 5464,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5458,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5675,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_INT_109",
+      "numero": "08_INT_109",
+      "type": "Interpellation",
+      "depose": "2008-07-01",
+      "titre": "L'approvisionnement du Canton de Vaud en énergie électrique est-il assuré ?",
+      "auteurs": [
+        {
+          "nom": "Yves Ferrari",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-03-03"
+      },
+      "derniere_etape": "2009-03-03",
+      "communes": [
+        {
+          "ofs": 5464,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5458,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

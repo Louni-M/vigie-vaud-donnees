@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5426,
+  "objets": [
+    {
+      "cle": "vd/24_POS_32",
+      "numero": "24_POS_32",
+      "type": "Postulat",
+      "depose": "2023-09-26",
+      "titre": "Pour que les capites de vignes répondent à la demande œnotouristique",
+      "auteurs": [
+        {
+          "nom": "Maurice Neyroud",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Patricia Spack Isenrich",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Transformée en postulat",
+        "date": "2023-09-26"
+      },
+      "derniere_etape": "2023-09-26",
+      "communes": [
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5427,
+          "origine": "document"
+        },
+        {
+          "ofs": 5882,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5426,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_141",
+      "numero": "13_INT_141",
+      "type": "Interpellation",
+      "depose": "2013-06-25",
+      "titre": "Panneaux solaires interdits : de l'ombre sur la transition énergétique !",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-05-06"
+      },
+      "derniere_etape": "2014-05-06",
+      "communes": [
+        {
+          "ofs": 5720,
+          "origine": "document"
+        },
+        {
+          "ofs": 5415,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5426,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_388",
+      "numero": "10_INT_388",
+      "type": "Interpellation",
+      "depose": "2010-05-11",
+      "titre": "Assez d'obstruction administrative à la pose des panneaux solaires !",
+      "auteurs": [
+        {
+          "nom": "Isabelle Chevalley",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-02-01"
+      },
+      "derniere_etape": "2011-02-01",
+      "communes": [
+        {
+          "ofs": 5429,
+          "origine": "document"
+        },
+        {
+          "ofs": 5415,
+          "origine": "document"
+        },
+        {
+          "ofs": 5426,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221357,
+  "numero": "08_INT_084",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2008-11-11"
+  },
+  "depose": "2008-04-29",
+  "titre": "La politique des parcs-relais et demandant quelle coordination et quels moyens sont à disposition pour la mise en oeuvre",
+  "contributeurs": [
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": null,
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-04-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-11-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-11-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_4_novembre_2008/08_INT_084_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2008-04-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_29_avril08/08_INT_084_Objet.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-11-novembre-2008/reponse-du-conseil-detat-a-linterpellation-vassilis-venizelos",
+  "communes": [
+    {
+      "ofs": 5761,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

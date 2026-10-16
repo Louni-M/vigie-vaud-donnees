@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 202995,
+  "numero": "11_MOT_162",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2013-02-05"
+  },
+  "depose": "2012-05-22",
+  "titre": "Sauvons le petit contournement de Morges",
+  "contributeurs": [
+    {
+      "nom": "Michaël Buffat",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Claire Attinger Doepper",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claire Attinger Doepper",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-05-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-05-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-02-05",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2013-01-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/11_MOT_162_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2013-01-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/11_MOT_162_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2013-01-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_162_Obj_et_d%C3%A9v.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-05-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_162_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-5-fevrier-2013/motion-martial-de-montmollin-sauvons-le-petit-contournement-de-morges",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "titre"
+    }
+  ]
+}

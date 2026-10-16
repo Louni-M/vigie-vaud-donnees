@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227929,
+  "numero": "24_QUE_21",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-07-03"
+  },
+  "depose": "2024-03-05",
+  "titre": "Comment expliquer une confusion dommageable pour les éleveurs vaudois ?",
+  "contributeurs": [
+    {
+      "nom": "Olivier Petermann",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-03-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-07-03",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Le Canton de Vaud a respecté les compétences de l’Office fédéral de l'environnement et de la Conférence intercantonale",
+      "date": "2024-07-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2248839"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/13ef9f02-cced-42f1-beae-82a599e1db41/meeting/1019561",
+  "communes": []
+}

@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 333717,
+  "numero": "26_MOT_36",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2026-06-23"
+  },
+  "depose": "2026-06-09",
+  "titre": "Un bulletin unique vraiment unique!",
+  "contributeurs": [
+    {
+      "nom": "Aurélien Clerc",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-06-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-06-09",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-06-16",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-06-23",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/18a14983-4a85-404c-a176-1df047307e12/meeting/1029674",
+  "communes": []
+}

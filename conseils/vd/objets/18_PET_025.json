@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224470,
+  "numero": "18_PET_025",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2019-11-05"
+  },
+  "depose": "2018-11-06",
+  "titre": "Pétition François Brélaz - Mendicité : NON à un régime d'exception",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2018-11-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-11-05",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_025_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_025_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-5-novembre-2019/petition-francois-brelaz-mendicite-non-a-un-regime-dexception",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5582,
+      "origine": "document"
+    }
+  ]
+}

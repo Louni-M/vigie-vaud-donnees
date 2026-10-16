@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226730,
+  "numero": "22_QUE_34",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-07-05"
+  },
+  "depose": "2022-09-06",
+  "titre": "Indexation des salaires du personnel de l’Etat de Vaud et incidences sur la CPEV",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Berthoud",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-09-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-07-05",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Incidence de l’indexation des salaires sur la CPEV",
+      "date": "2023-07-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2187247"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e2f827b9-c387-4b49-8c6e-285fb5009e18/meeting/1012631",
+  "communes": []
+}

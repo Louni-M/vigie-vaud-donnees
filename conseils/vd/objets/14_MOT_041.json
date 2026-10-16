@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223318,
+  "numero": "14_MOT_041",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2014-12-09"
+  },
+  "depose": "2014-02-11",
+  "titre": "Commission des visiteurs du Grand Conseil : plus de restrictions et moins de frais !",
+  "contributeurs": [
+    {
+      "nom": "Claudine Wyssa",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claudine Wyssa",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-02-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-03-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-12-09",
+      "libelle": "Zurückgewiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-12-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_041_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-12-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_041_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-02-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_041_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seances-des-9-et-10-decembre-2014/motion-denis-rubattel-et-consorts-commission-des-visiteurs-du-grand-conseil-plus-de-restrictions-et-moins-de-frais",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

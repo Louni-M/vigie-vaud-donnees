@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222375,
+  "numero": "11_INT_645",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-12-11"
+  },
+  "depose": "2012-06-12",
+  "titre": "La restructuration de PostLogistics SA, suite et fin du démantèlement de la Poste suisse ?",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-06-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-06-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-12-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-12-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/11_INT_645_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-06-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_645_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seances-des-11-et-12-decembre-2012/reponse-du-conseil-detat-a-linterpellation-nicolas-rochat-au-nom-du-groupe-socialiste-concernant-la-restructuration-de-postlogistics-sa-suite-et-fin-du-demantelement-de-la-poste-suisse",
+  "communes": [
+    {
+      "ofs": 5480,
+      "origine": "document"
+    }
+  ]
+}

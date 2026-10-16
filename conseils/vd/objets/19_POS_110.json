@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224946,
+  "numero": "19_POS_110",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2021-03-10"
+  },
+  "depose": "2019-02-19",
+  "titre": "Distribution d'invendus alimentaires, ne sommes-nous pas loin de l'optimum ?",
+  "contributeurs": [
+    {
+      "nom": "François Cardinaux",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "François Cardinaux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-02-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-03-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-02-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-03-10",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-02-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_110_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-02-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_110_obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-03-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_110_depot.pdf"
+    },
+    {
+      "titre": "Distribution d’invendus alimentaires",
+      "date": "2021-03-10",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2043334"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-25-fevrier-2020/postulat-francois-pointet-et-consorts-au-nom-du-groupe-vertliberal-distribution-dinvendus-alimentaires-ne-sommes-nous-pas-loin-de-loptimum",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

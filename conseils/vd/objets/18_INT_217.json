@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224302,
+  "numero": "18_INT_217",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-03-03"
+  },
+  "depose": "2018-07-03",
+  "titre": "Chirurgie pédiatrique suite, mais à quand la fin ?",
+  "contributeurs": [
+    {
+      "nom": "Catherine Labouchère",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Catherine Labouchère",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-07-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-08-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-10-30",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-03-03",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_217_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-08-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_217_depot.pdf"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2018-08-28",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-28-aout-2018"
+    },
+    {
+      "titre": "Evaluation du Service de chirurgie de l'enfant et de l'adolescent du CHUV",
+      "date": "2019-10-30",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=360011"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-3-mars-2020/reponse-du-conseil-detat-a-linterpellation-catherine-labouchere-et-consorts-chirurgie-pediatrique-suite-mais-a-quand-la-fin",
+  "communes": [
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5409,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228854,
+  "numero": "19_LEG_140",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-09-24"
+  },
+  "depose": "2019-09-24",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 4'750'000.- pour financer des travaux d'assainissement de deux tronçons de route cantonale : RC 429 Oppens – Bioley-Magnoux, RC 631 et 632 Croix d'Or – Carrouge (VD)",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-09-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-09-24",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-09-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/140_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-09-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/140_RC.pdf"
+    },
+    {
+      "titre": "EMPD accordant au Conseil d'Etat un crédit-cadre de CHF 4'750'000.- pour financer des travaux d'assainissement de deux tronçons de route cantonale : RC 429 Oppens – Bioley-Magnoux, RC 631 et 632 Croix d'Or – Carrouge (VD) - Texte adopté par CE - EMPD",
+      "date": "2019-05-08",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=377384"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-24-septembre-2019/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-cadre-de-chf-4750000-pour-financer-des-travaux-dassainissement-de-deux-troncons-de-route-cantonale-rc-429-oppens-bioley-magnoux-rc-631-et-632-croix-dor-carrouge-vd",
+  "communes": [
+    {
+      "ofs": 5806,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5923,
+      "origine": "document"
+    },
+    {
+      "ofs": 5903,
+      "origine": "document"
+    },
+    {
+      "ofs": 5939,
+      "origine": "document"
+    },
+    {
+      "ofs": 5585,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227976,
+  "numero": "24_QUE_62",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-10-30"
+  },
+  "depose": "2024-09-10",
+  "titre": "Où en sommes-nous avec le plan Impulsion du CHUV ?",
+  "contributeurs": [
+    {
+      "nom": "Grégory Bovay",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-09-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-10-30",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Publication du Plan Impulsion de la Task-Force du CHUV",
+      "date": "2024-10-30",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2267610"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/fe19585b-a972-4779-b89f-b6b9e725035c/meeting/1026859",
+  "communes": []
+}

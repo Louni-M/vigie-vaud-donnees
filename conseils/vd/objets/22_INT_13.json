@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226268,
+  "numero": "22_INT_13",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-05-18"
+  },
+  "depose": "2022-01-25",
+  "titre": "Le marchand de sable est-il passé pour endormir le Gouvernement vaudois ?",
+  "contributeurs": [
+    {
+      "nom": "Claude-Alain Gebhard",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-01-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-02-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-05-18",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-08-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/2161#8439"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-02-01",
+      "lien": "https://www.sonomix.ch/live/gcvd/2046#936"
+    },
+    {
+      "titre": "Maintien des réserves en granulats et des filières de stockage définitif des déchets issus de la construction",
+      "date": "2022-05-18",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2116892"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f090b918-1751-4a35-b9a1-64c3c79cf4e6/meeting/1012629",
+  "communes": [
+    {
+      "ofs": 5482,
+      "origine": "document"
+    },
+    {
+      "ofs": 5498,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    }
+  ]
+}

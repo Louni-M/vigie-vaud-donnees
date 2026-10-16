@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228996,
+  "numero": "22_LEG_118",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-01-31"
+  },
+  "depose": "2023-01-31",
+  "titre": "EMPD accordant au Conseil d'Etat un crédit d’ouvrage de CHF 4'000'000.- pour financer les travaux de réhabilitation de la route cantonale 26-C-P entre Vich et Begnins sur le territoire de la commune de Begnins",
+  "contributeurs": [
+    {
+      "nom": "Pierre-Alain Favrod",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-01-31",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "EMPD accordant au Conseil d'Etat un crédit d’ouvrage de CHF 4'000'000.- pour financer les travaux de réhabilitation de la route cantonale 26-C-P entre Vich et Begnins sur le territoire de la commune de Begnins - Texte adopté par CE - EMPD RC 26-C-P Begnins - publié",
+      "date": "2022-10-12",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2140698"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/3396c32f-3711-4fb6-a932-0f83e32158a2/meeting/1013632",
+  "communes": [
+    {
+      "ofs": 5732,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5704,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5858,
+      "origine": "document"
+    }
+  ]
+}

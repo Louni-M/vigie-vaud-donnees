@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227318,
+  "numero": "23_QUE_26",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-07-05"
+  },
+  "depose": "2023-05-23",
+  "titre": "Pour une médecine écologique : les hôpitaux vaudois ont-ils banni le desflurane ?",
+  "contributeurs": [
+    {
+      "nom": "Muriel Thalmann",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-05-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-07-05",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Arrêt de l’utilisation du desflurane",
+      "date": "2023-07-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2187239"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/fe66a736-a488-4f7e-9fd7-0f17a61cc8f4/meeting/1013645",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

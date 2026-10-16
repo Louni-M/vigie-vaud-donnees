@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221900,
+  "numero": "10_INT_416",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-03-29"
+  },
+  "depose": "2010-09-07",
+  "titre": "Le handicap mental : Réformer en prenant en compte les différents handicaps mentaux",
+  "contributeurs": [
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-09-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-09-07",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-03-29",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-02-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_416_Texte_CE.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2010-09-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_416_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-29-mars-2011/reponse-du-conseil-detat-a-linterpellation-catherine-roulet-handicap-mental",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

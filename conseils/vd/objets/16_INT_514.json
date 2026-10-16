@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223767,
+  "numero": "16_INT_514",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-10-11"
+  },
+  "depose": "2016-05-10",
+  "titre": "Reviens Obelix !!!",
+  "contributeurs": [
+    {
+      "nom": "Dominique-Richard Bonny",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Dominique-Richard Bonny",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-05-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-05-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-10-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-10-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_514_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-05-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_514_Depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-11-octobre-2016/reponse-du-conseil-detat-a-linterpellation-dominique-richard-bonny-reviens-obelix",
+  "communes": [
+    {
+      "ofs": 5813,
+      "origine": "document"
+    },
+    {
+      "ofs": 5456,
+      "origine": "document"
+    },
+    {
+      "ofs": 5939,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5408,
+      "origine": "document"
+    },
+    {
+      "ofs": 5413,
+      "origine": "document"
+    },
+    {
+      "ofs": 5415,
+      "origine": "document"
+    }
+  ]
+}

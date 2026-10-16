@@ -1,0 +1,1296 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5482,
+  "objets": [
+    {
+      "cle": "vd/21_POS_38",
+      "numero": "21_POS_38",
+      "type": "Postulat",
+      "depose": "2021-06-23",
+      "titre": "Pour renforcer la protection des narcisses dans nos prairies",
+      "auteurs": [
+        {
+          "nom": "Léonard Studer",
+          "parti": "VER"
+        },
+        {
+          "nom": "Stéphane Montangero",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2025-05-07"
+      },
+      "derniere_etape": "2025-05-07",
+      "communes": [
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5745,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_HQU_77",
+      "numero": "24_HQU_77",
+      "type": "Question orale",
+      "depose": "2024-09-03",
+      "titre": "Sols pollués autour de la cimenterie d'Eclépens : quand est-il prévu de lever les doutes ?",
+      "auteurs": [
+        {
+          "nom": "Mathilde Marendaz",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Terminée",
+        "date": "2024-09-10"
+      },
+      "derniere_etape": "2024-09-10",
+      "communes": [
+        {
+          "ofs": 5482,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5529,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_INT_42",
+      "numero": "24_INT_42",
+      "type": "Interpellation",
+      "depose": "2024-02-27",
+      "titre": "Préserver les équilibres naturels du Léman qui surchauffe",
+      "auteurs": [
+        {
+          "nom": "Pierre Zwahlen",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-09-04"
+      },
+      "derniere_etape": "2024-09-04",
+      "communes": [
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_POS_67",
+      "numero": "21_POS_67",
+      "type": "Postulat",
+      "depose": "2021-12-21",
+      "titre": "De l’usage de l’histoire dans le secondaire I vaudois ou comment éviter que cela ne devienne la MER à boire",
+      "auteurs": [
+        {
+          "nom": "Felix Stürner",
+          "parti": "VER"
+        },
+        {
+          "nom": "Cédric Weissert",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2023-12-20"
+      },
+      "derniere_etape": "2023-12-20",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5415,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_158",
+      "numero": "22_INT_158",
+      "type": "Interpellation",
+      "depose": "2022-11-01",
+      "titre": "De l’UNIL à la désobéissance civile",
+      "auteurs": [
+        {
+          "nom": "Nicola Di Giulio",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-06-21"
+      },
+      "derniere_etape": "2023-06-21",
+      "communes": [
+        {
+          "ofs": 5482,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_153",
+      "numero": "21_INT_153",
+      "type": "Interpellation",
+      "depose": "2021-11-30",
+      "titre": "Les Zadistes et la suite ?.......bis",
+      "auteurs": [
+        {
+          "nom": "Jean-Luc Bezençon",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-11-30"
+      },
+      "derniere_etape": "2022-11-30",
+      "communes": [
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_13",
+      "numero": "22_INT_13",
+      "type": "Interpellation",
+      "depose": "2022-01-25",
+      "titre": "Le marchand de sable est-il passé pour endormir le Gouvernement vaudois ?",
+      "auteurs": [
+        {
+          "nom": "Claude-Alain Gebhard",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-05-18"
+      },
+      "derniere_etape": "2022-05-18",
+      "communes": [
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_55",
+      "numero": "21_LEG_55",
+      "type": "Décret/Loi",
+      "depose": "2021-11-23",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit-cadre de CHF 13’600'000.- pour financer des travaux d’entretien de quatre tronçons de routes cantonales situés sur la RC 309 entre Daillens et Eclépens, la RC 548 entre Villars-Tiercelin et le carrefour avec la RC 542, la RC 260 entre Villars-Burquin et Mauborget ainsi que la RC 271 entre Mathod et La Ratusse y compris la RC 270 entre Villars-sous-Champvent et le carrefour avec RC 271 ainsi que la participation financière du canton au réaménagement de la jonction de Rolle",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-11-23"
+      },
+      "derniere_etape": "2021-11-23",
+      "communes": [
+        {
+          "ofs": 5480,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5482,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5804,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5571,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5562,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5919,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5905,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5861,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_42",
+      "numero": "21_INT_42",
+      "type": "Interpellation",
+      "depose": "2021-03-23",
+      "titre": "Une Municipalité peut-elle descendre dans le caniveau pour faire campagne?",
+      "auteurs": [
+        {
+          "nom": "Raphaël Mahaim",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-11-17"
+      },
+      "derniere_etape": "2021-11-17",
+      "communes": [
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5649,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_73",
+      "numero": "21_INT_73",
+      "type": "Interpellation",
+      "depose": "2021-06-01",
+      "titre": "Cancer du colon: faut-il rajeunir le dépistage?",
+      "auteurs": [
+        {
+          "nom": "Blaise Vionnet",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-10-13"
+      },
+      "derniere_etape": "2021-10-13",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_19",
+      "numero": "21_INT_19",
+      "type": "Interpellation",
+      "depose": "2021-02-02",
+      "titre": "Médecins d'institutions d'handicapés, médecins d'EMS, quid de la relève ?",
+      "auteurs": [
+        {
+          "nom": "Philippe Vuillemin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-10-06"
+      },
+      "derniere_etape": "2021-10-06",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_52",
+      "numero": "20_INT_52",
+      "type": "Interpellation",
+      "depose": "2020-11-24",
+      "titre": "Comprendre les raisons qui ont mené à fermer les restaurants",
+      "auteurs": [
+        {
+          "nom": "Aurélien Clerc",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-09-15"
+      },
+      "derniere_etape": "2021-09-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_51",
+      "numero": "21_INT_51",
+      "type": "Interpellation",
+      "depose": "2021-04-20",
+      "titre": "Vaccination vaudoise - Des couacs au bout de l'aiguille",
+      "auteurs": [
+        {
+          "nom": "Cédric Weissert",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-07-07"
+      },
+      "derniere_etape": "2021-07-07",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_41",
+      "numero": "20_INT_41",
+      "type": "Interpellation",
+      "depose": "2020-10-27",
+      "titre": "Éventrer le Mormont : ça suffit !",
+      "auteurs": [
+        {
+          "nom": "Pierre Zwahlen",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-07-07"
+      },
+      "derniere_etape": "2021-07-07",
+      "communes": [
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_487",
+      "numero": "20_INT_487",
+      "type": "Interpellation",
+      "depose": "2020-05-26",
+      "titre": "Mieux prévenir les épidémies en EMS",
+      "auteurs": [
+        {
+          "nom": "Pierre Zwahlen",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-06-30"
+      },
+      "derniere_etape": "2021-06-30",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_43",
+      "numero": "20_INT_43",
+      "type": "Interpellation",
+      "depose": "2020-11-03",
+      "titre": "Diabète : Non aux discriminations !",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-06-30"
+      },
+      "derniere_etape": "2021-06-30",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_64",
+      "numero": "20_INT_64",
+      "type": "Interpellation",
+      "depose": "2020-12-16",
+      "titre": "Béton et granulats: soutenons la production locale !",
+      "auteurs": [
+        {
+          "nom": "Carole Schelker",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-06-23"
+      },
+      "derniere_etape": "2021-06-23",
+      "communes": [
+        {
+          "ofs": 5482,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_55",
+      "numero": "20_INT_55",
+      "type": "Interpellation",
+      "depose": "2020-12-01",
+      "titre": "Afin que nos EMS ne soient pas des Établissements pour mourir seuls",
+      "auteurs": [
+        {
+          "nom": "Christine Chevalley",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-06-16"
+      },
+      "derniere_etape": "2021-06-16",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_356",
+      "numero": "19_INT_356",
+      "type": "Interpellation",
+      "depose": "2019-05-28",
+      "titre": "La loi sur les bourses d'études empêche-t-elle des jeunes de finir leur formation ? Y a-t-il un \"plafond de verre\" pour les étudiantes boursières ?",
+      "auteurs": [
+        {
+          "nom": "Séverine Evéquoz",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-06-02"
+      },
+      "derniere_etape": "2021-06-02",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_306",
+      "numero": "19_INT_306",
+      "type": "Interpellation",
+      "depose": "2019-02-05",
+      "titre": "Pour que le revenu d'insertion ne soit pas seulement une période de recherche de travail infructueuse",
+      "auteurs": [
+        {
+          "nom": "Josephine Byrne Garelli",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-11-11"
+      },
+      "derniere_etape": "2020-11-11",
+      "communes": [
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5649,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_MOT_079",
+      "numero": "16_MOT_079",
+      "type": "Motion",
+      "depose": "2016-03-01",
+      "titre": "N'enterrons pas les fouilles",
+      "auteurs": [
+        {
+          "nom": "Maurice Treboux",
+          "parti": null
+        },
+        {
+          "nom": "Maurice Treboux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-10-11"
+      },
+      "derniere_etape": "2016-10-11",
+      "communes": [
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_LEG_267",
+      "numero": "16_LEG_267",
+      "type": "Décret/Loi",
+      "depose": "2016-03-08",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 7'730'000.- pour financer les travaux de consolidation et protection de neuf objets répertoriés dans le cadre des Dégâts des Forces dela Nature (DFN)",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2016-03-08"
+      },
+      "derniere_etape": "2016-03-08",
+      "communes": [
+        {
+          "ofs": 5665,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5842,
+          "origine": "document"
+        },
+        {
+          "ofs": 5704,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5529,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_381",
+      "numero": "15_INT_381",
+      "type": "Interpellation",
+      "depose": "2015-05-05",
+      "titre": "Convois toxiques : mettre sur les rails une politique environnementale et sécuritaire de qualité",
+      "auteurs": [
+        {
+          "nom": "Michel Collet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Michel Collet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-11-24"
+      },
+      "derniere_etape": "2015-11-24",
+      "communes": [
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_380",
+      "numero": "15_INT_380",
+      "type": "Interpellation",
+      "depose": "2015-11-24",
+      "titre": "La Venoge au vitriol ?",
+      "auteurs": [
+        {
+          "nom": "Michel Collet",
+          "parti": null
+        },
+        {
+          "nom": "Michel Collet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-11-24"
+      },
+      "derniere_etape": "2015-11-24",
+      "communes": [
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_093",
+      "numero": "13_INT_093",
+      "type": "Interpellation",
+      "depose": "2013-02-05",
+      "titre": "Où se situera la prochaine décharge contrôlée bioactive DCB ?",
+      "auteurs": [
+        {
+          "nom": "Michel Collet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-09-24"
+      },
+      "derniere_etape": "2013-09-24",
+      "communes": [
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5472,
+          "origine": "document"
+        },
+        {
+          "ofs": 5529,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_556",
+      "numero": "11_INT_556",
+      "type": "Interpellation",
+      "depose": "2011-11-08",
+      "titre": "Tourisme nucléaire, où se sont donc envolées les 32 tonnes de poussières radioactives ?",
+      "auteurs": [
+        {
+          "nom": "Béatrice Métraux",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-05-08"
+      },
+      "derniere_etape": "2012-05-08",
+      "communes": [
+        {
+          "ofs": 5646,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5529,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_229",
+      "numero": "09_INT_229",
+      "type": "Interpellation",
+      "depose": "2009-09-29",
+      "titre": "L'analyse des quarante-huit offices de poste et le démantèlement du service universel au détriment des régions dites périphériques",
+      "auteurs": [
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-05-25"
+      },
+      "derniere_etape": "2010-05-25",
+      "communes": [
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_223",
+      "numero": "09_INT_223",
+      "type": "Interpellation",
+      "depose": "2009-09-29",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Aliette Rey-Marion au nom du groupe UDC intitulée Sauvons nos offices postaux",
+      "auteurs": [
+        {
+          "nom": "Aliette Rey-Marion",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-05-25"
+      },
+      "derniere_etape": "2010-05-25",
+      "communes": [
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_RAP_161",
+      "numero": "9_RAP_161",
+      "type": "Rapport",
+      "depose": "2008-05-20",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Olivier Epars et consorts pour que des mesures soient prises à la source pour diminuer les micropolluants dans l'eau",
+      "auteurs": [
+        {
+          "nom": "Florence Golaz",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2008-05-20"
+      },
+      "derniere_etape": "2008-05-20",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5553,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

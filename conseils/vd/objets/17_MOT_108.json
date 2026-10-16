@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224108,
+  "numero": "17_MOT_108",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2018-05-22"
+  },
+  "depose": "2017-06-13",
+  "titre": "Pour un allongement de la période de publication de la brochure officielle de votation",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-06-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-22",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-05-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_108_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-05-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/17_MOT_108_obj_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-22-mai-2018/motion-mathieu-blanc-et-consorts-pour-un-allongement-de-la-periode-de-publication-de-la-brochure-officielle-de-votation",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

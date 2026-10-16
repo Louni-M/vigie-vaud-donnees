@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 120069,
+  "numero": "CA23/004",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2023-05-16"
+  },
+  "depose": "2023-03-15",
+  "titre": "Remplacement de l'ERP PeopleSoft - Demande d'ouverture d'un compte d'attente pour l'étude d'une solution en adéquation avec les besoins futurs de la Ville",
+  "contributeurs": [
+    {
+      "nom": "Angelika Veluz",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-03-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-05-16",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "15_03_mai_ca_remplacement_erp_peoplesoft_demande_ouverture_compte_attente_etude_solution.pdf v1.0",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/d0/d0b45f9e1e464ba9b3e130361f4a41df.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/89/37e85151dbe84aac99d0d119fc8e1589.htm",
+  "communes": []
+}

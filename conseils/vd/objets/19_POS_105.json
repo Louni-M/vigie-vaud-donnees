@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224940,
+  "numero": "19_POS_105",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2022-11-23"
+  },
+  "depose": "2019-01-22",
+  "titre": "Lausanne - Barcelone en train, maintenant !",
+  "contributeurs": [
+    {
+      "nom": "Vincent Keller",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-01-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-01-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-11-23",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2019-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_105_depot.pdf"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2019-01-29",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-29-janvier-2019"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-30",
+      "lien": "https://www.sonomix.ch/live/gcvd/1890#7729"
+    },
+    {
+      "titre": "État des lieux des voyages d'études réalisés par les établissements du secondaire I et II et par les hautes écoles vaudoises",
+      "date": "2022-11-23",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2148456"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6d7302de-d5ae-43b1-bc39-a62781e463ab/meeting/1003922",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5587,
+      "origine": "document"
+    }
+  ]
+}

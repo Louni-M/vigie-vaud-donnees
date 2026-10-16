@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221826,
+  "numero": "10_INT_339",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-09-28"
+  },
+  "depose": "2010-02-16",
+  "titre": "Réponse du Conseil d'Etat à l'interpellation José Durussel intitulée Les pare-neiges de l'Etat de Vaud restent aux dépôts",
+  "contributeurs": [
+    {
+      "nom": "José Durussel",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "José Durussel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-02-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-02-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-09-28",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_339_Texte_CE_01.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2010-02-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_339_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-28-septembre-2010/reponse-du-conseil-detat-a-linterpellation-jose-durussel-pares-neiges",
+  "communes": [
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5913,
+      "origine": "document"
+    },
+    {
+      "ofs": 5693,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

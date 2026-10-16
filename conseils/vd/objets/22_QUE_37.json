@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226733,
+  "numero": "22_QUE_37",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-11-30"
+  },
+  "depose": "2022-09-13",
+  "titre": "Contenu du décret \"Eclairage public - recharge véhicules électriques\"",
+  "contributeurs": [
+    {
+      "nom": "Didier Lohri",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-09-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-11-30",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Gestion intelligente des bornes de recharge",
+      "date": "2022-11-30",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2148498"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/83c6811a-e302-436b-ae8e-16cb55d23f0b/meeting/1012632",
+  "communes": []
+}

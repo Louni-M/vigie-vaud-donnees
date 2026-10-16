@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228766,
+  "numero": "9_LEG_164",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-11-03"
+  },
+  "depose": "2009-09-15",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit additionnel de CHF 2'600'000.- au crédit d'investissement alloué par décret du 10 janvier 2006 pour réaliser les premiers travaux de stabilisation du glissement de la Frasse, sur le territoire des Communes de Leysin et d'Ormont-Dessous",
+  "contributeurs": [
+    {
+      "nom": "André Marendaz",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-11-03",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/164_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/164_RC_01.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 03.11.09",
+      "date": "2009-11-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/164_Decret_adopte.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-3-novembre-2009/expose-des-motifs-et-projet-de-decret-stabilisation-du-glissement-de-la-frasse",
+  "communes": [
+    {
+      "ofs": 5407,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5410,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5841,
+      "origine": "document"
+    },
+    {
+      "ofs": 5411,
+      "origine": "document"
+    }
+  ]
+}

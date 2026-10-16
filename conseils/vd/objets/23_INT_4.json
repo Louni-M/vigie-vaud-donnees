@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227069,
+  "numero": "23_INT_4",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2025-09-16"
+  },
+  "depose": "2023-01-17",
+  "titre": "Crise migratoire et afflux massif de requérants d’asile, la situation est-elle sous contrôle ?",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Jordan",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-01-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-01-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-05-01",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-16",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-01-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/2295#511"
+    },
+    {
+      "titre": "Crise migratoire et hébergement",
+      "date": "2024-05-01",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2236121"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/515bf5a6-cbdd-4b62-b715-496ec66d77ff/meeting/1029636",
+  "communes": [
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5624,
+      "origine": "document"
+    }
+  ]
+}

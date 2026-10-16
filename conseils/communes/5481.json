@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5481,
+  "objets": [
+    {
+      "cle": "vd/16_INT_497",
+      "numero": "16_INT_497",
+      "type": "Interpellation",
+      "depose": "2016-04-19",
+      "titre": "L'étonnante délocalisation des examens voitures et motos à Cossonay !",
+      "auteurs": [
+        {
+          "nom": "Denis Rubattel",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Denis Rubattel",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-08-23"
+      },
+      "derniere_etape": "2016-08-23",
+      "communes": [
+        {
+          "ofs": 5477,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5481,
+          "origine": "document"
+        },
+        {
+          "ofs": 5611,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_RAP_233",
+      "numero": "15_RAP_233",
+      "type": "Rapport",
+      "depose": "2015-06-09",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur la mise sous régie temporaire de la commune de La Chaux au sens de l'art. 139a LC",
+      "auteurs": [
+        {
+          "nom": "Michel Renaud",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Michel Renaud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2015-06-09"
+      },
+      "derniere_etape": "2015-06-09",
+      "communes": [
+        {
+          "ofs": 5474,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5481,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_387",
+      "numero": "15_INT_387",
+      "type": "Interpellation",
+      "depose": "2015-05-12",
+      "titre": "La Chaux (Cossonay) : municipal révoqué sans formalités",
+      "auteurs": [
+        {
+          "nom": "Pierrette Roulet-Grin",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Pierrette Roulet-Grin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-06-09"
+      },
+      "derniere_etape": "2015-06-09",
+      "communes": [
+        {
+          "ofs": 5474,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5477,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5481,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

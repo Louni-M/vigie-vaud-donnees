@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228694,
+  "numero": "17_INT_706",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-05-07"
+  },
+  "depose": "2017-05-23",
+  "titre": "Ce très vieux serpent de lac va-t-il enfin être euthanasié par le Conseil d'Etat ?",
+  "contributeurs": [
+    {
+      "nom": "Olivier Epars",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Olivier Epars",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-05-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-05-07",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adotpé par le Conseil d'Etat",
+      "date": "2018-01-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_INT_706_TexteCE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-7-mai-2019/reponse-du-conseil-detat-a-linterpellation-olivier-epars-et-consort-ce-tres-vieux-serpent-de-lac-va-t-il-enfin-etre-euthanasie-par-le-conseil-detat",
+  "communes": [
+    {
+      "ofs": 5464,
+      "origine": "document"
+    },
+    {
+      "ofs": 5456,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 229096,
+  "numero": "24_LEG_131",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2026-03-03"
+  },
+  "depose": "2025-12-10",
+  "titre": "Modifiant la Loi du 6 juillet 2004 sur l'Université de Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Sylvie Pittet Blanchette",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-12-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-12-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-02-24",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-03-03",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "EMPL modifiant la Loi du 6 juillet 2004 sur l'Université de Lausanne - Texte adopté par CE - Université de Lausanne - publié",
+      "date": "2024-12-18",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2280247"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/70d73eaa-6396-4046-a415-25b08127d26d/meeting/1029662",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 176294,
+  "numero": "23_INT_2",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-05-03"
+  },
+  "depose": "2023-01-17",
+  "titre": "Boucher un trou",
+  "contributeurs": [
+    {
+      "nom": "Alberto Mocchi",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-01-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-01-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-05-03",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-01-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/2295#532"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-08-22",
+      "lien": "https://www.sonomix.ch/live/gcvd/2564#10252"
+    },
+    {
+      "titre": "Projet de comblement de la carrière du Mormont",
+      "date": "2023-05-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2174237"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4e49945a-3e5a-4c8e-8b19-e19e95f0ec57/meeting/1019536",
+  "communes": []
+}

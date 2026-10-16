@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227974,
+  "numero": "24_QUE_60",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-10-09"
+  },
+  "depose": "2024-09-03",
+  "titre": "Transparence du processus de décision de la CPEV",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-09-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-10-09",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Plan de financement de la Caisse de pensions de l’Etat de Vaud",
+      "date": "2024-10-09",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2264568"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/87fcd7c4-ce1a-4cf4-a6dc-e4bcb7fba210/meeting/1026858",
+  "communes": []
+}

@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224381,
+  "numero": "18_LEG_356",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2018-05-15"
+  },
+  "depose": "2018-04-24",
+  "titre": "Exposé des motifs et projet de loi sur l'orientation professionnelle",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marc Nicolet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Marc Nicolet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Marc Nicolet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-04-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-01",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2018-05-15",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Tableau miroir avant 1er débat",
+      "date": "2018-04-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/356_teableau_miroir_avant1erdebat.PDF"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-04-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/356_RC.PDF"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-04-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/356_TexteCE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-15-mai-2018/expose-des-motifs-et-projet-de-loi-sur-lorientation-professionnelle",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

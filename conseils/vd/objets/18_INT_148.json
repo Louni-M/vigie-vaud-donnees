@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224235,
+  "numero": "18_INT_148",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-11-05"
+  },
+  "depose": "2018-04-17",
+  "titre": "Le patient vaudois est-il un patient de 2ème zone ? Qu'en est-il de la contribution du canton de Vaud à la part cantonale (49a LAMal) pour des séjours de ses ressortissants dans les hôpitaux répertoriés situés hors de son territoire (en particulier Genève)",
+  "contributeurs": [
+    {
+      "nom": "Thierry Dubois",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Thierry Dubois",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-04-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-04-17",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-11-05",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-03-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_148_TexteCE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-04-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_148_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-5-novembre-2019/reponse-du-conseil-detat-a-linterpellation-thierry-dubois-le-patient-vaudois-est-il-un-patient-de-2eme-zone-quen-est-il-de-la-contribution-du-canton-de-vaud-a-la-part-cantonale-49a-lamal-pour-des-sejours-de-ses-ressortissants-dans-les-hopitaux-re",
+  "communes": [
+    {
+      "ofs": 5718,
+      "origine": "document"
+    }
+  ]
+}

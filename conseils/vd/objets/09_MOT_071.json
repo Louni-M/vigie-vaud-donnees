@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221690,
+  "numero": "09_MOT_071",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2009-09-29"
+  },
+  "depose": "2009-09-29",
+  "titre": "Demandant une révision de la LI relative aux accords fiscaux à forfait signés par l'ACI avec des personnes morales",
+  "contributeurs": [
+    {
+      "nom": "Claudine Amstein",
+      "parti": "LIB",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Michel Favez",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-09-29",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2009-09-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_071_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2009-09-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_071_Objet_et_dev_01.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2009-09-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_071_RC_min.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-29-septembre-2009/motion-cesla-amarelle",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

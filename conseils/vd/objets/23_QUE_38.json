@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227331,
+  "numero": "23_QUE_38",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-10-04"
+  },
+  "depose": "2023-08-22",
+  "titre": "Quelle détection des stupéfiants au volant ?",
+  "contributeurs": [
+    {
+      "nom": "Jacques-André Haury",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-08-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-10-04",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Détection des stupéfiants au volant",
+      "date": "2023-10-04",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2199689"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c010837c-0e90-49b2-9910-aabd96ee6668/meeting/1019536",
+  "communes": []
+}

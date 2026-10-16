@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223781,
+  "numero": "16_INT_530",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-02-19"
+  },
+  "depose": "2016-06-14",
+  "titre": "Participation de l'élève et critique constructive : pour tout, sauf l'évaluation des enseignants ?",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-06-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-06-21",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-02-19",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-01-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_530_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-06-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_530_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-19-fevrier-2019/reponse-du-conseil-detat-a-linterpellation-jerome-christen-et-consorts-participation-de-leleve-et-critique-constructive-pour-tout-sauf-levaluation-des-enseignants",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224363,
+  "numero": "18_LEG_13",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2018-01-16"
+  },
+  "depose": "2018-01-16",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 4'500'000.- pour financer des travaux d'assainissement de trois routes cantonales : RC 58 Etoy-Lavigny, RC 533 Neyruz-Denezy et RC 790 Aigle-Ollon (route Industrielle)",
+  "contributeurs": [
+    {
+      "nom": "Muriel Thalmann",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Muriel Thalmann",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-01-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-01-16",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/13_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/13_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-16-janvier-2018/empd-de-de-chf-4500000-pour-financer-des-travaux-dassainissement-de-trois-routes-cantonales-rc-58-etoy-lavigny-rc-533-neyruz-denezy-et-rc-790-aigle-ollon-route-industrielle",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5409,
+      "origine": "document"
+    },
+    {
+      "ofs": 5693,
+      "origine": "document"
+    },
+    {
+      "ofs": 5636,
+      "origine": "document"
+    },
+    {
+      "ofs": 5637,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

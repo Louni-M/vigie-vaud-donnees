@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221553,
+  "numero": "09_INI_020",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2010-12-14"
+  },
+  "depose": "2009-06-23",
+  "titre": "La modification de l'article 142 de la Constitution cantonale par l'abaissement du droit de vote en matière communal de 18 ans à 16 ans",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Alain Monod",
+      "parti": "RAD",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-06-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-06-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-12-14",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2010-01-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INI_020_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-06-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INI_020_Depot.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2010-01-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INI_020_RC_min.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-01-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INI_020_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seances-des-14-et-15-decembre-2010/initiative-pierre-yves-rapaz-modification-de-la-constitution-cantonale-par-labaissement-du-droit-de-vote-en-matiere-communal-de-18-ans-a-16-ans",
+  "communes": []
+}

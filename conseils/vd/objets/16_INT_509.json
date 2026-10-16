@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223762,
+  "numero": "16_INT_509",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-09-20"
+  },
+  "depose": "2016-05-10",
+  "titre": "Squat des halles Heineken, le contribuable boirait-il la chope jusqu'à la lie ?",
+  "contributeurs": [
+    {
+      "nom": "Michel Miéville",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Michel Miéville",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-05-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-05-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-09-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-08-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_509_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-05-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_509_Depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-20-septembre-2016/reponse-du-conseil-detat-a-linterpellation-michel-mieville-squat-des-halles-heineken-le-contribuable-boirait-il-la-chope-jusqua-la-lie",
+  "communes": [
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

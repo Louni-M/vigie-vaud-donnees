@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221581,
+  "numero": "09_INT_197",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-03-02"
+  },
+  "depose": "2009-03-10",
+  "titre": "Un Français comme surveillant permanent de la faune",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-03-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-03-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-03-02",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_197_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_10_mars_2009/09_INT_197.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-2-mars-2010/reponse-du-conseil-detat-a-linterpellation-jean-marie-surer-un-francais-comme-surveillant-permanent-de-la-faune",
+  "communes": [
+    {
+      "ofs": 5764,
+      "origine": "document"
+    },
+    {
+      "ofs": 5492,
+      "origine": "document"
+    }
+  ]
+}

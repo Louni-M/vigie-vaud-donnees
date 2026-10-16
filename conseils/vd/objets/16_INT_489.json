@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223744,
+  "numero": "16_INT_489",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-03-08"
+  },
+  "depose": "2016-03-01",
+  "titre": "[particulier] : son état de santé serait-il assez bon pour être municipal et ainsi ne plus toucher de pensions ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-03-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-03-08",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/16_INT_489_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-03-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_489_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d9b9a35f-f7f6-409b-86d9-f9a7351fe9ba/meeting/1000530",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

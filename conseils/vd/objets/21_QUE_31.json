@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226041,
+  "numero": "21_QUE_31",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-10-13"
+  },
+  "depose": "2021-08-31",
+  "titre": "Quels sont les effectifs de l'enseignement privé dans la scolarité obligatoire vaudoise?",
+  "contributeurs": [
+    {
+      "nom": "Graziella Schaller",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-08-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-10-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Évolution des effectifs de l'enseignement privé dans la scolarité obligatoire",
+      "date": "2021-10-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2080419"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1c6f6cf0-85f6-4bed-a84e-81da1cb5e972/meeting/1004402",
+  "communes": []
+}

@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5830,
+  "objets": [
+    {
+      "cle": "vd/10_LEG_316",
+      "numero": "10_LEG_316",
+      "type": "Décret/Loi",
+      "depose": "2010-11-09",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Lucens et Oulens-sur-Lucens (Lucens )",
+      "auteurs": [
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-11-09"
+      },
+      "derniere_etape": "2010-11-09",
+      "communes": [
+        {
+          "ofs": 5675,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5831,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5830,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_315",
+      "numero": "10_LEG_315",
+      "type": "Décret/Loi",
+      "depose": "2010-11-09",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Cerniaz, Combremont-le-Grand, Combremont-le-Petit, Granges-près-Marnand, Marnand, Sassel, Seigneux et Villars-Bramard (Valbroye)",
+      "auteurs": [
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-11-09"
+      },
+      "derniere_etape": "2010-11-09",
+      "communes": [
+        {
+          "ofs": 5831,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5830,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5671,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5819,
+          "origine": "document"
+        },
+        {
+          "ofs": 5828,
+          "origine": "document"
+        },
+        {
+          "ofs": 5812,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

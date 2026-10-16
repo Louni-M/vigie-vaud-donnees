@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222977,
+  "numero": "13_LEG_45",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-03-19"
+  },
+  "depose": "2013-03-19",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 17'200'000.- pour financer des travaux d'entretien de revêtements bitumineux et améliorer la sécurité et la qualité des routes cantonales",
+  "contributeurs": [
+    {
+      "nom": "Philippe Modoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Modoux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-03-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-03-19",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-03-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/45_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-03-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/45_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 19.03.13",
+      "date": "2013-03-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/45_D%C3%A9cret_FAO.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-19-mars-2013/empd-accordant-au-conseil-detat-un-credit-cadre-de-chf-17200000-pour-financer-des-travaux-dentretien-de-revetements-bitumineux-et-ameliorer-la-securite-et-la-qualite-des-routes-cantonales",
+  "communes": [
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5592,
+      "origine": "document"
+    },
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

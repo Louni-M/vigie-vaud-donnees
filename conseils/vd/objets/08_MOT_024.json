@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221445,
+  "numero": "08_MOT_024",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2008-09-16"
+  },
+  "depose": "2008-09-09",
+  "titre": "Pour une notation énergétique des logements",
+  "contributeurs": [
+    {
+      "nom": "Jean-Yves Pidoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Yves Pidoux",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-09-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-09-16",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet et développement",
+      "date": "2008-09-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_9_septembre_2008/08_MOT_024_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-09-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_16_septembre_2008/08_MOT_024_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-16-septembre-2008/motion-bernard-borel",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

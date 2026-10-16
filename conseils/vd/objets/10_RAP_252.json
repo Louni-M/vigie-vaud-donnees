@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222171,
+  "numero": "10_RAP_252",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-04-20"
+  },
+  "depose": "2010-04-20",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Jean-Jacques Ambresin et consorts pour un plan de mobilité d'entreprise global pour l'Etat de Vaud - Extension du plan de mobilité à l'ensemble de l'ACVetRéponse du Conseil d'Etat à l'interpellation de Mme la députée Valérie Schwaar \"L'Etat de Vaud sera-t-il candidat à son propre prix Mobilité d'entreprise\"",
+  "contributeurs": [
+    {
+      "nom": "François Cherix",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "François Cherix",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-04-20",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/252_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/252_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-4-mai-2010/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-jean-jacques-ambresin",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

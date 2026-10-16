@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224267,
+  "numero": "18_INT_183",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-03-10"
+  },
+  "depose": "2018-06-05",
+  "titre": "Comment se composent les flux financiers (charges et revenus) de l'assistance judiciaire ?",
+  "contributeurs": [
+    {
+      "nom": "Régis Courdesse",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Régis Courdesse",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-06-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-06-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-05-15",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-03-10",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_183_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-06-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_183_depot.pdf"
+    },
+    {
+      "titre": "Charges et revenus de l'assistance judiciaire",
+      "date": "2019-05-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=360831"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-10-mars-2020/reponse-du-conseil-detat-a-linterpellation-regis-courdesse-comment-se-composent-les-flux-financiers-charges-et-revenus-de-lassistance-judiciaire",
+  "communes": []
+}

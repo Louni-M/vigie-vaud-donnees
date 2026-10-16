@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224438,
+  "numero": "18_MOT_045",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2019-05-07"
+  },
+  "depose": "2018-05-22",
+  "titre": "Taxe sur les moteurs de bateaux destinés à la pêche professionnelle",
+  "contributeurs": [
+    {
+      "nom": "José Durussel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "José Durussel",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-05-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-06-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-05-07",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-04-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_045_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-04-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_045_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_045_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-7-mai-2019/motion-sabine-glauser-krug-et-consorts-taxe-sur-les-moteurs-de-bateaux-destines-a-la-peche-professionnelle",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

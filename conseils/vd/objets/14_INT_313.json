@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223227,
+  "numero": "14_INT_313",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-01-19"
+  },
+  "depose": "2014-11-18",
+  "titre": "Le jazz et les musiques actuelles sont-ils des arts mineurs ?",
+  "contributeurs": [
+    {
+      "nom": "Mireille Aubert",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Mireille Aubert",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-11-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-12-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-01-19",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-01-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_313_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-11-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_313_D%C3%A9p%C3%B4t_01.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-12-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_313_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-19-janvier-2016/reponse-du-conseil-detat-a-linterpellation-mireille-aubert-et-consorts-le-jazz-et-les-musiques-actuelles-sont-ils-des-arts-mineurs",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228279,
+  "numero": "25_POS_10",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2026-06-16"
+  },
+  "depose": "2025-02-11",
+  "titre": "Transports publics dans le Jura-Nord vaudois",
+  "contributeurs": [
+    {
+      "nom": "Patrick Simonin",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre-Alain Favrod",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-02-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-02-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2026-06-16",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/26e6727a-b6b9-4846-acae-dff1ec5b2973/meeting/1029673",
+  "communes": []
+}

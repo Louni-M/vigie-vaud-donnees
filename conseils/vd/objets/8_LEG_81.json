@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228448,
+  "numero": "8_LEG_81",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2008-10-28"
+  },
+  "depose": "2008-09-30",
+  "titre": "Exposé des motifs et projets de lois sur la procédure administrative et modifiant 59 lois et 2 décrets",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Mattenberger",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Mattenberger",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-09-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-10-07",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2008-10-28",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-09-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_7_octobre_2008/81_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2008-09-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_7_octobre_2008/81_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2008-09-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_7_octobre_2008/81_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-28-octobre-2008/expose-des-motifs-et-projets-de-lois-procedure-administrative",
+  "communes": []
+}

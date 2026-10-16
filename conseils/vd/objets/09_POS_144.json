@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221763,
+  "numero": "09_POS_144",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-11-23"
+  },
+  "depose": "2009-09-08",
+  "titre": "Pour une politique d'action sociale gérontologique favorisant la participation et l'autodétermination des personnes âgées",
+  "contributeurs": [
+    {
+      "nom": "François Payot",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "François Payot",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-09-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-11-23",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-11-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_144_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_144_Depot.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-11-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_144_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-23-novembre-2010/postulat-filip-uffer-politique-daction-sociale-gerontologique",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5764,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

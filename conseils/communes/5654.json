@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5654,
+  "objets": [
+    {
+      "cle": "vd/24_INT_46",
+      "numero": "24_INT_46",
+      "type": "Interpellation",
+      "depose": "2024-03-05",
+      "titre": "Comment la Venoge, légalement protégée, reste-t-elle la rivière plus polluée ?",
+      "auteurs": [
+        {
+          "nom": "Pierre Zwahlen",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-08-28"
+      },
+      "derniere_etape": "2024-08-28",
+      "communes": [
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5496,
+          "origine": "document"
+        },
+        {
+          "ofs": 5471,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5654,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_230",
+      "numero": "20_LEG_230",
+      "type": "Décret/Loi",
+      "depose": "2020-05-13",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit d'investissement de CHF 4'238'300 pour financer l'octroi d'une subvention à Pepperdine University pour les travaux de conservation et restauration du château d'Hauteville et son orangerie, à St-Légier-La Chiésaz",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2020-05-13"
+      },
+      "derniere_etape": "2020-05-13",
+      "communes": [
+        {
+          "ofs": 5892,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5486,
+          "origine": "document"
+        },
+        {
+          "ofs": 5654,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5713,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

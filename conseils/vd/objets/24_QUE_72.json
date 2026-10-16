@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227987,
+  "numero": "24_QUE_72",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-11-13"
+  },
+  "depose": "2024-10-01",
+  "titre": "Les fonds propres du CHUV",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-10-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-11-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Fonds propres institutionnels du CHUV et mécanismes d’alimentation",
+      "date": "2024-11-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2270414"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f51fa71f-bfaa-4b9e-9f14-815be2cb9814/meeting/1026861",
+  "communes": []
+}

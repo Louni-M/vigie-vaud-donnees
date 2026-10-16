@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225611,
+  "numero": "21_INT_122",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-12-15"
+  },
+  "depose": "2021-09-21",
+  "titre": "Agir contre les démonstrations publiques de discrimination et de haine !",
+  "contributeurs": [
+    {
+      "nom": "Julien Eggenberger",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-09-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-09-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-12-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-09-28",
+      "lien": "https://www.sonomix.ch/live/gcvd/1927#6974"
+    },
+    {
+      "titre": "Réaction contre des démonstrations publiques de discrimination et de haine",
+      "date": "2021-12-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2092530"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-02-08",
+      "lien": "http://www.sonomix.ch/live/gcvd/2054#2423"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/28191fbb-6c36-4b22-96c4-07d4fb5f9f72/meeting/1004429",
+  "communes": [
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5407,
+      "origine": "document"
+    }
+  ]
+}

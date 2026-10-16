@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228710,
+  "numero": "17_INT_721",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-07-03"
+  },
+  "depose": "2017-06-13",
+  "titre": "Bombardier : un train de licenciements incompréhensible",
+  "contributeurs": [
+    {
+      "nom": "Alberto Cherubini",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Alberto Cherubini",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-06-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-07-03",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-06-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_INT_721_TexteCE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-3-juillet-2018/reponse-du-conseil-detat-a-linterpellation-alberto-cherubini-et-consorts-bombardier-un-train-de-licenciements-incomprehensible",
+  "communes": [
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5892,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

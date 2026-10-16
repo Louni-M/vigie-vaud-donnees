@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222477,
+  "numero": "11_MOT_153",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2012-05-08"
+  },
+  "depose": "2012-05-01",
+  "titre": "Nomination d'un responsable du pilotage des agglomérations",
+  "contributeurs": [
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-05-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-05-08",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_153_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2012-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_153_Objet_et_d%C3%A9v.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-8-mai-2012/motion-francois-cherix-nomination-dune-responsable-du-pilotage-des-agglomerations",
+  "communes": [
+    {
+      "ofs": 5725,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223006,
+  "numero": "13_PET_020",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2014-04-01"
+  },
+  "depose": "2013-10-29",
+  "titre": "Pétition pour Le Vivarium doit vivre!",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2013-10-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-04-01",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-02-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_PET_020_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-02-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_PET_020_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-1-avril-2014/petition-pour-le-vivarium-doit-vivre",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5584,
+      "origine": "document"
+    }
+  ]
+}

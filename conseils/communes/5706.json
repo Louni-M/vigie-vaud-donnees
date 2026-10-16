@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5706,
+  "objets": [
+    {
+      "cle": "vd/24_LEG_236",
+      "numero": "24_LEG_236",
+      "type": "Décret/Loi",
+      "depose": "2025-01-28",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit d’ouvrage CHF 15’438’000.- pour financer les travaux de réhabilitation des routes cantonales 3-C-S et 7-C-S entre Chavannes-de-Bogis et Chavannes-des-Bois sur le territoire des communes de Chavannes-de-Bogis, Commugny et Chavannes-des-Bois",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-01-28"
+      },
+      "derniere_etape": "2025-01-28",
+      "communes": [
+        {
+          "ofs": 5707,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5708,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5711,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5729,
+          "origine": "document"
+        },
+        {
+          "ofs": 5705,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5714,
+          "origine": "document"
+        },
+        {
+          "ofs": 5706,
+          "origine": "document"
+        },
+        {
+          "ofs": 5726,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

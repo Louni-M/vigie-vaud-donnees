@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222441,
+  "numero": "11_LEG_411",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-11-15"
+  },
+  "depose": "2011-11-15",
+  "titre": "Exposé des motifs et projets de décret accordant au Conseil d'Etat un crédit de CHF 2'255'000.- destiné à financer les études relatives à la conservation et à la restauration du Château cantonal Saint-Maire à Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-11-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-15",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-11-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/411_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport  de la commission",
+      "date": "2011-11-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/411_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-15-novembre-2011/expose-des-motifs-et-projets-de-decret-accordant-au-conseil-detat-un-credit-de-chf-2255000-destine-a-financer-la-restauration-du-chateau-cantonale-saint-maire",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5853,
+      "origine": "document"
+    },
+    {
+      "ofs": 5669,
+      "origine": "document"
+    },
+    {
+      "ofs": 5675,
+      "origine": "document"
+    },
+    {
+      "ofs": 5851,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    },
+    {
+      "ofs": 5761,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    },
+    {
+      "ofs": 5561,
+      "origine": "document"
+    }
+  ]
+}

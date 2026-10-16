@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223125,
+  "numero": "14_INT_211",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-09-09"
+  },
+  "depose": "2014-01-28",
+  "titre": "Quelle est la politique du Canton par rapport aux entreprises suisses et étrangères lors de la soumission des offres de fourniture ?",
+  "contributeurs": [
+    {
+      "nom": "Jacques Neirynck",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jacques Neirynck",
+      "parti": "AdC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-01-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-01-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-09-09",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-09-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_211_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-01-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_211_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-9-septembre-2014/reponse-du-conseil-detat-a-linterpellation-jacques-neirynck-et-consorts-quelle-est-la-politique-du-canton-par-rapport-aux-entreprises-suisses-et-etrangeres-lors-de-la-soumission-des-offres-de-fourniture",
+  "communes": []
+}

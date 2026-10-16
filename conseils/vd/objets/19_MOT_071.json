@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224872,
+  "numero": "19_MOT_071",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2020-10-06"
+  },
+  "depose": "2019-01-15",
+  "titre": "Pour une protection efficace des lanceurs d'alerte dans l'administration cantonale vaudoise",
+  "contributeurs": [
+    {
+      "nom": "Anne Baehler Bech",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Anne Baehler Bech",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-01-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-01-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-10-06",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-06-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_071_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-06-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_071_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-01-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_071_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/7e8bce26-a030-4666-8a5d-5d3eb63e5e5f/meeting/1000530",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

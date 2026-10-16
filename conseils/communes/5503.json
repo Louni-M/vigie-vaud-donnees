@@ -1,0 +1,640 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5503,
+  "objets": [
+    {
+      "cle": "vd/23_POS_79",
+      "numero": "23_POS_79",
+      "type": "Postulat",
+      "depose": "2023-12-12",
+      "titre": "Reconnaître le coût environnemental et climatique du béton",
+      "auteurs": [
+        {
+          "nom": "Mathilde Marendaz",
+          "parti": "EP"
+        },
+        {
+          "nom": "Nicolas Suter",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2023-12-19"
+      },
+      "derniere_etape": "2023-12-19",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5511,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_12",
+      "numero": "21_LEG_12",
+      "type": "Décret/Loi",
+      "depose": "2023-01-31",
+      "titre": "EMPL Révision totale de la loi du 1 novembre 2005 sur la taxe des véhicules automobiles et des bateaux (LTVB)",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2023-01-31"
+      },
+      "derniere_etape": "2023-01-31",
+      "communes": [
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_LEG_20",
+      "numero": "18_LEG_20",
+      "type": "Décret/Loi",
+      "depose": "2018-02-06",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 6'500'000.- pour financer la réalisation des mesures d'assainissement contre le bruit le long des routes cantonales selon la convention-programme signée entre le Canton et la Confédération pour la période 2016-2018",
+      "auteurs": [
+        {
+          "nom": "Muriel Thalmann",
+          "parti": null
+        },
+        {
+          "nom": "Muriel Thalmann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2018-02-06"
+      },
+      "derniere_etape": "2018-02-06",
+      "communes": [
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5842,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_534",
+      "numero": "16_INT_534",
+      "type": "Interpellation",
+      "depose": "2016-06-28",
+      "titre": "Quelle transparence lors d'une découverte archéologique, bien commun et public par excellence ?",
+      "auteurs": [
+        {
+          "nom": "Claire Richard",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-11-15"
+      },
+      "derniere_etape": "2016-11-15",
+      "communes": [
+        {
+          "ofs": 5503,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_MOT_079",
+      "numero": "16_MOT_079",
+      "type": "Motion",
+      "depose": "2016-03-01",
+      "titre": "N'enterrons pas les fouilles",
+      "auteurs": [
+        {
+          "nom": "Maurice Treboux",
+          "parti": null
+        },
+        {
+          "nom": "Maurice Treboux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-10-11"
+      },
+      "derniere_etape": "2016-10-11",
+      "communes": [
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_RAP_297",
+      "numero": "16_RAP_297",
+      "type": "Rapport",
+      "depose": "2016-06-07",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur les opérations effectuées du 1er janvier 2014 au 31 décembre 2015 par le Fonds pour l'acquisition de droits réels et d'immeubles de réserve (FAIR), selon décret du 12 septembre 1994, modifié le 4 septembre 2007",
+      "auteurs": [
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-06-07"
+      },
+      "derniere_etape": "2016-06-07",
+      "communes": [
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_396",
+      "numero": "15_INT_396",
+      "type": "Interpellation",
+      "depose": "2015-06-09",
+      "titre": "Curieux exemple de concentration en périphérie !",
+      "auteurs": [
+        {
+          "nom": "Martial De Montmollin",
+          "parti": null
+        },
+        {
+          "nom": "Martial De Montmollin",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-04-26"
+      },
+      "derniere_etape": "2016-04-26",
+      "communes": [
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5651,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_431",
+      "numero": "15_INT_431",
+      "type": "Interpellation",
+      "depose": "2015-09-22",
+      "titre": "Sous les camions, notre histoire",
+      "auteurs": [
+        {
+          "nom": "Martial De Montmollin",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-02-09"
+      },
+      "derniere_etape": "2016-02-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_155",
+      "numero": "13_INT_155",
+      "type": "Interpellation",
+      "depose": "2013-09-03",
+      "titre": "La poste ferme des bureaux : jusqu'à quand ?",
+      "auteurs": [
+        {
+          "nom": "Marc Oran",
+          "parti": null
+        },
+        {
+          "nom": "Marc Oran",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-04-08"
+      },
+      "derniere_etape": "2014-04-08",
+      "communes": [
+        {
+          "ofs": 5588,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5623,
+          "origine": "document"
+        },
+        {
+          "ofs": 5831,
+          "origine": "document"
+        },
+        {
+          "ofs": 5743,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_POS_016",
+      "numero": "12_POS_016",
+      "type": "Postulat",
+      "depose": "2012-12-18",
+      "titre": "La pérennisation des SDA dans les zones intermédiaires avant la reconversion des zones à bâtir",
+      "auteurs": [
+        {
+          "nom": "Jean-Robert Yersin",
+          "parti": null
+        },
+        {
+          "nom": "Jean-Robert Yersin",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2013-11-05"
+      },
+      "derniere_etape": "2013-11-05",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_413",
+      "numero": "12_LEG_413",
+      "type": "Décret/Loi",
+      "depose": "2012-01-17",
+      "titre": "Exposé des motifs et projet de loi modifiant la loi du 10 décembre 1991 sur les routes",
+      "auteurs": [
+        {
+          "nom": "Philippe Grobéty",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Philippe Grobéty",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-02-07"
+      },
+      "derniere_etape": "2012-02-07",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5496,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_347",
+      "numero": "11_LEG_347",
+      "type": "Décret/Loi",
+      "depose": "2011-01-11",
+      "titre": "Exposé des motifs et projet de décret autorisant l'institution \"Orphelinat Desponds-Montagnon\" à vendre son domaine principalement à un agriculteur ainsi qu'à l'Etat de Vaud, et prononçant la dissolution de l'institution dont la fortune sera intégralement versée au Fonds pour la protection de la jeunesse et en faveur de l'enfance malheureuse et abandonnée",
+      "auteurs": [
+        {
+          "nom": "Jean-Luc Chollet",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Jean-Luc Chollet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-01-18"
+      },
+      "derniere_etape": "2011-01-18",
+      "communes": [
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5479,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_280",
+      "numero": "10_LEG_280",
+      "type": "Décret/Loi",
+      "depose": "2010-09-21",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'étude n° 2 de CHF 4'950'000.- pour financer les études complémentaires en vue de la construction de la nouvelle route de liaison RC 177 entre le pôle de développement de Vufflens-la-Ville/Aclens et la jonction autoroutière de Cossonay sur les communes d'Aclens, Vufflens-la-Ville et PenthazetRéponse du Conseil d'Etat à l'interpellation André Marendaz concernant le projet de la route de liaison entre le pôle de développement Aclens-Vufflens-la-Ville et la jonction autoroutière de Cossonay, RC 177",
+      "auteurs": [
+        {
+          "nom": "Philippe Ducommun",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Ducommun",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-05"
+      },
+      "derniere_etape": "2010-10-05",
+      "communes": [
+        {
+          "ofs": 5503,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5621,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5477,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5496,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5484,
+          "origine": "document"
+        },
+        {
+          "ofs": 5464,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/8_LEG_107",
+      "numero": "8_LEG_107",
+      "type": "Décret/Loi",
+      "depose": "2008-11-18",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 3'520'000. - pour le renforcement du pont de la Chocolatière sur la RC 151b sur la commune de Bussigny",
+      "auteurs": [
+        {
+          "nom": "Michel Miéville",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Michel Miéville",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2008-11-18"
+      },
+      "derniere_etape": "2008-11-18",
+      "communes": [
+        {
+          "ofs": 5624,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

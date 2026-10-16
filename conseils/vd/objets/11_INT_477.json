@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222211,
+  "numero": "11_INT_477",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-06-21"
+  },
+  "depose": "2011-01-18",
+  "titre": "Semi-autoroute A9B Orbe - Ballaigues : combien de morts faudra-t-il encore?",
+  "contributeurs": [
+    {
+      "nom": "Denis-Olivier Maillefer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Denis-Olivier Maillefer",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-01-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-01-18",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-06-21",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-06-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_477_Texte_CE.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2011-01-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_477_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-21-juin-2011/reponse-du-conseil-detat-a-linterpellation-denis-olivier-maillefer-semi-autoroute-a9b-orbe-ballaigues-combien-de-morts-faudra-t-il-encore",
+  "communes": [
+    {
+      "ofs": 5757,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5744,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5764,
+      "origine": "document"
+    }
+  ]
+}

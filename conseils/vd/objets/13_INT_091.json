@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222791,
+  "numero": "13_INT_091",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-06-18"
+  },
+  "depose": "2013-02-05",
+  "titre": "Leur santé",
+  "contributeurs": [
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": "PLR",
+      "role": null,
+      "sorte": "personne"
+    },
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-02-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-02-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-06-18",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-06-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_091_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-02-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_091_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-18-juin-2013/reponse-du-conseil-detat-a-linterpellation-philippe-vuillemin-a-propos-du-fichage-des-patients-aux-urgences-des-hopitaux-de-la-prise-en-charge-des-dits-fiches-et-des-consequences-dun-tel-dispositif-sur-leur-sante",
+  "communes": []
+}

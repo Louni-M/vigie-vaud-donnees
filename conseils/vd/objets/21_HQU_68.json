@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225453,
+  "numero": "21_HQU_68",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2021-06-08"
+  },
+  "depose": "2021-06-01",
+  "titre": "Combien de demandes de congé accordées le 21 mai 2021 ?",
+  "contributeurs": [
+    {
+      "nom": "Sacha Soldini",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-06-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-06-08",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-08",
+      "lien": "https://www.sonomix.ch/live/gcvd/1855#165"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/9580b43b-0b52-4f61-9bc1-de3fda013134/meeting/1000563",
+  "communes": []
+}

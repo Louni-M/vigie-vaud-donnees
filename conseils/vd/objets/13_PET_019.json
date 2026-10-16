@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223047,
+  "numero": "13_PET_019",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2014-05-13"
+  },
+  "depose": "2013-10-29",
+  "titre": "Pétition pour sauver la faune pour les générations futures",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2013-10-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-05-13",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-04-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_PET_019_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-04-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_PET_019_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-13-mai-2014/petition-pour-sauver-la-faune-pour-les-generations-futures",
+  "communes": [
+    {
+      "ofs": 5529,
+      "origine": "document"
+    },
+    {
+      "ofs": 5746,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    }
+  ]
+}

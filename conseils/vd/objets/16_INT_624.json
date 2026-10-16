@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223877,
+  "numero": "16_INT_624",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-06-04"
+  },
+  "depose": "2016-11-15",
+  "titre": "Mormont : une \"grande carrière\" se mesure-t-elle au nombre de ses échecs ?",
+  "contributeurs": [
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-11-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-11-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-05-01",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2019-06-04",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-05-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/16_INT_624_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-11-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_624_Depot.PDF"
+    },
+    {
+      "titre": "Préservation de la zone sommitale du Mormont",
+      "date": "2019-05-01",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=314816"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-4-juin-2019/reponse-du-conseil-detat-a-linterpellation-vassilis-venizelos-et-consort-mormont-une-grande-carriere-se-mesure-t-elle-au-nombre-de-ses-echecs",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223036,
+  "numero": "13_MOT_035",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé (Motion transformée en postulat)",
+    "date": "2014-01-07"
+  },
+  "depose": "2014-01-07",
+  "titre": "Pour un traitement fiscal des personnes qui se consacrent à l'exercice de fonctions publiques",
+  "contributeurs": [
+    {
+      "nom": "Denis Rubattel",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Delphine Probst",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-01-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-01-07",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2014-10-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_035_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2014-10-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_035_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-10-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_035_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-01-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_035_D%C3%A9p%C3%B4t_01.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-7-octobre-2014/motion-hans-rudolf-kappeler-et-consorts-pour-un-traitement-fiscal-des-personnes-qui-se-consacrent-a-lexercice-de-fonctions-publiques",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5712,
+      "origine": "document"
+    }
+  ]
+}

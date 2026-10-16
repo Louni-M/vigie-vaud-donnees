@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227607,
+  "numero": "24_INT_141",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2025-10-07"
+  },
+  "depose": "2024-10-01",
+  "titre": "Implications du retrait des aspirants de police valaisans de l'académie de Savatan pour le Canton de Vaud",
+  "contributeurs": [
+    {
+      "nom": "Nicola Di Giulio",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-10-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-10-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-08-20",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-30",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-10-07",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Académie de police : le retrait des aspirants valaisans sans conséquence",
+      "date": "2025-08-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2321841"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-10-08",
+      "lien": "https://www.sonomix.ch/live/gcvd/2931#444"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/735efdac-156f-4a36-8f9b-9efc4e03c840/meeting/1029639",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

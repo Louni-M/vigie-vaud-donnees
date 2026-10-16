@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225144,
+  "numero": "20_INT_434",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2020-01-14"
+  },
+  "depose": "2020-01-14",
+  "titre": "Impôt à la dépense : Vaud a-t-il déclaré forfait ?",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-01-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-01-14",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2020-01-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_434_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/cab5658d-29e5-498b-b5ef-a5f7e67c1356/meeting/1000527",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

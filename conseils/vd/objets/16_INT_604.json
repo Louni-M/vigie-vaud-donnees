@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223857,
+  "numero": "16_INT_604",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-01-15"
+  },
+  "depose": "2016-11-15",
+  "titre": "Nissan International, le beurre et l'argent du beurre !",
+  "contributeurs": [
+    {
+      "nom": "Jean-Michel Dolivo",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Michel Dolivo",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-11-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-11-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-01-15",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-01-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_604_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-11-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_604_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-15-janvier-2019/reponse-du-conseil-detat-a-linterpellation-jean-michel-dolivo-nissan-international-le-beurre-et-largent-du-beurre",
+  "communes": [
+    {
+      "ofs": 5861,
+      "origine": "document"
+    }
+  ]
+}

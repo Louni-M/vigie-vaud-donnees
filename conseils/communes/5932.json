@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5932,
+  "objets": [
+    {
+      "cle": "vd/21_LEG_101",
+      "numero": "21_LEG_101",
+      "type": "Décret/Loi",
+      "depose": "2021-11-23",
+      "titre": "EMPD accordant au Conseil d'État un crédit d’ouvrage de CHF 9'630'000.- pour financer la réalisation d’un aménagement de mobilité douce et la création d’un giratoire au croisement des RC 422 et 425, ainsi que les travaux de réfection et d’adaptation des RC 422, 425 et 426, sur le territoire de la Commune de Pomy",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-11-23"
+      },
+      "derniere_etape": "2021-11-23",
+      "communes": [
+        {
+          "ofs": 5926,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5939,
+          "origine": "document"
+        },
+        {
+          "ofs": 5912,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5932,
+          "origine": "document"
+        },
+        {
+          "ofs": 5831,
+          "origine": "document"
+        },
+        {
+          "ofs": 5913,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_326",
+      "numero": "14_INT_326",
+      "type": "Interpellation",
+      "depose": "2014-12-16",
+      "titre": "A quand un vrai soutien cantonal au projet de protection et de mise en valeur du site de la Villa romaine à Orbe?",
+      "auteurs": [
+        {
+          "nom": "Rémy Jaquier",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-09-22"
+      },
+      "derniere_etape": "2015-09-22",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5932,
+          "origine": "document"
+        },
+        {
+          "ofs": 5939,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_LEG_149",
+      "numero": "14_LEG_149",
+      "type": "Décret/Loi",
+      "depose": "2014-06-17",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 18'600'000.- pour financer le réaménagement de la route RC 422-B-P entre Cronay et la rivière de la Menthue, sur le territoire de la commune de Cronay",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2014-06-17"
+      },
+      "derniere_etape": "2014-06-17",
+      "communes": [
+        {
+          "ofs": 5910,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5913,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5932,
+          "origine": "document"
+        },
+        {
+          "ofs": 5925,
+          "origine": "document"
+        },
+        {
+          "ofs": 5926,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

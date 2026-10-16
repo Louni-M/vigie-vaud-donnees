@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225950,
+  "numero": "21_PET_6",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2022-06-21"
+  },
+  "depose": "2021-06-29",
+  "titre": "Pétition en faveur d'une famille originaire d'Arménie",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2021-06-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-06-21",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-06-21",
+      "lien": "http://www.sonomix.ch/live/gcvd/2142#6903"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f7fabd6f-ca3b-4f47-8246-d1e1df85422e/meeting/1004444",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5909,
+      "origine": "document"
+    }
+  ]
+}

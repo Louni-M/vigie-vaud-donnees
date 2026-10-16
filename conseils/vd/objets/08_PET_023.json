@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221489,
+  "numero": "08_PET_023",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2009-05-26"
+  },
+  "depose": "2009-05-26",
+  "titre": "Pétition contre l'implantation d'une décharge contrôlée bioactive sur la Commune de Mathod au lieu dit Vigny",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2009-05-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-05-26",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2009-05-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/08_PET_023_Objet.pdf"
+    },
+    {
+      "titre": "Rapport de la commission des pétitions",
+      "date": "2009-05-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_PET_023_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-26-mai-2009/petition-contre-limplantation-dune-decharge-controlee-bioactive-sur-la-commune-de-mathod",
+  "communes": [
+    {
+      "ofs": 5919,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5933,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225409,
+  "numero": "24_QUE_92",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-01-15"
+  },
+  "depose": "2024-12-04",
+  "titre": "CHUV et choix Epic",
+  "contributeurs": [
+    {
+      "nom": "David Vogel",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-12-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-01-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "La stratégie d’appel d’offres pour le Dossier patient informatisé est confirmée par la Cour de droit administratif",
+      "date": "2025-01-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2281785"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/23a8dff9-096e-4d86-a72e-67fce8c2a8e2/meeting/1026869",
+  "communes": []
+}

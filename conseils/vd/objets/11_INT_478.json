@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222212,
+  "numero": "11_INT_478",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-11-15"
+  },
+  "depose": "2011-01-25",
+  "titre": "Minarets de Bussigny : correspondent-ils au cadre légal?",
+  "contributeurs": [
+    {
+      "nom": "François Brélaz",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-01-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-01-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-11-15",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-11-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_478_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-01-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_478_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-15-novembre-2011/reponse-du-conseil-detat-a-linterpellation-francois-brelaz-minarets-de-bussigny-correspondent-ils-au-cadre-legal",
+  "communes": [
+    {
+      "ofs": 5624,
+      "origine": "titre"
+    }
+  ]
+}

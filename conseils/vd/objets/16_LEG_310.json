@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223945,
+  "numero": "16_LEG_310",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-12-13"
+  },
+  "depose": "2016-12-13",
+  "titre": "Expose des motifs et projet décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 7'225'000.- pour la rénovation intérieure de l'Aula des Cèdres de la Haute Ecole Pédagogique du Canton de Vaud (HEP Vaud) – avenue de Cour 33bis à Lausanne / accordant au Conseil d'Etat un crédit d'ouvrage de CHF 2'600'000.- pour la réfection des installations sanitaires du bâtiment principal de la Haute Ecole Pédagogique du Canton de Vaud (HEP Vaud) – avenue de Cour 33 à Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Christiane Jaquet-Berger",
+      "parti": "LGa",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Christiane Jaquet-Berger",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-12-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-12-13",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-12-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/310_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-12-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/310_RC_new.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-13-et-mercredi-14-decembre-2016/empd-de-chf-7225000-pour-la-renovation-interieure-de-laula-des-cedres-de-la-haute-ecole-pedagogique-du-canton-de-vaud-hep-vaud",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5861,
+      "origine": "document"
+    }
+  ]
+}

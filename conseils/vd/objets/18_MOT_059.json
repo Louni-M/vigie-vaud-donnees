@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224453,
+  "numero": "18_MOT_059",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2020-01-28"
+  },
+  "depose": "2018-09-25",
+  "titre": "Pour un soutien renforcé aux familles et aux proches aidants",
+  "contributeurs": [
+    {
+      "nom": "Felix Stürner",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Felix Stürner",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-09-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-10-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-01-28",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-01-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_059_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-01-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_059_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-10-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_059_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-28-janvier-2020/motion-muriel-cuendet-schmidt-et-consorts-pour-un-soutien-renforce-aux-familles-et-aux-proches-aidants",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

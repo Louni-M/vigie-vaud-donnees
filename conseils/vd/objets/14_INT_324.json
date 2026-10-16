@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223239,
+  "numero": "14_INT_324",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-04-28"
+  },
+  "depose": "2014-12-16",
+  "titre": "Site de recyclage Thévenaz-Leduc d'Ecublens : la sécurité de la population est-elle assurée ?",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Rydlo",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alexandre Rydlo",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-12-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-12-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-04-28",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_324_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-12-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_324_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-28-avril-2015/reponse-du-conseil-detat-a-linterpellation-alexandre-rydlo-et-consorts-site-de-recyclage-thevenaz-leduc-decublens-la-securite-de-la-population-est-elle-assuree",
+  "communes": [
+    {
+      "ofs": 5635,
+      "origine": "titre"
+    }
+  ]
+}

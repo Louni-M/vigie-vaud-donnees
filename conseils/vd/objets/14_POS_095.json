@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223374,
+  "numero": "14_POS_095",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2015-06-30"
+  },
+  "depose": "2014-12-09",
+  "titre": "Pour un meilleur regard sur les émoluments et autres frais pour actes administratifs perçus par l'Etat",
+  "contributeurs": [
+    {
+      "nom": "Daniel Meienberger",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Daniel Meienberger",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-12-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-12-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-06-30",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-06-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_095_RC_01.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2015-06-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_095_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-12-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_095_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-30-juin-2015/postulat-axel-marion-et-consorts-pour-un-meilleur-regard-sur-les-emoluments-et-autres-frais-pour-actes-administratifs-percus-par-letat",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

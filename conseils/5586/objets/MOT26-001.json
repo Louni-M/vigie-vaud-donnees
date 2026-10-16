@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 289307,
+  "numero": "MOT26/001",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Décision : Renvoi en commission",
+    "date": "2026-02-03"
+  },
+  "depose": "2026-01-13",
+  "titre": "Créons une halle gourmande à la Riponne !",
+  "contributeurs": [
+    {
+      "nom": "Anouck Saugy",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-01-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-01-13",
+      "libelle": "Décision : Renvoi en Municipalité"
+    },
+    {
+      "date": "2026-02-03",
+      "libelle": "Décision : Renvoi en commission"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport commission n° 80",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/56/5601a9c717c949e999518bd1a8d25da9.pdf"
+    },
+    {
+      "titre": "Motion - Halle Gourmande Riponne",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/80/80f3f62cc8ac46c28100bc7aa4ca08c9.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/73/afaa187e53fb42dc96ec026b601eb673.htm",
+  "communes": []
+}

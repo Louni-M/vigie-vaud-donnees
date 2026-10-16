@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226886,
+  "numero": "23_HQU_58",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2023-06-13"
+  },
+  "depose": "2023-06-06",
+  "titre": "Victimes de violences sexistes et sexuelles : des outils avant 2025 !",
+  "contributeurs": [
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-06-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-06-13",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "a informé la mise en place d'une ligne téléphonique centrale pour venir en aide aux victimes de violence domestique au début 2025",
+      "date": "2023-06-13",
+      "lien": "https://www.24heures.ch/berne-promet-une-ligne-telephonique-centrale-pour-sauver-des-vies-589641009845"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6f7c9686-2133-41d6-b50b-759d7a9fea6e/meeting/1013648",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

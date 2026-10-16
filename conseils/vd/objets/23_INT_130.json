@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224845,
+  "numero": "23_INT_130",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-12-20"
+  },
+  "depose": "2023-08-22",
+  "titre": "Interpellation hébergement d’urgence",
+  "contributeurs": [
+    {
+      "nom": "Vincent Keller",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-08-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-08-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-12-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-08-29",
+      "lien": "https://www.sonomix.ch/live/gcvd/2566#678"
+    },
+    {
+      "titre": "Hébergement d’urgence: accueil des enfants",
+      "date": "2023-12-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2213927"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-04-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/2804#6196"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/25a0de43-bad3-452a-a486-e810d58dd1ec/meeting/1019566",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

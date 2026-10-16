@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222717,
+  "numero": "12_LEG_484",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-12-04"
+  },
+  "depose": "2012-11-27",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 3'600'000 pour la participation cantonale à la réalisation de la deuxième étape du Centre sportif « Aux Isles » à Yverdon-les-Bains",
+  "contributeurs": [
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-11-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-12-04",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Décret adopté par le Grand Conseil le 04.12.12",
+      "date": "2012-12-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/484_Texte_FAO.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/484_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/484_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-des-4-et-5-decembre-2012/expose-des-motifs-et-projet-de-decret-accordant-un-credit-dinvestissement-de-chf-3600000-pour-la-participation-cantonale-a-la-realisation-de-la-deuxieme-etape-du-centre-sportif-aux-isles-a-yverdon-les-bains",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5760,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222217,
+  "numero": "11_INT_484",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-09-20"
+  },
+  "depose": "2011-02-15",
+  "titre": "Poursuivre le développement ferroviaire du canton de Vaud au-delà de Lausanne-Genève. Après avoir attendu trop longtemps, soyons pro-actifs avec nos cantons voisins !",
+  "contributeurs": [
+    {
+      "nom": "Michele Mossi",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Michele Mossi",
+      "parti": "AdC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-02-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-02-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-09-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-09-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_484_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-02-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_484_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-20-septembre-2011/reponse-du-conseil-detat-a-linterpellation-michele-mossi-poursuivre-le-developpement-ferroviaire-du-canton-de-vaud-au-dela-de-lausanne-geneve",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    }
+  ]
+}

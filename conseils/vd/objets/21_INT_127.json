@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225616,
+  "numero": "21_INT_127",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2021-10-05"
+  },
+  "depose": "2021-09-28",
+  "titre": "N'est-il pas temps d'adapter l'impôt sur le bénéfice des entreprises au taux international?",
+  "contributeurs": [
+    {
+      "nom": "Pierre Zwahlen",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-09-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-10-05",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "21_INT_127-Texte déposé",
+      "date": "2021-10-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2077353"
+    },
+    {
+      "titre": "Vaud est l’un des cantons les plus attractifs de Suisse | 24 heures",
+      "date": "2021-10-05",
+      "lien": "https://www.24heures.ch/vaud-regions/vaud-cantons-attractifs-suisse/story/27592615"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/894b903f-1b27-4645-819b-d7e4508f5693/meeting/1004408",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5646,
+      "origine": "document"
+    }
+  ]
+}

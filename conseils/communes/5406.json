@@ -1,0 +1,212 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5406,
+  "objets": [
+    {
+      "cle": "vd/21_INT_136",
+      "numero": "21_INT_136",
+      "type": "Interpellation",
+      "depose": "2021-11-02",
+      "titre": "Projet fédéral de modification des procédures pour les grands projets énergétiques et climatiques",
+      "auteurs": [
+        {
+          "nom": "Marc-Olivier Buffat",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-02-16"
+      },
+      "derniere_etape": "2022-02-16",
+      "communes": [
+        {
+          "ofs": 5406,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_392",
+      "numero": "19_INT_392",
+      "type": "Interpellation",
+      "depose": "2019-09-24",
+      "titre": "Transition énergétique : Quels sont les freins au développement des projets d'énergies renouvelables sur le territoire vaudois et d'où viennent les blocages ? DES",
+      "auteurs": [
+        {
+          "nom": "Nicolas Suter",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2020-06-16"
+      },
+      "derniere_etape": "2020-06-16",
+      "communes": [
+        {
+          "ofs": 5565,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5406,
+          "origine": "document"
+        },
+        {
+          "ofs": 5863,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5607,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_518",
+      "numero": "16_INT_518",
+      "type": "Interpellation",
+      "depose": "2016-05-31",
+      "titre": "Soufflerait-il un vent nouveau dans l'Est Vaudois ?",
+      "auteurs": [
+        {
+          "nom": "Régis Courdesse",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Régis Courdesse",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-12-20"
+      },
+      "derniere_etape": "2016-12-20",
+      "communes": [
+        {
+          "ofs": 5856,
+          "origine": "document"
+        },
+        {
+          "ofs": 5746,
+          "origine": "document"
+        },
+        {
+          "ofs": 5910,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5406,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_LEG_265",
+      "numero": "16_LEG_265",
+      "type": "Décret/Loi",
+      "depose": "2016-05-10",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 4 700 000.- destiné à financer un bâtiment d'hébergement et de formation composé d'une structure modulaire à l'Académie de Police à Savatan",
+      "auteurs": [
+        {
+          "nom": "Alberto Cherubini",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Alberto Cherubini",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2016-05-24"
+      },
+      "derniere_etape": "2016-05-24",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5406,
+          "origine": "document"
+        },
+        {
+          "ofs": 5731,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_438",
+      "numero": "10_INT_438",
+      "type": "Interpellation",
+      "depose": "2010-11-02",
+      "titre": "Correction du Rhône, vers quels méandres ?",
+      "auteurs": [
+        {
+          "nom": "Alessandra Silauri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-05-31"
+      },
+      "derniere_etape": "2011-05-31",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5406,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

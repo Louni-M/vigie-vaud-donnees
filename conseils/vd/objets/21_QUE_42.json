@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226053,
+  "numero": "21_QUE_42",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-01-19"
+  },
+  "depose": "2021-12-08",
+  "titre": "JO de Pékin 2022 : vers un boycott des autorités vaudoises ?",
+  "contributeurs": [
+    {
+      "nom": "Yannick Maury",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-12-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-01-19",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Jeux olympiques de Pékin: précisions sur la présence des autorités vaudoises",
+      "date": "2022-01-19",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2097315"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/41227944-29a0-468a-88fa-b431232e9859/meeting/1004416",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

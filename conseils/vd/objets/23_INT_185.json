@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227036,
+  "numero": "23_INT_185",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2024-03-20"
+  },
+  "depose": "2023-12-06",
+  "titre": "Promoteur vs tennis féminin vaudois : jeu, set et match promoteur",
+  "contributeurs": [
+    {
+      "nom": "Yannick Maury",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-12-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-12-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-03-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-12-18",
+      "lien": "https://www.sonomix.ch/live/gcvd/3001#6017"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-12-12",
+      "lien": "https://www.sonomix.ch/live/gcvd/2687#93"
+    },
+    {
+      "titre": "Tournoi de tennis professionnel féminin sur sol vaudois",
+      "date": "2024-03-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2228813"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4c77327b-c4a4-45f9-8afc-f4b2a61aeb09/meeting/1026873",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5407,
+      "origine": "document"
+    }
+  ]
+}

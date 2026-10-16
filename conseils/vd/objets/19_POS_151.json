@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224979,
+  "numero": "19_POS_151",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2022-04-13"
+  },
+  "depose": "2019-06-18",
+  "titre": "L'hydrogène fait-il partie des énergies de demain pour le Canton de Vaud ? DES",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-06-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-06-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-06-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-04-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_151_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_151_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-06-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_151_depot.pdf"
+    },
+    {
+      "titre": "Place de l’hydrogène dans la stratégie énergétique cantonale",
+      "date": "2022-04-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2112665"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-16-juin-2020/postulat-pierre-andre-romanens-et-consorts-lhydrogene-fait-il-partie-des-energies-de-demain-pour-le-canton-de-vaud",
+  "communes": [
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5717,
+      "origine": "document"
+    }
+  ]
+}

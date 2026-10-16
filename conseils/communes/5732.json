@@ -1,0 +1,285 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5732,
+  "objets": [
+    {
+      "cle": "vd/23_INT_183",
+      "numero": "23_INT_183",
+      "type": "Interpellation",
+      "depose": "2023-12-05",
+      "titre": "Y en a point comme nos fruits !",
+      "auteurs": [
+        {
+          "nom": "Alberto Mocchi",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-08-19"
+      },
+      "derniere_etape": "2025-08-19",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5817,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5732,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_LEG_118",
+      "numero": "22_LEG_118",
+      "type": "Décret/Loi",
+      "depose": "2023-01-31",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit d’ouvrage de CHF 4'000'000.- pour financer les travaux de réhabilitation de la route cantonale 26-C-P entre Vich et Begnins sur le territoire de la commune de Begnins",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-01-31"
+      },
+      "derniere_etape": "2023-01-31",
+      "communes": [
+        {
+          "ofs": 5732,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5704,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5858,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_POS_57",
+      "numero": "23_POS_57",
+      "type": "Postulat",
+      "depose": "2022-03-15",
+      "titre": "Écrans dans l’espace public: incompatibilité climatique",
+      "auteurs": [
+        {
+          "nom": "Elodie Lopez",
+          "parti": "EP"
+        },
+        {
+          "nom": "Josephine Byrne Garelli",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Transformée en postulat",
+        "date": "2022-03-15"
+      },
+      "derniere_etape": "2022-03-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5704,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5410,
+          "origine": "document"
+        },
+        {
+          "ofs": 5411,
+          "origine": "document"
+        },
+        {
+          "ofs": 5732,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_424",
+      "numero": "19_INT_424",
+      "type": "Interpellation",
+      "depose": "2019-11-26",
+      "titre": "L'écologie extrême veut-elle la peau de la biodiversité et interdire l'accès à nos forêts ?",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-06-10"
+      },
+      "derniere_etape": "2020-06-10",
+      "communes": [
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5710,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5732,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_087",
+      "numero": "17_INT_087",
+      "type": "Interpellation",
+      "depose": "2017-12-19",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Thierry Dubois – La police est-elle et se sent-elle soutenue tant par sa hiérarchie que pas nos conseillers d'Etat afin de répondre au plus près aux droits et devoirs de chacun, avec une autorité suffisante lors de manifestations non autorisées et radicalisées pratiquées par des manifestants dans un lieu privé ?",
+      "auteurs": [
+        {
+          "nom": "Conseil d'État",
+          "parti": null
+        },
+        {
+          "nom": "Thierry Dubois",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-29"
+      },
+      "derniere_etape": "2018-05-29",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5732,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_411",
+      "numero": "10_INT_411",
+      "type": "Interpellation",
+      "depose": "2010-08-31",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Philippe Martinet en faveur d'une approche dynamique de la conservation des ouvrages d'art historiques, à partir de l'exemple du Pont Farbel à Gland-Vich",
+      "auteurs": [
+        {
+          "nom": "Conseil d'État",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-06-28"
+      },
+      "derniere_etape": "2011-06-28",
+      "communes": [
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5732,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 120075,
+  "numero": "CA23/013",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2024-04-23"
+  },
+  "depose": "2023-10-23",
+  "titre": "Etudes pour le renouvellement des concessions de Lavey",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Waelti",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-10-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-04-23",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "09_14_mars_cc_compte_attente_financer_etudes_renouvellement_concessions_lavey.pdf v1.0",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/f4/f4db9de9e9c04f7780958a3c563895a1.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/cb/cf4b827f57724fafaff43768908c7ecb.htm",
+  "communes": []
+}

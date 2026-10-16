@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 120634,
+  "numero": "Q22/041",
+  "type": "Question écrite",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2023-05-30"
+  },
+  "depose": "2022-11-20",
+  "titre": "La place de la Riponne, un projet prioritaire ?",
+  "contributeurs": [
+    {
+      "nom": "Henri Klunge",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-11-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-11-22",
+      "libelle": "Décision : Renvoi en Municipalité"
+    },
+    {
+      "date": "2023-05-12",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2023-05-30",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "question_klunge_riponne.pdf v3.0",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/ac/acfee28c7d02472b946d8fca6ff8ebf1.pdf"
+    },
+    {
+      "titre": "Réponse à la question écrite signée",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/fd/fd267a60ee51494da7ea15ae9c0fefef.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/eb/e983ebfa65c1403ba8c004c023d8e1eb.htm",
+  "communes": []
+}

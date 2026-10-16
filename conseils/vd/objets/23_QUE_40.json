@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227333,
+  "numero": "23_QUE_40",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-02-21"
+  },
+  "depose": "2023-09-05",
+  "titre": "Combien de meutes de loups à l’avenir dans le Jura vaudois",
+  "contributeurs": [
+    {
+      "nom": "Olivier Petermann",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-09-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-02-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Régulation du loup dans le Jura vaudois",
+      "date": "2024-02-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2223130"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6c3413c0-fa66-4a16-ae08-be6aca7d6345/meeting/1019538",
+  "communes": []
+}

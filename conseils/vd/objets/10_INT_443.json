@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221929,
+  "numero": "10_INT_443",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-08-30"
+  },
+  "depose": "2010-11-09",
+  "titre": "Le rapport Rouiller",
+  "contributeurs": [
+    {
+      "nom": "Cesla Amarelle",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Cesla Amarelle",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-11-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-11-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-08-30",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2010-11-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_443_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-30-aout-2011/reponse-du-conseil-detat-a-linterpellation-cesla-amarelle-concernant-le-rapport-rouiller",
+  "communes": []
+}

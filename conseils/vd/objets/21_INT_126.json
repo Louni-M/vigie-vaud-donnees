@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225615,
+  "numero": "21_INT_126",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2021-10-05"
+  },
+  "depose": "2021-09-28",
+  "titre": "Déploiement des Pôles Santé, quel bilan ?",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Cala",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-09-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-10-05",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "21_INT_126-Texte déposé",
+      "date": "2021-10-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2077350"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/07e34052-6421-4152-9780-57e023ec7c87/meeting/1004408",
+  "communes": [
+    {
+      "ofs": 5568,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227545,
+  "numero": "24_HQU_95",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2024-09-10"
+  },
+  "depose": "2024-09-03",
+  "titre": "Equitim et développement d'un projet à Prilly",
+  "contributeurs": [
+    {
+      "nom": "Julien Eggenberger",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-09-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-09-10",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a760490f-49f5-4b55-8b7d-7c83ee5e7d8a/meeting/1026859",
+  "communes": [
+    {
+      "ofs": 5589,
+      "origine": "titre"
+    }
+  ]
+}

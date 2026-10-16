@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 203037,
+  "numero": "20_HQU_23",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2020-11-17"
+  },
+  "depose": "2020-11-03",
+  "titre": "Contrôle LPIC, informations transmises à la COPAR par l'Etat",
+  "contributeurs": [
+    {
+      "nom": "Didier Lohri",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-11-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-11-17",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2020-11-17",
+      "lien": "https://www.sonomix.ch/live/gcvd/1637#216"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a83af279-88ab-4e47-bb22-0b9d9f010bcb/meeting/1000535",
+  "communes": []
+}

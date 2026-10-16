@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224591,
+  "numero": "19_INI_021",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2020-12-09"
+  },
+  "depose": "2019-10-29",
+  "titre": "Pour que l'arbre ne cache pas...le vélo !",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Croci Torti",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Claude Glardon",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-10-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-11-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-12-09",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2019-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INI_021_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2020-12-09",
+      "lien": "https://www.sonomix.ch/live/gcvd/1673#6669"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/89158c08-ab82-4bd2-b275-9ea4437add5c/meeting/1000541",
+  "communes": []
+}

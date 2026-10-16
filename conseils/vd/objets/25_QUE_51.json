@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228373,
+  "numero": "25_QUE_51",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-08-13"
+  },
+  "depose": "2025-06-10",
+  "titre": "Pour une mise en valeur des \" investissements responsables \" de la CPEV",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Cala",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-06-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-08-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.cpev.ch/sites/default/files/files-document/2017-08/CPEV_charte_investissement_responsable_0.pdf",
+      "date": "2025-06-10",
+      "lien": "https://www.cpev.ch/sites/default/files/files-document/2017-08/CPEV_charte_investissement_responsable_0.pdf"
+    },
+    {
+      "titre": "https://www.cpev.ch/placements/investissements-responsables",
+      "date": "2025-06-10",
+      "lien": "https://www.cpev.ch/placements/investissements-responsables"
+    },
+    {
+      "titre": "https://rapportannuel.cpev.ch/wp-content/uploads/sites/2/2025/04/cpev-comptes-annuels-2024-bdef.pdf",
+      "date": "2025-06-10",
+      "lien": "https://rapportannuel.cpev.ch/wp-content/uploads/sites/2/2025/04/cpev-comptes-annuels-2024-bdef.pdf"
+    },
+    {
+      "titre": "Investissements étrangers de la CPEV : précisions",
+      "date": "2025-08-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2320339"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/7799ea9b-9511-4bbd-b081-eea8113a9fee/meeting/1026892",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

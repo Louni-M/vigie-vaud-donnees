@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224585,
+  "numero": "19_INI_014",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2020-01-21"
+  },
+  "depose": "2019-04-09",
+  "titre": "Renforcer les mesures du Concordat intercantonal pour lutter contre le hooliganisme",
+  "contributeurs": [
+    {
+      "nom": "Patrick Simonin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Patrick Simonin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-04-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-05-07",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-01-21",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-12-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INI_014_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-12-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INI_014_obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-04-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INI_014_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-21-janvier-2020/initiative-jose-durussel-et-consorts-renforcer-les-mesures-du-concordat-intercantonal-pour-lutter-contre-le-hooliganisme",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

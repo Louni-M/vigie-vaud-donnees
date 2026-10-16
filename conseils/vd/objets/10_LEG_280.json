@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222012,
+  "numero": "10_LEG_280",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-10-05"
+  },
+  "depose": "2010-09-21",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit d'étude n° 2 de CHF 4'950'000.- pour financer les études complémentaires en vue de la construction de la nouvelle route de liaison RC 177 entre le pôle de développement de Vufflens-la-Ville/Aclens et la jonction autoroutière de Cossonay sur les communes d'Aclens, Vufflens-la-Ville et PenthazetRéponse du Conseil d'Etat à l'interpellation André Marendaz concernant le projet de la route de liaison entre le pôle de développement Aclens-Vufflens-la-Ville et la jonction autoroutière de Cossonay, RC 177",
+  "contributeurs": [
+    {
+      "nom": "Philippe Ducommun",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Ducommun",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-09-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-09-28",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2010-10-05",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Décret adopté par le Grand Conseil le 05.10.10",
+      "date": "2010-10-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/280_Decret_adopte.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-09-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/280_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2010-09-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/280_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2010-09-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/280_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-5-octobre-2010/expose-des-motifs-et-projet-de-decret-rc-177",
+  "communes": [
+    {
+      "ofs": 5503,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5621,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5477,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5496,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5635,
+      "origine": "document"
+    },
+    {
+      "ofs": 5624,
+      "origine": "document"
+    },
+    {
+      "ofs": 5484,
+      "origine": "document"
+    },
+    {
+      "ofs": 5464,
+      "origine": "document"
+    }
+  ]
+}

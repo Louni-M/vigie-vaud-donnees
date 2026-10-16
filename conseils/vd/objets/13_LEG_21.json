@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222951,
+  "numero": "13_LEG_21",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-03-19"
+  },
+  "depose": "2013-03-19",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 9'530'000.- pour financer la réhabilitation de la RC 559 entre La Marjolatte et Chêne de Gland, sur le territoire des Communes de Lausanne et du Mont-sur-Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Philippe Modoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Modoux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-03-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-03-19",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-03-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/21_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-03-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/21_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 19.03.13",
+      "date": "2013-03-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/21_D%C3%A9cret_FAO.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-19-mars-2013/empd-accordant-au-conseil-detat-un-credit-douvrage-de-chf-9530000-pour-financer-la-rehabilitation-de-la-rc-559-entre-la-marjolatte-et-chene-de-gland-sur-le-territoire-des-communes-de-lausanne-et-du-mont-sur-lausanne",
+  "communes": [
+    {
+      "ofs": 5721,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5587,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5798,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 202981,
+  "numero": "18_POS_094",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2024-03-13"
+  },
+  "depose": "2018-12-11",
+  "titre": "La mort c'est tabou, on en viendra tous à bout",
+  "contributeurs": [
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-12-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-12-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-03-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-03-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_094_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_094_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-12-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_094_depot.pdf"
+    },
+    {
+      "titre": "Questions relatives à la fin de vie",
+      "date": "2024-03-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2229241"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-10-mars-2020/postulat-leonore-porchet-et-consorts-la-mort-cest-tabou-on-en-viendra-tous-a-bout",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

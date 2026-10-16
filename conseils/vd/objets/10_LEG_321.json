@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222041,
+  "numero": "10_LEG_321",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-11-30"
+  },
+  "depose": "2010-11-30",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi du 12 novembre 2001 sur le personnel de l'Etat de Vaud - Désignation d'un membre suppléant représentant l'Etat à l'Organe de conciliation et d'arbitrage",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Cachin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Cachin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-11-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-11-30",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-11-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/321_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-11-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/321_RC.pdf"
+    },
+    {
+      "titre": "Loi adoptée par le Grand Conseil le 30.11.10",
+      "date": "2010-11-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/321_Loi_adoptee.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-30-novembre-2010/expose-des-motifs-et-projet-de-loi-modifiant-la-loi-du-12-novembre-2001-sur-le-personnel-de-letat-de-vaud",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

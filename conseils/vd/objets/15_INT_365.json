@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 203009,
+  "numero": "15_INT_365",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-06-02"
+  },
+  "depose": "2015-03-24",
+  "titre": "Demain, la fin des sapeurs-pompiers locaux volontaires ?",
+  "contributeurs": [
+    {
+      "nom": "José Durussel",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "José Durussel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-03-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-03-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-06-02",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-06-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_365_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-03-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_365_Depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-2-juin-2015/reponse-du-conseil-detat-a-linterpellation-jose-durussel-demain-la-fin-des-sapeurs-pompiers-locaux-volontaires",
+  "communes": []
+}

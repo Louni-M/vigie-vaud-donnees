@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221459,
+  "numero": "08_MOT_041",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2008-12-16"
+  },
+  "depose": "2008-05-27",
+  "titre": "Demandant une modification de la loi sur l'aménagement du territoire et les constructions du 4 décembre 1985 dans le but d'y instaurer une mesure de lutte contre la thésaurisation des terrains à bâtir",
+  "contributeurs": [
+    {
+      "nom": "Laurent Wehrli",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Florence Golaz",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-05-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-12-16",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2008-12-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Senace_du_16_decembre_2008/08_MOT_041_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2008-12-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Senace_du_16_decembre_2008/08_MOT_041_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2008-05-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_27_mai_2008/08_MOT_041_Objet.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2008-12-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Senace_du_16_decembre_2008/08_MOT_041_RC_min.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-des-16-et-17-decembre-2008/motion-valerie-schwaar",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5675,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    }
+  ]
+}

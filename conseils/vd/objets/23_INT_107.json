@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226949,
+  "numero": "23_INT_107",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2025-10-07"
+  },
+  "depose": "2023-06-13",
+  "titre": "Trois clubs de foot vaudois en première division : victoire ou autogoal ?",
+  "contributeurs": [
+    {
+      "nom": "Thanh-My Tran-Nhu",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-06-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-06-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-09-25",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-08-19",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-09-30",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-10-07",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Une sécurité des matchs adaptée aux risques",
+      "date": "2024-09-25",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2261488"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4cabbf4e-0f04-4026-89e6-c8dbea777b30/meeting/1029639",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

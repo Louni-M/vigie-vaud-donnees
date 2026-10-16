@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5728,
+  "objets": [
+    {
+      "cle": "vd/15_INT_459",
+      "numero": "15_INT_459",
+      "type": "Interpellation",
+      "depose": "2015-12-15",
+      "titre": "Record d'insécurité catastrophique dans le canton de Vaud",
+      "auteurs": [
+        {
+          "nom": "Philippe Ducommun",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Ducommun",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-06-21"
+      },
+      "derniere_etape": "2016-06-21",
+      "communes": [
+        {
+          "ofs": 5851,
+          "origine": "document"
+        },
+        {
+          "ofs": 5922,
+          "origine": "document"
+        },
+        {
+          "ofs": 5707,
+          "origine": "document"
+        },
+        {
+          "ofs": 5728,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

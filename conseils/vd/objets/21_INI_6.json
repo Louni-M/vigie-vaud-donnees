@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225582,
+  "numero": "21_INI_6",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Non pris en considération",
+    "date": "2021-09-28"
+  },
+  "depose": "2021-09-28",
+  "titre": "Pour un accès public aux rives des lacs vaudois",
+  "contributeurs": [
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Bolay",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-09-28",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "21_INI_6-Texte déposé",
+      "date": "2021-10-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2077358"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-05-09",
+      "lien": "https://www.sonomix.ch/live/gcvd/2380#4292"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/14b07b00-85ff-4734-85f3-7bd7df99ee92/meeting/1013643",
+  "communes": [
+    {
+      "ofs": 5408,
+      "origine": "document"
+    },
+    {
+      "ofs": 5723,
+      "origine": "document"
+    },
+    {
+      "ofs": 5889,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5649,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5766,
+  "objets": [
+    {
+      "cle": "vd/23_LEG_127",
+      "numero": "23_LEG_127",
+      "type": "Décret/Loi",
+      "depose": "2024-02-06",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d’ouvrage de CHF 35’100'000.- pour financer les travaux de réhabilitation et de sécurisation de la RC 254-B-P Vuiteboeuf - Sainte-Croix, 2e étape, sur les communes de Bullet et de Sainte-Croix",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-02-06"
+      },
+      "derniere_etape": "2024-02-06",
+      "communes": [
+        {
+          "ofs": 5766,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5568,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5552,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_6",
+      "numero": "20_INT_6",
+      "type": "Interpellation",
+      "depose": "2020-09-01",
+      "titre": "Rationalisation contre écologie, l’exemple Sainte-Croix du géant jaune",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-01-20"
+      },
+      "derniere_etape": "2021-01-20",
+      "communes": [
+        {
+          "ofs": 5568,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5766,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_216",
+      "numero": "18_INT_216",
+      "type": "Interpellation",
+      "depose": "2018-07-03",
+      "titre": "La fête des écoles se mue-t-elle en promontoire d'actions politiques ?",
+      "auteurs": [
+        {
+          "nom": "Alain Bovay",
+          "parti": null
+        },
+        {
+          "nom": "Alain Bovay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-09-10"
+      },
+      "derniere_etape": "2019-09-10",
+      "communes": [
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5766,
+          "origine": "document"
+        },
+        {
+          "ofs": 5552,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5730,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_111",
+      "numero": "19_LEG_111",
+      "type": "Décret/Loi",
+      "depose": "2019-04-30",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'étude de CHF 2'043'000.- pour financer les études de la RC 254-B-P Vuiteboeuf - Sainte-Croix, 2e étape, sur les communes de Bullet et de Sainte-Croix",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": null
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-05-21"
+      },
+      "derniere_etape": "2019-05-21",
+      "communes": [
+        {
+          "ofs": 5766,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5568,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5552,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_188",
+      "numero": "18_INT_188",
+      "type": "Interpellation",
+      "depose": "2018-06-05",
+      "titre": "Pourquoi continuer de faire le nettoyage de printemps à nos belles rivières ?",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": null
+        },
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-05-07"
+      },
+      "derniere_etape": "2019-05-07",
+      "communes": [
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5766,
+          "origine": "document"
+        },
+        {
+          "ofs": 5552,
+          "origine": "document"
+        },
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5669,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_681",
+      "numero": "17_INT_681",
+      "type": "Interpellation",
+      "depose": "2017-03-07",
+      "titre": "Transfert du rail à la route avec l'abandon du trafic marchandises sur les lignes Travys. Quelles conséquences économiques et surtout écologiques pour le Nord-Vaudois ?",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": null
+        },
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-06-12"
+      },
+      "derniere_etape": "2018-06-12",
+      "communes": [
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5766,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_493",
+      "numero": "16_INT_493",
+      "type": "Interpellation",
+      "depose": "2016-03-15",
+      "titre": "RC253, un tronçon oublié ?",
+      "auteurs": [
+        {
+          "nom": "Julien Cuérel",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-04-12"
+      },
+      "derniere_etape": "2016-04-12",
+      "communes": [
+        {
+          "ofs": 5750,
+          "origine": "document"
+        },
+        {
+          "ofs": 5766,
+          "origine": "document"
+        },
+        {
+          "ofs": 5745,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_PET_027",
+      "numero": "08_PET_027",
+      "type": "Pétition",
+      "depose": "2009-09-15",
+      "titre": "Pétition pour une sécurité accrue de la route Essert-sous-Champvent à Peney au Lieu-dit Le Pilon qui subit année après année de graves accidents",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2009-09-15"
+      },
+      "derniere_etape": "2009-09-15",
+      "communes": [
+        {
+          "ofs": 5766,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5931,
+          "origine": "document"
+        },
+        {
+          "ofs": 5904,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

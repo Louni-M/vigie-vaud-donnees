@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224630,
+  "numero": "19_INT_314",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-02-11"
+  },
+  "depose": "2019-03-05",
+  "titre": "Nouvel Atlas des vents de l'OFEN, quelle conséquence pour la planification éolienne vaudoise ?",
+  "contributeurs": [
+    {
+      "nom": "Yvan Pahud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-03-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-03-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-06-05",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-02-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_314_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-03-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_314_depot.pdf"
+    },
+    {
+      "titre": "Planification éolienne vaudoise et atlas des vents",
+      "date": "2019-06-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=379930"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-11-fevrier-2020/reponse-du-conseil-detat-a-linterpellation-yvan-pahud-nouvel-atlas-des-vents-de-lofen-quelle-consequence-pour-la-planification-eolienne-vaudoise",
+  "communes": [
+    {
+      "ofs": 5568,
+      "origine": "document"
+    }
+  ]
+}

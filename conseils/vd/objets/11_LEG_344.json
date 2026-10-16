@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222395,
+  "numero": "11_LEG_344",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-03-22"
+  },
+  "depose": "2011-02-15",
+  "titre": "Préavis du Conseil d'Etat au Grand Conseil sur l'initiative populaire cantonale \"Vivre et voter ici ? Droits politiques des étrangères et des étrangers sur le plan cantonal\" et sur sa validitéetProjet de décret constatant la validité de cette initiative et ordonnant la convocation des électeurs pour se prononcer sur cette initiative",
+  "contributeurs": [
+    {
+      "nom": "Pierre Grandjean",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Denis-Olivier Maillefer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Denis-Olivier Maillefer",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-02-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-03-22",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-02-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/344_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2011-02-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/344_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2011-02-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/344_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-22-mars-2011/preavis-du-conseil-detat-au-grand-conseil-sur-linitiative-vivre-et-voter-ici",
+  "communes": [
+    {
+      "ofs": 5653,
+      "origine": "document"
+    }
+  ]
+}

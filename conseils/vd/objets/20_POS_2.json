@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225388,
+  "numero": "20_POS_2",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2022-06-15"
+  },
+  "depose": "2020-09-01",
+  "titre": "Pour un soutien clair à une mobilité électrique sur nos lacs. Rapporteur(s) : Jean-François Thuillard",
+  "contributeurs": [
+    {
+      "nom": "Laurent Miéville",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Didier Lohri",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-09-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-06-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-04-27",
+      "lien": "https://www.sonomix.ch/live/gcvd/1809#5280"
+    },
+    {
+      "titre": "Soutien étatique à la mobilité électrique lacustre",
+      "date": "2022-06-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2123569"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6d510a3f-c256-4cd1-b60f-66dcf1ecac49/meeting/1000557",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

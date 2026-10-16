@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221474,
+  "numero": "08_MOT_055",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2009-08-25"
+  },
+  "depose": "2009-06-09",
+  "titre": "Demandant des modifications de la Loi sur les auberges et les débits de boisson en vue de diminuer les nuisances nocturnes",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marc Sordet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Marc Sordet",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Laurent Ballif",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-06-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-08-25",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2009-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_au_8_avril_2009/08_MOT_055_RC_maj.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2009-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_au_8_avril_2009/08_MOT_055_RC_min.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2009-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/08_MOT_055_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2009-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_MOT_055_RC_maj_new.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-25-aout-2009/motion-stephane-montangero",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

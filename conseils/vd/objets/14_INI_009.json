@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223114,
+  "numero": "14_INI_009",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2015-04-21"
+  },
+  "depose": "2014-09-09",
+  "titre": "Visant à demander à l'Assemblée fédérale la création d'une base légale spécifique pour que les employées de maison travaillant en Suisse sans statut légal soient régularisées !",
+  "contributeurs": [
+    {
+      "nom": "Michel Miéville",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Michel Miéville",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Denis-Olivier Maillefer",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-09-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-09-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-04-21",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2015-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INI_009_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2015-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INI_009_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-09-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INI_009_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-21-avril-2015/initiative-jean-michel-dolivo-et-consorts-visant-a-demander-a-lassemblee-federale-la-creation-dune-base-legale-specifique-pour-que-les-employees-de-maison-travaillant-en-suisse-sans-statut-legal-soient-regularisees",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

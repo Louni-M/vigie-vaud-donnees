@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225432,
+  "numero": "22_HQU_20",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-02-08"
+  },
+  "depose": "2022-02-08",
+  "titre": "Combien couterait au contribuable vaudois les désirs des cliniques privées vaudoises ?",
+  "contributeurs": [
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-02-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-02-08",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "C-995/2019 et C-4029/2019",
+      "date": "2022-02-08",
+      "lien": "https://www.gdk-cds.ch/fileadmin/docs/public/gdk/themen/spitalplanung/urteile/BVGE_C-995_2019_C-4029_2019_VD_20211101.pdf"
+    },
+    {
+      "titre": "C-7017/2015",
+      "date": "2022-02-08",
+      "lien": "https://www.gdk-cds.ch/fileadmin/docs/public/gdk/themen/spitalplanung/urteile/BVGE_C-7017_2015_NE_20210917.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/bf026a20-0ffd-4ddd-b339-01c195d0e23a/meeting/1004429",
+  "communes": []
+}

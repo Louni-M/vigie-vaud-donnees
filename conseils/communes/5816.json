@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5816,
+  "objets": [
+    {
+      "cle": "vd/17_INT_039",
+      "numero": "17_INT_039",
+      "type": "Interpellation",
+      "depose": "2019-03-26",
+      "titre": "Répartition des loyers du CSIR et prise en charge des frais de scolarisation des enfants logés par le CSIR",
+      "auteurs": [
+        {
+          "nom": "Pierre-Yves Rapaz",
+          "parti": null
+        },
+        {
+          "nom": "Pierre-Yves Rapaz",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-02"
+      },
+      "derniere_etape": "2019-04-02",
+      "communes": [
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5816,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

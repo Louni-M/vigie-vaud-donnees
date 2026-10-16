@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 203129,
+  "numero": "21_DET_6",
+  "type": "Détermination",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-05-25"
+  },
+  "depose": "2021-12-21",
+  "titre": "Vendre ou ne pas vendre les objets patrimoniaux, telle est la question ?",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Pedroli",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-12-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-05-25",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Protection des objets inscrits à l’inventaire cantonal et classés monuments historiques",
+      "date": "2022-05-25",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2118039"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/29ec2013-389b-47f0-aef0-7760a08f0a00/meeting/1004423",
+  "communes": [
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

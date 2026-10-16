@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221651,
+  "numero": "09_INT_292",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-05-25"
+  },
+  "depose": "2009-10-27",
+  "titre": "Du 6 octobre 2009 relative au processus d'évaluation des sites pour l'accueil d'un nouveau musée cantonal des Beaux-Arts (MCBA)",
+  "contributeurs": [
+    {
+      "nom": "Olivier Feller",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Olivier Feller",
+      "parti": "RAD",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-10-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-10-27",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-05-25",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_292_Texte_CE_new.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-10-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_292_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-25-mai-2010/reponse-du-conseil-detat-a-linterpellation-olivier-feller",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5464,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

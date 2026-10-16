@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224178,
+  "numero": "18_INT_092",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-09-04"
+  },
+  "depose": "2018-01-09",
+  "titre": "Natation à l'école : où en sommes-nous ?",
+  "contributeurs": [
+    {
+      "nom": "Philippe Ducommun",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Ducommun",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-01-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-01-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-09-04",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-07-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_092_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_092_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-4-septembre-2018/reponse-du-conseil-detat-a-linterpellation-philippe-ducommun-natation-a-lecole-ou-en-sommes-nous",
+  "communes": [
+    {
+      "ofs": 5712,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5646,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

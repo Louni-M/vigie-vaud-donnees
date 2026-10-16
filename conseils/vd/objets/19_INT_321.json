@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224637,
+  "numero": "19_INT_321",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-03-03"
+  },
+  "depose": "2019-03-05",
+  "titre": "Quels soins psychiatriques pour le Chablais ?",
+  "contributeurs": [
+    {
+      "nom": "Circé Fuchs",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Circé Fuchs",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-03-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-03-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-08-28",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-03-03",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_321_TexteCE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-03-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_321_depot.pdf"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-3-mars-2020"
+    },
+    {
+      "titre": "Soins psychiatriques dans le Chablais",
+      "date": "2019-08-28",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=375470"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-3-mars-2020/reponse-du-conseil-detat-a-linterpellation-circe-fuchs-quels-soins-psychiatriques-pour-le-chablais",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5514,
+      "origine": "document"
+    },
+    {
+      "ofs": 5516,
+      "origine": "document"
+    },
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5882,
+      "origine": "document"
+    },
+    {
+      "ofs": 5587,
+      "origine": "document"
+    }
+  ]
+}

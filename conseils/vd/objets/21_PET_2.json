@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225946,
+  "numero": "21_PET_2",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2022-01-18"
+  },
+  "depose": "2021-03-23",
+  "titre": "Pétition pour une ligne de bus directe entre Moudon gare et Epalinges Croisettes",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2021-03-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-01-18",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-01-18",
+      "lien": "https://www.sonomix.ch/live/gcvd/2036#6711"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e9658ff6-6fe0-4071-a9b8-b284fd1bcbdd/meeting/1004427",
+  "communes": [
+    {
+      "ofs": 5678,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5584,
+      "origine": "titre"
+    }
+  ]
+}

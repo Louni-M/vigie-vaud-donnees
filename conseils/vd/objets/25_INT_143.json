@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 280143,
+  "numero": "25_INT_143",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2025-11-11"
+  },
+  "depose": "2025-11-04",
+  "titre": "Coupes à l’EVAM : quelles conséquences pour le personnel et les bénéficiaires ?",
+  "contributeurs": [
+    {
+      "nom": "Virginie Pilault",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-11-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-11-04",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-11-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-11-11",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-11-11",
+      "lien": "https://www.sonomix.ch/live/gcvd/3259#4495"
+    },
+    {
+      "titre": "https://www.letemps.ch/suisse/vaud/l-evam-doit-supprimer-131-postes-en-raison-des-coupes-budgetaires",
+      "date": "2025-11-04",
+      "lien": "https://www.letemps.ch/suisse/vaud/l-evam-doit-supprimer-131-postes-en-raison-des-coupes-budgetaires"
+    },
+    {
+      "titre": "https://www.24heures.ch/vaud-340-soignants-alertent-sur-les-conditions-a-levam-141606275859",
+      "date": "2025-11-04",
+      "lien": "https://www.24heures.ch/vaud-340-soignants-alertent-sur-les-conditions-a-levam-141606275859"
+    },
+    {
+      "titre": "https://www.24heures.ch/evam-vaud-abandonne-le-foyer-de-rolle-et-coupe-dans-lasile-187131992273",
+      "date": "2025-11-04",
+      "lien": "https://www.24heures.ch/evam-vaud-abandonne-le-foyer-de-rolle-et-coupe-dans-lasile-187131992273"
+    },
+    {
+      "titre": "https://www.24heures.ch/evam-34-licenciements-suite-aux-coupes-dans-lasile-vaudois-341286430356",
+      "date": "2025-11-04",
+      "lien": "https://www.24heures.ch/evam-34-licenciements-suite-aux-coupes-dans-lasile-vaudois-341286430356"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/73bc7146-9616-43d4-a258-c4e8be8a9d1a/meeting/1029642",
+  "communes": [
+    {
+      "ofs": 5861,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    },
+    {
+      "ofs": 5587,
+      "origine": "document"
+    },
+    {
+      "ofs": 5624,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223344,
+  "numero": "14_POS_057",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2019-10-30"
+  },
+  "depose": "2014-02-04",
+  "titre": "Eduquer les élèves à l'usage des réseaux sociaux",
+  "contributeurs": [
+    {
+      "nom": "Laurence Cretegny",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Laurence Cretegny",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-02-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-02-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-11-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-10-30",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-08-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_057_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-08-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_057_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_057_D%C3%A9p%C3%B4t.pdf"
+    },
+    {
+      "titre": "Education des élèves à l'usage des réseaux sociaux",
+      "date": "2019-10-30",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=381093"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-4-novembre-2014/postulat-jean-tschopp-et-consorts-eduquer-les-eleves-a-lusage-des-reseaux-sociaux",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    }
+  ]
+}

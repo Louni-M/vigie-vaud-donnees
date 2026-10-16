@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5431,
+  "objets": [
+    {
+      "cle": "vd/24_INT_160",
+      "numero": "24_INT_160",
+      "type": "Interpellation",
+      "depose": "2024-11-12",
+      "titre": "Mise en œuvre de la règlementation cadrant les locations par l’intermédiaire de plateformes d’hébergement en ligne : quel bilan ?",
+      "auteurs": [
+        {
+          "nom": "Muriel Thalmann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2025-09-16"
+      },
+      "derniere_etape": "2025-09-16",
+      "communes": [
+        {
+          "ofs": 5623,
+          "origine": "document"
+        },
+        {
+          "ofs": 5431,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_POS_040",
+      "numero": "18_POS_040",
+      "type": "Postulat",
+      "depose": "2018-03-13",
+      "titre": "Pour une juste répartition des coûts des fouilles archéologiques entre les entités publiques concernées, Canton et communes, et une maîtrise des dépenses grâce à une saine concurrence entre les entreprises spécialisées en archéologie",
+      "auteurs": [
+        {
+          "nom": "Laurent Miéville",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5431,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

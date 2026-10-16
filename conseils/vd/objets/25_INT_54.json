@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228176,
+  "numero": "25_INT_54",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2025-10-07"
+  },
+  "depose": "2025-04-29",
+  "titre": "Grand tétras es-tu (encore) là ?",
+  "contributeurs": [
+    {
+      "nom": "Alberto Mocchi",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-04-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-05-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-08-20",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-10-07",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-05-06",
+      "lien": "https://www.sonomix.ch/live/gcvd/3108#913"
+    },
+    {
+      "titre": "Le Canton réaffirme ses engagements en faveur du grand tétras",
+      "date": "2025-08-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2321847"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ca6f5012-4063-48f8-8998-7d196d6f5955/meeting/1029655",
+  "communes": []
+}

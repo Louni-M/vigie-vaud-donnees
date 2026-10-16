@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 327287,
+  "numero": "26_HQU_51",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2026-04-28"
+  },
+  "depose": "2026-04-21",
+  "titre": "Question orale : Centres fédéraux d’asile (CFA) de Vallorbe et des Rochat: étude de [particulier] et après ?",
+  "contributeurs": [
+    {
+      "nom": "Laure Jaton",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-04-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-04-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-04-28",
+      "libelle": "Erledigt"
+    },
+    {
+      "date": "2026-04-28",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/b6045b87-4cfe-43ab-8465-dfb8ff526487/meeting/1029677",
+  "communes": [
+    {
+      "ofs": 5764,
+      "origine": "titre"
+    }
+  ]
+}

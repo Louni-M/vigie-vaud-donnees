@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224293,
+  "numero": "18_INT_208",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-12-04"
+  },
+  "depose": "2018-06-26",
+  "titre": "Des cadeaux fiscaux avec un retour d'ascenseur dont [particulier] aurait bénéficié ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Michel Dolivo",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-06-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-07-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-12-04",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-12-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_208_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-07-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_208_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-des-4-et-5-decembre-2018/reponse-du-conseil-detat-a-linterpellation-jean-michel-dolivo-et-consorts-au-nom-du-groupe-ensemble-a-gauche-des-cadeaux-fiscaux-avec-un-retour-dascenseur-dont-m-broulis-aurait-beneficie",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

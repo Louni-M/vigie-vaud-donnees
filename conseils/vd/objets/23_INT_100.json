@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226942,
+  "numero": "23_INT_100",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-12-20"
+  },
+  "depose": "2023-06-13",
+  "titre": "Quel appui pour atteindre le filet social ?",
+  "contributeurs": [
+    {
+      "nom": "Claire Attinger Doepper",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-06-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-06-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-12-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-04-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/2804#5725"
+    },
+    {
+      "titre": "Orienter et aider la population avant que les situations ne se détériorent",
+      "date": "2023-12-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2213910"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/48f2fa1a-6ea1-4abd-8d00-ba57ecd7b8c2/meeting/1019566",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

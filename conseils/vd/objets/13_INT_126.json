@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222870,
+  "numero": "13_INT_126",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-12-10"
+  },
+  "depose": "2013-05-21",
+  "titre": "Appartenance religieuse dans le Registre cantonal des personnes",
+  "contributeurs": [
+    {
+      "nom": "Filip Uffer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Filip Uffer",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-05-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-06-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-12-10",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_126_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-05-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_126_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seances-des-10-et-11-decembre-2013/reponse-du-conseil-detat-a-linterpellation-filip-uffer-et-consorts-appartenance-religieuse-dans-le-registre-cantonal-des-personnes",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

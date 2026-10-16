@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5530,
+  "objets": [
+    {
+      "cle": "vd/17_INT_043",
+      "numero": "17_INT_043",
+      "type": "Interpellation",
+      "depose": "2017-10-03",
+      "titre": "Planification scolaire : pour que les villages restent des lieux vivants",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-02-19"
+      },
+      "derniere_etape": "2019-02-19",
+      "communes": [
+        {
+          "ofs": 5913,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5903,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5680,
+          "origine": "document"
+        },
+        {
+          "ofs": 5530,
+          "origine": "document"
+        },
+        {
+          "ofs": 5923,
+          "origine": "document"
+        },
+        {
+          "ofs": 5910,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_RAP_313",
+      "numero": "11_RAP_313",
+      "type": "Rapport",
+      "depose": "2011-08-23",
+      "titre": "Des clarifications concernant l'implantation de parcs industriels éoliens dans l'Arc jurassien",
+      "auteurs": [
+        {
+          "nom": "Fabienne Despot",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2011-08-23"
+      },
+      "derniere_etape": "2011-08-23",
+      "communes": [
+        {
+          "ofs": 5511,
+          "origine": "document"
+        },
+        {
+          "ofs": 5537,
+          "origine": "document"
+        },
+        {
+          "ofs": 5539,
+          "origine": "document"
+        },
+        {
+          "ofs": 5530,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5854,
+          "origine": "document"
+        },
+        {
+          "ofs": 5744,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_POS_085",
+      "numero": "08_POS_085",
+      "type": "Postulat",
+      "depose": "2008-09-09",
+      "titre": "Eole dans le Gros de Vaud",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2008-12-16"
+      },
+      "derniere_etape": "2008-12-16",
+      "communes": [
+        {
+          "ofs": 5511,
+          "origine": "document"
+        },
+        {
+          "ofs": 5537,
+          "origine": "document"
+        },
+        {
+          "ofs": 5539,
+          "origine": "document"
+        },
+        {
+          "ofs": 5530,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

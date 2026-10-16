@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225998,
+  "numero": "21_POS_5",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2023-03-29"
+  },
+  "depose": "2021-02-16",
+  "titre": "On en prend bonne note...de l'éducation physique",
+  "contributeurs": [
+    {
+      "nom": "Sergei Aschwanden",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-02-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-03-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-03-29",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-12-15",
+      "lien": "https://www.sonomix.ch/live/gcvd/1996#10066"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-03-02",
+      "lien": "https://www.sonomix.ch/live/gcvd/1747#4294"
+    },
+    {
+      "titre": "Evaluation de l'éducation physique au Secondaire II: une approche informative avant tout",
+      "date": "2023-03-29",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2169667"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a083f851-5581-4e28-b721-15fe85a22a4b/meeting/1004422",
+  "communes": [
+    {
+      "ofs": 5566,
+      "origine": "document"
+    }
+  ]
+}

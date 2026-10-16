@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223050,
+  "numero": "13_POS_019",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2013-11-12"
+  },
+  "depose": "2013-02-26",
+  "titre": "Un petit pas vers une fiscalité plus écologique",
+  "contributeurs": [
+    {
+      "nom": "Pierrette Roulet-Grin",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alexis Bally",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-02-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-02-26",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-11-12",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2013-11-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_019_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2013-11-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_019_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2013-11-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_019_Objet_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-02-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_019_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-mardi-12-novembre-2013/postulat-alexis-bally-et-consorts-sur-la-deduction-fiscale-des-frais-de-transport-un-petit-pas-vers-une-fiscalite-plus-ecologique",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

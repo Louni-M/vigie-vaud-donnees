@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228883,
+  "numero": "20_LEG_204",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2020-05-26"
+  },
+  "depose": "2020-05-12",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 1'870'000.- pour financer les travaux d'adaptation des locaux loués pour la Haute Ecole Pédagogique (HEP)",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Suter",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Nicolas Suter",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Suter",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-05-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-05-26",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d’Etat",
+      "date": "2020-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/204_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/204_RC.pdf"
+    },
+    {
+      "titre": "EMPD accordant au CE un CrO de CHF 1'870'000.- pour financer les travaux d'adaptation des locaux loués pour HEP - Texte adopté par CE - Empd",
+      "date": "2020-02-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=396361"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-26-mai-2020/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-douvrage-de-chf-1870000-pour-financer-les-travaux-dadaptation-des-locaux-loues-pour-la-haute-ecole-pedagogique-hep",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

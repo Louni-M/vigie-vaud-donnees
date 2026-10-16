@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226715,
+  "numero": "22_QUE_21",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-06-15"
+  },
+  "depose": "2022-05-10",
+  "titre": "Pourquoi si peu d'utilisation du bracelet électronique",
+  "contributeurs": [
+    {
+      "nom": "Céline Misiego",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-05-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-06-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Utilisation du bracelet électronique",
+      "date": "2022-06-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2121917"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ec33e140-6095-40e1-80e5-41c5eb17f30d/meeting/1004435",
+  "communes": []
+}

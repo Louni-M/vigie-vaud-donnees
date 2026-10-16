@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222094,
+  "numero": "10_PET_053",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2010-12-14"
+  },
+  "depose": "2010-12-14",
+  "titre": "Pétition pour le sauvetage de la Ferme de la Prise Zacharie, à Concise",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2010-12-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-12-14",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la Commission thématique des pétitions",
+      "date": "2010-12-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_PET_053_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-12-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_PET_053_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seances-des-14-et-15-decembre-2010/petition-pour-le-sauvetage-de-la-ferme-de-la-prise-zacharie-a-concise",
+  "communes": [
+    {
+      "ofs": 5554,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225403,
+  "numero": "20_POS_215",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Non pris en considération",
+    "date": "2021-06-30"
+  },
+  "depose": "2020-06-09",
+  "titre": "En train à la montagne, facilement !",
+  "contributeurs": [
+    {
+      "nom": "Julien Eggenberger",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre Fonjallaz",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Taraneh Aminian",
+      "parti": "EP",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-06-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-06-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-06-30",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2020-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_POS_215_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-30",
+      "lien": "https://www.sonomix.ch/live/gcvd/1892#5532"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4f05f417-8ee5-4453-8263-f691db7a6f9b/meeting/1003922",
+  "communes": []
+}

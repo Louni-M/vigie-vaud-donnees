@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221618,
+  "numero": "09_INT_261",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-11-09"
+  },
+  "depose": "2009-06-23",
+  "titre": "Demandant où on en est avec la construction de logements protégés pour personnes âgées",
+  "contributeurs": [
+    {
+      "nom": "Véronique Hurni",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Véronique Hurni",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-06-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-06-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-11-09",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-11-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_261_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-06-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_261_Depot_new.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-9-novembre-2010/reponse-du-conseil-detat-a-linterpellation-veronique-hurni-construction-de-logements-proteges-pour-personnes-agees",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

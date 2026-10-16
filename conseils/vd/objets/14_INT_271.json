@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223184,
+  "numero": "14_INT_271",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-01-20"
+  },
+  "depose": "2014-07-01",
+  "titre": "Swissmedia Center : Quelles responsabilités pour \"mauvaise gestion, un manque de rigueur, une absence de stratégie et une organisation déficiente\" ?",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-07-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-07-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-01-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-01-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_271_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-07-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_271_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-20-janvier-2015/reponse-du-conseil-detat-a-linterpellation-jerome-christen-et-consorts-swissmedia-center-quelles-responsabilites-pour-mauvaise-gestion-un-manque-de-rigueur-une-absence-de-strategie-et-une-organisation-deficiente",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

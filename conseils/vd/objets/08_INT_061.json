@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228515,
+  "numero": "08_INT_061",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2008-11-11"
+  },
+  "depose": "2008-10-28",
+  "titre": "Le Littoral Parc",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-10-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-11-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-10-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_4_novembre_2008/08_INT_061_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-11-novembre-2008/reponse-du-conseil-detat-a-linterpellation-jean-marie-surer",
+  "communes": [
+    {
+      "ofs": 5422,
+      "origine": "document"
+    },
+    {
+      "ofs": 5646,
+      "origine": "document"
+    },
+    {
+      "ofs": 5851,
+      "origine": "document"
+    },
+    {
+      "ofs": 5636,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5861,
+      "origine": "document"
+    }
+  ]
+}

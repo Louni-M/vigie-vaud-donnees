@@ -1,0 +1,1010 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5405,
+  "objets": [
+    {
+      "cle": "vd/22_MOT_11",
+      "numero": "22_MOT_11",
+      "type": "Motion",
+      "depose": "2022-03-22",
+      "titre": "Pour tripler les rénovations énergétiques avec l’aide indirecte de la Banque nationale",
+      "auteurs": [
+        {
+          "nom": "Pierre Zwahlen",
+          "parti": "VER"
+        },
+        {
+          "nom": "Cendrine Cachemaille",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2024-03-26"
+      },
+      "derniere_etape": "2024-03-26",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_139",
+      "numero": "23_INT_139",
+      "type": "Interpellation",
+      "depose": "2023-08-29",
+      "titre": "Le tourisme quatre saisons c’est bien, sans voiture c’est encore mieux",
+      "auteurs": [
+        {
+          "nom": "Yolanda Müller Chabloz",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-03-06"
+      },
+      "derniere_etape": "2024-03-06",
+      "communes": [
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5407,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_POS_16",
+      "numero": "22_POS_16",
+      "type": "Postulat",
+      "depose": "2022-03-22",
+      "titre": "Pour que l’Unil rende honneur au Professeur Jean Wintsch et révoque le doctorat honoris causas à Mussolini",
+      "auteurs": [
+        {
+          "nom": "Elodie Lopez",
+          "parti": "EP"
+        },
+        {
+          "nom": "Alberto Mocchi",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Non pris en considération",
+        "date": "2023-08-29"
+      },
+      "derniere_etape": "2023-08-29",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_POS_18",
+      "numero": "22_POS_18",
+      "type": "Postulat",
+      "depose": "2022-03-22",
+      "titre": "Formation gardien-ne d’animaux avec orientation animaux de rente",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        },
+        {
+          "nom": "Olivier Petermann",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2023-05-17"
+      },
+      "derniere_etape": "2023-05-17",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_POS_29",
+      "numero": "21_POS_29",
+      "type": "Postulat",
+      "depose": "2021-05-25",
+      "titre": "Lutte contre la pollution des sols du canton",
+      "auteurs": [
+        {
+          "nom": "Claire Attinger Doepper",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Taraneh Aminian",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2022-06-29"
+      },
+      "derniere_etape": "2022-06-29",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_241",
+      "numero": "21_LEG_241",
+      "type": "Décret/Loi",
+      "depose": "2022-03-29",
+      "titre": "EMPD EMPD accordant au Conseil d'Etat un crédit d’ouvrage de CHF 25'900'000.- pour financer les travaux d’assainissement des murs, estacades sur la RC 719 et du pont de la Barboleuse situés sur le territoire de la Commune de Gryon",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-03-29"
+      },
+      "derniere_etape": "2022-03-29",
+      "communes": [
+        {
+          "ofs": 5405,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_226",
+      "numero": "21_LEG_226",
+      "type": "Décret/Loi",
+      "depose": "2022-03-29",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d’études de CHF 800'000.- pour financer les études préalables à la phase d’exécution des travaux de réaménagement de la RC 80 entre le carrefour des Pressoirs (compris) et le carrefour de la route de la Gare (non compris), sur les communes de Lonay, Denges et Echandens",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-03-29"
+      },
+      "derniere_etape": "2022-03-29",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5632,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5633,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5643,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5649,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_119",
+      "numero": "21_INT_119",
+      "type": "Interpellation",
+      "depose": "2021-09-21",
+      "titre": "L'île du Paradis, vraiment",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-02-09"
+      },
+      "derniere_etape": "2022-02-09",
+      "communes": [
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_31",
+      "numero": "20_INT_31",
+      "type": "Interpellation",
+      "depose": "2020-10-06",
+      "titre": "CFF et ligne du Simplon dans le Chablais : les Vaudois ne veulent pas manquer le train !",
+      "auteurs": [
+        {
+          "nom": "Nicolas Croci Torti",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-12-15"
+      },
+      "derniere_etape": "2021-12-15",
+      "communes": [
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5407,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_POS_30",
+      "numero": "21_POS_30",
+      "type": "Postulat",
+      "depose": "2021-06-01",
+      "titre": "N’en jetez plus, il y en a assez !!!",
+      "auteurs": [
+        {
+          "nom": "Nathalie Jaccard",
+          "parti": "VER"
+        },
+        {
+          "nom": "Maurice Treboux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2021-06-08"
+      },
+      "derniere_etape": "2021-06-08",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_194",
+      "numero": "20_LEG_194",
+      "type": "Décret/Loi",
+      "depose": "2020-05-26",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 13'693'530.- pour co-financer les projets d'aménagement de la piste de Chaux-de-Mont – phase II, d'enneigement mécanique Leysin – Les Fers, de remplacement du télésiège débrayable Choulet – Le Fer, de révision lourde des téléphériques 1 et 2 Col du Pillon – Cabane – Scex Rouge, de renouvellement de la station du Col du Pillon, de finalisation de la station d'arrivée de la Videmanette, d'enneigement de la Videmanette : changement des enneigeurs, d'enneigement de la Videmanette : amélioration des temps d'enneigement, de correction des pistes de la Videmanette, d'aménagement du parc ludique d'apprentissage Jardin d'Oex Neiges – phase II, de création d'un espace sports et loisirs quatre saisons du Jardin d'Oex Neiges",
+      "auteurs": [
+        {
+          "nom": "Hugues Gander",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Hugues Gander",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-06-16"
+      },
+      "derniere_etape": "2020-06-16",
+      "communes": [
+        {
+          "ofs": 5407,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        },
+        {
+          "ofs": 5410,
+          "origine": "document"
+        },
+        {
+          "ofs": 5411,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5842,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_194",
+      "numero": "19_LEG_194",
+      "type": "Décret/Loi",
+      "depose": "2019-12-18",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 13'693'530.- pour co-financer les projets Alpes vaudoises",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2019-12-18"
+      },
+      "derniere_etape": "2019-12-18",
+      "communes": [
+        {
+          "ofs": 5407,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        },
+        {
+          "ofs": 5410,
+          "origine": "document"
+        },
+        {
+          "ofs": 5411,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5842,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_RAP_293",
+      "numero": "16_RAP_293",
+      "type": "Rapport",
+      "depose": "2016-06-14",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur la stratégie de soutien économique du Canton de Vaud aux Alpes vaudoises pour les années 2016-2023 (projet \"Alpes vaudoises 2020\") et Exposé des motifs et projets de décrets accordant au Conseil d'Etat un crédit-cadre de CHF 10'198'820 pour co-financer les projets d'enneigement mécanique de Bretaye-Gryon phase II, d'installation du tapis roulant pour skieurs Chaux-Gryon, de modernisation du télésiège débrayable Conche-Mi Laouissalet, de modernisation du télésiège débrayable Laouissalet Meilleret, portés par Télé Villars-Gryon-Diablerets SA (TVGD SA) et accordant au Conseil d'Etat un crédit-cadre de CHF 2'544'000 pour co-financer les projets d'installation du tapis roulant pour skieurs de Plan-Praz, d'installation du tapis roulant pour skieurs du Tobogganing Park, d'installation du tapis roulant pour skieurs de la Droséra, d'enneigement mécanique des Mosses, portés par Télé-Leysin-Col des Mosses-La Lécherette SA et Rapport du Conseil d'Etat au Grand Conseil sur les postulats - Philippe Grobéty et consorts \"En faveur d'un soutien à l'économie touristique de montagne\"",
+      "auteurs": [
+        {
+          "nom": "Michel Renaud",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Michel Renaud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2016-06-14"
+      },
+      "derniere_etape": "2016-06-14",
+      "communes": [
+        {
+          "ofs": 5407,
+          "origine": "document"
+        },
+        {
+          "ofs": 5410,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5411,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5842,
+          "origine": "document"
+        },
+        {
+          "ofs": 5474,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_LEG_92",
+      "numero": "13_LEG_92",
+      "type": "Décret/Loi",
+      "depose": "2013-11-19",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 15'750'000.- pour financer les travaux de réhabilitation de la route cantonale RC 719 entre le village de Huémoz et le lieu-dit Les Tannes sur la commune d'Ollon",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-11-19"
+      },
+      "derniere_etape": "2013-11-19",
+      "communes": [
+        {
+          "ofs": 5409,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_599",
+      "numero": "11_INT_599",
+      "type": "Interpellation",
+      "depose": "2012-01-31",
+      "titre": "Alpes vaudoises : l'or blanc ne doit pas se transformer en poudre au yeux",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-09-25"
+      },
+      "derniere_etape": "2012-09-25",
+      "communes": [
+        {
+          "ofs": 5407,
+          "origine": "document"
+        },
+        {
+          "ofs": 5411,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5410,
+          "origine": "document"
+        },
+        {
+          "ofs": 5842,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_513",
+      "numero": "11_INT_513",
+      "type": "Interpellation",
+      "depose": "2011-05-31",
+      "titre": "Alpes vaudoises 2020 : la question des transports publics sera-t-elle intégrée dans la stratégie en cours de définition ?",
+      "auteurs": [
+        {
+          "nom": "Frédéric Borloz",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-01-24"
+      },
+      "derniere_etape": "2012-01-24",
+      "communes": [
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5411,
+          "origine": "document"
+        },
+        {
+          "ofs": 5407,
+          "origine": "document"
+        },
+        {
+          "ofs": 5410,
+          "origine": "document"
+        },
+        {
+          "ofs": 5842,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_430",
+      "numero": "12_LEG_430",
+      "type": "Décret/Loi",
+      "depose": "2012-01-10",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 1'876'000.- pour financer les travaux de construction d'un giratoire sur la RC 780a, au droit du carrefour du Lombard sur la commune d'Ollon",
+      "auteurs": [
+        {
+          "nom": "Philippe Grobéty",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Philippe Grobéty",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-01-10"
+      },
+      "derniere_etape": "2012-01-10",
+      "communes": [
+        {
+          "ofs": 5409,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_194",
+      "numero": "9_LEG_194",
+      "type": "Décret/Loi",
+      "depose": "2009-11-17",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'étude de CHF 715'000.- pour la réhabilitation et la correction routière de la RC 719b entre le hameau de Huémoz et le lieu-dit \"Les Tannes\", sur la commune d'Ollon",
+      "auteurs": [
+        {
+          "nom": "Bertrand Clot",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Bertrand Clot",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-11-24"
+      },
+      "derniere_etape": "2009-11-24",
+      "communes": [
+        {
+          "ofs": 5409,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_RAP_139",
+      "numero": "9_RAP_139",
+      "type": "Rapport",
+      "depose": "2009-03-03",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Olivier Feller et consorts demandant au Conseil d'Etat d'élaborer un plan d'actions pour faire face au réchauffement climatique dans les stations d'hiver vaudoises",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2009-03-03"
+      },
+      "derniere_etape": "2009-03-03",
+      "communes": [
+        {
+          "ofs": 5407,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_POS_045",
+      "numero": "08_POS_045",
+      "type": "Postulat",
+      "depose": "2008-09-09",
+      "titre": "Le Plan directeur cantonal s'appuie sur de fausses données en matière de politique du logement",
+      "auteurs": [
+        {
+          "nom": "Patrick de Preux",
+          "parti": "LIB"
+        },
+        {
+          "nom": "Gabriel Poncet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2008-11-04"
+      },
+      "derniere_etape": "2008-11-04",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

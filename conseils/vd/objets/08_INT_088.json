@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221361,
+  "numero": "08_INT_088",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2009-01-20"
+  },
+  "depose": "2008-04-29",
+  "titre": "L'adaptation des établissements sanitaires aux nouvelles normes de l'ECA",
+  "contributeurs": [
+    {
+      "nom": "Pierre Rochat",
+      "parti": "LIB",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre Rochat",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-04-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-01-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-01-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_13_janvier_2009/08_INT_088.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2008-04-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_29_avril08/08_INT_088_Objet.pdf"
+    },
+    {
+      "titre": "l'Exposé des motifs",
+      "date": "2009-01-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_20_janvier_2009/125_EMPD.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-20-janvier-2009/reponse-du-conseil-detat-a-linterpellation-pierre-rochat",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5584,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5498,
+      "origine": "document"
+    },
+    {
+      "ofs": 5637,
+      "origine": "document"
+    },
+    {
+      "ofs": 5568,
+      "origine": "document"
+    }
+  ]
+}

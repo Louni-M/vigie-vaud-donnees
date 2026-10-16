@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225424,
+  "numero": "20_QUE_12",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-01-13"
+  },
+  "depose": "2020-11-17",
+  "titre": "Nouvelle gare du Day, où en sommes-nous ?",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Cala",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-11-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-01-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Communiqué de presse: Le RER Vaud va s’étendre jusqu’à la Vallée de Joux et doubler ses cadences sur la ligne de Vallorbe",
+      "date": "2020-11-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/accueil/fichiers_pdf/com-161130-RER_Vallee.pdf"
+    },
+    {
+      "titre": "Modernisation de la gare du Day",
+      "date": "2021-01-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2029516"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/bf43dfc0-4494-4557-a69e-6ac14b47ae9f/meeting/1000535",
+  "communes": [
+    {
+      "ofs": 5764,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5498,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5561,
+      "origine": "document"
+    },
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    }
+  ]
+}

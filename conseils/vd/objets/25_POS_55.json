@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 279880,
+  "numero": "25_POS_55",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2025-11-04"
+  },
+  "depose": "2025-10-28",
+  "titre": "Pour que la Commission foncière rurale reste au service des paysan·ne·s",
+  "contributeurs": [
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Laurence Cretegny",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-10-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-10-28",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-11-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-11-04",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-11-04",
+      "lien": "https://www.sonomix.ch/live/gcvd/3249#1201"
+    },
+    {
+      "titre": "« Application de la loi foncière rurale : de la transparence ! »",
+      "date": "2025-11-04",
+      "lien": "https://www.vd.ch/gc/depute-e-s/detail-objet/objet/23_INT_193/membre/624913"
+    },
+    {
+      "titre": "une autre affaire",
+      "date": "2025-11-04",
+      "lien": "https://www.blick.ch/fr/suisse/romande/vendues-au-promoteur-orllati-en-defendant-des-terres-agricoles-valerie-dittli-a-crispe-le-gouvernement-vaudois-id20765039.html"
+    },
+    {
+      "titre": "a récemment révélé",
+      "date": "2025-11-04",
+      "lien": "https://www.blick.ch/fr/suisse/bras-de-fer-entre-la-ministre-et-la-commission-fonciere-marche-des-terres-agricoles-les-dessous-de-lautre-affaire-dittli-id21216418.html"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/527d292b-dbe6-49ff-ba02-8ec16586cf92/meeting/1029641",
+  "communes": [
+    {
+      "ofs": 5892,
+      "origine": "document"
+    },
+    {
+      "ofs": 5655,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5409,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 334018,
+  "numero": "25_LEG_77",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2026-06-16"
+  },
+  "depose": "2026-06-16",
+  "titre": "Accordant au Conseil d'Etat un crédit d’étude de CHF 1'645'000.- pour financer les études d’assainissement et de renforcement du viaduc sur la Grande Eau et les CFF de la RC 705, sur le territoire des communes d’Aigle et d’Yvorne",
+  "contributeurs": [
+    {
+      "nom": "Pierre-Alain Favrod",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-06-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-06-16",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ad7e6f72-9183-4e36-8bfa-723e28affba0/meeting/1029673",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5415,
+      "origine": "titre"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223689,
+  "numero": "15_POS_156",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2016-09-20"
+  },
+  "depose": "2015-12-15",
+  "titre": "Hébergement des jeunes migrants",
+  "contributeurs": [
+    {
+      "nom": "Manuel Donzé",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Manuel Donzé",
+      "parti": "AdC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-12-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-01-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-09-20",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-08-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_156_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-08-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_156_Obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_156_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-20-septembre-2016/postulat-celine-ehrwein-nihan-et-consorts-hebergement-des-jeunes-migrants",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5744,
+      "origine": "document"
+    }
+  ]
+}

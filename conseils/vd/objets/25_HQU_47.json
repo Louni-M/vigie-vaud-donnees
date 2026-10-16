@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228086,
+  "numero": "25_HQU_47",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2025-05-13"
+  },
+  "depose": "2025-05-06",
+  "titre": "Interventions des secours VS 30 km dans les communes",
+  "contributeurs": [
+    {
+      "nom": "Isabelle Freymond",
+      "parti": "IND",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-05-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-05-13",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-05-13",
+      "lien": "https://www.sonomix.ch/live/gcvd/3123#227"
+    },
+    {
+      "titre": "Vevey: un pompier suisse lève le pied pour éviter le tribunal | 24 heures",
+      "date": "2025-05-06",
+      "lien": "https://www.24heures.ch/vevey-un-pompier-suisse-leve-le-pied-pour-eviter-le-tribunal-506248427385"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/cc301566-1d5c-483d-af35-feeaa9b64975/meeting/1026889",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5499,
+      "origine": "document"
+    },
+    {
+      "ofs": 5889,
+      "origine": "document"
+    },
+    {
+      "ofs": 5408,
+      "origine": "document"
+    }
+  ]
+}

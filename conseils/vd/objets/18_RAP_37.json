@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224553,
+  "numero": "18_RAP_37",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Non entrée en matière",
+    "date": "2018-01-30"
+  },
+  "depose": "2018-01-30",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil concernant l'institution d'une Commission d'enquête parlementaire sur la gestion du Service pénitentiaire",
+  "contributeurs": [
+    {
+      "nom": "Rémy Jaquier",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Rémy Jaquier",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Rémy Jaquier",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-01-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-01-30",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte du Conseil d'Etat",
+      "date": "2018-01-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/37_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport du Bureau du Grand Conseil",
+      "date": "2018-01-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/37_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-01-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_REQ_001_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-30-janvier-2018/rapport-du-conseil-detat-au-grand-conseil-concernant-linstitution-dune-commission-denquete-parlementaire-sur-la-gestion-du-service-penitentiaire",
+  "communes": [
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5638,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    },
+    {
+      "ofs": 5495,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

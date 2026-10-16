@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226234,
+  "numero": "22_INI_5",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2023-12-13"
+  },
+  "depose": "2022-11-29",
+  "titre": "Corrigeons les effets disproportionnés de l’élection à la proportionnelle dans les communes",
+  "contributeurs": [
+    {
+      "nom": "Jerome De Benedictis",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alexandre Démétriadès",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-11-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-12-13",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-12-20",
+      "lien": "https://www.sonomix.ch/live/gcvd/2283#591"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-12-13",
+      "lien": "https://www.sonomix.ch/live/gcvd/2693#4562"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/b21e74e5-9b53-4296-8125-1b65cd25a758/meeting/1019553",
+  "communes": []
+}

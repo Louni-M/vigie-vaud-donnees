@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223095,
+  "numero": "13_RAP_73",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-11-19"
+  },
+  "depose": "2013-11-19",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Christiane Jaquet-Berger et consorts concernant une prise en compte concrète du mouvement associatif et du bénévolat dans la société vaudoise, de son appui et de son encouragement par l'Etat et par les communes, sur la base des principes de l'article 70 de la Constitution",
+  "contributeurs": [
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-11-19",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-11-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/73_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-11-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/73_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-26-novembre-2013/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-christiane-jaquet-berger-concernant-une-prise-en-compte-concrete-du-mouvement-associatif-et-du-benevolat-dans-la-societe-vaudoise",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

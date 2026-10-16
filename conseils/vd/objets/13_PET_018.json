@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223046,
+  "numero": "13_PET_018",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2014-03-18"
+  },
+  "depose": "2014-02-04",
+  "titre": "Pétition pour la protection d'un chalet menacé de destruction par une décision du SDT",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2014-02-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-03-18",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commision",
+      "date": "2014-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_PET_018_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_PET_018_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-18-mars-2014/petition-pour-la-protection-dun-chalet-menace-de-destruction-par-une-decision-du-sdt",
+  "communes": [
+    {
+      "ofs": 5410,
+      "origine": "document"
+    },
+    {
+      "ofs": 5554,
+      "origine": "document"
+    }
+  ]
+}

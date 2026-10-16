@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221571,
+  "numero": "09_INT_181",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2009-06-02"
+  },
+  "depose": "2009-02-03",
+  "titre": "Demandant le point de vue du Conseil d'Etat sur la possible perte d'un patrimoine radiophonique vaudois",
+  "contributeurs": [
+    {
+      "nom": "détermination",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-02-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-02-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2009-06-02",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2009-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_3_fevrier_2009/09_INT_181_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-06-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_181_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-2-juin-2009/reponse-du-conseil-detat-a-linterpellation-olivier-gfeller",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    }
+  ]
+}

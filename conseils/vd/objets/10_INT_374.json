@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221857,
+  "numero": "10_INT_374",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-11-30"
+  },
+  "depose": "2010-04-20",
+  "titre": "Nouveau centre de formation post-obligatoire de Nyon, assez tergiversé!",
+  "contributeurs": [
+    {
+      "nom": "Philippe Martinet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Martinet",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-04-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-04-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-11-30",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_374_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_374_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-30-novembre-2010/reponse-du-conseil-detat-a-linterpellation-philippe-martinet-nouveau-centre-de-formation-post-obligatoire-de-nyon",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5566,
+      "origine": "document"
+    },
+    {
+      "ofs": 5643,
+      "origine": "document"
+    },
+    {
+      "ofs": 5632,
+      "origine": "document"
+    },
+    {
+      "ofs": 5633,
+      "origine": "document"
+    }
+  ]
+}

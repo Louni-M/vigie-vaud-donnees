@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227639,
+  "numero": "24_INT_169",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2025-09-03"
+  },
+  "depose": "2024-11-26",
+  "titre": "Comment le Conseil d’État entend-il respecter les droits des enfants de familles à l’aide d’urgence ?",
+  "contributeurs": [
+    {
+      "nom": "Hadrien Buclin",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-11-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-12-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-09-03",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Enfants à l’aide d’urgence",
+      "date": "2025-09-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2324353"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-12-03",
+      "lien": "https://www.sonomix.ch/live/gcvd/2967#1046"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/54573a99-2313-4fd0-8fd6-cf8685916667/meeting/1026868",
+  "communes": [
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228787,
+  "numero": "9_RAP_108",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-01-13"
+  },
+  "depose": "2009-01-13",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Bernard Borel et consorts concernant la politique du Conseil d'Etat relative aux subsides cantonaux aux primes d'assurance maladie obligatoire",
+  "contributeurs": [
+    {
+      "nom": "Christa Calpini",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-01-13",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_24_fevrier_2009/108_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_24_fevrier_2009/108_RC.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-01-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/103_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2009-01-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/103_RC_maj.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2009-01-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/09.01.08_Envoi_deputes/103_RC_min.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-10-mars-2009/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-bernard-borel",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

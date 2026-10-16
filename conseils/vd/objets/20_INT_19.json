@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225116,
+  "numero": "20_INT_19",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-02-10"
+  },
+  "depose": "2020-09-29",
+  "titre": "Meurtre de Morges : le DES a-t-il pris la mesure de la dangerosité du prévenu ?",
+  "contributeurs": [
+    {
+      "nom": "Philippe Jobin",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-09-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-10-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-02-10",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-05-04",
+      "lien": "https://www.sonomix.ch/live/gcvd/1816#5364"
+    },
+    {
+      "titre": "Radicalisation et extrémisme violent",
+      "date": "2021-01-27",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2035936"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/11bb0002-b8d9-41b2-bfee-c48124a71774/meeting/1000558",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

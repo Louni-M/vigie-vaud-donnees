@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221341,
+  "numero": "08_INI_008",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2008-07-01"
+  },
+  "depose": "2008-06-24",
+  "titre": "Demandant la modification de la Constitution vaudoise du 14 avril 2003 afin d'y inscrire un nouveau droit politique, la motion populaire",
+  "contributeurs": [
+    {
+      "nom": "Jacques-André Haury",
+      "parti": "V'L",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Denis-Olivier Maillefer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Denis-Olivier Maillefer",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-06-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-07-01",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet et développement",
+      "date": "2008-06-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_24_juin_2008/08_INI_008_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2008-06-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_24_juin_2008/08_INI_008_Rapport_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2008-06-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_24_juin_2008/08_INI_008_Rapport_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-1er-juillet-2008/initiative-constitutionnelle-jean-michel-dolivo",
+  "communes": []
+}

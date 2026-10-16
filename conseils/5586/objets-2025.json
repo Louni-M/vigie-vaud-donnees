@@ -1,0 +1,5713 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "conseil": "5586",
+  "annee": 2025,
+  "objets": [
+    {
+      "cle": "5586/PE25-015",
+      "numero": "PE25/015",
+      "type": "Pétition",
+      "depose": "2025-12-09",
+      "titre": "Pour un moratoire sur les projets immobiliers dans le secteur Jolimont-Montagibert",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2025-12-09"
+      },
+      "derniere_etape": "2025-12-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-129",
+      "numero": "POS25/129",
+      "type": "Postulat",
+      "depose": "2025-12-02",
+      "titre": "Projet pilote de brigade équestre au sein de la police à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Olivier Pagnot",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-128",
+      "numero": "POS25/128",
+      "type": "Postulat",
+      "depose": "2025-12-02",
+      "titre": "La rémunération équitable des actrices et acteurs culturels ne concerne pas que les salaires",
+      "auteurs": [
+        {
+          "nom": "Ariane Morin",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-084",
+      "numero": "INT25/084",
+      "type": "Interpellation",
+      "depose": "2025-12-02",
+      "titre": "Mobilité inclusive à la Plaine du Loup, passons aux actes !",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2026-06-05"
+      },
+      "derniere_etape": "2026-06-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-133",
+      "numero": "POS25/133",
+      "type": "Postulat",
+      "depose": "2025-12-01",
+      "titre": "Pour un projet pilote d'ouverture du recrutement de la Police municipale de Lausanne aux titulaires du permis C",
+      "auteurs": [
+        {
+          "nom": "Olivier Marmy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2026-02-03"
+      },
+      "derniere_etape": "2026-02-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-135",
+      "numero": "POS25/135",
+      "type": "Postulat",
+      "depose": "2025-11-27",
+      "titre": "\"Accessibilité des bâtiments scolaires aux personnes à mobilité réduite : pour un rapport sur l'état des lieux, sur une planification des travaux, sur les mesures transitoires mises en place.\"",
+      "auteurs": [
+        {
+          "nom": "Jacques-Etienne Rastorfer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2026-02-03"
+      },
+      "derniere_etape": "2026-02-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-132",
+      "numero": "POS25/132",
+      "type": "Postulat",
+      "depose": "2025-11-26",
+      "titre": "Les courses-poursuites policières : comment mieux protéger à la fois la population et les forces de l'ordre",
+      "auteurs": [
+        {
+          "nom": "Yusuf Kulmiye",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2026-02-03"
+      },
+      "derniere_etape": "2026-02-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-134",
+      "numero": "POS25/134",
+      "type": "Postulat",
+      "depose": "2025-11-25",
+      "titre": "Rapport-préavis N° 2025/01 - Postulat de Jacques-Etienne Rastorfer - \"Pour une accessibilité de l'animation socioculturelle et des centres de quartier par les personnes à mobilité réduite\"",
+      "auteurs": [
+        {
+          "nom": "Jacques-Etienne Rastorfer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2026-02-03"
+      },
+      "derniere_etape": "2026-02-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-043",
+      "numero": "PREA25/043",
+      "type": "Préavis",
+      "depose": "2025-11-20",
+      "titre": "Passerelle de Bois Gentil - En Bugnon, commune de Lausanne et du Mont-sur-Lausanne",
+      "auteurs": [
+        {
+          "nom": "Ludovic Saulet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-126",
+      "numero": "POS25/126",
+      "type": "Postulat",
+      "depose": "2025-11-18",
+      "titre": "Enrayer l'appel d'air : pour l'introduction de critères d'accès dans les prestations dites « à bas seuil » et dans les hébergements d'urgence",
+      "auteurs": [
+        {
+          "nom": "Valentin Christe",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-12-09"
+      },
+      "derniere_etape": "2025-12-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-125",
+      "numero": "POS25/125",
+      "type": "Postulat",
+      "depose": "2025-11-18",
+      "titre": "Renforcer le soutien à l'improvisation théâtrale et à l'humour",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-12-09"
+      },
+      "derniere_etape": "2025-12-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-123",
+      "numero": "POS25/123",
+      "type": "Postulat",
+      "depose": "2025-11-18",
+      "titre": "Pour un recrutement diversifié et inclusif du Corps de Police de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Matthieu Carrel",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-12-09"
+      },
+      "derniere_etape": "2025-12-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-122",
+      "numero": "POS25/122",
+      "type": "Postulat",
+      "depose": "2025-11-18",
+      "titre": "Feux jaunes clignotants aux abords des passages pour piétons : misons sur la sécurité avant tout",
+      "auteurs": [
+        {
+          "nom": "Pauline Blanc",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-12-09"
+      },
+      "derniere_etape": "2025-12-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-119",
+      "numero": "POS25/119",
+      "type": "Postulat",
+      "depose": "2025-11-18",
+      "titre": "Une alternative écologique et sociale à l'autoroute A1a / Tram 2 - Vers une ville sans voiture",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-12-09"
+      },
+      "derniere_etape": "2025-12-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE25-014",
+      "numero": "PE25/014",
+      "type": "Pétition",
+      "depose": "2025-11-18",
+      "titre": "Contre une municipalisation de La Valencienne et l'uniformisation de ses usages par la Ville de Lausanne - pour le maintien d'une Valencienne autogérée, solidaire et lieu d'experimentation collective tel qu'il existe aujourd'hui",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-08-25"
+      },
+      "derniere_etape": "2026-08-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-082",
+      "numero": "INT25/082",
+      "type": "Interpellation",
+      "depose": "2025-11-18",
+      "titre": "Vague de cambriolages : les commerçants livrés à eux-mêmes ?",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-12-02"
+      },
+      "derniere_etape": "2025-12-02",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-081",
+      "numero": "INT25/081",
+      "type": "Interpellation",
+      "depose": "2025-11-18",
+      "titre": "« Une place pour chaque enfant » : on prend le même concept et on recommence les yeux fermés ?\"",
+      "auteurs": [
+        {
+          "nom": "Pauline Blanc",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-01-20"
+      },
+      "derniere_etape": "2026-01-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-080",
+      "numero": "INT25/080",
+      "type": "Interpellation",
+      "depose": "2025-11-18",
+      "titre": "Crèche EVAM Fermeture de la Crèche de l'EVAM : que peut faire Lausanne pour permettre un accueil favorable à l'intégration des familles et des enfants dépendants de l'asile ?",
+      "auteurs": [
+        {
+          "nom": "Léonie Kovaliv",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée avec résolution",
+        "date": "2026-01-20"
+      },
+      "derniere_etape": "2026-01-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-077",
+      "numero": "INT25/077",
+      "type": "Interpellation",
+      "depose": "2025-11-18",
+      "titre": "Un plan de soutien, mais quelle stratégie ?",
+      "auteurs": [
+        {
+          "nom": "Anouck Saugy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-03-17"
+      },
+      "derniere_etape": "2026-03-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-130",
+      "numero": "POS25/130",
+      "type": "Postulat",
+      "depose": "2025-11-17",
+      "titre": "Pour un renforcement des moyens de la police lausannoise",
+      "auteurs": [
+        {
+          "nom": "Patrizia Deborah Mori",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-078",
+      "numero": "INT25/078",
+      "type": "Interpellation",
+      "depose": "2025-11-17",
+      "titre": "Présence policière au centre-ville et police de proximité : va-t-on enfin mettre fin aux promesses non tenues ?",
+      "auteurs": [
+        {
+          "nom": "Sarah Neumann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate avec résolution",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-042",
+      "numero": "PREA25/042",
+      "type": "Préavis",
+      "depose": "2025-11-13",
+      "titre": "Requalification de l'avenue de Tivoli, du carrefour de Montelly et de Chauderon Sud",
+      "auteurs": [
+        {
+          "nom": "Ludovic Saulet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-041",
+      "numero": "PREA25/041",
+      "type": "Préavis",
+      "depose": "2025-11-13",
+      "titre": "Création d'une Association de communes en charge de la gestion des eaux urbaines du bassin versant de la STEP de Vidy et des installations intercommunales y afférentes - approbation des statuts",
+      "auteurs": [
+        {
+          "nom": "Isabelle Burgy",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-03-17"
+      },
+      "derniere_etape": "2026-03-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-131",
+      "numero": "POS25/131",
+      "type": "Postulat",
+      "depose": "2025-11-13",
+      "titre": "Aurores Boréales : profitons des merveilles du monde",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/COMC25-011",
+      "numero": "COMC25/011",
+      "type": "Divers",
+      "depose": "2025-11-12",
+      "titre": "Crédits d'investissements du patrimoine administratif",
+      "auteurs": [
+        {
+          "nom": "Gabriela Auda",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-12-02"
+      },
+      "derniere_etape": "2025-12-02",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-076",
+      "numero": "INT25/076",
+      "type": "Interpellation",
+      "depose": "2025-11-11",
+      "titre": "Développement du carsharing à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Yann Lugrin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-040",
+      "numero": "PREA25/040",
+      "type": "Préavis",
+      "depose": "2025-11-06",
+      "titre": "Rénovation du Centre funéraire de Montoie - Evolution du projet et augmentation des coûts d'investissement - Crédit complémentaire au préavis N° 2020/47",
+      "auteurs": [
+        {
+          "nom": "Antoine Gösta Piguet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-021",
+      "numero": "Q25/021",
+      "type": "Question écrite",
+      "depose": "2025-11-04",
+      "titre": "Manifestation du 18 septembre 2025 : coûts sécuritaires et impact sur la Police",
+      "auteurs": [
+        {
+          "nom": "Paulraj Kanthia",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-020",
+      "numero": "Q25/020",
+      "type": "Question écrite",
+      "depose": "2025-11-04",
+      "titre": "Manifestation du 18 septembre 2025 : évaluation des coûts et impacts pour la Ville et les acteurs privés",
+      "auteurs": [
+        {
+          "nom": "Paulraj Kanthia",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-124",
+      "numero": "POS25/124",
+      "type": "Postulat",
+      "depose": "2025-11-04",
+      "titre": "Souffleuses à feuilles : et si Lausanne s'inspirait de Zurich ?",
+      "auteurs": [
+        {
+          "nom": "Karine Roch",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-12-09"
+      },
+      "derniere_etape": "2025-12-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-121",
+      "numero": "POS25/121",
+      "type": "Postulat",
+      "depose": "2025-11-04",
+      "titre": "Un secteur Benjamin-Constant sécurisé pour les piétons",
+      "auteurs": [
+        {
+          "nom": "Pauline Blanc",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-12-09"
+      },
+      "derniere_etape": "2025-12-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-116",
+      "numero": "POS25/116",
+      "type": "Postulat",
+      "depose": "2025-11-04",
+      "titre": "Pour un moratoire sur la suppression des places de parc",
+      "auteurs": [
+        {
+          "nom": "Marlène Berard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-12-09"
+      },
+      "derniere_etape": "2025-12-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-115",
+      "numero": "POS25/115",
+      "type": "Postulat",
+      "depose": null,
+      "titre": "Une Ville solidaire de ses commerçants et restaurateurs",
+      "auteurs": [
+        {
+          "nom": "Marlène Berard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-08-25"
+      },
+      "derniere_etape": "2026-08-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-114",
+      "numero": "POS25/114",
+      "type": "Postulat",
+      "depose": "2025-11-04",
+      "titre": "Mieux vaut prévenir qu'amender",
+      "auteurs": [
+        {
+          "nom": "Marlène Berard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-12-09"
+      },
+      "derniere_etape": "2025-12-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-112",
+      "numero": "POS25/112",
+      "type": "Postulat",
+      "depose": "2025-11-04",
+      "titre": "Mettre fin à la déliquescence du centre-ville : pour une fermeture immédiate du local d'injection de la Riponne",
+      "auteurs": [
+        {
+          "nom": "Valentin Christe",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-111",
+      "numero": "POS25/111",
+      "type": "Postulat",
+      "depose": "2025-11-04",
+      "titre": "Lausanne, ville-pilote pour l'introduction d'une commission de dissuasion en matière de consommation de stupéfiants",
+      "auteurs": [
+        {
+          "nom": "Virginie Cavalli",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-109",
+      "numero": "POS25/109",
+      "type": "Postulat",
+      "depose": "2025-11-04",
+      "titre": "Pour un meilleur équilibre entre droit de manifester et vie quotidienne des Lausannoises et Lausannois",
+      "auteurs": [
+        {
+          "nom": "Olivier Marmy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-108",
+      "numero": "POS25/108",
+      "type": "Postulat",
+      "depose": "2025-11-04",
+      "titre": "Pour une politique municipale conforme au droit international - pas de collaboration avec les entreprises et institutions israéliennes complices du génocide à Gaza et de l'occupation en Palestine",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-106",
+      "numero": "POS25/106",
+      "type": "Postulat",
+      "depose": "2025-11-04",
+      "titre": "Pour une amélioration de l'offre de transports publics dans les quartiers de Praz-Séchaud, Boveresses, Éterpeys et Valmont",
+      "auteurs": [
+        {
+          "nom": "Sevgi Koyuncu",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-104",
+      "numero": "POS25/104",
+      "type": "Postulat",
+      "depose": "2025-11-04",
+      "titre": "Pour un mobilier scolaire ergonomique et adapté",
+      "auteurs": [
+        {
+          "nom": "Olivier Marmy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-103",
+      "numero": "POS25/103",
+      "type": "Postulat",
+      "depose": "2025-11-04",
+      "titre": "Pour l'installation d'un columbarium au cimetière de Vers-Chez-les-Blanc",
+      "auteurs": [
+        {
+          "nom": "Olivier Marmy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-079",
+      "numero": "INT25/079",
+      "type": "Interpellation",
+      "depose": "2025-11-04",
+      "titre": "Y a-t-il un pilote dans l'avion tl",
+      "auteurs": [
+        {
+          "nom": "Johan Pain",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-08-25"
+      },
+      "derniere_etape": "2026-08-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-075",
+      "numero": "INT25/075",
+      "type": "Interpellation",
+      "depose": "2025-11-04",
+      "titre": "Libérer la parole au sein du corps de police : oui, mais comment ?",
+      "auteurs": [
+        {
+          "nom": "Thibault Schaller",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate",
+        "date": "2025-12-09"
+      },
+      "derniere_etape": "2025-12-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-073",
+      "numero": "INT25/073",
+      "type": "Interpellation",
+      "depose": "2025-11-04",
+      "titre": "La Municipalité cache-t-elle la misère sous les guirlandes",
+      "auteurs": [
+        {
+          "nom": "Patrizia Deborah Mori",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate",
+        "date": "2025-12-09"
+      },
+      "derniere_etape": "2025-12-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-072",
+      "numero": "INT25/072",
+      "type": "Interpellation",
+      "depose": "2025-11-04",
+      "titre": "Saint-Martin perd son calme : Problèmes d'insalubrité et d'encadrement sécuritaire à la rue Saint-Martin",
+      "auteurs": [
+        {
+          "nom": "Coralie Dumoulin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate avec résolution",
+        "date": "2025-12-09"
+      },
+      "derniere_etape": "2025-12-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-071",
+      "numero": "INT25/071",
+      "type": "Interpellation",
+      "depose": "2025-11-04",
+      "titre": "Lausanne, administrée par des lausannois ?",
+      "auteurs": [
+        {
+          "nom": "Pauline Blanc",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-069",
+      "numero": "INT25/069",
+      "type": "Interpellation",
+      "depose": "2025-11-04",
+      "titre": "Pollution par la dioxine à Lausanne. La Municipalité et le Conseil d'Etat cherchent-ils à ralentir l'assainissement des sols contaminés au détriment de la santé publique ?",
+      "auteurs": [
+        {
+          "nom": "Johann Dupuis",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-08-25"
+      },
+      "derniere_etape": "2026-08-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-068",
+      "numero": "INT25/068",
+      "type": "Interpellation",
+      "depose": "2025-11-04",
+      "titre": "Modifications d'ordonnances fédérales en matière de limitation de vitesse : quels effets sur les projets communaux et quel positionnement de la commune ?",
+      "auteurs": [
+        {
+          "nom": "Frédéric Steimer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-067",
+      "numero": "INT25/067",
+      "type": "Interpellation",
+      "depose": "2025-11-04",
+      "titre": "Entrée en vigueur de la nouvelle loi sur l'électricité : comment permettre aux locataires de réduire la facture ?",
+      "auteurs": [
+        {
+          "nom": "Frédéric Steimer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2026-06-05"
+      },
+      "derniere_etape": "2026-06-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-066",
+      "numero": "INT25/066",
+      "type": "Interpellation",
+      "depose": "2025-11-04",
+      "titre": "Ouverture du marché de l'électricité: quelle réaction des SiL face au positionnement de l'Union des Villes Suisses ?",
+      "auteurs": [
+        {
+          "nom": "Frédéric Steimer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-065",
+      "numero": "INT25/065",
+      "type": "Interpellation",
+      "depose": "2025-11-04",
+      "titre": "Détentions massives de manifestant·e.x.s à Berne : quelle position et quelles garanties pour les Lausannoises et Lausannois ?",
+      "auteurs": [
+        {
+          "nom": "Léonie Kovaliv",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-064",
+      "numero": "INT25/064",
+      "type": "Interpellation",
+      "depose": "2025-11-04",
+      "titre": "Contamination à la dioxine : une bien étrange précipitation vers l'assainissement. Et si la fumée du Vallon allait nous hanter plus longtemps que prévu?",
+      "auteurs": [
+        {
+          "nom": "Virginie Cavalli",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-08-25"
+      },
+      "derniere_etape": "2026-08-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-063",
+      "numero": "INT25/063",
+      "type": "Interpellation",
+      "depose": "2025-11-04",
+      "titre": "Locations de courte durée, résiliations de masse et préservation du parc locatif : état des lieux, contrôles et sanctions à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Samuel De Vargas",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-062",
+      "numero": "INT25/062",
+      "type": "Interpellation",
+      "depose": "2025-11-04",
+      "titre": "Équité dans l'allocation des ressources de la politique des quartiers lausannois",
+      "auteurs": [
+        {
+          "nom": "Paulraj Kanthia",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-061",
+      "numero": "INT25/061",
+      "type": "Interpellation",
+      "depose": "2025-11-04",
+      "titre": "Conditions de détention et prévention du suicide à l'hôtel de police de Saint-Martin",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-118",
+      "numero": "POS25/118",
+      "type": "Postulat",
+      "depose": "2025-11-03",
+      "titre": "Pour une Ville qui lutte activement contre les violences administratives",
+      "auteurs": [
+        {
+          "nom": "Mountazar Jaffar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-12-09"
+      },
+      "derniere_etape": "2025-12-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-117",
+      "numero": "POS25/117",
+      "type": "Postulat",
+      "depose": "2025-11-03",
+      "titre": "Garantir la dignité et la confidentialité des échanges dans les guichets lausannois",
+      "auteurs": [
+        {
+          "nom": "Mountazar Jaffar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-12-09"
+      },
+      "derniere_etape": "2025-12-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-070",
+      "numero": "INT25/070",
+      "type": "Interpellation",
+      "depose": "2025-11-03",
+      "titre": "\"Subventions ou subversion ?\"",
+      "auteurs": [
+        {
+          "nom": "Marisa Maurer Putallaz",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-038",
+      "numero": "PREA25/038",
+      "type": "Préavis",
+      "depose": "2025-10-31",
+      "titre": "Loi sur la préservation et la promotion du parc locatif (LPPPL) - revente en droits de superficie de trois bâtiments acquis par voie de préemption à la Société Immobilière Lausannoise pour le Logement SILL SA",
+      "auteurs": [
+        {
+          "nom": "Christopher Naenni",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-03-17"
+      },
+      "derniere_etape": "2026-03-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-037",
+      "numero": "PREA25/037",
+      "type": "Préavis",
+      "depose": "2025-10-31",
+      "titre": "SPADOM - Création d'un règlement communal du patrimoine arboré détaillant les modalités de protection, d'atteinte et de compensation touchant les arbres, arbustes, bosquets et cordons boisés non-forestiers sur le territoire lausannois",
+      "auteurs": [
+        {
+          "nom": "Benjamin Rudaz",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-09-08"
+      },
+      "derniere_etape": "2026-09-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-036",
+      "numero": "PREA25/036",
+      "type": "Préavis",
+      "depose": "2025-10-31",
+      "titre": "Plan d'affectation « Alpha Palmiers »",
+      "auteurs": [
+        {
+          "nom": "Alexandra Monnier",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-035",
+      "numero": "PREA25/035",
+      "type": "Préavis",
+      "depose": "2025-10-30",
+      "titre": "ARLO - Camping de Vidy - chemin du Camping 3 à Lausanne : attribution, organisation, investissements et constitution d'un droit distinct et permanent (DDP) de superficie",
+      "auteurs": [
+        {
+          "nom": "Catherine Gillard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-02-03"
+      },
+      "derniere_etape": "2026-02-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-127",
+      "numero": "POS25/127",
+      "type": "Postulat",
+      "depose": "2025-10-28",
+      "titre": "\"Sécurisons la Riponne !\"",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE25-013",
+      "numero": "PE25/013",
+      "type": "Pétition",
+      "depose": "2025-10-28",
+      "titre": "Pour la sécurité des enfants aux abords des collèges de l'Églantine, Florimont et Villamont",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Renvoi en COPET",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/COMC25-010",
+      "numero": "COMC25/010",
+      "type": "Divers",
+      "depose": "2025-10-27",
+      "titre": "[particulier] devient le nouveau directeur de SI-REN SA",
+      "auteurs": [
+        {
+          "nom": "Ashley Da Costa",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-034",
+      "numero": "PREA25/034",
+      "type": "Préavis",
+      "depose": "2025-10-20",
+      "titre": "Réaménagement de diverses places de jeux - 5e étape -  Règlement concernant l'aménagement des places de jeux et de rencontre",
+      "auteurs": [
+        {
+          "nom": "Gabriela Auda",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-03-31"
+      },
+      "derniere_etape": "2026-03-31",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-032",
+      "numero": "PREA25/032",
+      "type": "Préavis",
+      "depose": "2025-10-17",
+      "titre": "Autorisations d'achats informatiques",
+      "auteurs": [
+        {
+          "nom": "Jean-Paul Pinon",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-12-03"
+      },
+      "derniere_etape": "2025-12-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-031",
+      "numero": "PREA25/031",
+      "type": "Préavis",
+      "depose": "2025-10-16",
+      "titre": "Travaux de rénovation et de réhabilitation des parcs et domaines - Crédit-cadre annuel 2026",
+      "auteurs": [
+        {
+          "nom": "Etienne Balestra",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-12-03"
+      },
+      "derniere_etape": "2025-12-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-030",
+      "numero": "PREA25/030",
+      "type": "Préavis",
+      "depose": "2025-10-15",
+      "titre": "Crédits supplémentaires pour 2025 (2e série)",
+      "auteurs": [
+        {
+          "nom": "Gabriela Auda",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-12-03"
+      },
+      "derniere_etape": "2025-12-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-029",
+      "numero": "PREA25/029",
+      "type": "Préavis",
+      "depose": "2025-10-15",
+      "titre": "Budget de fonctionnement de l'exercice 2026",
+      "auteurs": [
+        {
+          "nom": "Gabriela Auda",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-12-03"
+      },
+      "derniere_etape": "2025-12-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-028",
+      "numero": "PREA25/028",
+      "type": "Préavis",
+      "depose": "2025-10-10",
+      "titre": "Collège de Montriond - Crédit d'études pour la rénovation et la transformation du collège et pour la création d'une extension pour l'APEMS - Crédits d'études et d'investissement pour la création d'un pavillon provisoire durant les travaux",
+      "auteurs": [
+        {
+          "nom": "Daniel Alexander",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-12-03"
+      },
+      "derniere_etape": "2025-12-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-027",
+      "numero": "PREA25/027",
+      "type": "Préavis",
+      "depose": "2025-10-09",
+      "titre": "Société coopérative d'habitation Lausanne (SCHL) - Construction d'un immeuble de 105 logements d'utilité publique (LUP) à la rue de la Borde 45-49/chemin des Crêtes 26-28, dont 71 logements à loyer abordable (LLA) et 34 logements à loyer modéré (LLM) - Octroi des aides publiques prévues par la loi du 9 septembre 1975 sur le logement (LL) pour les 34 LLM",
+      "auteurs": [
+        {
+          "nom": "Andrea Faucherre",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-03-17"
+      },
+      "derniere_etape": "2026-03-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE25-012",
+      "numero": "PE25/012",
+      "type": "Pétition",
+      "depose": "2025-10-07",
+      "titre": "Pour la création d'un jardin urbain sur le trottoir de la rue du Maupas",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité pour communication",
+        "date": "2026-08-25"
+      },
+      "derniere_etape": "2026-08-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-026",
+      "numero": "PREA25/026",
+      "type": "Préavis",
+      "depose": "2025-10-03",
+      "titre": "Autorisations d'achats pour l'exercice 2026",
+      "auteurs": [
+        {
+          "nom": "Louis Dana",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-12-03"
+      },
+      "derniere_etape": "2025-12-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-107",
+      "numero": "POS25/107",
+      "type": "Postulat",
+      "depose": "2025-10-01",
+      "titre": "Pour une police municipale qui va à la rencontre de la population  afin de rétablir et renforcer une relation de confiance",
+      "auteurs": [
+        {
+          "nom": "Valéry Beaud",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-019",
+      "numero": "Q25/019",
+      "type": "Question écrite",
+      "depose": "2025-09-30",
+      "titre": "Davantage de transparence dans le droit du bail : quelles actions de la Ville ?",
+      "auteurs": [
+        {
+          "nom": "Samuel De Vargas",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-018",
+      "numero": "Q25/018",
+      "type": "Question écrite",
+      "depose": "2025-09-30",
+      "titre": "SRGZA : Biopôle et Vernand, où en est-on ?",
+      "auteurs": [
+        {
+          "nom": "Matthieu Delacretaz",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-102",
+      "numero": "POS25/102",
+      "type": "Postulat",
+      "depose": "2025-09-30",
+      "titre": "Stop à la gentrification à Lausanne ! Pour une obligation de fixer des quotas de logements à loyers modérés dans tous les quartiers de la ville",
+      "auteurs": [
+        {
+          "nom": "Johann Dupuis",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-101",
+      "numero": "POS25/101",
+      "type": "Postulat",
+      "depose": "2025-09-30",
+      "titre": "Pour une mobilité qui rend la Ville de Lausanne attractive pour les vaudois",
+      "auteurs": [
+        {
+          "nom": "Pauline Blanc",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refusé/retiré",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-100",
+      "numero": "POS25/100",
+      "type": "Postulat",
+      "depose": "2025-09-30",
+      "titre": "Rendre le dépôt de la garantie de loyer accessible à tout·es : halte aux assurances privées qui renforcent les inégalités !",
+      "auteurs": [
+        {
+          "nom": "Franziska Meinherz",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-099",
+      "numero": "POS25/099",
+      "type": "Postulat",
+      "depose": "2025-09-30",
+      "titre": "Pour le retour de l'heure gratuite de stationnement à midi en Ville",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refusé/retiré",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-098",
+      "numero": "POS25/098",
+      "type": "Postulat",
+      "depose": "2025-09-30",
+      "titre": "S'arrêter, c'est se protéger et protéger les autres",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-097",
+      "numero": "POS25/097",
+      "type": "Postulat",
+      "depose": "2025-09-30",
+      "titre": "Loin de la Palud, loin du coeur ' Pour un développement coordonné et favorable à la vie de quartier des Râpes.",
+      "auteurs": [
+        {
+          "nom": "Pauline Blanc",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-096",
+      "numero": "POS25/096",
+      "type": "Postulat",
+      "depose": "2025-09-30",
+      "titre": "Pour une administration transparente",
+      "auteurs": [
+        {
+          "nom": "Marlène Berard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-095",
+      "numero": "POS25/095",
+      "type": "Postulat",
+      "depose": "2025-09-30",
+      "titre": "Pour une place ou une rue Adelaïde à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Olivier Marmy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-094",
+      "numero": "POS25/094",
+      "type": "Postulat",
+      "depose": "2025-09-30",
+      "titre": "Lausanne sous la loupe : les indicateurs qui font marcher la machine !",
+      "auteurs": [
+        {
+          "nom": "Anouck Saugy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-03-17"
+      },
+      "derniere_etape": "2026-03-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-093",
+      "numero": "POS25/093",
+      "type": "Postulat",
+      "depose": "2025-09-30",
+      "titre": "Police-Population : pour plus de lien et de sérénité dans nos quartiers",
+      "auteurs": [
+        {
+          "nom": "Nicolas Hurni",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-092",
+      "numero": "POS25/092",
+      "type": "Postulat",
+      "depose": "2025-09-30",
+      "titre": "Impact de la consommation récréative de substances psychoactives illégales par les personnes intégrées socialement. Sortons de la banalisation !",
+      "auteurs": [
+        {
+          "nom": "Gaelle Mieli",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-060",
+      "numero": "INT25/060",
+      "type": "Interpellation",
+      "depose": "2025-09-30",
+      "titre": "Gestion des manifestations: tolérance ou laxisme",
+      "auteurs": [
+        {
+          "nom": "Patrizia Deborah Mori",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-08-25"
+      },
+      "derniere_etape": "2026-08-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-059",
+      "numero": "INT25/059",
+      "type": "Interpellation",
+      "depose": "2025-09-30",
+      "titre": "Escalade de la violence policière - quel avenir pour le droit de manifester ?",
+      "auteurs": [
+        {
+          "nom": "Léonie Kovaliv",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate avec résolution",
+        "date": "2025-10-07"
+      },
+      "derniere_etape": "2025-10-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-058",
+      "numero": "INT25/058",
+      "type": "Interpellation",
+      "depose": "2025-09-30",
+      "titre": "Coupes cantonales, chutes communales ?",
+      "auteurs": [
+        {
+          "nom": "Séverine Graff",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-03-31"
+      },
+      "derniere_etape": "2026-03-31",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-057",
+      "numero": "INT25/057",
+      "type": "Interpellation",
+      "depose": "2025-09-30",
+      "titre": "Intervention policière lors de la manifestation pro-Palestine du 18 septembre 2025",
+      "auteurs": [
+        {
+          "nom": "Line Golestani",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate avec résolution",
+        "date": "2025-10-07"
+      },
+      "derniere_etape": "2025-10-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-056",
+      "numero": "INT25/056",
+      "type": "Interpellation",
+      "depose": "2025-09-30",
+      "titre": "Manifestation lausannoise du 18 septembre 2025 dénonçant le génocide palestinien : pourquoi et sur l'ordre de qui tant de violence de la part de la police contre une manifestation pacifique ?",
+      "auteurs": [
+        {
+          "nom": "Valérie D'Acremont",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate avec résolution",
+        "date": "2025-10-07"
+      },
+      "derniere_etape": "2025-10-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-054",
+      "numero": "INT25/054",
+      "type": "Interpellation",
+      "depose": "2025-09-30",
+      "titre": "Combattre le travail au noir. Etat de la situation à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Olivier Marmy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-105",
+      "numero": "POS25/105",
+      "type": "Postulat",
+      "depose": "2025-09-25",
+      "titre": "Pour une sécurité routière renforcée sur le chemin et aux abords des écoles",
+      "auteurs": [
+        {
+          "nom": "Valéry Beaud",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE25-010",
+      "numero": "PE25/010",
+      "type": "Pétition",
+      "depose": "2025-09-16",
+      "titre": "Pour des transports publics efficaces sans attendre le M3",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité pour rapport-préavis",
+        "date": "2026-02-03"
+      },
+      "derniere_etape": "2026-02-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-017",
+      "numero": "Q25/017",
+      "type": "Question écrite",
+      "depose": "2025-09-09",
+      "titre": "Comment le fonds compensatoire pour la plantation des arbres est-il utilisé?",
+      "auteurs": [
+        {
+          "nom": "Jacques-Etienne Rastorfer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-016",
+      "numero": "Q25/016",
+      "type": "Question écrite",
+      "depose": "2025-09-09",
+      "titre": "Citoyenneté d'honneur pour trois femmes condamnées à mort en Iran : quelle position pour Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Sevgi Koyuncu",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-09-09"
+      },
+      "derniere_etape": "2025-09-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-091",
+      "numero": "POS25/091",
+      "type": "Postulat",
+      "depose": "2025-09-09",
+      "titre": "Pour l'introduction d'une cryptomonnaie lausannoise",
+      "auteurs": [
+        {
+          "nom": "Patrizia Deborah Mori",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-090",
+      "numero": "POS25/090",
+      "type": "Postulat",
+      "depose": "2025-09-09",
+      "titre": "Pour l'installation de distributeurs gratuits de crème solaire dans les piscines publiques et aux abords des rives lausannoises",
+      "auteurs": [
+        {
+          "nom": "Léonie Kovaliv",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-089",
+      "numero": "POS25/089",
+      "type": "Postulat",
+      "depose": "2025-09-09",
+      "titre": "conditions matérielles des lieux d'accueil parascolaire",
+      "auteurs": [
+        {
+          "nom": "Léonie Kovaliv",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-053",
+      "numero": "INT25/053",
+      "type": "Interpellation",
+      "depose": "2025-09-09",
+      "titre": "La Municipalité flingue-t-elle la Police de Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Valentin Christe",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-08-25"
+      },
+      "derniere_etape": "2026-08-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-052",
+      "numero": "INT25/052",
+      "type": "Interpellation",
+      "depose": "2025-09-09",
+      "titre": "Attaque à la voiture-bélier lors d'une manifestation en soutien au peuple palestinien : comment expliquer la passivité et le « deux poids, deux mesures » du corps de police lausannois face à un tel incident violent ?",
+      "auteurs": [
+        {
+          "nom": "Romane Benvenuti",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-06-09"
+      },
+      "derniere_etape": "2026-06-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-051",
+      "numero": "INT25/051",
+      "type": "Interpellation",
+      "depose": "2025-09-09",
+      "titre": "Racisme structurel et réforme de l'institution",
+      "auteurs": [
+        {
+          "nom": "Yusuf Kulmiye",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-08-25"
+      },
+      "derniere_etape": "2026-08-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-050",
+      "numero": "INT25/050",
+      "type": "Interpellation",
+      "depose": "2025-09-09",
+      "titre": "Comment sortir du racisme structurel ?",
+      "auteurs": [
+        {
+          "nom": "Samson Yemane",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate avec résolution",
+        "date": "2025-09-16"
+      },
+      "derniere_etape": "2025-09-16",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-049",
+      "numero": "INT25/049",
+      "type": "Interpellation",
+      "depose": "2025-09-09",
+      "titre": "Police lausannoise : qui a fermé les yeux et comment nettoyer les écuries d'Augias ?",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate avec résolution",
+        "date": "2025-09-16"
+      },
+      "derniere_etape": "2025-09-16",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-047",
+      "numero": "INT25/047",
+      "type": "Interpellation",
+      "depose": "2025-09-09",
+      "titre": "Garder la tête hors de l'eau : suivi et transparence à Lausanne Aquatique",
+      "auteurs": [
+        {
+          "nom": "Anouck Saugy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-09-09"
+      },
+      "derniere_etape": "2025-09-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-025",
+      "numero": "PREA25/025",
+      "type": "Préavis",
+      "depose": "2025-09-04",
+      "titre": "Modification du Règlement du Plan général d'affectation (MPGA)",
+      "auteurs": [
+        {
+          "nom": "Jean-Philippe Dapples",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE25-011",
+      "numero": "PE25/011",
+      "type": "Pétition",
+      "depose": "2025-09-02",
+      "titre": "Pour la préservation de l'ensemble architectural exceptionnel des Fauconnières 5 et du caractère particulier du chemin des Fauconnières",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité pour rapport-préavis",
+        "date": "2026-05-26"
+      },
+      "derniere_etape": "2026-05-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-024",
+      "numero": "PREA25/024",
+      "type": "Préavis",
+      "depose": "2025-08-29",
+      "titre": "Collège de Grand-Vennes - Agrandissement : Demande de crédit d'étude",
+      "auteurs": [
+        {
+          "nom": "Denis Mermoud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-12-03"
+      },
+      "derniere_etape": "2025-12-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-088",
+      "numero": "POS25/088",
+      "type": "Postulat",
+      "depose": "2025-08-26",
+      "titre": "Apprentissage de la musique à Lausanne - accompagner la croissance de l'EML",
+      "auteurs": [
+        {
+          "nom": "Lana Damergi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-09-09"
+      },
+      "derniere_etape": "2025-09-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-087",
+      "numero": "POS25/087",
+      "type": "Postulat",
+      "depose": "2025-08-26",
+      "titre": "Grisélidis Réal",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-09-09"
+      },
+      "derniere_etape": "2025-09-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-086",
+      "numero": "POS25/086",
+      "type": "Postulat",
+      "depose": "2025-08-26",
+      "titre": "Transports publics quasi-gratuit",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refusé/retiré",
+        "date": "2026-05-05"
+      },
+      "derniere_etape": "2026-05-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-085",
+      "numero": "POS25/085",
+      "type": "Postulat",
+      "depose": "2025-08-26",
+      "titre": "Plus de radars pédagogiques dans les zones de rencontre avec transmission de données plus pertinentes (statistiques) afin d'améliorer la sécurité des piétons dans leur mobilité",
+      "auteurs": [
+        {
+          "nom": "Johan Pain",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-09-09"
+      },
+      "derniere_etape": "2025-09-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-084",
+      "numero": "POS25/084",
+      "type": "Postulat",
+      "depose": "2025-08-26",
+      "titre": "Consultation au sujet de l'Avenue Agassiz, où en est-on?",
+      "auteurs": [
+        {
+          "nom": "Agathe Sidorenko",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-09-09"
+      },
+      "derniere_etape": "2025-09-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-083",
+      "numero": "POS25/083",
+      "type": "Postulat",
+      "depose": "2025-08-26",
+      "titre": "Des installations sportives de qualité, accessibles au grand public dans les quartiers avoisinants les plaines du Loup !",
+      "auteurs": [
+        {
+          "nom": "Johann Dupuis",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-09-09"
+      },
+      "derniere_etape": "2025-09-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-082",
+      "numero": "POS25/082",
+      "type": "Postulat",
+      "depose": "2025-08-26",
+      "titre": "Art de rue pour et par la population",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-09-09"
+      },
+      "derniere_etape": "2025-09-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-046",
+      "numero": "INT25/046",
+      "type": "Interpellation",
+      "depose": "2025-08-26",
+      "titre": "Racisme et discriminations systémiques au sein de la police lausannoise",
+      "auteurs": [
+        {
+          "nom": "Léonie Kovaliv",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-08-25"
+      },
+      "derniere_etape": "2026-08-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-045",
+      "numero": "INT25/045",
+      "type": "Interpellation",
+      "depose": "2025-08-26",
+      "titre": "Émeutes à Lausanne : ne laissons pas la violence s'installer dans les quartiers",
+      "auteurs": [
+        {
+          "nom": "Marlène Berard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-03-03"
+      },
+      "derniere_etape": "2026-03-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-044",
+      "numero": "INT25/044",
+      "type": "Interpellation",
+      "depose": "2025-08-26",
+      "titre": "les décès de Camila et Marvin suite à des interventions policières étaient-ils évitables ?",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate avec résolution",
+        "date": "2025-09-09"
+      },
+      "derniere_etape": "2025-09-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-043",
+      "numero": "INT25/043",
+      "type": "Interpellation",
+      "depose": "2025-08-26",
+      "titre": "LE Chemin qui mène à Rome",
+      "auteurs": [
+        {
+          "nom": "Jacques Pernet",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2025-12-05"
+      },
+      "derniere_etape": "2025-12-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-023",
+      "numero": "PREA25/023",
+      "type": "Préavis",
+      "depose": "2025-08-18",
+      "titre": "Renaturation des cours d'eau lausannois - Première étape",
+      "auteurs": [
+        {
+          "nom": "Isabelle Burgy",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-03-17"
+      },
+      "derniere_etape": "2026-03-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-001",
+      "numero": "PREA25/001",
+      "type": "Préavis",
+      "depose": "2025-08-18",
+      "titre": "Lutte contre les Microplastiques - Extension du laboratoire du Contrôle de l'eau (Lutry)",
+      "auteurs": [
+        {
+          "nom": "Mélissa Gavoldi",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE25-009",
+      "numero": "PE25/009",
+      "type": "Pétition",
+      "depose": "2025-08-16",
+      "titre": "Pour une route des Plaines-du-Loup à 30km/h",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité pour rapport-préavis",
+        "date": "2026-05-26"
+      },
+      "derniere_etape": "2026-05-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-022",
+      "numero": "PREA25/022",
+      "type": "Préavis",
+      "depose": "2025-08-06",
+      "titre": "Financement des installations et infrastructures des SIL pour la deuxième étape de réalisation de l'écoquartier des Plaines-du-Loup",
+      "auteurs": [
+        {
+          "nom": "Cécile Wolf",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-020",
+      "numero": "PREA25/020",
+      "type": "Préavis",
+      "depose": "2025-06-27",
+      "titre": "Création de Proveyse SA afin de gérer et valoriser les sources de Thierrens",
+      "auteurs": [
+        {
+          "nom": "Mélissa Gavoldi",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-03-31"
+      },
+      "derniere_etape": "2026-03-31",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-015",
+      "numero": "Q25/015",
+      "type": "Question écrite",
+      "depose": "2025-06-24",
+      "titre": "Salle d'allaitement de la ville, où en est-on ?",
+      "auteurs": [
+        {
+          "nom": "Agathe Sidorenko",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-019",
+      "numero": "PREA25/019",
+      "type": "Préavis",
+      "depose": "2025-06-24",
+      "titre": "Règlement communal des ports, des infrastructures portuaires et des rives du lac de la Commue de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Franziska Meinherz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/PR25-002",
+      "numero": "PR25/002",
+      "type": "Projet de règlement",
+      "depose": "2025-06-24",
+      "titre": "Quand Lausanne taxe Lausanne ce sont les Lausannois qui paient - Modification du règlement sur les indemnités communales liées à la distribution d'électricité",
+      "auteurs": [
+        {
+          "nom": "Matthieu Carrel",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-080",
+      "numero": "POS25/080",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "Pour une mobilité réellement inclusive à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-09-09"
+      },
+      "derniere_etape": "2025-09-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-079",
+      "numero": "POS25/079",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "TGV Lausanne - Paris : maintenir la cadence",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-06-09"
+      },
+      "derniere_etape": "2026-06-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-078",
+      "numero": "POS25/078",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "Une administration communale au service de tous les habitants - bis repetita",
+      "auteurs": [
+        {
+          "nom": "Pauline Blanc",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-06-09"
+      },
+      "derniere_etape": "2026-06-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-076",
+      "numero": "POS25/076",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "Garantir enfin la salubrité et la sécurité du bâtiment de la rue de Genève 85, quitte à l'exproprier",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-03-17"
+      },
+      "derniere_etape": "2026-03-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-075",
+      "numero": "POS25/075",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "Pour un renforcement de la présence de la police de proximité et des équipes socio-sanitaires dans les quartiers rue de Genève - Sébeillon - Sévelin - Malley",
+      "auteurs": [
+        {
+          "nom": "Marlyse Audergon",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-074",
+      "numero": "POS25/074",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "Pour une stratégie municipale globale dans les quartiers rue de Genève - Sébeillon - Sévelin",
+      "auteurs": [
+        {
+          "nom": "Marlyse Audergon",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-073",
+      "numero": "POS25/073",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "Rapport-préavis N° 2026/10 - Postulat de Blanc Pauline - Agenda des vacances scolaires de jeunes lausannois : incluons également les enfants neuroatypiques !",
+      "auteurs": [
+        {
+          "nom": "Pauline Blanc",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-06-23"
+      },
+      "derniere_etape": "2026-06-23",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-072",
+      "numero": "POS25/072",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "Tout récupérer pour aucun gaspillage",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-071",
+      "numero": "POS25/071",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "Vélos cargos et taxi : Vers une ville sans voiture",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-070",
+      "numero": "POS25/070",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "À propos de l'insalubrité",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-069",
+      "numero": "POS25/069",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "+ de boîtes à livres",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-068",
+      "numero": "POS25/068",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "Pour des nuits lausannoises plus inclusives",
+      "auteurs": [
+        {
+          "nom": "Yusuf Kulmiye",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-067",
+      "numero": "POS25/067",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "Pour une place du Vieux-Port attractive, conviviale et aménagée en îlot de fraîcheur",
+      "auteurs": [
+        {
+          "nom": "Tatiana Taillefert",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-066",
+      "numero": "POS25/066",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "Pour un accès élargi à l'eau potable dans les zones sportives et de loisirs de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Matthieu Delacretaz",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-065",
+      "numero": "POS25/065",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "Un peu de place pour le cinéma : quand le Capitole sort du cadre !",
+      "auteurs": [
+        {
+          "nom": "Tatiana Taillefert",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-064",
+      "numero": "POS25/064",
+      "type": "Postulat",
+      "depose": "2025-06-24",
+      "titre": "Oui au droit à la déconnexion",
+      "auteurs": [
+        {
+          "nom": "Samson Yemane",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-03-03"
+      },
+      "derniere_etape": "2026-03-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-042",
+      "numero": "INT25/042",
+      "type": "Interpellation",
+      "depose": "2025-06-24",
+      "titre": "Sévelin, où sont nos droit démocratiques ?",
+      "auteurs": [
+        {
+          "nom": "Olivier Pagnot",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-05-26"
+      },
+      "derniere_etape": "2026-05-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-041",
+      "numero": "INT25/041",
+      "type": "Interpellation",
+      "depose": "2025-06-24",
+      "titre": "Chaos à la rue de Genève 85",
+      "auteurs": [
+        {
+          "nom": "Patrizia Deborah Mori",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2025-06-24"
+      },
+      "derniere_etape": "2025-06-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-040",
+      "numero": "INT25/040",
+      "type": "Interpellation",
+      "depose": "2025-06-24",
+      "titre": "Développement des autoroutes dans l'Ouest lausannois - comment se positionne Lausanne pour des projets d'un autre temps '",
+      "auteurs": [
+        {
+          "nom": "Olivier Thorens",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2025-10-03"
+      },
+      "derniere_etape": "2025-10-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-039",
+      "numero": "INT25/039",
+      "type": "Interpellation",
+      "depose": "2025-06-24",
+      "titre": "Réorganisation de la police municipale - quel bilan pour la sécurité au centre-ville ?",
+      "auteurs": [
+        {
+          "nom": "Ariane Morin",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2025-06-24"
+      },
+      "derniere_etape": "2025-06-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-038",
+      "numero": "INT25/038",
+      "type": "Interpellation",
+      "depose": "2025-06-24",
+      "titre": "Capitaine, oh Capitaine !",
+      "auteurs": [
+        {
+          "nom": "Olivier Marmy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-018",
+      "numero": "PREA25/018",
+      "type": "Préavis",
+      "depose": "2025-06-20",
+      "titre": "Une politique d'agriculture urbaine 2025 -2030 pour renouer les liens entre la ville et la campagne",
+      "auteurs": [
+        {
+          "nom": "David Bourdin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE25-008",
+      "numero": "PE25/008",
+      "type": "Pétition",
+      "depose": "2025-06-20",
+      "titre": "NON à la suppression de terrains pour la pratique du football dans le cadre de la transformation du Stade Pierre de Coubertin",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité pour rapport-préavis",
+        "date": "2026-05-26"
+      },
+      "derniere_etape": "2026-05-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-017",
+      "numero": "PREA25/017",
+      "type": "Préavis",
+      "depose": "2025-06-17",
+      "titre": "Remise à niveau des infrastructures de production et de distribution sur le site de Pierre-de-Plan pour la sécurisation de la fourniture de chaleur. Création de surfaces de bureau.",
+      "auteurs": [
+        {
+          "nom": "Cécile Wolf",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-077",
+      "numero": "POS25/077",
+      "type": "Postulat",
+      "depose": "2025-06-17",
+      "titre": "LLM : logements à loyer modéré en faveur de personnes à faibles revenus. Vraiment ?",
+      "auteurs": [
+        {
+          "nom": "Pauline Blanc",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-037",
+      "numero": "INT25/037",
+      "type": "Interpellation",
+      "depose": "2025-06-17",
+      "titre": "Logements à loyer modéré : quelle situation à Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Pauline Blanc",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2026-01-28"
+      },
+      "derniere_etape": "2026-01-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-016",
+      "numero": "PREA25/016",
+      "type": "Préavis",
+      "depose": "2025-06-16",
+      "titre": "Octroi d'un crédit d'investissement du patrimoine financier de CHF 48'400'000.- pour le 2e lot d'assainissement énergétique et réorientation de la stratégie",
+      "auteurs": [
+        {
+          "nom": "Catherine Gillard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/COMC25-009",
+      "numero": "COMC25/009",
+      "type": "Divers",
+      "depose": "2025-06-16",
+      "titre": "Communication au CC Projet de construction du Centre de Secours Lausanne - réaffectation du compte d'attente de CHF 349'000.- initialement prévu pour la réfection de la caserne",
+      "auteurs": [
+        {
+          "nom": "Alice Girardet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/COMC25-008",
+      "numero": "COMC25/008",
+      "type": "Divers",
+      "depose": "2025-06-12",
+      "titre": "BCD - Prolongation du préavis n° 2023/11 « Stratégie municipale pour la participation 2023-2026 »",
+      "auteurs": [
+        {
+          "nom": "Julie Wuerfel",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-014",
+      "numero": "Q25/014",
+      "type": "Question écrite",
+      "depose": "2025-06-10",
+      "titre": "Comment défendre les intérêts fondamentaux des Lausannoises et Lausannois contre les ingérences politiques étrangères ?",
+      "auteurs": [
+        {
+          "nom": "Christelle Rigual",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-013",
+      "numero": "Q25/013",
+      "type": "Question écrite",
+      "depose": "2025-06-10",
+      "titre": "Accessibilité et sensibilisation citoyenne - Bilan sur les externalisations",
+      "auteurs": [
+        {
+          "nom": "Léonie Kovaliv",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-06-23"
+      },
+      "derniere_etape": "2026-06-23",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-012",
+      "numero": "Q25/012",
+      "type": "Question écrite",
+      "depose": "2025-06-10",
+      "titre": "Discriminations raciales et les inégalités structurelles dans le domaine de la santé",
+      "auteurs": [
+        {
+          "nom": "Sevgi Koyuncu",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-063",
+      "numero": "POS25/063",
+      "type": "Postulat",
+      "depose": "2025-06-10",
+      "titre": "Faciliter l'intervention des artisans en leur permettant l'usage des places de livraison",
+      "auteurs": [
+        {
+          "nom": "Olivier Marmy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-06-09"
+      },
+      "derniere_etape": "2026-06-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-062",
+      "numero": "POS25/062",
+      "type": "Postulat",
+      "depose": "2025-06-10",
+      "titre": "Donner c'est valoriser : pour des boîtes d'échange(s) entre voisin.e.s aux Ecopoints",
+      "auteurs": [
+        {
+          "nom": "Constance Von Braun",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-05-05"
+      },
+      "derniere_etape": "2026-05-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-061",
+      "numero": "POS25/061",
+      "type": "Postulat",
+      "depose": "2025-06-10",
+      "titre": "Consommation de stupéfiants dans l'espace public : renforcer la collaboration entre la police et le social",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-06-24"
+      },
+      "derniere_etape": "2025-06-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-060",
+      "numero": "POS25/060",
+      "type": "Postulat",
+      "depose": "2025-06-10",
+      "titre": "Apprentissage de la musique à Lausanne : accompagner la croissance de l'EML",
+      "auteurs": [
+        {
+          "nom": "Lana Damergi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-06-24"
+      },
+      "derniere_etape": "2025-06-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-059",
+      "numero": "POS25/059",
+      "type": "Postulat",
+      "depose": "2025-06-10",
+      "titre": "« Come & Play », du matériel sportif gratuit et en libre-service, mais au prix du sang, du feu et des larmes",
+      "auteurs": [
+        {
+          "nom": "Pierre Conscience",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-06-24"
+      },
+      "derniere_etape": "2025-06-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE25-007",
+      "numero": "PE25/007",
+      "type": "Pétition",
+      "depose": "2025-06-10",
+      "titre": "Pétition au CC de la Société coopérative des commerçants lausannois ([particulier]) pour un vote nominatif et l'engagement du Conseil communal en vue de l'application de l'art. 139b LC à l'encontre de M. Loris Socchi",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-06-23"
+      },
+      "derniere_etape": "2026-06-23",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-036",
+      "numero": "INT25/036",
+      "type": "Interpellation",
+      "depose": "2025-06-10",
+      "titre": "Canalisations dans les cours d'eaux lausannois, une source de pollution de l'eau ?",
+      "auteurs": [
+        {
+          "nom": "Tatiana Taillefert",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2025-10-31"
+      },
+      "derniere_etape": "2025-10-31",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-035",
+      "numero": "INT25/035",
+      "type": "Interpellation",
+      "depose": "2025-06-10",
+      "titre": "Intepellation urgente de Conscience Pierre et crts - Justice et vérité pour Michael Kenechukwu Ekemezie",
+      "auteurs": [
+        {
+          "nom": "Pierre Conscience",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-08-25"
+      },
+      "derniere_etape": "2026-08-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-034",
+      "numero": "INT25/034",
+      "type": "Interpellation",
+      "depose": "2025-06-10",
+      "titre": "étudiants agressés, ultras protégés ?",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2026-03-06"
+      },
+      "derniere_etape": "2026-03-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-033",
+      "numero": "INT25/033",
+      "type": "Interpellation",
+      "depose": "2025-06-10",
+      "titre": "Des centres aérés urbains accessibles et justes pour les familles lausannoises",
+      "auteurs": [
+        {
+          "nom": "Virginie Zürcher",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2026-06-19"
+      },
+      "derniere_etape": "2026-06-19",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-032",
+      "numero": "INT25/032",
+      "type": "Interpellation",
+      "depose": "2025-06-10",
+      "titre": "Quelle stratégie pour faire de Lausanne une ville réellement attractive pour l'économie et l'innovation ?",
+      "auteurs": [
+        {
+          "nom": "Olivier Marmy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-06-10"
+      },
+      "derniere_etape": "2025-06-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-015",
+      "numero": "PREA25/015",
+      "type": "Préavis",
+      "depose": "2025-06-06",
+      "titre": "Loi sur la préservation et la promotion du parc locatif (LPPPL) - Revente en droits de superficie de 7 bâtiments acquis par voie de préemption",
+      "auteurs": [
+        {
+          "nom": "Christopher Naenni",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/COMC25-007",
+      "numero": "COMC25/007",
+      "type": "Divers",
+      "depose": "2025-05-27",
+      "titre": "Stade olympique de la Pontaise - annonce de dépassement de crédit",
+      "auteurs": [
+        {
+          "nom": "Rachel Viquerat",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-06-10"
+      },
+      "derniere_etape": "2025-06-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-011",
+      "numero": "Q25/011",
+      "type": "Question écrite",
+      "depose": "2025-05-20",
+      "titre": "Genève 85, Valmont 9 : la commission de la salubrité a-t-elle été saisie ?",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-010",
+      "numero": "Q25/010",
+      "type": "Question écrite",
+      "depose": "2025-05-20",
+      "titre": "Bilan sur les externalisations",
+      "auteurs": [
+        {
+          "nom": "Pierre Conscience",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-009",
+      "numero": "Q25/009",
+      "type": "Question écrite",
+      "depose": "2025-05-20",
+      "titre": "Egalité et entrepreneuriat féminin - un bilan ?",
+      "auteurs": [
+        {
+          "nom": "Anouck Saugy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-058",
+      "numero": "POS25/058",
+      "type": "Postulat",
+      "depose": "2025-05-20",
+      "titre": "Quelle satisfaction des partenaires contractuels de la Ville ?",
+      "auteurs": [
+        {
+          "nom": "Yann Lugrin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-06-10"
+      },
+      "derniere_etape": "2025-06-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-057",
+      "numero": "POS25/057",
+      "type": "Postulat",
+      "depose": "2025-05-20",
+      "titre": "Un rabais sur les abonnements Mobilis TL pour les bénéficiaires de l'assurance invalidité",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-05-05"
+      },
+      "derniere_etape": "2026-05-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-056",
+      "numero": "POS25/056",
+      "type": "Postulat",
+      "depose": "2025-05-20",
+      "titre": "L'avenir du tourisme lausannois se joue en Suisse alémanique et dans les pays voisins",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-05-05"
+      },
+      "derniere_etape": "2026-05-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-055",
+      "numero": "POS25/055",
+      "type": "Postulat",
+      "depose": "2025-05-20",
+      "titre": "Garantir l'accès aux transports publics à toutes et tous les élèves lausannois·es",
+      "auteurs": [
+        {
+          "nom": "Samuel De Vargas",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-06-10"
+      },
+      "derniere_etape": "2025-06-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-054",
+      "numero": "POS25/054",
+      "type": "Postulat",
+      "depose": "2025-05-20",
+      "titre": "Eaux secours du Léman ! Pour un plan d'action fort contre les déchets plastiques et les mégôts de cigarettes sur les rives du lac",
+      "auteurs": [
+        {
+          "nom": "Aurélie Stamm",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-06-10"
+      },
+      "derniere_etape": "2025-06-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-053",
+      "numero": "POS25/053",
+      "type": "Postulat",
+      "depose": "2025-05-20",
+      "titre": "Pour la création d'une Commission consultative de la culture",
+      "auteurs": [
+        {
+          "nom": "Naomi-Alexandra Matewa",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-06-10"
+      },
+      "derniere_etape": "2025-06-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE25-006",
+      "numero": "PE25/006",
+      "type": "Pétition",
+      "depose": "2025-05-20",
+      "titre": "Pour la préservation du tissu urbain lausannois",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE25-005",
+      "numero": "PE25/005",
+      "type": "Pétition",
+      "depose": "2025-05-20",
+      "titre": "Absence d'ascenseur dans certaines écoles lausannoises",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité pour communication",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-031",
+      "numero": "INT25/031",
+      "type": "Interpellation",
+      "depose": "2025-05-20",
+      "titre": "Gestion des personnes toxicodépendantes dans l'espace public et privé, où en sommes-nous ?",
+      "auteurs": [
+        {
+          "nom": "Marlène Berard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-030",
+      "numero": "INT25/030",
+      "type": "Interpellation",
+      "depose": "2025-05-20",
+      "titre": "Hébergements d'urgence : suite à la fermeture du Hublot, quelle collaboration entre la Ville, le Canton et les communes vaudoises pour éviter l'engorgement à Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate avec résolution",
+        "date": "2025-05-27"
+      },
+      "derniere_etape": "2025-05-27",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-029",
+      "numero": "INT25/029",
+      "type": "Interpellation",
+      "depose": "2025-05-20",
+      "titre": "Service des gérances, on gère ?",
+      "auteurs": [
+        {
+          "nom": "Olivier Marmy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-028",
+      "numero": "INT25/028",
+      "type": "Interpellation",
+      "depose": "2025-05-20",
+      "titre": "À quand une nouvelle estimation fiscale des immeubles ?",
+      "auteurs": [
+        {
+          "nom": "Valéry Beaud",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-027",
+      "numero": "INT25/027",
+      "type": "Interpellation",
+      "depose": "2025-05-20",
+      "titre": "Solidarité sans frontières, Lausanne en faveur du respect du droit international et de la protection des populations civiles à Gaza",
+      "auteurs": [
+        {
+          "nom": "Yusuf Kulmiye",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-026",
+      "numero": "INT25/026",
+      "type": "Interpellation",
+      "depose": "2025-05-20",
+      "titre": "Quelle protection des fonctionnaires de la Ville en cas de violence de la part de tiers ?",
+      "auteurs": [
+        {
+          "nom": "Pauline Blanc",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-014",
+      "numero": "PREA25/014",
+      "type": "Préavis",
+      "depose": "2025-05-19",
+      "titre": "Métros m2 et m3 : Octroi de deux cautionnements aux TL",
+      "auteurs": [
+        {
+          "nom": "Paul Cros",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-03-03"
+      },
+      "derniere_etape": "2026-03-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA24-039",
+      "numero": "PREA24/039",
+      "type": "Préavis",
+      "depose": "2025-05-13",
+      "titre": "Rama III : Extension des caissons de progression du plateau technique de formation (préavis lié à la NM24/0788)",
+      "auteurs": [
+        {
+          "nom": "Mercedes Muñoz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-015",
+      "numero": "INT25/015",
+      "type": "Interpellation",
+      "depose": "2025-05-08",
+      "titre": "Choix de l'application \"The Sorority\" pour lutter contre les violences sexistes et sexuelles à Lausanne : demande de précisions",
+      "auteurs": [
+        {
+          "nom": "Olivia Fahmy",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2025-05-08"
+      },
+      "derniere_etape": "2025-05-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/COMC25-005",
+      "numero": "COMC25/005",
+      "type": "Divers",
+      "depose": "2025-05-08",
+      "titre": "MdQ des Plaines-du-Loup : annonce de dépassement de crédit",
+      "auteurs": [
+        {
+          "nom": "Veronica Ecuyer",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-008",
+      "numero": "Q25/008",
+      "type": "Question écrite",
+      "depose": "2025-05-06",
+      "titre": "Dioxine - qu'en est-il des responsabilités ?",
+      "auteurs": [
+        {
+          "nom": "Marie-Thérèse Sangra",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-02-03"
+      },
+      "derniere_etape": "2026-02-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-052",
+      "numero": "POS25/052",
+      "type": "Postulat",
+      "depose": "2025-05-06",
+      "titre": "Deux-roues : un amour à sens unique ?",
+      "auteurs": [
+        {
+          "nom": "Anouck Saugy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-051",
+      "numero": "POS25/051",
+      "type": "Postulat",
+      "depose": "2025-05-06",
+      "titre": "Passé vivant : les trésors des petits musées lausannois",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-050",
+      "numero": "POS25/050",
+      "type": "Postulat",
+      "depose": "2025-05-06",
+      "titre": "Mise en place d'un dispositif d'information vocale dans les arrêts de bus",
+      "auteurs": [
+        {
+          "nom": "Samson Yemane",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-048",
+      "numero": "POS25/048",
+      "type": "Postulat",
+      "depose": "2025-05-06",
+      "titre": "Le bus pour l'école et pour l'APEMS, depuis mes deux maisons",
+      "auteurs": [
+        {
+          "nom": "Carolina Carvalho",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-047",
+      "numero": "POS25/047",
+      "type": "Postulat",
+      "depose": "2025-05-06",
+      "titre": "Faciliter l'accès aux logements sociaux pour les réfugiés avec permis B et F",
+      "auteurs": [
+        {
+          "nom": "Vincent Vouillamoz",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-025",
+      "numero": "INT25/025",
+      "type": "Interpellation",
+      "depose": "2025-05-06",
+      "titre": "Eaux secours du Léman ! Quelle pollution du Léman par les microplastiques depuis le bassin versant lausannois?",
+      "auteurs": [
+        {
+          "nom": "Aurélie Stamm",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-05-06"
+      },
+      "derniere_etape": "2025-05-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-023",
+      "numero": "INT25/023",
+      "type": "Interpellation",
+      "depose": "2025-05-06",
+      "titre": "Expulsions illégales, le droit du logement bafoué",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-08-25"
+      },
+      "derniere_etape": "2026-08-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-022",
+      "numero": "INT25/022",
+      "type": "Interpellation",
+      "depose": "2025-05-06",
+      "titre": "Augmentation massive des cas de maltraitances d'enfants en crèches, rapportés par plusieurs médias, qu'en est-il à Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Lana Damergi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2025-05-06"
+      },
+      "derniere_etape": "2025-05-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-021",
+      "numero": "INT25/021",
+      "type": "Interpellation",
+      "depose": "2025-05-06",
+      "titre": "Fentanyl, agir avant qu'il ne soit trop tard",
+      "auteurs": [
+        {
+          "nom": "Olivier Meylan",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-012",
+      "numero": "PREA25/012",
+      "type": "Préavis",
+      "depose": "2025-04-15",
+      "titre": "Modification de la structure tarifaire de l'électricité et mise à jour du règlement sur les indemnités communales liées à la distribution d'électricité",
+      "auteurs": [
+        {
+          "nom": "Nicolas Waelti",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-06-10"
+      },
+      "derniere_etape": "2025-06-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-011",
+      "numero": "PREA25/011",
+      "type": "Préavis",
+      "depose": "2025-04-11",
+      "titre": "Crédits supplémentaires pour 2025 (1re série)",
+      "auteurs": [
+        {
+          "nom": "Gabriela Auda",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-06-10"
+      },
+      "derniere_etape": "2025-06-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-046",
+      "numero": "POS25/046",
+      "type": "Postulat",
+      "depose": "2025-04-08",
+      "titre": "La mise en place de guichet unique de l'administration décentralisés dans les quartiers de la ville",
+      "auteurs": [
+        {
+          "nom": "Sevgi Koyuncu",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-05-06"
+      },
+      "derniere_etape": "2025-05-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-045",
+      "numero": "POS25/045",
+      "type": "Postulat",
+      "depose": "2025-04-08",
+      "titre": "Développement d'un dispositif d'information en ville et dans les quartiers",
+      "auteurs": [
+        {
+          "nom": "Mountazar Jaffar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-05-06"
+      },
+      "derniere_etape": "2025-05-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-044",
+      "numero": "POS25/044",
+      "type": "Postulat",
+      "depose": "2025-04-08",
+      "titre": "Décloisonner l'administration et la rapprocher des habitant-e-s",
+      "auteurs": [
+        {
+          "nom": "Mountazar Jaffar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-06-09"
+      },
+      "derniere_etape": "2026-06-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-043",
+      "numero": "POS25/043",
+      "type": "Postulat",
+      "depose": "2025-04-08",
+      "titre": "Diagnostiquer les inégalités entre quartiers",
+      "auteurs": [
+        {
+          "nom": "Mountazar Jaffar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-039",
+      "numero": "POS25/039",
+      "type": "Postulat",
+      "depose": "2025-04-08",
+      "titre": "Zones sans fumée aux abribus",
+      "auteurs": [
+        {
+          "nom": "Joël Teuscher",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-029",
+      "numero": "POS25/029",
+      "type": "Postulat",
+      "depose": "2025-04-08",
+      "titre": "« BYOD » Pour une administration branchée et durable",
+      "auteurs": [
+        {
+          "nom": "Nicolas Hurni",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-06-09"
+      },
+      "derniere_etape": "2026-06-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-018",
+      "numero": "INT25/018",
+      "type": "Interpellation",
+      "depose": "2025-04-08",
+      "titre": "Ecoquartier des Plaines-du-Loup - les quartiers voisins ne doivent pas être oubliés",
+      "auteurs": [
+        {
+          "nom": "Léonie Kovaliv",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-03-03"
+      },
+      "derniere_etape": "2026-03-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-017",
+      "numero": "INT25/017",
+      "type": "Interpellation",
+      "depose": "2025-04-08",
+      "titre": "Propos haineux et offensants à l'encontre de la police : comment la Municipalité peut-elle empêcher les dérives ?",
+      "auteurs": [
+        {
+          "nom": "Marlène Berard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-010",
+      "numero": "PREA25/010",
+      "type": "Préavis",
+      "depose": "2025-04-04",
+      "titre": "Comptes de l'exercice 2024 - Ventes des sous-stations du M2 - Modification du règlement pour la Municipalité",
+      "auteurs": [
+        {
+          "nom": "Gabriela Auda",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-06-10"
+      },
+      "derniere_etape": "2025-06-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/COMC25-003",
+      "numero": "COMC25/003",
+      "type": "Divers",
+      "depose": "2025-04-01",
+      "titre": "Retrait du rapport-préavis N°2024/01",
+      "auteurs": [
+        {
+          "nom": "Roseline Apicella",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/PR25-001",
+      "numero": "PR25/001",
+      "type": "Projet de règlement",
+      "depose": "2025-03-29",
+      "titre": "Modification du Règlement général de police de la Commune de Lausanne - Pour accorder le règlement de police à la liberté constitutionnelle de manifester, passons de la demande d'autorisation au devoir d'annonce !",
+      "auteurs": [
+        {
+          "nom": "Franziska Meinherz",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-05-06"
+      },
+      "derniere_etape": "2025-05-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-016",
+      "numero": "INT25/016",
+      "type": "Interpellation",
+      "depose": "2025-03-28",
+      "titre": "Les locaux subventionnés par la Ville de Lausanne peuvent-ils être le lieu de propagande ?",
+      "auteurs": [
+        {
+          "nom": "Eliane Aubert",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2025-12-05"
+      },
+      "derniere_etape": "2025-12-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-007",
+      "numero": "Q25/007",
+      "type": "Question écrite",
+      "depose": "2025-03-18",
+      "titre": "Egalité de salaire",
+      "auteurs": [
+        {
+          "nom": "Sevgi Koyuncu",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-038",
+      "numero": "POS25/038",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Recenser et limiter l'influence des géants du tabac à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-037",
+      "numero": "POS25/037",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Pour renforcer la prévention du tabagisme : des actions à destination des adultes fumeurs et non-fumeurs",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-036",
+      "numero": "POS25/036",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Interdiction de fumer sur les places de jeux",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-035",
+      "numero": "POS25/035",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Interdiction de fumer dans les préaux scolaires et aux abords des structures pré et parascolaires",
+      "auteurs": [
+        {
+          "nom": "Valéry Beaud",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-034",
+      "numero": "POS25/034",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Créer des logements de transition (« logement d'abord ») pour les plus précaires",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-033",
+      "numero": "POS25/033",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Lutter pour la fin du sans-abrisme: pour une politique coordonnée et intercommunale des hébergements d'urgence",
+      "auteurs": [
+        {
+          "nom": "Johann Dupuis",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-032",
+      "numero": "POS25/032",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Congé Parental",
+      "auteurs": [
+        {
+          "nom": "Sevgi Koyuncu",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-031",
+      "numero": "POS25/031",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Je vous fais un postulat que vous lirez peut-être si vous avez le temps",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-030",
+      "numero": "POS25/030",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Une formation professionnelle en danse classique pour Lausanne",
+      "auteurs": [
+        {
+          "nom": "Virginie Kyriakopoulos",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-028",
+      "numero": "POS25/028",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Limiter les démolitions/reconstructions dans les quartiers",
+      "auteurs": [
+        {
+          "nom": "Alexandra Gerber",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-027",
+      "numero": "POS25/027",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Récupération et recyclage des vêtements en ville de Lausanne : pour une amélioration des pratiques et une prise de conscience collective !",
+      "auteurs": [
+        {
+          "nom": "Gaelle Mieli",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-05-05"
+      },
+      "derniere_etape": "2026-05-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-026",
+      "numero": "POS25/026",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Contre la culture du silence autour de l'inceste",
+      "auteurs": [
+        {
+          "nom": "Séverine Graff",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-025",
+      "numero": "POS25/025",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Feu vert pour des abris de transport public végétalisés",
+      "auteurs": [
+        {
+          "nom": "Olivier Marmy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-024",
+      "numero": "POS25/024",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Des familles sans chef·fes",
+      "auteurs": [
+        {
+          "nom": "Sarah Neumann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-022",
+      "numero": "POS25/022",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Logements prioritaires pour les personnes victimes de violences conjugales et/ou intrafamiliales",
+      "auteurs": [
+        {
+          "nom": "Audrey Petoud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-021",
+      "numero": "POS25/021",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Ensemble sous un même toit, repensons la cohabitation à Lausanne.",
+      "auteurs": [
+        {
+          "nom": "Christine Goumaz",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-020",
+      "numero": "POS25/020",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Pour une exigence de formation contre le harcèlement et les discriminations et des procédures claires pour la prévention et la prise en charge de situations discriminantes au sein des institutions (sportives, culturelles, sociales) subventionnées par la Ville de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Olivia Fahmy",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-019",
+      "numero": "POS25/019",
+      "type": "Postulat",
+      "depose": "2025-03-18",
+      "titre": "Pour une subvention à la réparation et la remise en fonction des vélos classiques",
+      "auteurs": [
+        {
+          "nom": "Olivia Fahmy",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-014",
+      "numero": "INT25/014",
+      "type": "Interpellation",
+      "depose": "2025-03-18",
+      "titre": "M2-M3, Blécherette-Chauderon-Flon-Gare, être usagère-er des transports publics à Lausanne = une école pour participer à Pékin Express ?",
+      "auteurs": [
+        {
+          "nom": "Virginie Cavalli",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-013",
+      "numero": "INT25/013",
+      "type": "Interpellation",
+      "depose": "2025-03-18",
+      "titre": "L'universalité du droit à l'égalité est-elle reconnue à Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate avec résolution",
+        "date": "2025-03-25"
+      },
+      "derniere_etape": "2025-03-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-012",
+      "numero": "INT25/012",
+      "type": "Interpellation",
+      "depose": "2025-03-18",
+      "titre": "Lutte contre le racisme antimusulman à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Mountazar Jaffar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-03-18"
+      },
+      "derniere_etape": "2025-03-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-011",
+      "numero": "INT25/011",
+      "type": "Interpellation",
+      "depose": "2025-03-18",
+      "titre": "À Beaulieu, on lave plus blanc que blanc mais à quel prix ?",
+      "auteurs": [
+        {
+          "nom": "Coralie Dumoulin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-010",
+      "numero": "INT25/010",
+      "type": "Interpellation",
+      "depose": "2025-03-18",
+      "titre": "Vers une naturalisation plus inclusive à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Yusuf Kulmiye",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-03-18"
+      },
+      "derniere_etape": "2025-03-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-009",
+      "numero": "INT25/009",
+      "type": "Interpellation",
+      "depose": "2025-03-18",
+      "titre": "Bilan et perspectives du sport à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-03-18"
+      },
+      "derniere_etape": "2025-03-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-042",
+      "numero": "POS25/042",
+      "type": "Postulat",
+      "depose": "2025-03-16",
+      "titre": "Pour des visites culturelles thérapeutiques",
+      "auteurs": [
+        {
+          "nom": "Marlyse Audergon",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-05-06"
+      },
+      "derniere_etape": "2025-05-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-006",
+      "numero": "Q25/006",
+      "type": "Question écrite",
+      "depose": "2025-03-04",
+      "titre": "Amélioration de la desserte de la ligne 41 pour répondre aux besoins de mobilité de tous les habitants du nord lausannois",
+      "auteurs": [
+        {
+          "nom": "Serge Talla",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-03-04"
+      },
+      "derniere_etape": "2025-03-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-005",
+      "numero": "Q25/005",
+      "type": "Question écrite",
+      "depose": "2025-03-04",
+      "titre": "Surfaces inutilisées au chemin des Falaises",
+      "auteurs": [
+        {
+          "nom": "Samuel De Vargas",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-003",
+      "numero": "Q25/003",
+      "type": "Question écrite",
+      "depose": "2025-03-04",
+      "titre": "Question de Kanthia Paulraj - Un nouveau cèdre pour Lausanne : quelle prévention pour éviter d'autres pertes ?",
+      "auteurs": [
+        {
+          "nom": "Paulraj Kanthia",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-009",
+      "numero": "PREA25/009",
+      "type": "Préavis",
+      "depose": "2025-03-04",
+      "titre": "Route de Forel 6 - Puidoux, bien-fonds 501, constitution d'un droit distinct et permanent (DDP) de superficie au profit de [particulier]",
+      "auteurs": [
+        {
+          "nom": "Christopher Naenni",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-017",
+      "numero": "POS25/017",
+      "type": "Postulat",
+      "depose": "2025-03-04",
+      "titre": "Encourager l'engagement de personnes en situation de handicap au sein du personnel de la ville de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Johan Pain",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-03-18"
+      },
+      "derniere_etape": "2025-03-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-016",
+      "numero": "POS25/016",
+      "type": "Postulat",
+      "depose": "2025-03-04",
+      "titre": "Pour une véritable politique décroissante",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-03-18"
+      },
+      "derniere_etape": "2025-03-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-015",
+      "numero": "POS25/015",
+      "type": "Postulat",
+      "depose": "2025-03-04",
+      "titre": "Les arbres bicentenaires, témoins vivants de Lausanne : préservation et découverte",
+      "auteurs": [
+        {
+          "nom": "Yann Beaufils",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-03-18"
+      },
+      "derniere_etape": "2025-03-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-014",
+      "numero": "POS25/014",
+      "type": "Postulat",
+      "depose": "2025-03-04",
+      "titre": "la Municipalité achète local ... et montre l'exemple",
+      "auteurs": [
+        {
+          "nom": "Jacques Pernet",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-03-18"
+      },
+      "derniere_etape": "2025-03-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-013",
+      "numero": "POS25/013",
+      "type": "Postulat",
+      "depose": "2025-03-04",
+      "titre": "Économie circulaire ! Pour des déchets encombrants 'circulaires'",
+      "auteurs": [
+        {
+          "nom": "Jacques Pernet",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refus",
+        "date": "2026-05-05"
+      },
+      "derniere_etape": "2026-05-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE25-004",
+      "numero": "PE25/004",
+      "type": "Pétition",
+      "depose": "2025-03-04",
+      "titre": "Vidy pour tous - Gardons la baie de Vidy comme lieu de détente et de vie !",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité pour communication",
+        "date": "2025-11-18"
+      },
+      "derniere_etape": "2025-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-008",
+      "numero": "INT25/008",
+      "type": "Interpellation",
+      "depose": "2025-03-04",
+      "titre": "Les batraciens sont-il homosexuels ?",
+      "auteurs": [
+        {
+          "nom": "Patrizia Deborah Mori",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-02-03"
+      },
+      "derniere_etape": "2026-02-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-008",
+      "numero": "PREA25/008",
+      "type": "Préavis",
+      "depose": "2025-02-28",
+      "titre": "Route de Chavannes 27c-d, bien-fonds n° 4'220 de la commune de Lausanne, droit distinct et permanent de superficie DDP 17'620 - Prolongation du droit de superficie et cession en faveur de la société Inter bowling SA",
+      "auteurs": [
+        {
+          "nom": "Christopher Naenni",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2025-02-28"
+      },
+      "derniere_etape": "2025-02-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-006",
+      "numero": "PREA25/006",
+      "type": "Préavis",
+      "depose": "2025-02-26",
+      "titre": "Chemin Praz-Lau 3 - Lausanne, biens-fonds n° 14'022, 14'031 et 14'039, droits distincts et permanents (DDP) de superficie nos 14'040 et 14'042 - Mutation parcellaire, prolongation et modification du DDP 14'040 inscrit au profit de la société FIM Management SA",
+      "auteurs": [
+        {
+          "nom": "Christopher Naenni",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-005",
+      "numero": "PREA25/005",
+      "type": "Préavis",
+      "depose": "2025-02-24",
+      "titre": "Rénovation / transformation du Centre intercommunal de gestion des déchets (CID) de Malley.",
+      "auteurs": [
+        {
+          "nom": "Katia Chianelli",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-004",
+      "numero": "PREA25/004",
+      "type": "Préavis",
+      "depose": "2025-02-20",
+      "titre": "Prolongation de la zone réservée communale selon l'article 46 LATC, concernant les secteurs de Pra Roman, Vers-chez-les-Blanc, Chalet-à-Matthey, Flon Morand, Montblesson",
+      "auteurs": [
+        {
+          "nom": "Marco Engheben",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-003",
+      "numero": "PREA25/003",
+      "type": "Préavis",
+      "depose": "2025-02-14",
+      "titre": "Stade de la Tuilière - remplacement du terrain de football en matière synthétique - crédit d'ouvrage",
+      "auteurs": [
+        {
+          "nom": "Nicolas Pittet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-06-24"
+      },
+      "derniere_etape": "2025-06-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA25-002",
+      "numero": "PREA25/002",
+      "type": "Préavis",
+      "depose": "2025-02-07",
+      "titre": "Place de la Riponne - demande d'un crédit d'ouvrage pour le renforcement de la portance de l'ouvrage du parking souterrain",
+      "auteurs": [
+        {
+          "nom": "Jean-Philippe Dapples",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-012",
+      "numero": "POS25/012",
+      "type": "Postulat",
+      "depose": "2025-02-04",
+      "titre": "Pour une stratégie ambitieuse d'assainissement énergétique du patrimoine immobilier administratif de la Ville de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Johann Dupuis",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-03-04"
+      },
+      "derniere_etape": "2025-03-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-011",
+      "numero": "POS25/011",
+      "type": "Postulat",
+      "depose": "2025-02-04",
+      "titre": "Précarité en scène : pour une amélioration des conditions salariales des artistes",
+      "auteurs": [
+        {
+          "nom": "Isabelle Bonillo",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-03-04"
+      },
+      "derniere_etape": "2025-03-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-010",
+      "numero": "POS25/010",
+      "type": "Postulat",
+      "depose": "2025-02-04",
+      "titre": "Pour une meilleure prise en compte des réalités sociales dans la gestion des logements subventionnés",
+      "auteurs": [
+        {
+          "nom": "Isabelle Bonillo",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-03-04"
+      },
+      "derniere_etape": "2025-03-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-009",
+      "numero": "POS25/009",
+      "type": "Postulat",
+      "depose": "2025-02-04",
+      "titre": "Développer une plateforme collaborative numérique pour renforcer la participation citoyenne et les échanges locaux à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Eliane Aubert",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-03-04"
+      },
+      "derniere_etape": "2025-03-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-008",
+      "numero": "POS25/008",
+      "type": "Postulat",
+      "depose": "2025-02-04",
+      "titre": "Nos beaux murs gris",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-03-04"
+      },
+      "derniere_etape": "2025-03-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-007",
+      "numero": "POS25/007",
+      "type": "Postulat",
+      "depose": "2025-02-04",
+      "titre": "Rapport-préavis N° 2025/49 - Postulat de Socchi Loris - Dépollution de la dioxine par les plantes",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-09-29"
+      },
+      "derniere_etape": "2026-09-29",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-006",
+      "numero": "POS25/006",
+      "type": "Postulat",
+      "depose": "2025-02-04",
+      "titre": "Une ferme au lieu d'un golf",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-03-04"
+      },
+      "derniere_etape": "2025-03-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-005",
+      "numero": "POS25/005",
+      "type": "Postulat",
+      "depose": "2025-02-04",
+      "titre": "Jumelage de Lausanne avec une commune palestinienne",
+      "auteurs": [
+        {
+          "nom": "Loris Socchi",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2025-03-04"
+      },
+      "derniere_etape": "2025-03-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-002",
+      "numero": "POS25/002",
+      "type": "Postulat",
+      "depose": "2025-02-04",
+      "titre": "Stationnement connecté : fini de tourner en rond",
+      "auteurs": [
+        {
+          "nom": "Olivier Meylan",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refusé/retiré",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-001",
+      "numero": "POS25/001",
+      "type": "Postulat",
+      "depose": "2025-02-04",
+      "titre": "Des transports publics à demi-tarif pour l'ensemble de la population",
+      "auteurs": [
+        {
+          "nom": "Samuel De Vargas",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-05-05"
+      },
+      "derniere_etape": "2026-05-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE25-003",
+      "numero": "PE25/003",
+      "type": "Pétition",
+      "depose": "2025-02-04",
+      "titre": "Une piste de bus à Béthusy",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE25-002",
+      "numero": "PE25/002",
+      "type": "Pétition",
+      "depose": "2025-02-04",
+      "titre": "Logement de la CPCL : pour protéger les droits des locataires et du personnel !",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité pour rapport-préavis",
+        "date": "2025-09-09"
+      },
+      "derniere_etape": "2025-09-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-006",
+      "numero": "INT25/006",
+      "type": "Interpellation",
+      "depose": "2025-02-04",
+      "titre": "Palais de justice de l'Hermitage - comment y accéder ?",
+      "auteurs": [
+        {
+          "nom": "Marlène Berard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate avec résolution",
+        "date": "2025-02-11"
+      },
+      "derniere_etape": "2025-02-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-005",
+      "numero": "INT25/005",
+      "type": "Interpellation",
+      "depose": "2025-02-04",
+      "titre": "Encore un projet de démolition/reconstruction dans le quartier de l'avenue de France. De quels outils disposent la Municipalité pour que les projets immobiliers contribuent à conserver le patrimoine ?",
+      "auteurs": [
+        {
+          "nom": "Johann Dupuis",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate avec résolution",
+        "date": "2025-02-11"
+      },
+      "derniere_etape": "2025-02-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-004",
+      "numero": "INT25/004",
+      "type": "Interpellation",
+      "depose": "2025-02-04",
+      "titre": "Est-ce que l'invasion record de frelons asiatiques attendue pour 2025 inquiète la Municipalité ?",
+      "auteurs": [
+        {
+          "nom": "Tatiana Taillefert",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée avec résolution",
+        "date": "2026-06-09"
+      },
+      "derniere_etape": "2026-06-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-003",
+      "numero": "INT25/003",
+      "type": "Interpellation",
+      "depose": "2025-02-04",
+      "titre": "Ecoquartier des Plaines-du-Loup -  mais où est donc passé le projet « ZIP » ?",
+      "auteurs": [
+        {
+          "nom": "Valéry Beaud",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2025-10-31"
+      },
+      "derniere_etape": "2025-10-31",
+      "communes": []
+    },
+    {
+      "cle": "5586/COMC25-001",
+      "numero": "COMC25/001",
+      "type": "Divers",
+      "depose": "2025-01-17",
+      "titre": "Abandon du projet de centrale de chauffage à Epalinges et de raccordement du quartier de la Croix-Blanche au réseau de chauffage à distance",
+      "auteurs": [
+        {
+          "nom": "Ashley Da Costa",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-02-04"
+      },
+      "derniere_etape": "2025-02-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-002",
+      "numero": "Q25/002",
+      "type": "Question écrite",
+      "depose": "2025-01-14",
+      "titre": "Symboles nazis à Lausanne : peut-on agir au niveau communal ?",
+      "auteurs": [
+        {
+          "nom": "Sarah Neumann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-01-14"
+      },
+      "derniere_etape": "2025-01-14",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q25-001",
+      "numero": "Q25/001",
+      "type": "Question écrite",
+      "depose": "2025-01-14",
+      "titre": "Subventions vélos: quid des abus",
+      "auteurs": [
+        {
+          "nom": "Patrizia Deborah Mori",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-03-18"
+      },
+      "derniere_etape": "2025-03-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS24-076",
+      "numero": "POS24/076",
+      "type": "Postulat",
+      "depose": "2025-01-14",
+      "titre": "Prends soin de ton eau !",
+      "auteurs": [
+        {
+          "nom": "Jacques Pernet",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-02-04"
+      },
+      "derniere_etape": "2025-02-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS24-075",
+      "numero": "POS24/075",
+      "type": "Postulat",
+      "depose": "2025-01-14",
+      "titre": "Postulat de Kanthia Paulraj et crts- Pour un programme communal d'économie d'énergie au service de la transition énergétique",
+      "auteurs": [
+        {
+          "nom": "Olivier Marmy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-02-04"
+      },
+      "derniere_etape": "2025-02-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS24-072",
+      "numero": "POS24/072",
+      "type": "Postulat",
+      "depose": "2025-01-14",
+      "titre": "Pas à pas vers une énergie durable : pavés connectés et parcs énergétiques pour une Lausanne innovante",
+      "auteurs": [
+        {
+          "nom": "Samson Yemane",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-06-09"
+      },
+      "derniere_etape": "2026-06-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE25-001",
+      "numero": "PE25/001",
+      "type": "Pétition",
+      "depose": "2025-01-14",
+      "titre": "Pour prolonger la mobilité active sur les quais",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-01-13"
+      },
+      "derniere_etape": "2026-01-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-002",
+      "numero": "INT25/002",
+      "type": "Interpellation",
+      "depose": "2025-01-14",
+      "titre": "Place de la Gare - les transports publics sont-ils au centre des priorités de la Ville ?",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT25-001",
+      "numero": "INT25/001",
+      "type": "Interpellation",
+      "depose": "2025-01-14",
+      "titre": "Appel d'offres à investisseurs pour l'étape 2 des Plaines-du-Loup : la Municipalité est-elle plus intéressée par le rendement des terrains que par le montant des loyers ?",
+      "auteurs": [
+        {
+          "nom": "Valéry Beaud",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate avec résolution",
+        "date": "2025-01-21"
+      },
+      "derniere_etape": "2025-01-21",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT24-076",
+      "numero": "INT24/076",
+      "type": "Interpellation",
+      "depose": "2025-01-14",
+      "titre": "Hâtes toi lentement",
+      "auteurs": [
+        {
+          "nom": "Olivier Pagnot",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-09-08"
+      },
+      "derniere_etape": "2026-09-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS25-004",
+      "numero": "POS25/004",
+      "type": "Postulat",
+      "depose": "2025-01-12",
+      "titre": "Favoriser le développement d'installations de fitness urbain à Lausanne pour promouvoir l'exercice physique chez les jeunes et les seniors",
+      "auteurs": [
+        {
+          "nom": "Jacques Pernet",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2025-03-04"
+      },
+      "derniere_etape": "2025-03-04",
+      "communes": []
+    }
+  ]
+}

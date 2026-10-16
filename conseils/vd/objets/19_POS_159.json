@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224988,
+  "numero": "19_POS_159",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2024-08-28"
+  },
+  "depose": "2019-09-03",
+  "titre": "Comment va la santé des personnes détenues dans les prisons vaudoises ?",
+  "contributeurs": [
+    {
+      "nom": "Carine Carvalho",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-09-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-09-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-08-28",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2019-09-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_159_depot.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2021-02-09",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=387324"
+    },
+    {
+      "titre": "Santé des personnes détenues",
+      "date": "2024-08-28",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2256815"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/365da8d5-7731-4593-a844-316e3debf8f1/meeting/1000548",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

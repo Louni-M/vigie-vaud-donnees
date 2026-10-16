@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226743,
+  "numero": "22_QUE_44",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-01-18"
+  },
+  "depose": "2022-11-01",
+  "titre": "Payer ses poursuites pourrait-il suffire ?",
+  "contributeurs": [
+    {
+      "nom": "Céline Misiego",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-11-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-01-18",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Radiation automatique de la mention des poursuites en cas de paiement de la dette",
+      "date": "2023-01-18",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2156526"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f17accd6-0bb2-4a5e-933d-02ace38068fc/meeting/1012637",
+  "communes": []
+}

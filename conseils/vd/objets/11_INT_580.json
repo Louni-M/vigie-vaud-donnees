@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222311,
+  "numero": "11_INT_580",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-11-06"
+  },
+  "depose": "2012-01-10",
+  "titre": "Le Service du développement territorial ou un autre service de l'administration cantonale a-t-il autorisé la Ville de Lausanne à aménager une structure d'accueil enzone agricole ?",
+  "contributeurs": [
+    {
+      "nom": "Philippe Ducommun",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Ducommun",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-01-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-01-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-11-06",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-04-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_580_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-01-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_580_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-6-novembre-2012/reponse-du-conseil-detat-a-linterpellation-philippe-ducommun-le-service-du-developpement-territorial-ou-un-autre-service-de-ladministration-cantonale-a-t-il-autorise-la-ville-de-lausanne-a-amenager-une-structure-daccueil-en-zone-agricole",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

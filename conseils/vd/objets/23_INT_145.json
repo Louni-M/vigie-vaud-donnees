@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226991,
+  "numero": "23_INT_145",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2025-10-07"
+  },
+  "depose": "2023-09-12",
+  "titre": "Deal de rue, la loi votée le 21 décembre 2022 par le Grand Conseil est-elle vraiment appliquée et efficace ?",
+  "contributeurs": [
+    {
+      "nom": "Romain Belotti",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-09-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-09-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-11-08",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-08-19",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-09-30",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-10-07",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-09-19",
+      "lien": "https://www.sonomix.ch/live/gcvd/2587#559"
+    },
+    {
+      "titre": "Trafic et consommation de drogue",
+      "date": "2023-11-08",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2206308"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e8de3d6b-1511-45f3-a0bc-87e954708f4d/meeting/1029639",
+  "communes": [
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

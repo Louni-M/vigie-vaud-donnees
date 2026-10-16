@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5928,
+  "objets": [
+    {
+      "cle": "vd/03_INT_155",
+      "numero": "03_INT_155",
+      "type": "Interpellation",
+      "depose": "2009-05-26",
+      "titre": "Sur le projet de financement de Police 2000 et sa répartition par district et par commune",
+      "auteurs": [
+        {
+          "nom": "Jean-Pierre Gaudard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-05-26"
+      },
+      "derniere_etape": "2009-05-26",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5905,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5928,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

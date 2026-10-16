@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222391,
+  "numero": "11_LEG_332",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-02-08"
+  },
+  "depose": "2011-02-01",
+  "titre": "Exposé des motifs et projet de décret ordonnant la convocation des électeurs pour se prononcer sur l'initiative populaire \"Pour le droit à un salaire minimum\"",
+  "contributeurs": [
+    {
+      "nom": "Régis Courdesse",
+      "parti": "V'L",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "André Chatelain",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-02-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-02-01",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2011-02-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-02-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/332_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2011-02-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/332_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2011-02-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/332_RC_maj.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 08.02.11",
+      "date": "2011-02-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/332_Decret.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-8-fevrier-2011/expose-des-motifs-et-projet-de-decret-convocation-des-electeurs-pour-se-prononcer-sur-linitiative-populaire-pour-le-droit-a-un-salaire-minimum",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

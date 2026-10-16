@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228886,
+  "numero": "20_LEG_211",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2020-06-30"
+  },
+  "depose": "2020-06-30",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 6'400'000.- pour financer l'aménagement de la route cantonale RC 773 entre les localités de Belmont-sur-Lausanne et La Croix-sur Lutry",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-06-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-06-30",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-06-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/211_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-06-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/211_RC.pdf"
+    },
+    {
+      "titre": "EMPD accordant au Conseil d'Etat un crédit d'ouvrage de CHF 6'400'000.- pour financer l'aménagement de la route cantonale RC 773 entre les localités de Belmont-sur-Lausanne et La Croix-sur-Lutry - Texte adopté par CE - EMPD",
+      "date": "2020-02-26",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=397448"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seances-des-30-juin-et-1er-juillet-2020/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-douvrage-de-chf-6400000-pour-financer-lamenagement-de-la-route-cantonale-rc-773-entre-les-localites-de-belmont-sur-lausanne-et-la-croix-sur-lutry",
+  "communes": [
+    {
+      "ofs": 5581,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5606,
+      "origine": "titre"
+    }
+  ]
+}

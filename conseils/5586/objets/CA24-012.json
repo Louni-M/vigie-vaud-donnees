@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 120083,
+  "numero": "CA24/012",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2025-03-04"
+  },
+  "depose": "2024-12-17",
+  "titre": "Demande d'ouverture d'un compte d'attente pour un projet d'étude pilote de télérelève des compteurs d'eau (smart metering)",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marc Beguin",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-12-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-03-04",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "06_13_fev_cc_demande_ouverture_compte_attente_projet_etude_pilote_telereleve_compteurs_eau_smart_metering.pdf v1.0",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/97/97da2a5c88aa4c06b90b0f6cb028d027.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/c4/5cc3ce2d0f5c4454812034811f9a84c4.htm",
+  "communes": []
+}

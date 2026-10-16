@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228805,
+  "numero": "9_LEG_218",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-09-08"
+  },
+  "depose": "2009-09-01",
+  "titre": "Exposé des motifs et projet de décret ordonnant la convocation des électeurs pour définir le préavis du canton à la demande de suppression de la limitation dans le temps de l'autorisation d'exploitation de la centrale nucléaire de Mühleberg, etRapport du Conseil d'Etat au Grand Conseil sur la motion Yves Ferrari et consorts au nom du groupe des Verts « Mühleberg : Pour que le peuple ait le dernier mot », ete nucléaire dans les droits démocratiques ? » etDétermination Yves Ferrari et Jean Christophe Schwaab relative aux mesures prises par le Conseil d'Etat pour que les entreprises productrices d'électricité en mains du canton appliquent l'article 56 de la Constitution cantonale visant à se passer de l'énergie nucléaire",
+  "contributeurs": [
+    {
+      "nom": "Jean-Michel Favez",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-09-01",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2009-09-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-09-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/218_Texte_CE_01.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-09-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/218_RC.pdf"
+    },
+    {
+      "titre": "Décret",
+      "date": "2009-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/218_Decret.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-8-septembre-2009/expose-des-motifs-et-projet-de-decret-muehleberg",
+  "communes": [
+    {
+      "ofs": 5464,
+      "origine": "document"
+    },
+    {
+      "ofs": 5451,
+      "origine": "document"
+    },
+    {
+      "ofs": 5456,
+      "origine": "document"
+    },
+    {
+      "ofs": 5458,
+      "origine": "document"
+    },
+    {
+      "ofs": 5409,
+      "origine": "document"
+    },
+    {
+      "ofs": 5675,
+      "origine": "document"
+    }
+  ]
+}

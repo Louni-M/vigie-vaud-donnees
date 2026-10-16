@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224709,
+  "numero": "23_HQU_53",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2023-06-13"
+  },
+  "depose": "2023-06-06",
+  "titre": "Le futur port de St-Sulpice frôle t’il l’indigestion ?",
+  "contributeurs": [
+    {
+      "nom": "Nathalie Jaccard",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-06-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-06-13",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/66981d58-500e-48ca-950a-2d300ab02495/meeting/1013648",
+  "communes": [
+    {
+      "ofs": 5648,
+      "origine": "titre"
+    }
+  ]
+}

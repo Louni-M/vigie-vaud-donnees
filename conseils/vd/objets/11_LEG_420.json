@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222444,
+  "numero": "11_LEG_420",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-11-01"
+  },
+  "depose": "2011-11-01",
+  "titre": "Exposé des motifs et projets de décrets accordant un crédit d'investissement de CHF 16'990'000.- destiné à financer les travaux d'extension du Centre coordonné d'oncologie ambulatoire (CCO) aux niveaux 06 et 07 du bâtiment hospitalier du CHUV et accordant un crédit d'investissement de CHF 16'860'000.- destiné à financer les travaux d'augmentation de la capacité du restaurant du personnel au niveau 08, et pour la création de locaux administratifs au niveau 09 du bâtiment hospitalier du CHUV",
+  "contributeurs": [
+    {
+      "nom": "Catherine Roulet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Catherine Roulet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-11-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-01",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-11-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/420_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-11-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/420_RC.PDF"
+    },
+    {
+      "titre": "Décret de CHF 16'990'000.- adopté par le Grand Conseil le 01.11.11",
+      "date": "2011-11-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/420_D%C3%A9cret_16_990_000.pdf"
+    },
+    {
+      "titre": "Décret de CHF 16'860'000.- adopté par le Grand Conseil le 01.11.11",
+      "date": "2011-11-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/420_D%C3%A9cret_16_860_000.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-1-novembre-2011/expose-des-motifs-et-projets-de-decrets-accordant-un-credit-de-chf-16990000-destine-a-financer-les-travaux-dextension-du-centre-coordonne-doncologie-ambulatoire-du-chuv",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5584,
+      "origine": "document"
+    }
+  ]
+}

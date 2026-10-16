@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222218,
+  "numero": "11_INT_485",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-01-31"
+  },
+  "depose": "2011-02-15",
+  "titre": "Les enfants en traitement logopédique pris en otage par le",
+  "contributeurs": [
+    {
+      "nom": "Bernard Borel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Bernard Borel",
+      "parti": "AGT",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-02-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-02-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-01-31",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_485_texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-02-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_485_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-31-janvier-2012/reponse-du-conseil-detat-a-linterpellation-bernard-borel-les-enfants-en-traitement-logopedique-pris-en-otage-par-le-dfjc",
+  "communes": []
+}

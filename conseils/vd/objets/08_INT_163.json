@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221425,
+  "numero": "08_INT_163",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2008-12-09"
+  },
+  "depose": "2008-12-09",
+  "titre": "Et Marc-Olivier Buffat relatives aux suites de la votation du 30 novembre 2008 sur le projet de nouveau Musée cantonal des beaux-arts",
+  "contributeurs": [
+    {
+      "nom": "Pierre Rochat",
+      "parti": "LIB",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre Rochat",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-12-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-12-09",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2008-12-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_9_decembre_2008/08_INT_163_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_INT_163_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-21-avril-2009/reponse-du-conseil-detat-aux-interpellations-pierre-rochat-et-marc-olivier-buffat",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5464,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5409,
+      "origine": "document"
+    },
+    {
+      "ofs": 5451,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227714,
+  "numero": "24_INT_7",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2026-05-05"
+  },
+  "depose": "2024-01-16",
+  "titre": "Prisons vaudoises sous haute tension ?",
+  "contributeurs": [
+    {
+      "nom": "Nicola Di Giulio",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-01-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-01-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-09-04",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-06-24",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-08-19",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-09-30",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-10-07",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-04-28",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-05-05",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-01-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/2707#953"
+    },
+    {
+      "titre": "Surpopulation carcérale et besoins en effectifs dans les établissements pénitentiaires",
+      "date": "2024-09-04",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2257384"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/71457e35-32fc-4ed5-aae7-99b44d419b3d/meeting/1029667",
+  "communes": [
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5638,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    }
+  ]
+}

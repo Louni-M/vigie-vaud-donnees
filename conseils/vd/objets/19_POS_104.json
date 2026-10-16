@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224939,
+  "numero": "19_POS_104",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2022-05-04"
+  },
+  "depose": "2019-01-22",
+  "titre": "Etude sur les raisons des réadmissions hospitalières potentiellement évitables : mieux vaut prévenir que guérir",
+  "contributeurs": [
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-01-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-01-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-03-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-05-04",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_104_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_104_obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_104_depot.pdf"
+    },
+    {
+      "titre": "Renforcement de la qualité des soins",
+      "date": "2022-05-04",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2115052"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-10-mars-2020/postulat-carole-dubois-et-consorts-etude-sur-les-raisons-des-readmissions-hospitalieres-potentiellement-evitables-mieux-vaut-prevenir-que-guerir",
+  "communes": [
+    {
+      "ofs": 5718,
+      "origine": "document"
+    }
+  ]
+}

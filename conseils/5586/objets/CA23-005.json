@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 120070,
+  "numero": "CA23/005",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2023-10-03"
+  },
+  "depose": "2023-03-17",
+  "titre": "GER - Quai Delamuraz 1 : importants travaux de rénovation et étude du potentiel constructible des lieux",
+  "contributeurs": [
+    {
+      "nom": "Marco Engheben",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-03-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-10-03",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "15_03_mai_communication_cc_quai_delamuraz_1.pdf v1.0",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/a1/a138be524550404e83aac1b040f3f31f.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/ac/2ad4f7ec8e714448a9376f09ebcf1aac.htm",
+  "communes": []
+}

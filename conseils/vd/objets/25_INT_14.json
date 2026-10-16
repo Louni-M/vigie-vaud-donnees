@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228134,
+  "numero": "25_INT_14",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-08-19"
+  },
+  "depose": "2025-01-28",
+  "titre": "Collecte et valorisation des déchets organiques – Comment favoriser le retour à la terre ?",
+  "contributeurs": [
+    {
+      "nom": "Jean Valentin de Saussure",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-01-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-02-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-06-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-11",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-08-19",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-08-19",
+      "lien": "https://www.sonomix.ch/live/gcvd/3172#8164"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-02-04",
+      "lien": "https://www.sonomix.ch/live/gcvd/3017#697"
+    },
+    {
+      "titre": "https://www.sadec.ch/fr/184/collecte-des-biodechets-methanisables#:~:text=Nous%20observons%20actuellement%20plusieurs%20mani%C3%A8res,container%20install%C3%A9%20%C3%A0%20la%20d%C3%A9ch%C3%A8terie",
+      "date": "2025-02-04",
+      "lien": "https://www.sadec.ch/fr/184/collecte-des-biodechets-methanisables#:~:text=Nous%20observons%20actuellement%20plusieurs%20mani%C3%A8res,container%20install%C3%A9%20%C3%A0%20la%20d%C3%A9ch%C3%A8terie"
+    },
+    {
+      "titre": "https://www.bafu.admin.ch/dam/bafu/fr/dokumente/abfall/statistik/bericht_kehrichtsackanalyse_2022.pdf.download.pdf/rapport_composition_ordures_menageres2022.pdf",
+      "date": "2025-02-04",
+      "lien": "https://www.bafu.admin.ch/dam/bafu/fr/dokumente/abfall/statistik/bericht_kehrichtsackanalyse_2022.pdf.download.pdf/rapport_composition_ordures_menageres2022.pdf"
+    },
+    {
+      "titre": "Gestion des biodéchets : état des lieux et perspectives",
+      "date": "2025-06-11",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2309398"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f19bb41a-04dd-4e36-b759-6fb8d83046e6/meeting/1029632",
+  "communes": [
+    {
+      "ofs": 5892,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5423,
+      "origine": "document"
+    },
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

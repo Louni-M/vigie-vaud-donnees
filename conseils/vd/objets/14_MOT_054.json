@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223330,
+  "numero": "14_MOT_054",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2014-08-26"
+  },
+  "depose": "2014-08-26",
+  "titre": "Suppression du moratoire du Conseil d'Etat décrété en 2004 pour les subventions aux communes pour les travaux des bâtiments classés dont la couverture est en tavillons",
+  "contributeurs": [
+    {
+      "nom": "Albert Chapalay",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-08-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-08-26",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_054_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2015-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_054_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-08-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_054_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-10-mars-2015/motion-philippe-randin-et-consorts-suppression-du-moratoire-du-conseil-detat-decrete-en-2004-pour-les-subventions-aux-communes-pour-les-travaux-des-batiments-classes-dont-la-couverture-est-en-tavillons",
+  "communes": [
+    {
+      "ofs": 5411,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221368,
+  "numero": "08_INT_094",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2008-09-30"
+  },
+  "depose": "2008-05-20",
+  "titre": "Pour un rayonnement international de l'université de Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-05-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-09-30",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2008-05-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_20_mai08/08_INT_094_Objet.pdf"
+    },
+    {
+      "titre": "Texte du Conseil d'Etat",
+      "date": "2008-09-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_30_septembre_2008/08_INT_094_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-30-septembre-2008/reponse-du-conseil-detat-a-linterpellation-stephanie-apotheloz",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

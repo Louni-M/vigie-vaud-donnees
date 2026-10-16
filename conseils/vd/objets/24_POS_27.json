@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227870,
+  "numero": "24_POS_27",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2025-11-25"
+  },
+  "depose": "2024-05-21",
+  "titre": "Pour que le Canton de Vaud marque le jour du dépassement",
+  "contributeurs": [
+    {
+      "nom": "Elodie Lopez",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Sébastien Humbert",
+      "parti": "V'L",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Grégory Bovay",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-05-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-05-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-11-25",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de minorité de la commission - RC 24_POS_27 - Grégory.Bovay",
+      "date": "2025-11-25",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2299769"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-05-28",
+      "lien": "https://www.sonomix.ch/live/gcvd/2837#1537"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/18a87c2a-227b-4f30-8dbc-e92d3cd9326a/meeting/1029644",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

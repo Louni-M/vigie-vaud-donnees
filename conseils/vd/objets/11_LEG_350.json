@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222400,
+  "numero": "11_LEG_350",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-05-03"
+  },
+  "depose": "2011-04-12",
+  "titre": "Exposé des motifs et projet de décret complémentaire ordonnant la convocation des électeurs - Initiative constitutionnelle Cesla Amarelle et consorts demandant une modification de la Constitution du Canton de Vaud aux fins d'y modifier l'article 144 alinéa 3 (Composition et organisation du Conseil communal)",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": "PLR",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-04-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-04-12",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2011-05-03",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/350_Texte_CE_01.pdf"
+    },
+    {
+      "titre": "Rapport de la commission - minorité",
+      "date": "2011-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/350_RC_min.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 03.05.11",
+      "date": "2011-05-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/350_Decret.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2011-05-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/338_350_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la commission - majorité",
+      "date": "2011-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/338_350_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-3-mai-2011/expose-des-motifs-et-projet-de-decret-ordonnant-la-convocation-des-electeurs-initiativa-amarelle",
+  "communes": [
+    {
+      "ofs": 5892,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5749,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5683,
+  "objets": [
+    {
+      "cle": "vd/19_PET_028",
+      "numero": "19_PET_028",
+      "type": "Pétition",
+      "depose": "2020-03-10",
+      "titre": "Pétition pour demander l'étude d'alternatives pour l'emplacement du bassin de rétention du Famolens. DES",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2020-06-16"
+      },
+      "derniere_etape": "2020-06-16",
+      "communes": [
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5541,
+          "origine": "document"
+        },
+        {
+          "ofs": 5683,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

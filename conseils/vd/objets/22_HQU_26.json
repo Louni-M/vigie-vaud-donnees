@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 86232,
+  "numero": "22_HQU_26",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-03-08"
+  },
+  "depose": "2022-03-01",
+  "titre": "La vitrine du régime de Poutine à Lausanne doit fermer",
+  "contributeurs": [
+    {
+      "nom": "Hadrien Buclin",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-03-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-03-08",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e0bb8e07-cb96-4d90-8f0b-8776c2b23f53/meeting/1004431",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

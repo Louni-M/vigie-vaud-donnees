@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221853,
+  "numero": "10_INT_370",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-02-01"
+  },
+  "depose": "2010-04-20",
+  "titre": "Réponse du Conseil d'Etat à l'interpellation Jacques-André Haury et consorts: \"L'arrogance manifestée par un employé de l'Etat mérite-t-elle un blâme ?\"",
+  "contributeurs": [
+    {
+      "nom": "Jacques-André Haury",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jacques-André Haury",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-04-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-04-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-02-01",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-02-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_370_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_370_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-1-fevrier-2011/reponse-du-conseil-detat-a-linterpellation-jacques-andre-haury-larrogance-manifestee-par-un-employe-de-letat-merite-t-elle-un-blame",
+  "communes": [
+    {
+      "ofs": 5613,
+      "origine": "document"
+    }
+  ]
+}

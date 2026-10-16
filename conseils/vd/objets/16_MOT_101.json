@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223976,
+  "numero": "16_MOT_101",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2018-09-25"
+  },
+  "depose": "2016-12-13",
+  "titre": "Pour améliorer le traitement des demandes de bourses !",
+  "contributeurs": [
+    {
+      "nom": "Jean-Michel Dolivo",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Michel Dolivo",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Michel Dolivo",
+      "parti": "EP",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-12-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-12-13",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-09-25",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-09-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_MOT_101_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-09-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_MOT_101_Obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-12-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_MOT_101_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-25-septembre-2018/motion-julien-eggenberger-et-consorts-pour-ameliorer-le-traitement-des-demandes-de-bourses",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

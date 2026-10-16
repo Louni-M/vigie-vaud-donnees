@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225422,
+  "numero": "20_QUE_10",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-01-13"
+  },
+  "depose": "2020-11-03",
+  "titre": "La pollution sonore due à l'aviation",
+  "contributeurs": [
+    {
+      "nom": "Léonard Studer",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-11-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-01-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Pollution sonore due à l'aviation",
+      "date": "2021-01-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2029503"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f495cc3c-cce0-4eee-aeea-06155b537a5f/meeting/1000533",
+  "communes": [
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5725,
+      "origine": "document"
+    }
+  ]
+}

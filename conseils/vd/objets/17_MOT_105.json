@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224105,
+  "numero": "17_MOT_105",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2019-10-08"
+  },
+  "depose": "2017-02-14",
+  "titre": "Pour obtenir une répartition plus équitable du financement des établissements scolaires entre l'Etat de Vaud et les Communes en matière de rénovations lourdes ou de nouvelles constructions",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Rezso",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Stéphane Rezso",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-02-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-10-08",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-10-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_105_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-10-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_105_obj_et_dev.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-8-octobre-2019/motion-jerome-christen-et-consorts-pour-obtenir-une-repartition-plus-equitable-du-financement-des-etablissements-scolaires-entre-letat-de-vaud-et-les-communes-en-matiere-de-renovations-lourdes-ou-de-nouvelles-constructions",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

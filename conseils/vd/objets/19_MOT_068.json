@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224868,
+  "numero": "19_MOT_068",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-01-21"
+  },
+  "depose": "2019-01-08",
+  "titre": "Plus de démocratie citoyenne dans la gestion des situations de crises où la Municipalité est défaillante",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Didier Lohri",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-01-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-01-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-01-21",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2019-10-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_068_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2019-10-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_068_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-10-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_068_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-01-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_068_depot.pdf"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2019-12-10",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-des-10-et-11-decembre-2019"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2019-10-08",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-8-octobre-2019"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-21-janvier-2020/motion-marc-olivier-buffat-et-consorts-plus-de-democratie-citoyenne-dans-la-gestion-des-situations-de-crises-ou-la-municipalite-est-defaillante",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5703,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

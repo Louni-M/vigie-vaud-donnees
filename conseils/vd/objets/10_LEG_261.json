@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221996,
+  "numero": "10_LEG_261",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-06-08"
+  },
+  "depose": "2010-04-20",
+  "titre": "Préavis du Conseil d'Etat au Grand Conseil sur la validité de l'initiative populaire cantonale \"Sauver Lavaux\" et projet de décret constatant la nullité de l'initiative populaire cantonale \"Sauver Lavaux\"",
+  "contributeurs": [
+    {
+      "nom": "Laurent Ballif",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jacques Haldy",
+      "parti": "PLR",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-04-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-05-25",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2010-06-01",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2010-06-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Décret adopté par le Grand Conseil le 08.06.10",
+      "date": "2010-06-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/261_Decret_adopte.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/261_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/261_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/261_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-8-juin-2010/preavis-du-conseil-detat-au-grand-conseil-sur-la-validite-de-linitiative-populaire-cantonale-sauvez-lavaux-et-projet-de-decret-constatant-la-nullite-de-linitiative-populaire-cantonale-sauvez-lavaux",
+  "communes": [
+    {
+      "ofs": 5601,
+      "origine": "document"
+    },
+    {
+      "ofs": 5885,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5610,
+      "origine": "document"
+    }
+  ]
+}

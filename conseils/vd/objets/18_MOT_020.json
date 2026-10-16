@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224414,
+  "numero": "18_MOT_020",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2019-01-08"
+  },
+  "depose": "2018-02-27",
+  "titre": "Modification de la Loi sur le Grand Conseil - procédure spéciale pour l'adoption du budget",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-02-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-03-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-01-08",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-01-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_020_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-01-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_020_obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-03-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_020_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-8-janvier-2019/motion-marc-olivier-buffat-modification-de-la-loi-sur-le-grand-conseil-procedure-speciale-pour-ladoption-du-budget",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

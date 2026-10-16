@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221925,
+  "numero": "10_INT_439",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-08-30"
+  },
+  "depose": "2010-11-02",
+  "titre": "A quelle sauce démocratique notre canton veut-il être mangé dans la thématique des agglomérations ?",
+  "contributeurs": [
+    {
+      "nom": "Fabienne Freymond Cantone",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Fabienne Freymond Cantone",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-11-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-11-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-08-30",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2010-11-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_439_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-05-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_439_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-30-aout-2011/reponse-du-conseil-detat-a-linterpellation-fabienne-freymond-cantone-a-quelle-sauce-democratique-notre-canton-veut-il-etre-mange-dans-la-thematique-des-agglomerations",
+  "communes": [
+    {
+      "ofs": 5703,
+      "origine": "document"
+    },
+    {
+      "ofs": 5852,
+      "origine": "document"
+    },
+    {
+      "ofs": 5713,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

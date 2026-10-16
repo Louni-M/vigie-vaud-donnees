@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222945,
+  "numero": "13_INT_198",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-06-17"
+  },
+  "depose": "2013-12-11",
+  "titre": "Gymnase cantonal de la Cité - Journée politique ou propagande d'Etat !",
+  "contributeurs": [
+    {
+      "nom": "Claude-Alain Voiblet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claude-Alain Voiblet",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-12-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-12-17",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-06-17",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-05-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_198_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-12-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_198_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-17-juin-2014/reponse-du-conseil-detat-a-linterpellation-de-claude-alain-voiblet-gymnase-cantonal-de-la-cite-journee-politique-ou-propagande-detat",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222788,
+  "numero": "12_POS_017",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2013-09-03"
+  },
+  "depose": "2012-12-18",
+  "titre": "Quelle politique vaudoise en faveur de la classe moyenne",
+  "contributeurs": [
+    {
+      "nom": "Philippe Grobéty",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Grobéty",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-12-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-12-18",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-09-03",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-08-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_POS_017_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2013-08-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_POS_017_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-12-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_POS_017_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-3-septembre-2013/postulat-axel-marion-quelle-politique-vaudoise-en-faveur-de-la-classe-moyenne",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

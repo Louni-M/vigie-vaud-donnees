@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5741,
+  "objets": [
+    {
+      "cle": "vd/15_LEG_217",
+      "numero": "15_LEG_217",
+      "type": "Décret/Loi",
+      "depose": "2015-03-31",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 15'000'000.- pour financer des travaux d'entretien de revêtements bitumineux, et maintenir la sécurité et la qualité des routes cantonales",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2015-03-31"
+      },
+      "derniere_etape": "2015-03-31",
+      "communes": [
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5643,
+          "origine": "document"
+        },
+        {
+          "ofs": 5415,
+          "origine": "document"
+        },
+        {
+          "ofs": 5750,
+          "origine": "document"
+        },
+        {
+          "ofs": 5741,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227064,
+  "numero": "23_INT_35",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-08-16"
+  },
+  "depose": "2023-03-07",
+  "titre": "DGMR: quelle coordination dans la planification des travaux routiers dans une même région?",
+  "contributeurs": [
+    {
+      "nom": "Florence Gross",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Florence Gross",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-03-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-03-14",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-08-16",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-01-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/2707#8728"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-03-14",
+      "lien": "https://www.sonomix.ch/live/gcvd/2330#1123"
+    },
+    {
+      "titre": "Planification des chantiers routiers dans le canton",
+      "date": "2023-08-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2191081"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ba29e1ee-a2d3-4888-ad4d-ab68ba15847c/meeting/1019556",
+  "communes": [
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5610,
+      "origine": "document"
+    },
+    {
+      "ofs": 5607,
+      "origine": "document"
+    },
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5627,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

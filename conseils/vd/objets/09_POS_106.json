@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221733,
+  "numero": "09_POS_106",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2009-10-06"
+  },
+  "depose": "2009-10-06",
+  "titre": "Postulat Jean-Michel Favez au nom du groupe socialiste visant à identifier et corriger les effets pervers de la promotion économique",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Guy-Philippe Bolay",
+      "parti": "PLR",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-10-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-10-06",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2009-10-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_POS_106_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2009-10-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Liste_objets_Commissions_nomeee_periode_16/08_POS_106_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2009-10-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_POS_106_RCmin.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-6-octobre-2009/postulat-jean-michel-favez",
+  "communes": [
+    {
+      "ofs": 5861,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5852,
+      "origine": "document"
+    },
+    {
+      "ofs": 5872,
+      "origine": "document"
+    }
+  ]
+}

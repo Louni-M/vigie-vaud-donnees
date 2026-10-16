@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224092,
+  "numero": "17_INT_089",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-02-13"
+  },
+  "depose": "2017-12-19",
+  "titre": "Le Conseil d'Etat soutient l'initiative pour le remboursement des soins dentaires ; mais jusqu'où ?",
+  "contributeurs": [
+    {
+      "nom": "Gérard Mojon",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Gérard Mojon",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-12-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-01-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-02-13",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-02-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_INT_089_TexteCE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-01-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_INT_089_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-13-fevrier-2018/reponse-du-conseil-detat-a-linterpellation-gerard-mojon-le-conseil-detat-soutient-linitiative-pour-le-remboursement-des-soins-dentaires-mais-jusquou",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

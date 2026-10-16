@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223578,
+  "numero": "15_LEG_219",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2015-06-09"
+  },
+  "depose": "2015-06-09",
+  "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Carrouge, Ferlens et Mézières (Jorat-Mézières) et projet de loi sur la modification de la loi du 30 mai 2006 sur le découpage territorial",
+  "contributeurs": [
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-06-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-06-09",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/219_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/219_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-9-juin-2015/expose-des-motifs-et-projet-de-decret-sur-la-fusion-des-communes-de-carrouge-ferlens-et-mezieres-jorat-mezieres-et-projet-de-loi-sur-la-modification-de-la-loi-du-30-mai-2006-sur-le-decoupage-territorial",
+  "communes": [
+    {
+      "ofs": 5806,
+      "origine": "titre"
+    }
+  ]
+}

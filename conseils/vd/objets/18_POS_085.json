@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224528,
+  "numero": "18_POS_085",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2020-02-04"
+  },
+  "depose": "2018-11-20",
+  "titre": "Plan d'action concerté pour le climat",
+  "contributeurs": [
+    {
+      "nom": "Pierre Dessemontet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierre Dessemontet",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-11-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-11-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-02-04",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_085_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_085_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-11-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_085_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-4-fevrier-2020/postulat-pierre-zwahlen-et-consorts-plan-daction-concerte-pour-le-climat",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

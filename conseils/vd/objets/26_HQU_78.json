@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 327362,
+  "numero": "26_HQU_78",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2026-05-12"
+  },
+  "depose": "2026-05-05",
+  "titre": "Sauvetage des faons et sécurité du sommet du G7",
+  "contributeurs": [
+    {
+      "nom": "Loïc Bardet",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-05-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-05-05",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Erledigt"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "www.vaud-info-g7.ch",
+      "date": "2026-05-05",
+      "lien": "http://www.vaud-info-g7.ch"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ffb67a27-3078-4d3b-999e-fefb25a8733c/meeting/1029668",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

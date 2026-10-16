@@ -1,0 +1,815 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5853,
+  "objets": [
+    {
+      "cle": "vd/23_LEG_108",
+      "numero": "23_LEG_108",
+      "type": "Décret/Loi",
+      "depose": "2024-05-07",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d’ouvrage de CHF 4'127'000.- pour financer un centre de compétences sécuritaire (CCS) en gare de Lausanne permettant de regrouper la Police Cantonale Vaudoise (PolCant), la Police des Transports (STP) et l’Office fédéral de la douane et de la sécurité des frontières (OFDF) dans un seul bâtiment",
+      "auteurs": [
+        {
+          "nom": "Fabrice Tanner",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Hadrien Buclin",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-05-07"
+      },
+      "derniere_etape": "2024-05-07",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_LEG_157",
+      "numero": "22_LEG_157",
+      "type": "Décret/Loi",
+      "depose": "2023-11-14",
+      "titre": "EMPD EMPD accordant un crédit d’ouvrage de CHF 19'019'000.- pour financer la transformation et la construction des nouveaux bâtiments pour le Centre de Rennaz et un crédit d’ouvrage de CHF 2'200'000.- pour financer le réaménagement de l’aire de transit des Gens du voyage de Rennaz",
+      "auteurs": [
+        {
+          "nom": "Romain Pilloud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-11-14"
+      },
+      "derniere_etape": "2023-11-14",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_021",
+      "numero": "17_POS_021",
+      "type": "Postulat",
+      "depose": "2017-11-14",
+      "titre": "Pour une politique cantonale en matière de bornes de recharge des véhicules électriques. DTE, DIRH.  R",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": null
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2022-06-15"
+      },
+      "derniere_etape": "2022-06-15",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5746,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5646,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_34",
+      "numero": "20_LEG_34",
+      "type": "Décret/Loi",
+      "depose": "2021-12-14",
+      "titre": "Exposé des motifs EXPOSE DES MOTIFS ET PROJETS DE DECRET",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2021-12-14"
+      },
+      "derniere_etape": "2021-12-14",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_481",
+      "numero": "20_INT_481",
+      "type": "Interpellation",
+      "depose": "2020-05-26",
+      "titre": "Gens du voyage étrangers : doit-on subir ou doit-on agir ?",
+      "auteurs": [
+        {
+          "nom": "Dylan Karlen",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-10-28"
+      },
+      "derniere_etape": "2020-10-28",
+      "communes": [
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5731,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_113",
+      "numero": "19_LEG_113",
+      "type": "Décret/Loi",
+      "depose": "2019-03-26",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'étude de CHF 1'656'000.- pour financer le développement d'un projet de transformation et agrandissement du Centre d'entretien des routes nationales et cantonales de Rennaz et Centre de gendarmerie mobile de l'Est vaudois.  R",
+      "auteurs": [
+        {
+          "nom": "Christine Chevalley",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Christine Chevalley",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-03-26"
+      },
+      "derniere_etape": "2019-03-26",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_RAP_55",
+      "numero": "19_RAP_55",
+      "type": "Rapport",
+      "depose": "2019-01-08",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Valérie Schwaar au nom de la COGES - Modernisation des infrastructures à charge de l'Etat à Rennaz (Centre d'entretien des routes nationales et cantonales de Rennaz et Centre de gendarmerie mobile de l'Est vaudois) : 15 ans de tergiversation, c'est trop !",
+      "auteurs": [
+        {
+          "nom": "Christine Chevalley",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-01-08"
+      },
+      "derniere_etape": "2019-01-08",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_MOT_018",
+      "numero": "18_MOT_018",
+      "type": "Motion",
+      "depose": "2018-02-06",
+      "titre": "Surpopulation carcérale et manque de places de détention : il y a urgence !",
+      "auteurs": [
+        {
+          "nom": "Claude Schwab",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Claude Schwab",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-12-11"
+      },
+      "derniere_etape": "2018-12-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_RAP_136",
+      "numero": "14_RAP_136",
+      "type": "Rapport",
+      "depose": "2014-10-07",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Régis Courdesse et consorts concernant l'électricité solaire pour le nouveau Parlement vaudois",
+      "auteurs": [
+        {
+          "nom": "Claudine Wyssa",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2014-10-07"
+      },
+      "derniere_etape": "2014-10-07",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_168",
+      "numero": "13_INT_168",
+      "type": "Interpellation",
+      "depose": "2013-10-29",
+      "titre": "Prisons vaudoises : chaque jour sa peine, chaque jour sa surprise !",
+      "auteurs": [
+        {
+          "nom": "Denis Rubattel",
+          "parti": null
+        },
+        {
+          "nom": "Denis Rubattel",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-09-09"
+      },
+      "derniere_etape": "2014-09-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_214",
+      "numero": "14_INT_214",
+      "type": "Interpellation",
+      "depose": "2014-02-04",
+      "titre": "Fermeture du poste de gendarmerie de Coppet - La sécurité sera-t-elle toujours assurée pour les habitants de Terre-Sainte ?",
+      "auteurs": [
+        {
+          "nom": "Amélie Cherbuin",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Amélie Cherbuin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-08-26"
+      },
+      "derniere_etape": "2014-08-26",
+      "communes": [
+        {
+          "ofs": 5712,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5713,
+          "origine": "document"
+        },
+        {
+          "ofs": 5707,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5705,
+          "origine": "document"
+        },
+        {
+          "ofs": 5711,
+          "origine": "document"
+        },
+        {
+          "ofs": 5723,
+          "origine": "document"
+        },
+        {
+          "ofs": 5729,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_542",
+      "numero": "11_INT_542",
+      "type": "Interpellation",
+      "depose": "2011-10-04",
+      "titre": "Requérants d'asile à Gland, bis repetita !",
+      "auteurs": [
+        {
+          "nom": "Gabriel Poncet",
+          "parti": null
+        },
+        {
+          "nom": "Gabriel Poncet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-09-04"
+      },
+      "derniere_etape": "2012-09-04",
+      "communes": [
+        {
+          "ofs": 5721,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_428",
+      "numero": "12_LEG_428",
+      "type": "Décret/Loi",
+      "depose": "2012-01-17",
+      "titre": "Exposé des motifs et projet de loi modifiant la loi sur la police cantonale du 17 novembre 1975 (LPol) en vue de permettre la délégation de tâches de police à des organisations de droit public",
+      "auteurs": [
+        {
+          "nom": "Sonya Butera",
+          "parti": "SOC"
+        },
+        {
+          "nom": "François Brélaz",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-01-17"
+      },
+      "derniere_etape": "2012-01-17",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_411",
+      "numero": "11_LEG_411",
+      "type": "Décret/Loi",
+      "depose": "2011-11-15",
+      "titre": "Exposé des motifs et projets de décret accordant au Conseil d'Etat un crédit de CHF 2'255'000.- destiné à financer les études relatives à la conservation et à la restauration du Château cantonal Saint-Maire à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": null
+        },
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-11-15"
+      },
+      "derniere_etape": "2011-11-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5669,
+          "origine": "document"
+        },
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5851,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5761,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_RAP_197",
+      "numero": "10_RAP_197",
+      "type": "Rapport",
+      "depose": "2010-04-20",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Pierre Zwahlen et consorts pour des mesures cantonales contre le réchauffement du climat, nouveau tour de roue pour un développement durable et le postulat Eliane Rey pour que le canton de Vaud devienne précurseur d'une société à 2000 watts",
+      "auteurs": [
+        {
+          "nom": "Yves Ferrari",
+          "parti": "VER"
+        },
+        {
+          "nom": "Yves Ferrari",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-04-20"
+      },
+      "derniere_etape": "2010-04-20",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_215",
+      "numero": "10_LEG_215",
+      "type": "Décret/Loi",
+      "depose": "2010-01-12",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit-cadre de CHF 3'040'000 pour l'adaptation des locaux décentralisés de la Police cantonale",
+      "auteurs": [
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-02-23"
+      },
+      "derniere_etape": "2010-02-23",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_RAP_161",
+      "numero": "9_RAP_161",
+      "type": "Rapport",
+      "depose": "2008-05-20",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Olivier Epars et consorts pour que des mesures soient prises à la source pour diminuer les micropolluants dans l'eau",
+      "auteurs": [
+        {
+          "nom": "Florence Golaz",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2008-05-20"
+      },
+      "derniere_etape": "2008-05-20",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5553,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

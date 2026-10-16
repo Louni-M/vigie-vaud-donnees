@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226374,
+  "numero": "22_INT_67",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-09-07"
+  },
+  "depose": "2022-05-17",
+  "titre": "Une couverture, un matelas pour tous",
+  "contributeurs": [
+    {
+      "nom": "Guy Gaudard",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-05-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-05-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-09-07",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-10-11",
+      "lien": "https://www.sonomix.ch/live/gcvd/2203#8242"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-05-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/2120#2097"
+    },
+    {
+      "titre": "Hébergement d’urgence",
+      "date": "2022-09-07",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2133407"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/44b04ea0-a46b-474e-89d4-ede2fdd26ca0/meeting/1012636",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

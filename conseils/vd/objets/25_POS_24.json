@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228294,
+  "numero": "25_POS_24",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2025-04-01"
+  },
+  "depose": "2025-03-25",
+  "titre": "Davantage de places d’accueil pour les victimes de violence dans le couple dans tous les districts du canton",
+  "contributeurs": [
+    {
+      "nom": "Laure Jaton",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Laure Jaton",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Felix Stürner",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-03-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-04-01",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-04-01",
+      "lien": "https://www.sonomix.ch/live/gcvd/3087#855"
+    },
+    {
+      "titre": "https://www.lfm.ch/actualite/suisse/romandie/vaud/les-foyers-pour-femmes-tirent-la-sonnette-dalarme/",
+      "date": "2025-03-25",
+      "lien": "https://www.lfm.ch/actualite/suisse/romandie/vaud/les-foyers-pour-femmes-tirent-la-sonnette-dalarme/"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ee2240d7-59c9-4531-a2a8-814993918e06/meeting/1026884",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5561,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5730,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5556,
+      "origine": "document"
+    }
+  ]
+}

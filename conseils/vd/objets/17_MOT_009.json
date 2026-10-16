@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224101,
+  "numero": "17_MOT_009",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Eingereicht",
+    "date": "2017-10-24"
+  },
+  "depose": "2017-10-24",
+  "titre": "Pour que la commission d'enquête parlementaire ne devienne pas un postulat \"au rabais\"",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-10-24",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_009_RCmin.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_009_RCmaj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_009_obj_et_d%C3%A9v.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-29-octobre-2019/motion-serge-melly-et-consorts-pour-que-la-commission-denquete-parlementaire-ne-devienne-pas-un-postulat-au-rabais",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

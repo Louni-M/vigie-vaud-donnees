@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221467,
+  "numero": "08_MOT_048",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2009-01-27"
+  },
+  "depose": "2008-08-26",
+  "titre": "Pour un soutien important aux infrastructures sportives en général et tout particulièrement à l'aide à la construction de piscines dans le canton",
+  "contributeurs": [
+    {
+      "nom": "Pierre Volet",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-08-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-01-27",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet et développement",
+      "date": "2009-01-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/08_MOT_048_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-01-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/09.01.22_Envoi_deputes/08_MOT_047_048_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2008-08-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_02_septembre_2008/08_MOT_048_Objet.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-27-janvier-2009/motion-pierre-volet",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

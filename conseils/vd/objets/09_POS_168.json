@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221780,
+  "numero": "09_POS_168",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-11-30"
+  },
+  "depose": "2009-12-09",
+  "titre": "Le processus de Bologne et demandant si on va vers une marchandisation progressive des études",
+  "contributeurs": [
+    {
+      "nom": "Catherine Labouchère",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Claude Schwab",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claude Schwab",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-12-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-12-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-11-30",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_168_RC_maj.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_168_RC_min.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_168_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_168_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-30-novembre-2010/postulat-nicolas-rochat-processus-de-bologne",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5892,
+      "origine": "document"
+    }
+  ]
+}

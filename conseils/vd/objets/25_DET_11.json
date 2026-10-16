@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228037,
+  "numero": "25_DET_11",
+  "type": "Détermination",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-08-13"
+  },
+  "depose": "2025-05-06",
+  "titre": "Gardons la main au niveau du législatif",
+  "contributeurs": [
+    {
+      "nom": "Loïc Bardet",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-05-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-08-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Décisions relatives à des projets d’infrastructures routières",
+      "date": "2025-08-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2320309"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c68b82f7-1770-425c-bd94-2a0f9f3d45f8/meeting/1026887",
+  "communes": [
+    {
+      "ofs": 5584,
+      "origine": "document"
+    }
+  ]
+}

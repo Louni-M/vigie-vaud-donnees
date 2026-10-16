@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223249,
+  "numero": "14_LEG_107",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-05-13"
+  },
+  "depose": "2014-05-06",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi sur la gestion des déchets et Rapport du Conseil d'Etat au Grand Conseil sur la motion Régis Courdesse et consorts demandant de prolonger le délai pour l'octroi de la participation de l'Etat pour les installations de compostage et de méthanisation des déchets et pour les centres de collecte des déchets valorisables",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marc Chollet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Marc Chollet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-05-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-05-06",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2014-05-13",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-05-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/107_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-05-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/107_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-13-mai-2014/expose-des-motifs-et-projet-de-loi-modifiant-la-loi-sur-la-gestion-des-dechets",
+  "communes": [
+    {
+      "ofs": 5749,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5637,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5451,
+      "origine": "document"
+    },
+    {
+      "ofs": 5581,
+      "origine": "document"
+    },
+    {
+      "ofs": 5592,
+      "origine": "document"
+    },
+    {
+      "ofs": 5692,
+      "origine": "document"
+    }
+  ]
+}

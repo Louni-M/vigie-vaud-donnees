@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226222,
+  "numero": "22_HQU_91",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-10-11"
+  },
+  "depose": "2022-10-04",
+  "titre": "Le problème est dans « La Place »",
+  "contributeurs": [
+    {
+      "nom": "David Vogel",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-10-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-10-11",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/858bbac4-d01c-47a9-9c59-08ef9f96deee/meeting/1012636",
+  "communes": []
+}

@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223674,
+  "numero": "15_POS_138",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2016-03-08"
+  },
+  "depose": "2015-09-01",
+  "titre": "Pour un  réseau VLS moderne et efficace sur l'ensemble du territoire cantonal",
+  "contributeurs": [
+    {
+      "nom": "Daniel Ruch",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Daniel Ruch",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-09-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-03-08",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-02-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_138_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-02-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_138_Obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_138_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-8-mars-2016/postulat-sylvie-podio-et-consorts-pour-un-reseau-vls-moderne-et-efficace-sur-lensemble-du-territoire-cantonal",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,5143 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "conseil": "5586",
+  "annee": 2022,
+  "objets": [
+    {
+      "cle": "5586/COMC22-008",
+      "numero": "COMC22/008",
+      "type": "Divers",
+      "depose": "2022-12-15",
+      "titre": "Rapport d'évaluation de la Caravane des quartiers 2021-2022",
+      "auteurs": [
+        {
+          "nom": "Aline Roy",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-034",
+      "numero": "PREA22/034",
+      "type": "Préavis",
+      "depose": "2022-12-14",
+      "titre": "Octroi d'un crédit d'investissement du patrimoine financier de CHF 74'680'000.- pour la mise en place d'une stratégie d'assainissement et pour une première étape, premier lot, d'assainissement énergétique et de rénovation des bâtiments de la Ville de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Marco Engheben",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-04-04"
+      },
+      "derniere_etape": "2023-04-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-032",
+      "numero": "PREA22/032",
+      "type": "Préavis",
+      "depose": "2022-12-13",
+      "titre": "Développement des BHNS PP8, PP6b, PP11 - Place du Tunnel - Demande de crédits d'études",
+      "auteurs": [
+        {
+          "nom": "Ludovic Saulet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-05-02"
+      },
+      "derniere_etape": "2023-05-02",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-031",
+      "numero": "PREA22/031",
+      "type": "Préavis",
+      "depose": "2022-12-09",
+      "titre": "Demande de crédit complémentaire pour le préavis N° 2021/52 « Crédits-cadre annuel 2022 ... »",
+      "auteurs": [
+        {
+          "nom": "Cécile Wolf",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-01-31"
+      },
+      "derniere_etape": "2023-01-31",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-043",
+      "numero": "Q22/043",
+      "type": "Question écrite",
+      "depose": "2022-12-07",
+      "titre": "La Municipalité va-t-elle renoncer à l'indexation de son traitement pour 2023",
+      "auteurs": [
+        {
+          "nom": "Matthieu Carrel",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2024-01-16"
+      },
+      "derniere_etape": "2024-01-16",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-042",
+      "numero": "Q22/042",
+      "type": "Question écrite",
+      "depose": "2022-12-06",
+      "titre": "La Ville et ses parkings",
+      "auteurs": [
+        {
+          "nom": "Fabrice Moscheni",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-08-29"
+      },
+      "derniere_etape": "2023-08-29",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-040",
+      "numero": "Q22/040",
+      "type": "Question écrite",
+      "depose": "2022-12-06",
+      "titre": "Cap vers des ports lausannois exemplaires",
+      "auteurs": [
+        {
+          "nom": "Daniel Curnier",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-12-06"
+      },
+      "derniere_etape": "2022-12-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-097",
+      "numero": "POS22/097",
+      "type": "Postulat",
+      "depose": "2022-12-06",
+      "titre": "Pour la création d'une assemblée citoyenne lausannoise pour une politique climatique juste, efficace et ambitieuse",
+      "auteurs": [
+        {
+          "nom": "Sara Gnoni",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-01-14"
+      },
+      "derniere_etape": "2025-01-14",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-085",
+      "numero": "INT22/085",
+      "type": "Interpellation",
+      "depose": "2022-12-06",
+      "titre": "Fermeture temporaire du Répit : quelles solutions pour l'hébergement d'urgence à Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Romane Benvenuti",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate",
+        "date": "2022-12-13"
+      },
+      "derniere_etape": "2022-12-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-084",
+      "numero": "INT22/084",
+      "type": "Interpellation",
+      "depose": "2022-12-06",
+      "titre": "Ces vitrines opaques nous gâchent la ville !",
+      "auteurs": [
+        {
+          "nom": "Benoît Gaillard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2024-05-21"
+      },
+      "derniere_etape": "2024-05-21",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-096",
+      "numero": "POS22/096",
+      "type": "Postulat",
+      "depose": "2022-11-29",
+      "titre": "Une culture lausannoise foisonnante et accessible !",
+      "auteurs": [
+        {
+          "nom": "Manon Zecca",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-095",
+      "numero": "POS22/095",
+      "type": "Postulat",
+      "depose": "2022-11-22",
+      "titre": "Manque d'infrastructures dans le quartier de Praz-séchaud, Boveresses, Eterpeys-Grangette",
+      "auteurs": [
+        {
+          "nom": "Sevgi Koyuncu",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-12-07"
+      },
+      "derniere_etape": "2022-12-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-094",
+      "numero": "POS22/094",
+      "type": "Postulat",
+      "depose": "2022-11-22",
+      "titre": "Pour une planification énergétique territoriale lausannoise",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-12-07"
+      },
+      "derniere_etape": "2022-12-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-093",
+      "numero": "POS22/093",
+      "type": "Postulat",
+      "depose": "2022-11-22",
+      "titre": "Rapport-préavis N° 2026/44 - Postulat de Depallens Sarah et crts - Les Halles sportives : un projet provisoire à Beaulieu jusqu'en 2026. Et après ?",
+      "auteurs": [
+        {
+          "nom": "Roland Philippoz",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-12-07"
+      },
+      "derniere_etape": "2022-12-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-092",
+      "numero": "POS22/092",
+      "type": "Postulat",
+      "depose": "2022-11-22",
+      "titre": "Introduction de la Bodycam au sein du corps de police à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Yusuf Kulmiye",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2024-05-21"
+      },
+      "derniere_etape": "2024-05-21",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-091",
+      "numero": "POS22/091",
+      "type": "Postulat",
+      "depose": "2022-11-22",
+      "titre": "Du lierre plutôt que des tags !",
+      "auteurs": [
+        {
+          "nom": "Diane Wild",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-04-23"
+      },
+      "derniere_etape": "2024-04-23",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-090",
+      "numero": "POS22/090",
+      "type": "Postulat",
+      "depose": "2022-11-22",
+      "titre": "Politique de garde, osons aller plus loin !",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refusé/retiré",
+        "date": "2024-03-26"
+      },
+      "derniere_etape": "2024-03-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-089",
+      "numero": "POS22/089",
+      "type": "Postulat",
+      "depose": "2022-11-22",
+      "titre": "Pour une remise systématique de récépissé de la PML aux personnes contrôlées",
+      "auteurs": [
+        {
+          "nom": "Mountazar Jaffar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2024-05-21"
+      },
+      "derniere_etape": "2024-05-21",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-088",
+      "numero": "POS22/088",
+      "type": "Postulat",
+      "depose": "2022-11-22",
+      "titre": "Feux d'artifice : passons aux drones !",
+      "auteurs": [
+        {
+          "nom": "Henri Klunge",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-05-26"
+      },
+      "derniere_etape": "2026-05-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-087",
+      "numero": "POS22/087",
+      "type": "Postulat",
+      "depose": "2022-11-22",
+      "titre": "Lausanne considère-t-elle vraiment les étudiants comme des touristes ?",
+      "auteurs": [
+        {
+          "nom": "Matthieu Carrel",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-12-07"
+      },
+      "derniere_etape": "2022-12-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-083",
+      "numero": "INT22/083",
+      "type": "Interpellation",
+      "depose": "2022-11-22",
+      "titre": "Beaulieu : un petit tour et puis s'en va. A quand la fin du manège ?",
+      "auteurs": [
+        {
+          "nom": "Marlène Berard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate avec résolution",
+        "date": "2022-12-13"
+      },
+      "derniere_etape": "2022-12-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-082",
+      "numero": "INT22/082",
+      "type": "Interpellation",
+      "depose": "2022-11-22",
+      "titre": "Le Grand-Pont doit rester un axe fort pour les transports publics urbains et la mobilité douce",
+      "auteurs": [
+        {
+          "nom": "Johann Dupuis",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-03-14"
+      },
+      "derniere_etape": "2023-03-14",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-081",
+      "numero": "INT22/081",
+      "type": "Interpellation",
+      "depose": "2022-11-22",
+      "titre": "Précarité extrême de l'habitat et aide de la Municipalité",
+      "auteurs": [
+        {
+          "nom": "Manon Zecca",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2024-03-19"
+      },
+      "derniere_etape": "2024-03-19",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-080",
+      "numero": "INT22/080",
+      "type": "Interpellation",
+      "depose": "2022-11-22",
+      "titre": "Bourdonnette : sa (qualité de) vie en péril",
+      "auteurs": [
+        {
+          "nom": "Mountazar Jaffar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-05-30"
+      },
+      "derniere_etape": "2023-05-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-078",
+      "numero": "INT22/078",
+      "type": "Interpellation",
+      "depose": "2022-11-22",
+      "titre": "Hausses de loyer en perspectives ?",
+      "auteurs": [
+        {
+          "nom": "Benoît Gaillard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-06-06"
+      },
+      "derniere_etape": "2023-06-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-041",
+      "numero": "Q22/041",
+      "type": "Question écrite",
+      "depose": "2022-11-20",
+      "titre": "La place de la Riponne, un projet prioritaire ?",
+      "auteurs": [
+        {
+          "nom": "Henri Klunge",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-05-30"
+      },
+      "derniere_etape": "2023-05-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE22-013",
+      "numero": "PE22/013",
+      "type": "Pétition",
+      "depose": "2022-11-17",
+      "titre": "Réduire le trafic et les nuisances au ch. du Levant",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2024-04-23"
+      },
+      "derniere_etape": "2024-04-23",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-079",
+      "numero": "INT22/079",
+      "type": "Interpellation",
+      "depose": "2022-11-16",
+      "titre": "Art spolié à Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Anne Berguerand",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2024-01-30"
+      },
+      "derniere_etape": "2024-01-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA21-040",
+      "numero": "PREA21/040",
+      "type": "Préavis",
+      "depose": "2022-11-11",
+      "titre": "Toiture de la caserne des sapeurs-pompiers - réfection des toitures plates, amélioration de l'isolation thermique, végétalisation et pose de panneaux solaires photovoltaïques",
+      "auteurs": [
+        {
+          "nom": "Mercedes Muñoz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-04-04"
+      },
+      "derniere_etape": "2023-04-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/COMC22-007",
+      "numero": "COMC22/007",
+      "type": "Divers",
+      "depose": "2022-11-11",
+      "titre": "Avenue d'Echallens 81 - Lausanne, bien-fonds 204, droit distinct et permanent (DDP) de superficie 20494 - Projet de transformation au lieu de démolition-reconstruction",
+      "auteurs": [
+        {
+          "nom": "Christopher Naenni",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-12-06"
+      },
+      "derniere_etape": "2022-12-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-039",
+      "numero": "Q22/039",
+      "type": "Question écrite",
+      "depose": "2022-11-08",
+      "titre": "Le service social en vitrine",
+      "auteurs": [
+        {
+          "nom": "Sevgi Koyuncu",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-05-30"
+      },
+      "derniere_etape": "2023-05-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-038",
+      "numero": "Q22/038",
+      "type": "Question écrite",
+      "depose": "2022-11-08",
+      "titre": "Don du Lausanne Hockey-Club au PLR de Prilly : un puck en or massif ?",
+      "auteurs": [
+        {
+          "nom": "Louis Dana",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-037",
+      "numero": "Q22/037",
+      "type": "Question écrite",
+      "depose": "2022-11-08",
+      "titre": "Chute mortelle à vélo à la route du Signal le 1er août 2021",
+      "auteurs": [
+        {
+          "nom": "Angélique Chatton",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-01-31"
+      },
+      "derniere_etape": "2023-01-31",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-036",
+      "numero": "Q22/036",
+      "type": "Question écrite",
+      "depose": "2022-11-08",
+      "titre": "Bike on bus aussi à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Matthieu Carrel",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-035",
+      "numero": "Q22/035",
+      "type": "Question écrite",
+      "depose": "2022-11-08",
+      "titre": "Cour d'école ou parc à chiens, il faut choisir !",
+      "auteurs": [
+        {
+          "nom": "Eric Bettens",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-034",
+      "numero": "Q22/034",
+      "type": "Question écrite",
+      "depose": "2022-11-08",
+      "titre": "Valorisation énergétique des ordures et taxe au sac",
+      "auteurs": [
+        {
+          "nom": "Olivier Marmy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-02-28"
+      },
+      "derniere_etape": "2023-02-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q21-009",
+      "numero": "Q21/009",
+      "type": "Question écrite",
+      "depose": "2022-11-08",
+      "titre": "Bouclage du quartier des Boveresses et de Praz-Séchaud à l'occasion de la Fête nationale.",
+      "auteurs": [
+        {
+          "nom": "Sevgi Koyuncu",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-06-20"
+      },
+      "derniere_etape": "2023-06-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-030",
+      "numero": "PREA22/030",
+      "type": "Préavis",
+      "depose": "2022-11-08",
+      "titre": "Mobilité durable I",
+      "auteurs": [
+        {
+          "nom": "Paul Cros",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-06-20"
+      },
+      "derniere_etape": "2023-06-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-086",
+      "numero": "POS22/086",
+      "type": "Postulat",
+      "depose": "2022-11-08",
+      "titre": "Voies vertes et rues cyclables 2.0 : pour que la municipalité n'avance pas plus doucement que les modes doux",
+      "auteurs": [
+        {
+          "nom": "Franziska Meinherz",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-02-10"
+      },
+      "derniere_etape": "2026-02-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-085",
+      "numero": "POS22/085",
+      "type": "Postulat",
+      "depose": "2022-11-08",
+      "titre": "Pour le développement du rôle des travailleurs sociaux hors-murs en ville de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Johann Dupuis",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2025-05-06"
+      },
+      "derniere_etape": "2025-05-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-084",
+      "numero": "POS22/084",
+      "type": "Postulat",
+      "depose": "2022-11-08",
+      "titre": "Bureaux de vote : intégrons nos jeunes",
+      "auteurs": [
+        {
+          "nom": "Anouck Saugy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-083",
+      "numero": "POS22/083",
+      "type": "Postulat",
+      "depose": "2022-11-08",
+      "titre": "Rapport-préavis N° 2025/14 - Postulat de de Vargas Samuel et crts - Un coup de neuf pour la balade de la Vuachère",
+      "auteurs": [
+        {
+          "nom": "Samuel De Vargas",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-02-03"
+      },
+      "derniere_etape": "2026-02-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-082",
+      "numero": "POS22/082",
+      "type": "Postulat",
+      "depose": "2022-11-08",
+      "titre": "Rendre la place culturelle lausannoise accessible à toute la population lausannoise, c'est aussi la sortir des quatre murs",
+      "auteurs": [
+        {
+          "nom": "Angèle Flora Mendy",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-11-22"
+      },
+      "derniere_etape": "2022-11-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-081",
+      "numero": "POS22/081",
+      "type": "Postulat",
+      "depose": "2022-11-08",
+      "titre": "Sous le pavé-gazon, le sol !",
+      "auteurs": [
+        {
+          "nom": "Paulraj Kanthia",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-11-22"
+      },
+      "derniere_etape": "2022-11-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-080",
+      "numero": "POS22/080",
+      "type": "Postulat",
+      "depose": "2022-11-08",
+      "titre": "Pas de piscine, pas de piscine...",
+      "auteurs": [
+        {
+          "nom": "Alexandra Gerber",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2024-03-05"
+      },
+      "derniere_etape": "2024-03-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-079",
+      "numero": "POS22/079",
+      "type": "Postulat",
+      "depose": "2022-11-08",
+      "titre": "Précarité des artistes : envisager le portage salarial",
+      "auteurs": [
+        {
+          "nom": "Christine Goumaz",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-11-22"
+      },
+      "derniere_etape": "2022-11-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-077",
+      "numero": "INT22/077",
+      "type": "Interpellation",
+      "depose": "2022-11-08",
+      "titre": "Des chiffres sur la mobilité à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-08-29"
+      },
+      "derniere_etape": "2023-08-29",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-075",
+      "numero": "INT22/075",
+      "type": "Interpellation",
+      "depose": "2022-11-08",
+      "titre": "La Police de Lausanne calomniée par la Dolce Vita",
+      "auteurs": [
+        {
+          "nom": "Nicola Di Giulio",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-11-08"
+      },
+      "derniere_etape": "2022-11-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-074",
+      "numero": "INT22/074",
+      "type": "Interpellation",
+      "depose": "2022-11-08",
+      "titre": "Impôt minimal décidé sous l'égide de l'OCDE : effets à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Samuel De Vargas",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-06-06"
+      },
+      "derniere_etape": "2023-06-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/PR23-001",
+      "numero": "PR23/001",
+      "type": "Projet de règlement",
+      "depose": "2022-11-02",
+      "titre": "Rapport du Bureau pour la fixation du montant des jetons de présence et indemnités des membres du Conseil communal 2021-2026. Modification du règlement adopté le 09.11.2021",
+      "auteurs": [
+        {
+          "nom": "Conseil Communal Bureau",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2025-06-11"
+      },
+      "derniere_etape": "2025-06-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-029",
+      "numero": "PREA22/029",
+      "type": "Préavis",
+      "depose": "2022-10-31",
+      "titre": "Budget de fonctionnement de l'exercice 2023",
+      "auteurs": [
+        {
+          "nom": "Lina Nicolet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-12-07"
+      },
+      "derniere_etape": "2022-12-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-028",
+      "numero": "PREA22/028",
+      "type": "Préavis",
+      "depose": "2022-10-20",
+      "titre": "Autorisations d'achats pour l'exercice 2023",
+      "auteurs": [
+        {
+          "nom": "Carole Haupais",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-12-07"
+      },
+      "derniere_etape": "2022-12-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-027",
+      "numero": "PREA22/027",
+      "type": "Préavis",
+      "depose": "2022-10-17",
+      "titre": "Crédits-cadres bisannuels 2023 - 2024",
+      "auteurs": [
+        {
+          "nom": "Paul Cros",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-12-07"
+      },
+      "derniere_etape": "2022-12-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-026",
+      "numero": "PREA22/026",
+      "type": "Préavis",
+      "depose": "2022-10-06",
+      "titre": "Crédits supplémentaires pour 2022 (2e série)",
+      "auteurs": [
+        {
+          "nom": "Hanane El Bargui Khadi",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-12-07"
+      },
+      "derniere_etape": "2022-12-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-033",
+      "numero": "Q22/033",
+      "type": "Question écrite",
+      "depose": "2022-10-04",
+      "titre": "Récupération des eaux de pluie: comment soutenir les volontaires responsables?",
+      "auteurs": [
+        {
+          "nom": "Coralie Dumoulin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-02-28"
+      },
+      "derniere_etape": "2023-02-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-032",
+      "numero": "Q22/032",
+      "type": "Question écrite",
+      "depose": "2022-10-04",
+      "titre": "Des déchets jonchent le sol à la rue de Genève : pourquoi les poubelles sont-elles supprimées ?",
+      "auteurs": [
+        {
+          "nom": "Anaïs Timofte",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-078",
+      "numero": "POS22/078",
+      "type": "Postulat",
+      "depose": "2022-10-04",
+      "titre": "Dogme égalitaire ? Dirigeons-nous vers un fossé ville-campagne ? La Municipalité traite-t-elle réellement ses administrés des zones foraines de la même manière que les citadins ?",
+      "auteurs": [
+        {
+          "nom": "Nicola Di Giulio",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2022-11-22"
+      },
+      "derniere_etape": "2022-11-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-077",
+      "numero": "POS22/077",
+      "type": "Postulat",
+      "depose": "2022-10-04",
+      "titre": "Mes gadins, mes gamelles, mes ennuis... (refus prise en considération)",
+      "auteurs": [
+        {
+          "nom": "Nicola Di Giulio",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refusé/retiré",
+        "date": "2024-03-05"
+      },
+      "derniere_etape": "2024-03-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-076",
+      "numero": "POS22/076",
+      "type": "Postulat",
+      "depose": "2022-10-04",
+      "titre": "Affichage électoral, un outil démocratique mais un fossé entre les zones foraines et le centre-ville de Lausanne !",
+      "auteurs": [
+        {
+          "nom": "Nicola Di Giulio",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2025-02-11"
+      },
+      "derniere_etape": "2025-02-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-075",
+      "numero": "POS22/075",
+      "type": "Postulat",
+      "depose": "2022-10-04",
+      "titre": "Un état des lieux sur l'accès au logement",
+      "auteurs": [
+        {
+          "nom": "Samuel De Vargas",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-11-22"
+      },
+      "derniere_etape": "2022-11-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-074",
+      "numero": "POS22/074",
+      "type": "Postulat",
+      "depose": "2022-10-04",
+      "titre": "Un train de mesures en faveur du vélo",
+      "auteurs": [
+        {
+          "nom": "Samuel De Vargas",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2024-03-05"
+      },
+      "derniere_etape": "2024-03-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-073",
+      "numero": "POS22/073",
+      "type": "Postulat",
+      "depose": "2022-10-04",
+      "titre": "Des panneaux solaires le long des autoroutes",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-11-22"
+      },
+      "derniere_etape": "2022-11-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-072",
+      "numero": "POS22/072",
+      "type": "Postulat",
+      "depose": "2022-10-04",
+      "titre": "Future ligne m3 : l'occasion de rendre hommage aux personnalités féminines lausannoises",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-02-10"
+      },
+      "derniere_etape": "2026-02-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-070",
+      "numero": "POS22/070",
+      "type": "Postulat",
+      "depose": "2022-10-04",
+      "titre": "Pour que la requalification de l'Avenue du Grey ne soit pas éternellement reportée",
+      "auteurs": [
+        {
+          "nom": "Valéry Beaud",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-11-22"
+      },
+      "derniere_etape": "2022-11-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-065",
+      "numero": "POS22/065",
+      "type": "Postulat",
+      "depose": "2022-10-04",
+      "titre": "Stratégie de résilience territoriale",
+      "auteurs": [
+        {
+          "nom": "Valérie D'Acremont",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2024-03-26"
+      },
+      "derniere_etape": "2024-03-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-073",
+      "numero": "INT22/073",
+      "type": "Interpellation",
+      "depose": "2022-10-04",
+      "titre": "Quelles mesures pour enfin éradiquer l'infestation de punaises de lit dans les hébergements d'urgence ?",
+      "auteurs": [
+        {
+          "nom": "Anaïs Timofte",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2024-03-19"
+      },
+      "derniere_etape": "2024-03-19",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-072",
+      "numero": "INT22/072",
+      "type": "Interpellation",
+      "depose": "2022-10-04",
+      "titre": "Encore un petit Tour?",
+      "auteurs": [
+        {
+          "nom": "Daniel Curnier",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2024-02-06"
+      },
+      "derniere_etape": "2024-02-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-071",
+      "numero": "INT22/071",
+      "type": "Interpellation",
+      "depose": "2022-10-04",
+      "titre": "Indexation des subventions culturelles aux coûts de la vie ?",
+      "auteurs": [
+        {
+          "nom": "Isabelle Bonillo",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-08-29"
+      },
+      "derniere_etape": "2023-08-29",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-070",
+      "numero": "INT22/070",
+      "type": "Interpellation",
+      "depose": "2022-10-04",
+      "titre": "Centrale géothermique de Lavey : quels coûts et quelles perspectives pour la Ville ?",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-069",
+      "numero": "INT22/069",
+      "type": "Interpellation",
+      "depose": "2022-10-04",
+      "titre": "Les très sensibles données personnelles des Lausannois, ainsi que son data-center(s) sont-ils réellement ultrasécurisés ?",
+      "auteurs": [
+        {
+          "nom": "Nicola Di Giulio",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-03-04"
+      },
+      "derniere_etape": "2025-03-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-068",
+      "numero": "INT22/068",
+      "type": "Interpellation",
+      "depose": "2022-10-04",
+      "titre": "Le chantier de la gare à quai",
+      "auteurs": [
+        {
+          "nom": "Olivier Marmy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-11-22"
+      },
+      "derniere_etape": "2022-11-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-066",
+      "numero": "INT22/066",
+      "type": "Interpellation",
+      "depose": "2022-10-04",
+      "titre": "Électromobilité : arnaque à la prise, quelle situation pour les voitures hybrides à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Oleg Gafner",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-03-14"
+      },
+      "derniere_etape": "2023-03-14",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-065",
+      "numero": "INT22/065",
+      "type": "Interpellation",
+      "depose": "2022-10-04",
+      "titre": "Autant en emporte le vent !",
+      "auteurs": [
+        {
+          "nom": "Nicola Di Giulio",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-10-04"
+      },
+      "derniere_etape": "2022-10-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-064",
+      "numero": "INT22/064",
+      "type": "Interpellation",
+      "depose": "2022-10-04",
+      "titre": "Recrudescence des dérives sectaires : à Lausanne aussi ?",
+      "auteurs": [
+        {
+          "nom": "Benoît Gaillard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-06-06"
+      },
+      "derniere_etape": "2023-06-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-025",
+      "numero": "PREA22/025",
+      "type": "Préavis",
+      "depose": "2022-09-30",
+      "titre": "Financement des projets informatiques non couverts par un préavis spécifique - Crédit-cadre annuel 2023",
+      "auteurs": [
+        {
+          "nom": "Sophie Bonaudi",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-12-07"
+      },
+      "derniere_etape": "2022-12-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/CA22-010",
+      "numero": "CA22/010",
+      "type": "Compte d’attente",
+      "depose": "2022-09-27",
+      "titre": "Tivoli - Chauderon Sud : requalification de l'espace public et renouvellement des réseaux sou-terrains",
+      "auteurs": [
+        {
+          "nom": "Anja Borgeaud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-12-06"
+      },
+      "derniere_etape": "2022-12-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-024",
+      "numero": "PREA22/024",
+      "type": "Préavis",
+      "depose": "2022-09-21",
+      "titre": "Avenue d'Echallens Première étape de requalification de l'avenue d'Echallens",
+      "auteurs": [
+        {
+          "nom": "Ludovic Saulet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-02-28"
+      },
+      "derniere_etape": "2023-02-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-021",
+      "numero": "PREA22/021",
+      "type": "Préavis",
+      "depose": "2022-09-21",
+      "titre": "Travaux de rénovation et de réhabilitation des parcs et domaines - Crédit-cadre annuel 2023",
+      "auteurs": [
+        {
+          "nom": "Alexandra Monnier",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-12-07"
+      },
+      "derniere_etape": "2022-12-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-031",
+      "numero": "Q22/031",
+      "type": "Question écrite",
+      "depose": "2022-09-13",
+      "titre": "Manifestations lausannoises : sur un malentendu, cela peut-il marcher ?",
+      "auteurs": [
+        {
+          "nom": "Anouck Saugy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2024-09-10"
+      },
+      "derniere_etape": "2024-09-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-028",
+      "numero": "Q22/028",
+      "type": "Question écrite",
+      "depose": "2022-09-13",
+      "titre": "Question de Chatton Angélique : Green IT - vers un numérique plus sobre en matières premières et en énergie",
+      "auteurs": [
+        {
+          "nom": "Daniel Curnier",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2024-02-27"
+      },
+      "derniere_etape": "2024-02-27",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-069",
+      "numero": "POS22/069",
+      "type": "Postulat",
+      "depose": "2022-09-13",
+      "titre": "Citycable et LFO. Quo vadis",
+      "auteurs": [
+        {
+          "nom": "Matthieu Carrel",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-04-23"
+      },
+      "derniere_etape": "2024-04-23",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-068",
+      "numero": "POS22/068",
+      "type": "Postulat",
+      "depose": "2022-09-13",
+      "titre": "Pour une renaturation des rives du lac conciliant les besoins de la biodiversité et des loisirs",
+      "auteurs": [
+        {
+          "nom": "Alexandra Gerber",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-04-23"
+      },
+      "derniere_etape": "2024-04-23",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-067",
+      "numero": "POS22/067",
+      "type": "Postulat",
+      "depose": "2022-09-13",
+      "titre": "Mobilité douce sur la route : sécurité pour toutes et tous (Refus prise en considération)",
+      "auteurs": [
+        {
+          "nom": "Coralie Dumoulin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refusé/retiré",
+        "date": "2023-12-12"
+      },
+      "derniere_etape": "2023-12-12",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-066",
+      "numero": "POS22/066",
+      "type": "Postulat",
+      "depose": "2022-09-13",
+      "titre": "Sauvabelin : un trottoir pour garantir la sécurité des piétons",
+      "auteurs": [
+        {
+          "nom": "Denise Gemesio",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2025-02-11"
+      },
+      "derniere_etape": "2025-02-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/MOT22-003",
+      "numero": "MOT22/003",
+      "type": "Motion",
+      "depose": "2022-09-13",
+      "titre": "Face à l'inflation galopante, la Ville de Lausanne aide la population lausannoise en suspendant pendant 2 ans la perception des taxes communales sur l'électricité",
+      "auteurs": [
+        {
+          "nom": "Fabrice Moscheni",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refusée/retirée",
+        "date": "2024-03-26"
+      },
+      "derniere_etape": "2024-03-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-063",
+      "numero": "INT22/063",
+      "type": "Interpellation",
+      "depose": "2022-09-13",
+      "titre": "Rebelote, la Municipalité fait fausse route sur la mendicité",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-12-05"
+      },
+      "derniere_etape": "2023-12-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-062",
+      "numero": "INT22/062",
+      "type": "Interpellation",
+      "depose": "2022-09-13",
+      "titre": "Vers la sobriété énergétique : éteignons l'éclairage extérieur",
+      "auteurs": [
+        {
+          "nom": "Vincent Vouillamoz",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-061",
+      "numero": "INT22/061",
+      "type": "Interpellation",
+      "depose": "2022-09-13",
+      "titre": "Hausse des tarifs de l'énergie : quelles aides seront misent en place pour les particuliers et les entreprises",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-060",
+      "numero": "INT22/060",
+      "type": "Interpellation",
+      "depose": "2022-09-13",
+      "titre": "Quelles économies, respectivement réstrictions, d'énergie à Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Pauline Blanc",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-057",
+      "numero": "INT22/057",
+      "type": "Interpellation",
+      "depose": "2022-09-13",
+      "titre": "Plateforme 10, le nouvel îlot de chaleur urbain de Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Valéry Beaud",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-01-21"
+      },
+      "derniere_etape": "2025-01-21",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-056",
+      "numero": "INT22/056",
+      "type": "Interpellation",
+      "depose": "2022-09-13",
+      "titre": "Lausanne, ville riche en échanges scolaires trans-Röstigraben",
+      "auteurs": [
+        {
+          "nom": "Virginie Cavalli",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2026-02-03"
+      },
+      "derniere_etape": "2026-02-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-049",
+      "numero": "INT22/049",
+      "type": "Interpellation",
+      "depose": "2022-09-13",
+      "titre": "Risques cybers et protection des données personnelles",
+      "auteurs": [
+        {
+          "nom": "Eric Bettens",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-05-20"
+      },
+      "derniere_etape": "2025-05-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-048",
+      "numero": "INT22/048",
+      "type": "Interpellation",
+      "depose": "2022-09-13",
+      "titre": "Encourager la souveraineté numérique Suisse",
+      "auteurs": [
+        {
+          "nom": "Eric Bettens",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-03-04"
+      },
+      "derniere_etape": "2025-03-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-020",
+      "numero": "PREA22/020",
+      "type": "Préavis",
+      "depose": "2022-09-09",
+      "titre": "Evolution informatique des SIL",
+      "auteurs": [
+        {
+          "nom": "Florent Pichon",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-11-08"
+      },
+      "derniere_etape": "2022-11-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-019",
+      "numero": "PREA22/019",
+      "type": "Préavis",
+      "depose": "2022-09-07",
+      "titre": "Projet Métamorphose - Octroi d'un cautionnement en faveur de la société Beaulieu SA pour la réalisation d'une patinoire dans la halle 7 de Beaulieu",
+      "auteurs": [
+        {
+          "nom": "Véronique Ziegler",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-071",
+      "numero": "POS22/071",
+      "type": "Postulat",
+      "depose": "2022-09-07",
+      "titre": "Faisons la nique au courrier électronique",
+      "auteurs": [
+        {
+          "nom": "Denise Gemesio",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-10-04"
+      },
+      "derniere_etape": "2022-10-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/CA22-009",
+      "numero": "CA22/009",
+      "type": "Compte d’attente",
+      "depose": "2022-09-05",
+      "titre": "Création d'une zone de baignade pérenne à Ouchy",
+      "auteurs": [
+        {
+          "nom": "Christine Mounir",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-11-22"
+      },
+      "derniere_etape": "2022-11-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-030",
+      "numero": "Q22/030",
+      "type": "Question écrite",
+      "depose": "2022-08-30",
+      "titre": "Itinéraires des bus TL : quid de ceux-ci après les multiples travaux ?",
+      "auteurs": [
+        {
+          "nom": "Jacques Pernet",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-03-14"
+      },
+      "derniere_etape": "2023-03-14",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-029",
+      "numero": "Q22/029",
+      "type": "Question écrite",
+      "depose": "2022-08-30",
+      "titre": "Pierre-Viret : un caillou dans la chaussure",
+      "auteurs": [
+        {
+          "nom": "Anouck Saugy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-064",
+      "numero": "POS22/064",
+      "type": "Postulat",
+      "depose": "2022-08-30",
+      "titre": "Chasseurs d'appartements, stop aux abus !",
+      "auteurs": [
+        {
+          "nom": "Onaï Reymond",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2023-12-12"
+      },
+      "derniere_etape": "2023-12-12",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-063",
+      "numero": "POS22/063",
+      "type": "Postulat",
+      "depose": "2022-08-30",
+      "titre": "Pour un accès libre aux musées lausannois....",
+      "auteurs": [
+        {
+          "nom": "Muriel Chenaux Mesnier",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2024-02-06"
+      },
+      "derniere_etape": "2024-02-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE22-012",
+      "numero": "PE22/012",
+      "type": "Pétition",
+      "depose": "2022-08-30",
+      "titre": "Le 30 km/h généralisé pour des trajets à pied et à vélo sûrs et une ville conviviale et apaisée",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2024-03-19"
+      },
+      "derniere_etape": "2024-03-19",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE22-011",
+      "numero": "PE22/011",
+      "type": "Pétition",
+      "depose": "2022-08-30",
+      "titre": "Pour un réaménagement de la route du Chalet-Vieux",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité pour rapport-préavis",
+        "date": "2023-01-31"
+      },
+      "derniere_etape": "2023-01-31",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE22-010",
+      "numero": "PE22/010",
+      "type": "Pétition",
+      "depose": "2022-08-30",
+      "titre": "Pour demander le maintien des barrières et palissades aux abords de la terrasse du Carrousel de Vidy : NON aux suppressions des barrières et palissades",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité pour communication",
+        "date": "2023-02-28"
+      },
+      "derniere_etape": "2023-02-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-055",
+      "numero": "INT22/055",
+      "type": "Interpellation",
+      "depose": "2022-08-30",
+      "titre": "Exploiter des hydrocarbures sous le Léman ? Non ! Réduire la consommation d'énergie, des agents fossiles en particulier ? Elémentaire, mon cher Watson !",
+      "auteurs": [
+        {
+          "nom": "Johann Dupuis",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-054",
+      "numero": "INT22/054",
+      "type": "Interpellation",
+      "depose": "2022-08-30",
+      "titre": "Accueil de jour préscolaire : La Municipalité a-t-elle les moyens de mener la politique ambitieuse annoncée dans son programme de législature ?",
+      "auteurs": [
+        {
+          "nom": "Feryel Kilani",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-11-07"
+      },
+      "derniere_etape": "2023-11-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-053",
+      "numero": "INT22/053",
+      "type": "Interpellation",
+      "depose": "2022-08-30",
+      "titre": "Infirmières en milieu scolaire : pour une meilleure reconnaissance du métier",
+      "auteurs": [
+        {
+          "nom": "Denise Gemesio",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-052",
+      "numero": "INT22/052",
+      "type": "Interpellation",
+      "depose": "2022-08-30",
+      "titre": "Déplacements des infirmières scolaires : quels motifs et quelles conséquences ?",
+      "auteurs": [
+        {
+          "nom": "Séverine Graff",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-051",
+      "numero": "INT22/051",
+      "type": "Interpellation",
+      "depose": "2022-08-30",
+      "titre": "Lausanne a soif - où en est la planification des fontaines d'eau potable ?",
+      "auteurs": [
+        {
+          "nom": "Alexandra Gerber",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-050",
+      "numero": "INT22/050",
+      "type": "Interpellation",
+      "depose": "2022-08-30",
+      "titre": "Marché adjugé à un consortium franco-suisse pour la construction de l'usine de production d'eau potable Saint-Sulpice II",
+      "auteurs": [
+        {
+          "nom": "Benoît Gaillard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-11-22"
+      },
+      "derniere_etape": "2022-11-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/COMC22-006",
+      "numero": "COMC22/006",
+      "type": "Divers",
+      "depose": "2022-08-19",
+      "titre": "Désignation de [particulier] en qualité de chef du Service production et solutions énergétiques des Services industriels de Lausanne (SIL)",
+      "auteurs": [
+        {
+          "nom": "Ashley Da Costa",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-09-13"
+      },
+      "derniere_etape": "2022-09-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-018",
+      "numero": "PREA22/018",
+      "type": "Préavis",
+      "depose": "2022-08-18",
+      "titre": "Installation de panneaux photovoltaïques et réduction de la consommation énergétique des réservoirs et des usines d'eau potable du Service de l'eau",
+      "auteurs": [
+        {
+          "nom": "Isabelle Burgy",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-11-08"
+      },
+      "derniere_etape": "2022-11-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-017",
+      "numero": "PREA22/017",
+      "type": "Préavis",
+      "depose": "2022-08-04",
+      "titre": "Renouvellement du système de commande et assainissement et optimisation de la station d'échangeurs de chaleur du réseau de chauffage à distance de la place Centrale",
+      "auteurs": [
+        {
+          "nom": "Ashley Da Costa",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-11-22"
+      },
+      "derniere_etape": "2022-11-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE22-009",
+      "numero": "PE22/009",
+      "type": "Pétition",
+      "depose": "2022-06-22",
+      "titre": "Pour politique énergétique solaire",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-06-23"
+      },
+      "derniere_etape": "2026-06-23",
+      "communes": []
+    },
+    {
+      "cle": "5586/COMC22-005",
+      "numero": "COMC22/005",
+      "type": "Divers",
+      "depose": "2022-06-20",
+      "titre": "Nomination de [particulier] au poste de secrétaire générale de la Direction de la sécurité et de l'économie de la Ville de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Brigitte Dizerens",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-015",
+      "numero": "PREA22/015",
+      "type": "Préavis",
+      "depose": "2022-06-09",
+      "titre": "Piscine de Mon-Repos - assainissement, transformation et modernisation des vestiaires et du système sanitaire - demande de crédit d'ouvrage",
+      "auteurs": [
+        {
+          "nom": "Nicolas Pittet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-10-04"
+      },
+      "derniere_etape": "2022-10-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-026",
+      "numero": "Q22/026",
+      "type": "Question écrite",
+      "depose": "2022-06-07",
+      "titre": "Plan canicule - quelles mesures spécifiques de la Ville ?",
+      "auteurs": [
+        {
+          "nom": "Sara Gnoni",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-062",
+      "numero": "POS22/062",
+      "type": "Postulat",
+      "depose": "2022-06-07",
+      "titre": "Pour des  nouvelles places profondément lausannoises ?",
+      "auteurs": [
+        {
+          "nom": "Céline Misiego",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-03-17"
+      },
+      "derniere_etape": "2026-03-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-061",
+      "numero": "POS22/061",
+      "type": "Postulat",
+      "depose": "2022-06-07",
+      "titre": "Vote par procuration",
+      "auteurs": [
+        {
+          "nom": "Christine Goumaz",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2025-04-08"
+      },
+      "derniere_etape": "2025-04-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-059",
+      "numero": "POS22/059",
+      "type": "Postulat",
+      "depose": "2022-06-07",
+      "titre": "Rapport-préavis N° 2025/25 - Postulat de Piron Françoise - Journaux locaux, préservons ce lien local précieux !",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-03-03"
+      },
+      "derniere_etape": "2026-03-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-058",
+      "numero": "POS22/058",
+      "type": "Postulat",
+      "depose": "2022-06-07",
+      "titre": "Histoire coloniale - Lausanne : pour une ville inclusive et non discriminante",
+      "auteurs": [
+        {
+          "nom": "Samson Yemane",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-09-13"
+      },
+      "derniere_etape": "2022-09-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-057",
+      "numero": "POS22/057",
+      "type": "Postulat",
+      "depose": "2022-06-07",
+      "titre": "Un toit pour touxtes, toute l'année",
+      "auteurs": [
+        {
+          "nom": "Romane Benvenuti",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-03-19"
+      },
+      "derniere_etape": "2024-03-19",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-047",
+      "numero": "INT22/047",
+      "type": "Interpellation",
+      "depose": "2022-06-07",
+      "titre": "Stop à la municipalisation rampante de l'animation socioculturelle lausannoise et à la maltraitance de son personnel",
+      "auteurs": [
+        {
+          "nom": "Johann Dupuis",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-11-08"
+      },
+      "derniere_etape": "2022-11-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-046",
+      "numero": "INT22/046",
+      "type": "Interpellation",
+      "depose": "2022-06-07",
+      "titre": "Conséquence de la fermeture du chemin de Bellevue",
+      "auteurs": [
+        {
+          "nom": "Diane Wild",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2022-06-07"
+      },
+      "derniere_etape": "2022-06-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-045",
+      "numero": "INT22/045",
+      "type": "Interpellation",
+      "depose": "2022-06-07",
+      "titre": "Faire cesser le scandale Uber au plus vite à Lausanne !",
+      "auteurs": [
+        {
+          "nom": "Benoît Gaillard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate avec résolution",
+        "date": "2022-06-22"
+      },
+      "derniere_etape": "2022-06-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-044",
+      "numero": "INT22/044",
+      "type": "Interpellation",
+      "depose": "2022-06-07",
+      "titre": "Pour une durabilité des événements soutenus par la Ville de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Ngoc Huy Ho",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-08-26"
+      },
+      "derniere_etape": "2025-08-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-043",
+      "numero": "INT22/043",
+      "type": "Interpellation",
+      "depose": "2022-06-07",
+      "titre": "Inflation : quelles aides pour les lausannois.es modestes ?",
+      "auteurs": [
+        {
+          "nom": "Mountazar Jaffar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-06-11"
+      },
+      "derniere_etape": "2025-06-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-042",
+      "numero": "INT22/042",
+      "type": "Interpellation",
+      "depose": "2022-06-07",
+      "titre": "Nombre de vélos et part modale en ville de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Yohan Ziehli",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-10-10"
+      },
+      "derniere_etape": "2023-10-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-041",
+      "numero": "INT22/041",
+      "type": "Interpellation",
+      "depose": "2022-06-07",
+      "titre": "En marche pour rénover les immeubles insalubres de la Ville !",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-06-07"
+      },
+      "derniere_etape": "2022-06-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE22-008",
+      "numero": "PE22/008",
+      "type": "Pétition",
+      "depose": "2022-06-02",
+      "titre": "Le métro M3 jusqu'à Maillefer, maintenant ! Ensuite étude d'une liaison vers Epalinges/Croisettes (M2)",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2024-12-03"
+      },
+      "derniere_etape": "2024-12-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-014",
+      "numero": "PREA22/014",
+      "type": "Préavis",
+      "depose": "2022-06-01",
+      "titre": "Convention intercommunale de la galerie de Broye",
+      "auteurs": [
+        {
+          "nom": "Jessica Ferreira",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-11-08"
+      },
+      "derniere_etape": "2022-11-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/CA22-008",
+      "numero": "CA22/008",
+      "type": "Compte d’attente",
+      "depose": "2022-06-01",
+      "titre": "Etudes préliminaires pour l'écoquartier de Malley Gazomètre",
+      "auteurs": [
+        {
+          "nom": "Cécile Wolf",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/CA22-006",
+      "numero": "CA22/006",
+      "type": "Compte d’attente",
+      "depose": "2022-06-01",
+      "titre": "Etudes préliminaires pour le concept thermique des bâtiments à construire sur la zone de couverture de l'autoroute aux Boveresses",
+      "auteurs": [
+        {
+          "nom": "Cécile Wolf",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-060",
+      "numero": "POS22/060",
+      "type": "Postulat",
+      "depose": "2022-05-30",
+      "titre": "Eviter des morts inutiles - interdisons le plaquage ventral",
+      "auteurs": [
+        {
+          "nom": "Maimouna Mayoraz",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2024-03-05"
+      },
+      "derniere_etape": "2024-03-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-025",
+      "numero": "Q22/025",
+      "type": "Question écrite",
+      "depose": "2022-05-24",
+      "titre": "Travaux de la gare sur pause, quid des riverains ?",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-024",
+      "numero": "Q22/024",
+      "type": "Question écrite",
+      "depose": "2022-05-24",
+      "titre": "Fête Fédérale de Gymnastique : Rendons la gym tonique",
+      "auteurs": [
+        {
+          "nom": "Anouck Saugy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-02-28"
+      },
+      "derniere_etape": "2023-02-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-023",
+      "numero": "Q22/023",
+      "type": "Question écrite",
+      "depose": "2022-05-24",
+      "titre": "Hausse des effractions véhicules : épiphénomène endigué ou dynamique inquiétante ?",
+      "auteurs": [
+        {
+          "nom": "Mountazar Jaffar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-020",
+      "numero": "Q22/020",
+      "type": "Question écrite",
+      "depose": "2022-05-24",
+      "titre": "Question écrite n° 22 de Philippoz Roland Quels services et quels collaborateurs sont impliqués dans la gestion des deux-roues motorisés et des vélos abandonnés sur le domaine public ?",
+      "auteurs": [
+        {
+          "nom": "Roland Philippoz",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-056",
+      "numero": "POS22/056",
+      "type": "Postulat",
+      "depose": "2022-05-24",
+      "titre": "Accélération du remplacement des chaudières fossiles : Pour un renforcement de la dynamique de remplacement des chaudières fossiles par des chaudières à énergies renouvelables.",
+      "auteurs": [
+        {
+          "nom": "Sara Gnoni",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-06-07"
+      },
+      "derniere_etape": "2022-06-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-055",
+      "numero": "POS22/055",
+      "type": "Postulat",
+      "depose": "2022-05-24",
+      "titre": "Pour réduire l'impact énergétique et écologique de la construction",
+      "auteurs": [
+        {
+          "nom": "Alexandra Gerber",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-06-07"
+      },
+      "derniere_etape": "2022-06-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-053",
+      "numero": "POS22/053",
+      "type": "Postulat",
+      "depose": "2022-05-24",
+      "titre": "Rapport-préavis N° 2025/47 - Postulat de Paquier Mathias et crts - Généralisation du télétravail : donnons-nous les moyens",
+      "auteurs": [
+        {
+          "nom": "Mathias Paquier",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-02-03"
+      },
+      "derniere_etape": "2026-02-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-052",
+      "numero": "POS22/052",
+      "type": "Postulat",
+      "depose": "2022-05-24",
+      "titre": "En route pour la gratuité",
+      "auteurs": [
+        {
+          "nom": "Oleg Gafner",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2023-12-12"
+      },
+      "derniere_etape": "2023-12-12",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE22-007",
+      "numero": "PE22/007",
+      "type": "Pétition",
+      "depose": "2022-05-24",
+      "titre": "Pour la rénovation du terrain de foot situé sur le toit du dépôt des T-L",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2024-05-21"
+      },
+      "derniere_etape": "2024-05-21",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-040",
+      "numero": "INT22/040",
+      "type": "Interpellation",
+      "depose": "2022-05-24",
+      "titre": "BDFil : place à la transparence !",
+      "auteurs": [
+        {
+          "nom": "Manon Zecca",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-09-29"
+      },
+      "derniere_etape": "2026-09-29",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-013",
+      "numero": "PREA22/013",
+      "type": "Préavis",
+      "depose": "2022-05-19",
+      "titre": "Modification du règlement du Fonds des arts plastiques de la Ville de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Nadine Mayoraz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2024-03-05"
+      },
+      "derniere_etape": "2024-03-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-039",
+      "numero": "INT22/039",
+      "type": "Interpellation",
+      "depose": "2022-05-18",
+      "titre": "quelle stratégie de rénovation et d'entretien des structures dédiées à la petite enfance ?",
+      "auteurs": [
+        {
+          "nom": "Mathias Paquier",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-05-24"
+      },
+      "derniere_etape": "2022-05-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/CA22-005",
+      "numero": "CA22/005",
+      "type": "Compte d’attente",
+      "depose": "2022-05-16",
+      "titre": "Sites scolaires de Béthusy et Mon-Repos : ouverture d'un compte d'attente (implantation d'une ou deux salles de gymnastique et d'une bibliothèque)",
+      "auteurs": [
+        {
+          "nom": "Vanessa Maurer",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-11-22"
+      },
+      "derniere_etape": "2022-11-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-022",
+      "numero": "Q22/022",
+      "type": "Question écrite",
+      "depose": "2022-05-10",
+      "titre": "Suite à l'annonce de la Municipalité : Plus de véhicules thermiques à Lausanne dès 2030",
+      "auteurs": [
+        {
+          "nom": "Jacques Pernet",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-021",
+      "numero": "Q22/021",
+      "type": "Question écrite",
+      "depose": "2022-05-10",
+      "titre": "Quid des poubelles que les déchets vont adorer",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-019",
+      "numero": "Q22/019",
+      "type": "Question écrite",
+      "depose": "2022-05-10",
+      "titre": "Deux clubs, deux mesures ?",
+      "auteurs": [
+        {
+          "nom": "Fabrice Moscheni",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-049",
+      "numero": "POS22/049",
+      "type": "Postulat",
+      "depose": "2022-05-10",
+      "titre": "Un concept cohérent pour la zone Chauderon - Terreaux - Bel-Air : créons un lieu de passage et de séjour attractif, écologique et accueillant !",
+      "auteurs": [
+        {
+          "nom": "Franziska Meinherz",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2024-03-26"
+      },
+      "derniere_etape": "2024-03-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-048",
+      "numero": "POS22/048",
+      "type": "Postulat",
+      "depose": "2022-05-10",
+      "titre": "Un centre-ville qui s'adapte aux mobilités d'aujourd'hui et du futur",
+      "auteurs": [
+        {
+          "nom": "Samuel De Vargas",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2024-03-26"
+      },
+      "derniere_etape": "2024-03-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-046",
+      "numero": "POS22/046",
+      "type": "Postulat",
+      "depose": "2022-05-10",
+      "titre": "Rapport-préavis N° 2025/14 - Postulat de Gemesio Denise et crts - Pour sécuriser le chemin des écoliers des Fiches Nord en direction de l'EP de Coteau-Fleuri",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-02-03"
+      },
+      "derniere_etape": "2026-02-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-045",
+      "numero": "POS22/045",
+      "type": "Postulat",
+      "depose": "2022-05-10",
+      "titre": "Des APEMS de qualité en suffisance et conçus avec la participation des parents, associations de quartiers et commissions d'établissements",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-11-21"
+      },
+      "derniere_etape": "2023-11-21",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-044",
+      "numero": "POS22/044",
+      "type": "Postulat",
+      "depose": "2022-05-10",
+      "titre": "Des techniques de dernières générations et à basse entropie pour le développement du chauffage à distance lausannois",
+      "auteurs": [
+        {
+          "nom": "Daniel Curnier",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-05-24"
+      },
+      "derniere_etape": "2022-05-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-043",
+      "numero": "POS22/043",
+      "type": "Postulat",
+      "depose": "2022-05-10",
+      "titre": "Modifier les habitudes de déneigement des routes, pour assurer en priorité la securité des piétons et cyclistes",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-05-28"
+      },
+      "derniere_etape": "2024-05-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-038",
+      "numero": "INT22/038",
+      "type": "Interpellation",
+      "depose": "2022-05-10",
+      "titre": "Hébergements d'urgence : accélérer la politique communale",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2024-03-19"
+      },
+      "derniere_etape": "2024-03-19",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-037",
+      "numero": "INT22/037",
+      "type": "Interpellation",
+      "depose": "2022-05-10",
+      "titre": "Ecole de Musique Lausanne (EML) : encore une institution culturelle lausannoise dans la tourmente ?",
+      "auteurs": [
+        {
+          "nom": "Anaïs Timofte",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-05-02"
+      },
+      "derniere_etape": "2023-05-02",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-036",
+      "numero": "INT22/036",
+      "type": "Interpellation",
+      "depose": "2022-05-10",
+      "titre": "Ouvrons les yeux sur la guerre que mène la Turquie contre les Kurdes",
+      "auteurs": [
+        {
+          "nom": "Sevgi Koyuncu",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-01-14"
+      },
+      "derniere_etape": "2025-01-14",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-035",
+      "numero": "INT22/035",
+      "type": "Interpellation",
+      "depose": "2022-05-10",
+      "titre": "Quels engagements la Municipalité peut-elle prendre pour améliorer la capacité et les conditions de l'accueil d'urgence à Lausanne ? Comment parvenir à l'objectif zéro personne à la rue à Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Manon Zecca",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2024-03-19"
+      },
+      "derniere_etape": "2024-03-19",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-034",
+      "numero": "INT22/034",
+      "type": "Interpellation",
+      "depose": "2022-05-10",
+      "titre": "Souffrances au travail à l'opéra de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Matthieu Carrel",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate",
+        "date": "2022-06-22"
+      },
+      "derniere_etape": "2022-06-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-033",
+      "numero": "INT22/033",
+      "type": "Interpellation",
+      "depose": "2022-05-10",
+      "titre": "Réalisation du Tram T1 et accessibilité du centre-ville depuis l'avenue du Chablais : la gouvernance par le chaos",
+      "auteurs": [
+        {
+          "nom": "Xavier de Haller",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-06-06"
+      },
+      "derniere_etape": "2023-06-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-032",
+      "numero": "INT22/032",
+      "type": "Interpellation",
+      "depose": "2022-05-10",
+      "titre": "Grands travaux lausannois : comment tirer les leçons en termes de mobilité ?",
+      "auteurs": [
+        {
+          "nom": "Sara Gnoni",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-02-07"
+      },
+      "derniere_etape": "2023-02-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-031",
+      "numero": "INT22/031",
+      "type": "Interpellation",
+      "depose": "2022-05-10",
+      "titre": "Poste de Saint-François : les Lausannois paieront-ils avec vingt ans de retard l'addition de la privatisation des PTT ?",
+      "auteurs": [
+        {
+          "nom": "Benoît Gaillard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2024-01-16"
+      },
+      "derniere_etape": "2024-01-16",
+      "communes": []
+    },
+    {
+      "cle": "5586/CA22-004",
+      "numero": "CA22/004",
+      "type": "Compte d’attente",
+      "depose": "2022-05-02",
+      "titre": "GER - Vallée de la Jeunesse 1 - Espace des inventions, Maison de l'enfance, Centre aéré et Jardin de circulation - Assainissement de l'enveloppe (façades et toiture) et mise en sécurité : augmentation du compte d'attente",
+      "auteurs": [
+        {
+          "nom": "Ahmet Salyador",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/CA22-003",
+      "numero": "CA22/003",
+      "type": "Compte d’attente",
+      "depose": "2022-05-02",
+      "titre": "GER - Route du Signal 2 - Fondation de l'Hermitage : financement des études de travaux d'entretien et de rénovation",
+      "auteurs": [
+        {
+          "nom": "Ahmet Salyador",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-012",
+      "numero": "PREA22/012",
+      "type": "Préavis",
+      "depose": "2022-04-28",
+      "titre": "Musiques actuelles. Rénovation, mise aux normes et augmentation de la jauge de la salle de concerts Le Romandie. Création d'une 2e salle sous les arches du Grand-Pont au bénéfice de l'Association du Salopard.",
+      "auteurs": [
+        {
+          "nom": "Nadine Mayoraz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-09-13"
+      },
+      "derniere_etape": "2022-09-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-011",
+      "numero": "PREA22/011",
+      "type": "Préavis",
+      "depose": "2022-04-21",
+      "titre": "Comptes de l'exercice 2021",
+      "auteurs": [
+        {
+          "nom": "Hanane El Bargui Khadi",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-06-07"
+      },
+      "derniere_etape": "2022-06-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-010",
+      "numero": "PREA22/010",
+      "type": "Préavis",
+      "depose": "2022-04-11",
+      "titre": "Crédits supplémentaires pour 2022 (1re série)",
+      "auteurs": [
+        {
+          "nom": "Elena Cirillo",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-06-07"
+      },
+      "derniere_etape": "2022-06-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-009",
+      "numero": "PREA22/009",
+      "type": "Préavis",
+      "depose": "2022-04-08",
+      "titre": "Maison Gaudard : Réalisation d'une maison de la culture et de l'innovation numérique - Demande d'un crédit d'ouvrage",
+      "auteurs": [
+        {
+          "nom": "Nadine Mayoraz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-09-13"
+      },
+      "derniere_etape": "2022-09-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-018",
+      "numero": "Q22/018",
+      "type": "Question écrite",
+      "depose": "2022-04-05",
+      "titre": "Crise sanitaire et commerçants",
+      "auteurs": [
+        {
+          "nom": "Pierre Conscience",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-017",
+      "numero": "Q22/017",
+      "type": "Question écrite",
+      "depose": "2022-04-05",
+      "titre": "Mussolini, docteur « horroris causa » ?",
+      "auteurs": [
+        {
+          "nom": "Laura Manzoni",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-016",
+      "numero": "Q22/016",
+      "type": "Question écrite",
+      "depose": "2022-04-05",
+      "titre": "Bibliothèque scolaire d'Entre-Bois",
+      "auteurs": [
+        {
+          "nom": "Manon Zecca",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-05-24"
+      },
+      "derniere_etape": "2022-05-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-015",
+      "numero": "Q22/015",
+      "type": "Question écrite",
+      "depose": "2022-04-05",
+      "titre": "Villa Mon Repos quel usage, quel avenir ?",
+      "auteurs": [
+        {
+          "nom": "Manon Zecca",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-04-05"
+      },
+      "derniere_etape": "2022-04-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-042",
+      "numero": "POS22/042",
+      "type": "Postulat",
+      "depose": "2022-04-05",
+      "titre": "Cheminer Lausanne : pour un système d'orientation piéton·nes global, lisible et cohérent",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2025-02-11"
+      },
+      "derniere_etape": "2025-02-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-040",
+      "numero": "POS22/040",
+      "type": "Postulat",
+      "depose": "2022-04-05",
+      "titre": "Stop à l'hypocrisie de la promotion des énergies fossiles par les SIL",
+      "auteurs": [
+        {
+          "nom": "Graziella Schaller",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-05-10"
+      },
+      "derniere_etape": "2022-05-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE22-006",
+      "numero": "PE22/006",
+      "type": "Pétition",
+      "depose": "2022-04-05",
+      "titre": "Assurer la sécurité des piétons",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2025-02-11"
+      },
+      "derniere_etape": "2025-02-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-008",
+      "numero": "PREA22/008",
+      "type": "Préavis",
+      "depose": "2022-03-30",
+      "titre": "Construction de la nouvelle usine de production d'eau potable « Saint-Sulpice II » - Demande de crédit complémentaire au préavis N° 2018/48",
+      "auteurs": [
+        {
+          "nom": "Isabelle Burgy",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-11-22"
+      },
+      "derniere_etape": "2022-11-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-014",
+      "numero": "Q22/014",
+      "type": "Question écrite",
+      "depose": "2022-03-22",
+      "titre": "César-Roux 8, des habitantes et habitants en attente de travaux",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-041",
+      "numero": "POS22/041",
+      "type": "Postulat",
+      "depose": "2022-03-22",
+      "titre": "Pour une passerelle piétonne côté lac à Bellerive",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2023-04-04"
+      },
+      "derniere_etape": "2023-04-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-039",
+      "numero": "POS22/039",
+      "type": "Postulat",
+      "depose": "2022-03-22",
+      "titre": "Un plan de lutte contre la précarité menstruelle",
+      "auteurs": [
+        {
+          "nom": "Derya Çelik",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2025-02-04"
+      },
+      "derniere_etape": "2025-02-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-038",
+      "numero": "POS22/038",
+      "type": "Postulat",
+      "depose": "2022-03-22",
+      "titre": "Semaine de la culture lausannoise ? (Prise en considération refusée)",
+      "auteurs": [
+        {
+          "nom": "Oleg Gafner",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refusé/retiré",
+        "date": "2024-02-06"
+      },
+      "derniere_etape": "2024-02-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-037",
+      "numero": "POS22/037",
+      "type": "Postulat",
+      "depose": "2022-03-22",
+      "titre": "Bonnes pratiques en cas de rénovation thermique d'un immeuble en location : Lausanne pionnière !",
+      "auteurs": [
+        {
+          "nom": "Benoît Gaillard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-04-05"
+      },
+      "derniere_etape": "2022-04-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-036",
+      "numero": "POS22/036",
+      "type": "Postulat",
+      "depose": "2022-03-22",
+      "titre": "Santé pelvienne, parlons-en !",
+      "auteurs": [
+        {
+          "nom": "Onaï Reymond",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en commission",
+        "date": "2022-04-05"
+      },
+      "derniere_etape": "2022-04-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-035",
+      "numero": "POS22/035",
+      "type": "Postulat",
+      "depose": "2022-03-22",
+      "titre": "En selle ! Promouvoir les compétences des cyclistes et favoriser la cohabitation entre usagers de la route",
+      "auteurs": [
+        {
+          "nom": "Séverine Graff",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-02-10"
+      },
+      "derniere_etape": "2026-02-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-034",
+      "numero": "POS22/034",
+      "type": "Postulat",
+      "depose": "2022-03-22",
+      "titre": "Pour des commissions d'établissement « inclusives »",
+      "auteurs": [
+        {
+          "nom": "Samson Yemane",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2023-12-12"
+      },
+      "derniere_etape": "2023-12-12",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-030",
+      "numero": "INT22/030",
+      "type": "Interpellation",
+      "depose": "2022-03-22",
+      "titre": "A quand la prochaine information des locataires ?",
+      "auteurs": [
+        {
+          "nom": "Benoît Gaillard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2024-03-26"
+      },
+      "derniere_etape": "2024-03-26",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-007",
+      "numero": "PREA22/007",
+      "type": "Préavis",
+      "depose": "2022-03-11",
+      "titre": "Crédit cadre d'investissement de CHF 10'805'000.- pour la modernisation et  l'extension des réseaux informatiques pédagogiques dans les bâtiments scolaires ainsi que pour l'équipement des classes en affichage numérique frontal",
+      "auteurs": [
+        {
+          "nom": "Vanessa Maurer",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-12-07"
+      },
+      "derniere_etape": "2022-12-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-013",
+      "numero": "Q22/013",
+      "type": "Question écrite",
+      "depose": "2022-03-08",
+      "titre": "Parc éolien de Eoljorat Sud",
+      "auteurs": [
+        {
+          "nom": "Fabrice Moscheni",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-012",
+      "numero": "Q22/012",
+      "type": "Question écrite",
+      "depose": "2022-03-08",
+      "titre": "Dispositifs et aménagements anti-chaleur sur la place de la Riponne",
+      "auteurs": [
+        {
+          "nom": "Benoît Gaillard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-06-07"
+      },
+      "derniere_etape": "2022-06-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-011",
+      "numero": "Q22/011",
+      "type": "Question écrite",
+      "depose": "2022-03-08",
+      "titre": "Covid et subventions : quelles institutions ont dû restituer une partie des subventions perçues ?",
+      "auteurs": [
+        {
+          "nom": "Marlène Berard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-06-07"
+      },
+      "derniere_etape": "2022-06-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-010",
+      "numero": "Q22/010",
+      "type": "Question écrite",
+      "depose": "2022-03-08",
+      "titre": "Allo Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Céline Misiego",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-09-13"
+      },
+      "derniere_etape": "2022-09-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-032",
+      "numero": "POS22/032",
+      "type": "Postulat",
+      "depose": "2022-03-08",
+      "titre": "Les personnes à mobilité réduites doivent pouvoir se déplacer",
+      "auteurs": [
+        {
+          "nom": "Patrizia Deborah Mori",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-02-10"
+      },
+      "derniere_etape": "2026-02-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-031",
+      "numero": "POS22/031",
+      "type": "Postulat",
+      "depose": "2022-03-08",
+      "titre": "Une obligation verte pour le financement de la transition énergétique et écologique à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Angélique Chatton",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-030",
+      "numero": "POS22/030",
+      "type": "Postulat",
+      "depose": "2022-03-08",
+      "titre": "Sans électricité en hiver ? Est-ce encore possible ?",
+      "auteurs": [
+        {
+          "nom": "Vincent Brayer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2023-12-12"
+      },
+      "derniere_etape": "2023-12-12",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-029",
+      "numero": "POS22/029",
+      "type": "Postulat",
+      "depose": "2022-03-08",
+      "titre": "Lausanne sans publicité commerciale",
+      "auteurs": [
+        {
+          "nom": "Franziska Meinherz",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2024-03-05"
+      },
+      "derniere_etape": "2024-03-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-028",
+      "numero": "POS22/028",
+      "type": "Postulat",
+      "depose": "2022-03-08",
+      "titre": "Et Si Chailly montrait l'exemple",
+      "auteurs": [
+        {
+          "nom": "Guy Gaudard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-02-10"
+      },
+      "derniere_etape": "2026-02-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-026",
+      "numero": "POS22/026",
+      "type": "Postulat",
+      "depose": "2022-03-08",
+      "titre": "Un lieu de mémoire pour toutes les victimes de la « chasse aux sorcières »",
+      "auteurs": [
+        {
+          "nom": "Alexandra Gerber",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-02-10"
+      },
+      "derniere_etape": "2026-02-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-025",
+      "numero": "POS22/025",
+      "type": "Postulat",
+      "depose": "2022-03-08",
+      "titre": "Trois tiers de logements à loyer modéré sur tout le territoire lausannois (Prise en considération refusée)",
+      "auteurs": [
+        {
+          "nom": "Céline Misiego",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refusé/retiré",
+        "date": "2024-02-06"
+      },
+      "derniere_etape": "2024-02-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-022",
+      "numero": "POS22/022",
+      "type": "Postulat",
+      "depose": "2022-03-08",
+      "titre": "Pour des stationnement vélo à la Bourdonnette et dans (tous) les quartiers",
+      "auteurs": [
+        {
+          "nom": "Mountazar Jaffar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-02-10"
+      },
+      "derniere_etape": "2026-02-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-021",
+      "numero": "POS22/021",
+      "type": "Postulat",
+      "depose": "2022-03-08",
+      "titre": "Pour une augmentation sensible des bornes de recharge des véhicules électriques",
+      "auteurs": [
+        {
+          "nom": "Yvan Salzmann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-10-01"
+      },
+      "derniere_etape": "2024-10-01",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-019",
+      "numero": "POS22/019",
+      "type": "Postulat",
+      "depose": "2022-03-08",
+      "titre": "Centre-ville apaisé passe par la propreté !",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-014",
+      "numero": "POS22/014",
+      "type": "Postulat",
+      "depose": "2022-03-08",
+      "titre": "Un plan de mesures pour davantage d'inclusion des personnes non-binaires et trans",
+      "auteurs": [
+        {
+          "nom": "Samuel De Vargas",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2022-03-08"
+      },
+      "derniere_etape": "2022-03-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS21-073",
+      "numero": "POS21/073",
+      "type": "Postulat",
+      "depose": "2022-03-08",
+      "titre": "Quartier Fourmi-Fiches, les habitant·e·s sont là, les infrastructures et espaces publics doivent rapidement suivre",
+      "auteurs": [
+        {
+          "nom": "Oleg Gafner",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-03-22"
+      },
+      "derniere_etape": "2022-03-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE22-004",
+      "numero": "PE22/004",
+      "type": "Pétition",
+      "depose": "2022-03-08",
+      "titre": "Non à l'APEMS en sous-sol pour les enfants des écoles de Montoie et Figuiers",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité pour communication",
+        "date": "2022-06-22"
+      },
+      "derniere_etape": "2022-06-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE22-003",
+      "numero": "PE22/003",
+      "type": "Pétition",
+      "depose": "2022-03-08",
+      "titre": "Pour une information au public",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-05-02"
+      },
+      "derniere_etape": "2023-05-02",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-029",
+      "numero": "INT22/029",
+      "type": "Interpellation",
+      "depose": "2022-03-08",
+      "titre": "Dioxine à Lausanne : La Municipalité procrastine-t-elle ?",
+      "auteurs": [
+        {
+          "nom": "Fabrice Moscheni",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-02-28"
+      },
+      "derniere_etape": "2023-02-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-028",
+      "numero": "INT22/028",
+      "type": "Interpellation",
+      "depose": "2022-03-08",
+      "titre": "Sortir du gaz russe",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-05-10"
+      },
+      "derniere_etape": "2022-05-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-025",
+      "numero": "INT22/025",
+      "type": "Interpellation",
+      "depose": "2022-03-08",
+      "titre": "Lausanne, une ville solidaire dans les faits avec le peuple ukrainien qui lutte contre l'intervention militaire de Poutine ?",
+      "auteurs": [
+        {
+          "nom": "Pierre Conscience",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-01-14"
+      },
+      "derniere_etape": "2025-01-14",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-024",
+      "numero": "INT22/024",
+      "type": "Interpellation",
+      "depose": "2022-03-08",
+      "titre": "Centre de sécurité à la gare, quels impacts pour la Ville ?",
+      "auteurs": [
+        {
+          "nom": "Samson Yemane",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Réponse immédiate",
+        "date": "2022-03-22"
+      },
+      "derniere_etape": "2022-03-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-023",
+      "numero": "INT22/023",
+      "type": "Interpellation",
+      "depose": "2022-03-08",
+      "titre": "Un exercice juste des droits démocratiques, maintenant !",
+      "auteurs": [
+        {
+          "nom": "Samuel De Vargas",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-06-20"
+      },
+      "derniere_etape": "2023-06-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-022",
+      "numero": "INT22/022",
+      "type": "Interpellation",
+      "depose": "2022-03-08",
+      "titre": "Projet d'APEMS au chemin de la Colline, et la santé des enfants ?",
+      "auteurs": [
+        {
+          "nom": "Karine Roch",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-021",
+      "numero": "INT22/021",
+      "type": "Interpellation",
+      "depose": "2022-03-08",
+      "titre": "CPCL : des prestations en cas de décès valables uniquement pour les personnes mariées ?",
+      "auteurs": [
+        {
+          "nom": "Ilias Panchard",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-02-07"
+      },
+      "derniere_etape": "2023-02-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-020",
+      "numero": "INT22/020",
+      "type": "Interpellation",
+      "depose": "2022-03-08",
+      "titre": "Réponse à résolution - Interpellation urgente de Mayoraz Maimouna et crts - Un nouveau centre de sécurité sous la gare : pour quoi faire ?",
+      "auteurs": [
+        {
+          "nom": "Maimouna Mayoraz",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-018",
+      "numero": "INT22/018",
+      "type": "Interpellation",
+      "depose": "2022-03-08",
+      "titre": "Un petit Tour et puis s'en va ?",
+      "auteurs": [
+        {
+          "nom": "Céline Misiego",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-017",
+      "numero": "INT22/017",
+      "type": "Interpellation",
+      "depose": "2022-03-08",
+      "titre": "Cours de français pour allophones : un état des lieux",
+      "auteurs": [
+        {
+          "nom": "Vincent Brayer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-02-07"
+      },
+      "derniere_etape": "2023-02-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-033",
+      "numero": "POS22/033",
+      "type": "Postulat",
+      "depose": "2022-03-01",
+      "titre": "Un plan d'action pour la sobriété énergétique de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Oleg Gafner",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-03-22"
+      },
+      "derniere_etape": "2022-03-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-006",
+      "numero": "PREA22/006",
+      "type": "Préavis",
+      "depose": "2022-02-28",
+      "titre": "Rues Vivantes II",
+      "auteurs": [
+        {
+          "nom": "Paul Cros",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-06-07"
+      },
+      "derniere_etape": "2022-06-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-004",
+      "numero": "PREA22/004",
+      "type": "Préavis",
+      "depose": "2022-02-24",
+      "titre": "Demande de crédits complémentaires pour les préavis N° 2019/51, N° 2016/56 et Nº 2020/45",
+      "auteurs": [
+        {
+          "nom": "Cécile Wolf",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-09-13"
+      },
+      "derniere_etape": "2022-09-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/CA22-002",
+      "numero": "CA22/002",
+      "type": "Compte d’attente",
+      "depose": "2022-02-21",
+      "titre": "M3 - Etudes de déplacement des réseaux",
+      "auteurs": [
+        {
+          "nom": "Cécile Wolf",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-05-10"
+      },
+      "derniere_etape": "2022-05-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-003",
+      "numero": "PREA22/003",
+      "type": "Préavis",
+      "depose": "2022-02-09",
+      "titre": "Lausanne Jardin 2024",
+      "auteurs": [
+        {
+          "nom": "Alexandra Monnier",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-06-07"
+      },
+      "derniere_etape": "2022-06-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-009",
+      "numero": "Q22/009",
+      "type": "Question écrite",
+      "depose": "2022-02-08",
+      "titre": "Quels impacts de la politique d'intégration préscolaire des enfants allophones par la Ville de Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Paulraj Kanthia",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-04-05"
+      },
+      "derniere_etape": "2022-04-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-008",
+      "numero": "Q22/008",
+      "type": "Question écrite",
+      "depose": "2022-02-08",
+      "titre": "Boisy TV SA : quel coût pour la Ville",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-05-24"
+      },
+      "derniere_etape": "2022-05-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-002",
+      "numero": "PREA22/002",
+      "type": "Préavis",
+      "depose": "2022-02-08",
+      "titre": "Rénovation énergétique des installations d'éclairage de l'église St-François et adaptation à l'usage actuel",
+      "auteurs": [
+        {
+          "nom": "Pierrette Vonnez",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-05-24"
+      },
+      "derniere_etape": "2022-05-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-018",
+      "numero": "POS22/018",
+      "type": "Postulat",
+      "depose": "2022-02-08",
+      "titre": "Formatrices et formateurs pour adultes : un métier précaire à revaloriser rapidement",
+      "auteurs": [
+        {
+          "nom": "Pierre Conscience",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-03-08"
+      },
+      "derniere_etape": "2022-03-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-017",
+      "numero": "POS22/017",
+      "type": "Postulat",
+      "depose": "2022-02-08",
+      "titre": "Santé mentale des jeunes après ces longs mois de pandémie, où en est-on ?",
+      "auteurs": [
+        {
+          "nom": "Maurane Vouga",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-03-08"
+      },
+      "derniere_etape": "2022-03-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-016",
+      "numero": "POS22/016",
+      "type": "Postulat",
+      "depose": "2022-02-08",
+      "titre": "Pour une adhésion de la Ville de Lausanne au projet \"trans welcome\"",
+      "auteurs": [
+        {
+          "nom": "Olivia Fahmy",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2023-09-19"
+      },
+      "derniere_etape": "2023-09-19",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-015",
+      "numero": "POS22/015",
+      "type": "Postulat",
+      "depose": "2022-02-08",
+      "titre": "Activités sportives dans les APEMS",
+      "auteurs": [
+        {
+          "nom": "Paulraj Kanthia",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-11-21"
+      },
+      "derniere_etape": "2023-11-21",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-012",
+      "numero": "POS22/012",
+      "type": "Postulat",
+      "depose": "2022-02-08",
+      "titre": "Encourager la parité hommes-femmes dans les institutions culturelles subventionnées par la ville",
+      "auteurs": [
+        {
+          "nom": "Oleg Gafner",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-09-13"
+      },
+      "derniere_etape": "2022-09-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-011",
+      "numero": "POS22/011",
+      "type": "Postulat",
+      "depose": "2022-02-08",
+      "titre": "On se lève tous pour le Stand Up Paddle !",
+      "auteurs": [
+        {
+          "nom": "Xavier de Haller",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-03-08"
+      },
+      "derniere_etape": "2022-03-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-010",
+      "numero": "POS22/010",
+      "type": "Postulat",
+      "depose": "2022-02-08",
+      "titre": "Pour une médiation culturelle coordonnée, ciblée et innovante",
+      "auteurs": [
+        {
+          "nom": "Magali Crausaz Mottier",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-03-08"
+      },
+      "derniere_etape": "2022-03-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-006",
+      "numero": "POS22/006",
+      "type": "Postulat",
+      "depose": "2022-02-08",
+      "titre": "Lausanne démocratise la production locale d'électricité en encourageant les centrales solaires participatives",
+      "auteurs": [
+        {
+          "nom": "Valéry Beaud",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-03-08"
+      },
+      "derniere_etape": "2022-03-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-016",
+      "numero": "INT22/016",
+      "type": "Interpellation",
+      "depose": "2022-02-08",
+      "titre": "A l'instar du climat, la Ville de Lausanne a-t-elle aussi un plan pour ses commerçants ?",
+      "auteurs": [
+        {
+          "nom": "Fabrice Moscheni",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-08-29"
+      },
+      "derniere_etape": "2023-08-29",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-015",
+      "numero": "INT22/015",
+      "type": "Interpellation",
+      "depose": "2022-02-08",
+      "titre": "Championnat du monde de Hockey 2026 : Lausanne sifflée hors-jeu",
+      "auteurs": [
+        {
+          "nom": "Xavier de Haller",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-014",
+      "numero": "INT22/014",
+      "type": "Interpellation",
+      "depose": "2022-02-08",
+      "titre": "Pour plus de transparence dans la gouvernance de la Vaudoise Arena",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2025-09-30"
+      },
+      "derniere_etape": "2025-09-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-013",
+      "numero": "INT22/013",
+      "type": "Interpellation",
+      "depose": "2022-02-08",
+      "titre": "Subventions en faveur des clubs sportifs féminins : comment procéder au rééquilibrage ?",
+      "auteurs": [
+        {
+          "nom": "Sarah Neumann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2025-01-21"
+      },
+      "derniere_etape": "2025-01-21",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-012",
+      "numero": "INT22/012",
+      "type": "Interpellation",
+      "depose": "2022-02-08",
+      "titre": "Sécurité des écoliers aux abords et dans les enceintes des écoles",
+      "auteurs": [
+        {
+          "nom": "Aude Billard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée avec résolution",
+        "date": "2023-02-07"
+      },
+      "derniere_etape": "2023-02-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-010",
+      "numero": "INT22/010",
+      "type": "Interpellation",
+      "depose": "2022-02-08",
+      "titre": "Rénovation énergétique des bâtiments destinés au logement : où en est-on ?",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2022-02-08"
+      },
+      "derniere_etape": "2022-02-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA22-001",
+      "numero": "PREA22/001",
+      "type": "Préavis",
+      "depose": "2022-01-28",
+      "titre": "Crédit-cadre 2022-2030 pour les travaux de maintenance à réaliser sur les installations de production de l'aménagement hydroélectrique de Lavey avant l'échéance des concessions",
+      "auteurs": [
+        {
+          "nom": "Ashley Da Costa",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2022-03-22"
+      },
+      "derniere_etape": "2022-03-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-007",
+      "numero": "Q22/007",
+      "type": "Question écrite",
+      "depose": "2022-01-25",
+      "titre": "Place Benjamin-Constant : la fin est-elle proche ?",
+      "auteurs": [
+        {
+          "nom": "Anouck Saugy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-006",
+      "numero": "Q22/006",
+      "type": "Question écrite",
+      "depose": "2022-01-25",
+      "titre": "Boat sharing : quel bilan ?",
+      "auteurs": [
+        {
+          "nom": "Roland Philippoz",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-03-22"
+      },
+      "derniere_etape": "2022-03-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-004",
+      "numero": "POS22/004",
+      "type": "Postulat",
+      "depose": "2022-01-25",
+      "titre": "\"Du soleil participatif pour le financement de la transition énergétique\"",
+      "auteurs": [
+        {
+          "nom": "Samuel De Vargas",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2022-02-08"
+      },
+      "derniere_etape": "2022-02-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-003",
+      "numero": "POS22/003",
+      "type": "Postulat",
+      "depose": "2022-01-25",
+      "titre": "Une politique foncière favorisant l'accès à la propriété des Lausannoises et des Lausannois",
+      "auteurs": [
+        {
+          "nom": "Matthieu Carrel",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refusé/retiré",
+        "date": "2023-12-06"
+      },
+      "derniere_etape": "2023-12-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-002",
+      "numero": "POS22/002",
+      "type": "Postulat",
+      "depose": "2022-01-25",
+      "titre": "Mendicité à Lausanne - Où en est-on  ?",
+      "auteurs": [
+        {
+          "nom": "Matthieu Carrel",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-02-10"
+      },
+      "derniere_etape": "2026-02-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS22-001",
+      "numero": "POS22/001",
+      "type": "Postulat",
+      "depose": "2022-01-25",
+      "titre": "Pour une suppression de l'annonce systématique du genre",
+      "auteurs": [
+        {
+          "nom": "Oleg Gafner",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2023-11-07"
+      },
+      "derniere_etape": "2023-11-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-009",
+      "numero": "INT22/009",
+      "type": "Interpellation",
+      "depose": "2022-01-25",
+      "titre": "Interdiction de tourner à gauche : quand la Municipalité préfère tourner en rond",
+      "auteurs": [
+        {
+          "nom": "Antoine Gösta Piguet",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2024-02-06"
+      },
+      "derniere_etape": "2024-02-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-008",
+      "numero": "INT22/008",
+      "type": "Interpellation",
+      "depose": "2022-01-25",
+      "titre": "Les STEPs de la région lausannoise sont-elles trop nocives pour le climat et la couche d'ozone ?",
+      "auteurs": [
+        {
+          "nom": "Johann Dupuis",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2026-02-03"
+      },
+      "derniere_etape": "2026-02-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-007",
+      "numero": "INT22/007",
+      "type": "Interpellation",
+      "depose": "2022-01-25",
+      "titre": "Fondation BBL : qui mène la danse ?",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-02-28"
+      },
+      "derniere_etape": "2023-02-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-004",
+      "numero": "INT22/004",
+      "type": "Interpellation",
+      "depose": "2022-01-25",
+      "titre": "Rue Pichard : Vitrines opaques et calendrier trouble",
+      "auteurs": [
+        {
+          "nom": "Benoît Gaillard",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée",
+        "date": "2023-02-07"
+      },
+      "derniere_etape": "2023-02-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-004",
+      "numero": "Q22/004",
+      "type": "Question écrite",
+      "depose": "2022-01-18",
+      "titre": "Eclairage des chemins et déneigement sur les successions de servitudes privées",
+      "auteurs": [
+        {
+          "nom": "Vincent Brayer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-04-05"
+      },
+      "derniere_etape": "2022-04-05",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS21-086",
+      "numero": "POS21/086",
+      "type": "Postulat",
+      "depose": "2022-01-12",
+      "titre": "Pour que la Ville de Lausanne rejoigne l'appel du Rhône",
+      "auteurs": [
+        {
+          "nom": "Sara Gnoni",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Refus",
+        "date": "2025-05-27"
+      },
+      "derniere_etape": "2025-05-27",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-003",
+      "numero": "Q22/003",
+      "type": "Question écrite",
+      "depose": "2022-01-11",
+      "titre": "Voeu à la Municipalité pour l'enregistrement des séances de commissions",
+      "auteurs": [
+        {
+          "nom": "Fabrice Moscheni",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-03-22"
+      },
+      "derniere_etape": "2022-03-22",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-002",
+      "numero": "Q22/002",
+      "type": "Question écrite",
+      "depose": "2022-01-11",
+      "titre": "La politique de mobilité et le plan climat lausannois sont-ils aussi valables  pour les gros contribuables ?",
+      "auteurs": [
+        {
+          "nom": "Valéry Beaud",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-01-17"
+      },
+      "derniere_etape": "2023-01-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q22-001",
+      "numero": "Q22/001",
+      "type": "Question écrite",
+      "depose": "2022-01-11",
+      "titre": "Construction d'un collecteur d'évacuation des eaux usées (DN 315) - une  chance pour la nature et pour les quartiers environnants ?",
+      "auteurs": [
+        {
+          "nom": "Alexandra Gerber",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-08-29"
+      },
+      "derniere_etape": "2023-08-29",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE22-002",
+      "numero": "PE22/002",
+      "type": "Pétition",
+      "depose": "2022-01-11",
+      "titre": "Oui aux 50 km/h la nuit en Ville de Lausanne",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-09-13"
+      },
+      "derniere_etape": "2022-09-13",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE22-001",
+      "numero": "PE22/001",
+      "type": "Pétition",
+      "depose": "2022-01-11",
+      "titre": "Sauvons le Domaine des Fiches pour les générations futures",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Renvoi en Municipalité pour communication",
+        "date": "2022-05-10"
+      },
+      "derniere_etape": "2022-05-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE21-018",
+      "numero": "PE21/018",
+      "type": "Pétition",
+      "depose": "2022-01-11",
+      "titre": "Pour la modération du trafic à l'avenue Louis-Vulliemin et à la route du Signal - Pour des rues plus sûres, moins bruyantes et plus conviviales - Pour une limitation de la vitesse des véhicules à 30 km/h",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2023-05-02"
+      },
+      "derniere_etape": "2023-05-02",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-003",
+      "numero": "INT22/003",
+      "type": "Interpellation",
+      "depose": "2022-01-11",
+      "titre": "Quelques précisions sur Malley",
+      "auteurs": [
+        {
+          "nom": "Matthieu Carrel",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Adoptée avec résolution",
+        "date": "2023-06-07"
+      },
+      "derniere_etape": "2023-06-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-002",
+      "numero": "INT22/002",
+      "type": "Interpellation",
+      "depose": "2022-01-11",
+      "titre": "Remplacer les conteneurs : la Ville de Lausanne n'a-t-elle pas mieux à faire ?",
+      "auteurs": [
+        {
+          "nom": "Coralie Dumoulin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2022-01-11"
+      },
+      "derniere_etape": "2022-01-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT22-001",
+      "numero": "INT22/001",
+      "type": "Interpellation",
+      "depose": "2022-01-11",
+      "titre": "Log4Shell : vous n'en avez pas entendu parler ? C'est pas normal.",
+      "auteurs": [
+        {
+          "nom": "Yusuf Kulmiye",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Prend acte",
+        "date": "2022-08-30"
+      },
+      "derniere_etape": "2022-08-30",
+      "communes": []
+    }
+  ]
+}

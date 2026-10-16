@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225486,
+  "numero": "21_HQU_100",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2021-11-09"
+  },
+  "depose": "2021-11-02",
+  "titre": "Registre foncier en panne",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-11-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-11-09",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/9a839b96-1b6a-4423-89f7-bde38f59b144/meeting/1004410",
+  "communes": []
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221950,
+  "numero": "10_INT_466",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-09-27"
+  },
+  "depose": "2010-12-14",
+  "titre": "La télé, les Retraites Populaires et l'ECA, mariage réussi ?",
+  "contributeurs": [
+    {
+      "nom": "Béatrice Métraux",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-12-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-12-14",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-09-27",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2010-12-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_466_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-09-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_466_Texte_CE.pdf"
+    },
+    {
+      "titre": "Retour l'ordre du jour",
+      "date": "2011-09-20",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-20-septembre-2011"
+    },
+    {
+      "titre": "Retour l'ordre du jour",
+      "date": "2011-09-13",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-13-septembre-2011"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-27-septembre-2011/reponse-du-conseil-detat-a-linterpellation-beatrice-metraux-au-nom-du-groupe-des-verts-la-tele-les-retraites-populaires-et-leca-mariage-reussi",
+  "communes": [
+    {
+      "ofs": 5607,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5764,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

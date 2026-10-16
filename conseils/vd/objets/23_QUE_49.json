@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227342,
+  "numero": "23_QUE_49",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-11-08"
+  },
+  "depose": "2023-09-26",
+  "titre": "Soulager les parents séparés ou divorcés d’enfants majeurs à charge par la déduction de la pension alimentaire",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-09-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-11-08",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Contributions d'entretien",
+      "date": "2023-11-08",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2206331"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/9497bed4-542c-4da8-887c-d49cc347aa1d/meeting/1019541",
+  "communes": []
+}

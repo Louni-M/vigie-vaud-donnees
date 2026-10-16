@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 327368,
+  "numero": "26_HQU_84",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2026-05-12"
+  },
+  "depose": "2026-05-05",
+  "titre": "G7: quelles mesures vaudoises?",
+  "contributeurs": [
+    {
+      "nom": "Philippe Miauton",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-05-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-05-05",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Erledigt"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d14b4d2d-9d66-4661-869b-a45d41bcf3be/meeting/1029668",
+  "communes": []
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221450,
+  "numero": "08_MOT_032",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2008-11-04"
+  },
+  "depose": "2008-11-04",
+  "titre": "Motion du Groupe les Verts pour un centime de l'eau prélevé à des fins de coopération internationale",
+  "contributeurs": [
+    {
+      "nom": "Stéphanie Apothéloz",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Stéphanie Apothéloz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-11-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-11-04",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-11-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_4_novembre_2008/08_MOT_032_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2008-11-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_4_novembre_2008/08_MOT_032_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-4-novembre-2008/motion-du-groupe-des-verts",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    }
+  ]
+}

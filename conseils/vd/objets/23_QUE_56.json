@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227348,
+  "numero": "23_QUE_56",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-12-20"
+  },
+  "depose": "2023-11-21",
+  "titre": "Tarifs hospitaliers : des tarifs non objectifs approuvés par le Conseil d’Etat ?",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-11-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-12-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Tarifs hospitaliers",
+      "date": "2023-12-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2213909"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ab00baea-57aa-432a-8fd3-b30cf652f8c2/meeting/1019547",
+  "communes": [
+    {
+      "ofs": 5718,
+      "origine": "document"
+    }
+  ]
+}

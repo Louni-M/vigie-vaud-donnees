@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227674,
+  "numero": "24_INT_34",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2024-06-26"
+  },
+  "depose": "2024-02-20",
+  "titre": "Sauvons le Château de Gréchon",
+  "contributeurs": [
+    {
+      "nom": "Muriel Thalmann",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-02-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-02-27",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-06-26",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-02-27",
+      "lien": "https://www.sonomix.ch/live/gcvd/2748#1150"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-11-05",
+      "lien": "https://www.sonomix.ch/live/gcvd/2944#6685"
+    },
+    {
+      "titre": "Sauvegarde du château de Gréchon",
+      "date": "2024-06-26",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2247468"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/88870f18-304b-4867-a86d-ecbc1b71aa42/meeting/1026864",
+  "communes": [
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

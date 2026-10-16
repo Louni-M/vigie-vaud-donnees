@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222838,
+  "numero": "13_INT_092",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-07-02"
+  },
+  "depose": "2013-02-05",
+  "titre": "Sleep-in à Morges, la précarisation des requérants d'asile déboutés, un objectif pour le Conseil d'Etat ?",
+  "contributeurs": [
+    {
+      "nom": "Sylvie Podio",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Sylvie Podio",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-02-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-02-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-07-02",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-07-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_092_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-02-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_092_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-2-juillet-2013/reponse-du-conseil-detat-a-linterpellation-sylvie-podio-et-consorts-sleep-in-a-morges-la-precarisation-des-requerants-dasile-deboutes-un-objectif-pour-le-conseil-detat",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "titre"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224379,
+  "numero": "18_LEG_351",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2018-05-22"
+  },
+  "depose": "2018-02-13",
+  "titre": "Exposé de motifs et projet de loi modifiant la loi sur l'exercice des droits politiques du 16 mai 1989 (LEDP) et Rapport du Conseil d'Etat au Grand Conseil sur la MotionPhilippe Vuillemin – Dépouillement lors des scrutins fédéraux : tous les citoyens communaux doivent pouvoir participer !",
+  "contributeurs": [
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-02-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-22",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-02-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/351_RC.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-02-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/351_TexteCE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-22-mai-2018/expose-de-motifs-et-projet-de-loi-modifiant-la-loi-sur-lexercice-des-droits-politiques-du-16-mai-1989-ledp-et-rapport-du-conseil-detat-au-grand-conseil-sur-la-motion-philippe-vuillemin-depouillement-lors-des-scrutins-federaux-tous-les-citoyens-com",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5745,
+      "origine": "document"
+    }
+  ]
+}

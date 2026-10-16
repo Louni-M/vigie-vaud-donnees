@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222436,
+  "numero": "11_LEG_398",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-09-20"
+  },
+  "depose": "2011-09-20",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 4'000'000.- pour financer le solde de la correction de la route RC 761d entre Puidoux et les Thioleyres, sur le territoire des communes de Puidoux et des Thioleyres",
+  "contributeurs": [
+    {
+      "nom": "Jean-Michel Favez",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Michel Favez",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-09-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-09-20",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-09-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/398_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-09-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/398_RC.PDF"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 20.09.11",
+      "date": "2011-09-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/398_D%C3%A9cret.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-20-septembre-2011/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-de-chf-4000000-pour-la-correction-de-la-route-entre-puidoux-et-thioleyres",
+  "communes": [
+    {
+      "ofs": 5607,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5805,
+      "origine": "titre"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223919,
+  "numero": "16_LEG_304",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-09-20"
+  },
+  "depose": "2016-08-30",
+  "titre": "Résolution Véronique Hurni et consorts - Halte aux balafres sur Lavaux",
+  "contributeurs": [
+    {
+      "nom": "Philippe Modoux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Modoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-08-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-09-20",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-08-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/304_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-08-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/304_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-20-septembre-2016/expose-des-motifs-de-decret-accordant-au-conseil-detat-un-credit-douvrage-de-chf-5220000-pour-financer-les-travaux-de-rehabilitation-de-la-route-cantonale-701-b-p-entre-savigny-et-forel-lavaux",
+  "communes": [
+    {
+      "ofs": 5611,
+      "origine": "document"
+    },
+    {
+      "ofs": 5604,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224038,
+  "numero": "18_PET_014",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2019-03-05"
+  },
+  "depose": "2018-04-24",
+  "titre": "Pétition G.U. - 07.04.18",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2018-04-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-03-05",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-03-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_014_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-5-mars-2019/petition-gu-070418",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

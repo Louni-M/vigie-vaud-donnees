@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226531,
+  "numero": "22_MOT_11",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2024-03-26"
+  },
+  "depose": "2022-03-22",
+  "titre": "Pour tripler les rénovations énergétiques avec l’aide indirecte de la Banque nationale",
+  "contributeurs": [
+    {
+      "nom": "Pierre Zwahlen",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Cendrine Cachemaille",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-03-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-03-26",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-03-26",
+      "lien": "https://www.sonomix.ch/live/gcvd/2786#8968"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-03-29",
+      "lien": "http://www.sonomix.ch/live/gcvd/2086#235"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/39603f72-64be-4f5c-a98a-59f5ba437f85/meeting/1019564",
+  "communes": [
+    {
+      "ofs": 5638,
+      "origine": "document"
+    },
+    {
+      "ofs": 5632,
+      "origine": "document"
+    },
+    {
+      "ofs": 5633,
+      "origine": "document"
+    },
+    {
+      "ofs": 5405,
+      "origine": "document"
+    }
+  ]
+}

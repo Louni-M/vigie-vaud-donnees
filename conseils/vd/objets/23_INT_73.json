@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227106,
+  "numero": "23_INT_73",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-05-09"
+  },
+  "depose": "2023-05-02",
+  "titre": "Le prix de l’énergie s’envole, le bénéfice de Romande Energie aussi !",
+  "contributeurs": [
+    {
+      "nom": "Cédric Roten",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-05-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-05-09",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-05-09",
+      "lien": "https://www.sonomix.ch/live/gcvd/2379#587"
+    },
+    {
+      "titre": "https://www.24heures.ch/saint-prex-fait-son-bilan-energetique-dans-un-climat-electrique-966657428256",
+      "date": "2023-05-02",
+      "lien": "https://www.24heures.ch/saint-prex-fait-son-bilan-energetique-dans-un-climat-electrique-966657428256"
+    },
+    {
+      "titre": "https://lausannecites.ch/la-flambee-des-prix-de-lelectricite-plonge-les-boulangers-dans-le-petrin",
+      "date": "2023-05-02",
+      "lien": "https://lausannecites.ch/la-flambee-des-prix-de-lelectricite-plonge-les-boulangers-dans-le-petrin"
+    },
+    {
+      "titre": "https://agefi.com/actualites/entreprises/ces-industriels-suisses-menaces-par-lenvolee-des-prix-de-lelectricite",
+      "date": "2023-05-02",
+      "lien": "https://agefi.com/actualites/entreprises/ces-industriels-suisses-menaces-par-lenvolee-des-prix-de-lelectricite"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-03-26",
+      "lien": "http://www.sonomix.ch/live/gcvd/2786#4173"
+    },
+    {
+      "titre": "https://www.lematin.ch/story/3000-hotels-et-restaurants-menaces-de-fermer-alerte-gastrosuisse-874544827903",
+      "date": "2023-05-02",
+      "lien": "https://www.lematin.ch/story/3000-hotels-et-restaurants-menaces-de-fermer-alerte-gastrosuisse-874544827903"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/903b91c8-dcef-42ff-9c12-ab8320f4fac2/meeting/1019564",
+  "communes": [
+    {
+      "ofs": 5646,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5860,
+      "origine": "document"
+    },
+    {
+      "ofs": 5633,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224501,
+  "numero": "18_POS_056",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-12-09"
+  },
+  "depose": "2018-04-24",
+  "titre": "L'agriculture urbaine, une passerelle entre la ville et la campagne, une passerelle avec le futur !",
+  "contributeurs": [
+    {
+      "nom": "Grégory Devaud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Grégory Devaud",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-04-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-08-27",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-12-09",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-05-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_056_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-05-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_056_Obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_056_D%C3%A9p%C3%B4t.pdf"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2018-05-01",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-1er-mai-2018"
+    },
+    {
+      "titre": "Enjeux liés à l’agriculture urbaine et périurbaine",
+      "date": "2020-12-09",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2024393"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-27-aout-2019/postulat-severine-evequoz-et-consorts-lagriculture-urbaine-une-passerelle-entre-la-ville-et-la-campagne-une-passerelle-avec-le-futur",
+  "communes": [
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

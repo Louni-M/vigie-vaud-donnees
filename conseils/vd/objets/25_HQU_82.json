@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 250324,
+  "numero": "25_HQU_82",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2025-09-09"
+  },
+  "depose": "2025-09-02",
+  "titre": "Plastiques : trop de changements, pas assez de clarté",
+  "contributeurs": [
+    {
+      "nom": "Aurélien Demaurex",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-09-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-09-02",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Erledigt"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "[1]",
+      "date": "2025-09-02",
+      "lien": "https://www.portail.vd.ch/institutions/siel/#_ftn1"
+    },
+    {
+      "titre": "https://www.news.admin.ch/fr/newnsb/b8aF1wNRGfirdv2s91Er-",
+      "date": "2025-09-02",
+      "lien": "https://www.news.admin.ch/fr/newnsb/b8aF1wNRGfirdv2s91Er-"
+    },
+    {
+      "titre": "https://www.facebook.com/photo?fbid=1130560419101577&set=a.620266556797635",
+      "date": "2025-09-02",
+      "lien": "https://www.facebook.com/photo?fbid=1130560419101577&set=a.620266556797635"
+    },
+    {
+      "titre": "[2]",
+      "date": "2025-09-02",
+      "lien": "https://www.portail.vd.ch/institutions/siel/#_ftn2"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/92d3aa89-5fbc-45e5-9663-0a912a410b3f/meeting/1029635",
+  "communes": []
+}

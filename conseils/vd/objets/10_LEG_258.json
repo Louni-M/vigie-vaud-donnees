@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221994,
+  "numero": "10_LEG_258",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-03-02"
+  },
+  "depose": "2010-03-02",
+  "titre": "Exposé des motifs et projets de décret- accordant au Conseil d'Etat un crédit d'investissement de CHF 6'810'000.- pour l'aménagement d'une salle informatique (centre de traitement des données - Data Center) dans l'immeuble sis à l'avenue Longemalle 1, à Renenset- accordant au Conseil d'Etat un crédit d'investissement de CHF 4'380'000.- pour l'aménagement des bureaux et d'un restaurant d'entreprise dans l'immeuble précitéetRapport du Conseil d'Etat au Grand Conseil sur le postulat Albert Chapalay et consort intitulé : « N'est-il pas envisageable, dans le cadre des systèmes informatiques, de regrouper les forces de certaines entités vaudoises pour rendre moins onéreux et, probablement, plus efficaces leurs développements dans ce domaine ? »",
+  "contributeurs": [
+    {
+      "nom": "Jacques Ansermet",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jacques Ansermet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-03-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-03-02",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-03-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/258_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-03-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/258_RC.pdf"
+    },
+    {
+      "titre": "1er décret de 6'810'00.- adopté par le Grand Conseil le 02.03.10",
+      "date": "2010-03-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/258_Decret_6_810_000_adopte.pdf"
+    },
+    {
+      "titre": "2ème décret de 4'380'000.- adopté par le Grand Conseil le 02.03.10",
+      "date": "2010-03-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/258_Decret_4_380_000_adopte.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-2-mars-2010/expose-des-motifs-et-projets-de-decret-amenagement-salle-informatique-et-restaurant-data-center",
+  "communes": [
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5635,
+      "origine": "document"
+    }
+  ]
+}

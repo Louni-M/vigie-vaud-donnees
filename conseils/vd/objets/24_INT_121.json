@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227584,
+  "numero": "24_INT_121",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-09-16"
+  },
+  "depose": "2024-08-27",
+  "titre": "La Ferme de Bassenges ne disparaitra pas: chaque ferme compte!",
+  "contributeurs": [
+    {
+      "nom": "Martine Gerber",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-08-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-09-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-08-13",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-09-16",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-09-16",
+      "lien": "https://www.sonomix.ch/live/gcvd/3205#5185"
+    },
+    {
+      "titre": "Bâtiments de la Ferme de Bassenges",
+      "date": "2025-08-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2320328"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-09-03",
+      "lien": "http://www.sonomix.ch/live/gcvd/2900#402"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/61d82491-0371-4874-a050-f58f350be409/meeting/1029636",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

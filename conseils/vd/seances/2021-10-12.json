@@ -1,0 +1,318 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 14135,
+  "date": "2021-10-12",
+  "nom": "Séance du Grand Conseil du mardi 12 octobre 2021",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/detail-seance/seance-gc/1004409",
+  "ordre_du_jour": [
+    {
+      "numero": "2",
+      "titre": "Simple question Vassilis Venizelos - Pour un soutien pérenne au refuge pour animaux \"Erminea\".",
+      "categorie": null,
+      "resultat": null,
+      "objet": "vd/21_QUE_37"
+    },
+    {
+      "numero": "3",
+      "titre": "Question orale Hadrien Buclin - Le Conseil d’Etat doit s’engager pour les réfugié.e.s afghan.e.s.",
+      "categorie": null,
+      "resultat": "Terminée",
+      "objet": "vd/21_HQU_92"
+    },
+    {
+      "numero": "4",
+      "titre": "Interpellation Céline Misiego au nom EP - Pour un accueil de jour accessible à toutes les familles : qui tient la barre et qui tient le porte-monnaie ? (Pas de développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/21_INT_129"
+    },
+    {
+      "numero": "5",
+      "titre": "Interpellation Marc-Olivier Buffat et consorts - risque de pénuries hivernales d'électricité - quelles mesures de précautions? (Développement).",
+      "categorie": null,
+      "resultat": "Transmise au CE",
+      "objet": "vd/21_INT_128"
+    },
+    {
+      "numero": "6",
+      "titre": "Initiative Didier Lohri et consorts - Subventionnement des investissements strictement liés à l'autonomie communale par la péréquation (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyée à commission",
+      "objet": "vd/21_INI_7"
+    },
+    {
+      "numero": "7",
+      "titre": "Initiative Carine Carvalho et consorts au nom Au nom du groupe socialiste - Initiative cantonale Pour l'introduction dans le code pénal des dispositions réprimant l’usage abusif de l’image et atteinte à la personnalité (Mettons fin au revenge porn !) (Développement et demande de renvoi à commission avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Renvoyée à commission",
+      "objet": "vd/21_INI_8"
+    },
+    {
+      "numero": "8",
+      "titre": "Motion Jean-Michel Dolivo et consorts - Violation de l'obligation d'informer les locataires en cas de travaux dans leur immeuble, quelle conséquence ?.",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": "vd/18_MOT_040"
+    },
+    {
+      "numero": "9",
+      "titre": "Motion Marc-Olivier Buffat et consorts - Article 103 LATC et LPPPL - Des simplifications administratives s'imposent.",
+      "categorie": null,
+      "resultat": "Prise en considération",
+      "objet": "vd/19_MOT_088"
+    },
+    {
+      "numero": "10",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 7'000’000 pour financer la mise en œuvre de la première étape de la mesure d’impulsion « la formation, moteur du changement » du Plan climat cantonal (1er débat) (Suite des débats).",
+      "categorie": null,
+      "resultat": "2ème débat requis",
+      "objet": "vd/21_LEG_24"
+    },
+    {
+      "numero": "11",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Olivier Epars - Interpellation sur les pesticides : le Canton soutient-il le \"2xNon\" à l’insu de son plein gré ? (21_INT_69).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "12",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Claire Richard et consorts - Contrôle des conditions de protection des eaux de surface lors de l'utilisation de produits phytosanitaires (21_INT_45).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "13",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat François Pointet et consorts au nom du groupe vert'libéral - Distribution d'invendus alimentaires, ne sommes-nous pas loin de l'optimum (19_POS_110) ?.",
+      "categorie": null,
+      "resultat": "Adopté par le GC",
+      "objet": null
+    },
+    {
+      "numero": "14",
+      "titre": "Pétition pour le retour en Suisse de la famille D.",
+      "categorie": null,
+      "resultat": "Retirée",
+      "objet": "vd/19_PET_034"
+    },
+    {
+      "numero": "15",
+      "titre": "Résolution Carine Carvalho et consorts au nom Au nom du groupe socialiste - Soutenir les personnes réfugiées afghanes (Développement et mise en discussion avec au moins 20 signatures).",
+      "categorie": null,
+      "resultat": "Voeu transmis au CE",
+      "objet": "vd/21_RES_14"
+    },
+    {
+      "numero": "16",
+      "titre": "Postulat Jérôme Christen et consorts au nom Les Libres - Pour lutter contre les effets funestes de la dépendance aux loteries électroniques placés dans les bars et cafés (Développement et demande de prise en considération immédiate).",
+      "categorie": null,
+      "resultat": "Renvoyé à commission",
+      "objet": "vd/21_POS_50"
+    },
+    {
+      "numero": "17",
+      "titre": "Postulat Dylan Karlen - Pour une analyse des effets de l’utilisation de pistolets à impulsions électriques (Taser) (Développement et demande de prise en considération immédiate).",
+      "categorie": null,
+      "resultat": "Renvoyé à commission",
+      "objet": "vd/21_POS_51"
+    },
+    {
+      "numero": "18",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Daniel Develey - ZAD, comme Zone A Défendre...ou à Déloger (20_INT_35).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "19",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Jean-Luc Bezençon et consorts au nom du groupe PLR - Les ZADISTES...et la suite...? (21_INT_56).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "20",
+      "titre": "EMPL sur le transport de sécurité de biens ou de valeurs (1er débat).",
+      "categorie": null,
+      "resultat": "Adopté par le GC",
+      "objet": "vd/21_LEG_9"
+    },
+    {
+      "numero": "21",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Cédric Weissert et consorts - Radar mobile, flash à outrance ? (21_INT_78).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "22",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Patrick Simonin et consorts au nom au nom du Groupe PLR - Zone A Défendre ou Zone Anarchiste Destructrice ? (20_INT_60).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "23",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Fabien Deillon et consorts - Evacuation de la colline du Mormont, quel coût pour le contribuable ? (21_INT_50).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "24",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Hadrien Buclin - Evacuation de la Colline du Mormont : des zones d’ombre à éclaircir (21_INT_54).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "25",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Pierre Zwahlen et consorts - Éventrer le Mormont : ça suffit ! (20_INT_41).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "26",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Carole Schelker et consorts au nom Groupe thématique au GC \"graviers-déchets minéraux\" - Béton et granulats: soutenons la production locale ! (20_INT_64).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "27",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Nicolas Bolay et consorts au nom Du groupe UDC - lorsqu'une idée écologique va à l’encontre des techniques agricole (21_INT_9).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "28",
+      "titre": "Postulat Alice Genoud et consorts - Redonnons vie à nos terres enterrées sous le bitume: Pour un plan de désimperméabilisation des sols.",
+      "categorie": null,
+      "resultat": "Pris en considération",
+      "objet": "vd/21_POS_25"
+    },
+    {
+      "numero": "29",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'Interpellation Marion Wahlen - Energies renouvelables, hâte-toi lentement. (20_INT_11).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "30",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Marc-Olivier Buffat et consorts - 5G la fin du moratoire ? (21_INT_37).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "31",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Amélie Cherbuin et consorts - Pour un soutien des autorités vaudoises à la grande marche pour la paix reliant New Delhi à Genève en 2020 (Jai Jagat 2020).",
+      "categorie": null,
+      "resultat": "Adopté par le GC",
+      "objet": null
+    },
+    {
+      "numero": "32",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Jean-François Thuillard et consorts - Notre Chef-lieu, Capitale des interdits ? (21_INT_12).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "33",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Claire Attinger Doepper et consorts - Recrudescence des dérives sectaires : dans le Canton de Vaud aussi (21_INT_35).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "34",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Sébastien Pedroli - Mesures institutionnelles : le canton de Vaud en fait-il assez ? (21_INT_64).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "35",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Nicolas Croci Torti et consorts - La 3e corrections du Rhône est-elle vraiment un long fleuve tranquille ? (21_INT_65).",
+      "categorie": null,
+      "resultat": "Adoptée par le GC",
+      "objet": null
+    },
+    {
+      "numero": "36",
+      "titre": "Préavis du Conseil d'Etat sur l'initiative Maurice Mischler et consorts - Pour le climat, taxons les billets d'avion (19_INI_011)",
+      "categorie": null,
+      "resultat": null,
+      "objet": "vd/20_PRE_4"
+    },
+    {
+      "numero": "37",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Chantal Weidmann Yenny et consorts au nom Groupe PLR - Vaccination des personnes âgées : qui fait quoi, comment ? (21_INT_14).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "38",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Cédric Weissert et consorts - Vaccination vaudoise - Des couacs au bout de l'aiguille (21_INT_51).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "39",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Florence Bettschart-Narbel et consorts au nom Groupe PLR - Vaccination contre le Covid : une montée en puissance est nécessaire (21_INT_13).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "40",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Vassilis Venizelos - Diabète : Non aux discriminations ! (20_INT_43).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "41",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Christine Chevalley - Afin que nos EMS ne soient pas des Établissements pour mourir seuls (20_INT_55).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "42",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Pierre Zwahlen et consorts - Mieux prévenir les épidémies en EMS. (20_INT_487).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "43",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Pierre-Alain Favrod - Création d'E.M.S dans ce Canton: est-ce un privilège des villes ? (20_INT_447).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "44",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Aurélien Clerc et consorts - Comprendre les raisons qui ont mené à fermer les restaurants (20_INT_52).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    },
+    {
+      "numero": "45",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Séverine Evéquoz - La loi sur les bourses d'études empêche-t-elle des jeunes de finir leur formation ? Y a-t-il un \"plafond de verre\" pour les étudiantes boursières ? (19_INT_356).",
+      "categorie": null,
+      "resultat": "Renvoyée par manque de temps",
+      "objet": null
+    }
+  ]
+}

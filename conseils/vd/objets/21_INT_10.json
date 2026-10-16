@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225586,
+  "numero": "21_INT_10",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-07-06"
+  },
+  "depose": "2021-01-19",
+  "titre": "Quel avenir pour les ateliers CFF d'Yverdon-les-Bains ?",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Balet",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-01-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-01-26",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-07-06",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-01-26",
+      "lien": "https://www.sonomix.ch/live/gcvd/1707#327"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-09-20",
+      "lien": "https://www.sonomix.ch/live/gcvd/2181#2330"
+    },
+    {
+      "titre": "Les Ateliers CFF restent à Yverdon-les-Bains et se modernisent",
+      "date": "2022-07-06",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2126323"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/14c61edc-e2cb-4bb7-a44f-c12e1c9075d4/meeting/1012633",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5561,
+      "origine": "document"
+    },
+    {
+      "ofs": 5565,
+      "origine": "document"
+    },
+    {
+      "ofs": 5551,
+      "origine": "document"
+    }
+  ]
+}

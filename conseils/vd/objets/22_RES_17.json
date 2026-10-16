@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226784,
+  "numero": "22_RES_17",
+  "type": "Résolution",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2023-02-22"
+  },
+  "depose": "2022-10-11",
+  "titre": "Gare CFF de Lausanne - les travaux restent à quai",
+  "contributeurs": [
+    {
+      "nom": "Xavier de Haller",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-10-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-12-14",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-02-22",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "22_RES_17-Texte déposé",
+      "date": "2022-11-01",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2139688"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-12-14",
+      "lien": "https://www.sonomix.ch/live/gcvd/2279#2514"
+    },
+    {
+      "titre": "Blocage de la gare de Lausanne : le Conseil d’Etat défend avec force les intérêts ferroviaires vaudois",
+      "date": "2023-02-22",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2162608"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/b409b8f1-1202-4a0b-b565-f8e5ef88c70d/meeting/1012646",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5860,
+      "origine": "document"
+    },
+    {
+      "ofs": 5851,
+      "origine": "document"
+    }
+  ]
+}

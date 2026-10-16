@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227918,
+  "numero": "24_QUE_11",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-03-20"
+  },
+  "depose": "2024-01-30",
+  "titre": "Des projets autoroutiers au détriment de l'agriculture ?",
+  "contributeurs": [
+    {
+      "nom": "Romain Pilloud",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-01-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-03-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Surfaces d’assolement nécessaires pour les projets autoroutiers dans le canton",
+      "date": "2024-03-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2228828"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6603e1bd-6753-43a2-b0bc-eb85a16c4b92/meeting/1019557",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5498,
+      "origine": "document"
+    },
+    {
+      "ofs": 5712,
+      "origine": "document"
+    },
+    {
+      "ofs": 5749,
+      "origine": "document"
+    },
+    {
+      "ofs": 5627,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5635,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5422,
+      "origine": "document"
+    }
+  ]
+}

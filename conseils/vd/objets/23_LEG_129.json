@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228834,
+  "numero": "23_LEG_129",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2026-03-03"
+  },
+  "depose": "2026-02-10",
+  "titre": "Modifiant la loi du 17 septembre 1985 sur l'enseignement secondaire supérieur (LESS)",
+  "contributeurs": [
+    {
+      "nom": "John Desmeules",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-07-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-02-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-02-24",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-03-03",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2026-02-10",
+      "lien": "https://www.sonomix.ch/live/gcvd/3338#7249"
+    },
+    {
+      "titre": "EMPL modifiant la loi du 17 septembre 1985 sur l’enseignement secondaire supérieur (LESS) - Texte adopté par CE - EMPL Reconnaissance des certificats de maturité gymnasiale en école privée - publié",
+      "date": "2024-07-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2251045"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/350594aa-b91e-4522-8f76-b52ba0ca4299/meeting/1029662",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

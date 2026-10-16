@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224103,
+  "numero": "17_MOT_011",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2018-11-13"
+  },
+  "depose": "2017-11-14",
+  "titre": "Motion demandant une adaptation de la réglementation régissant les transports scolaires",
+  "contributeurs": [
+    {
+      "nom": "Maurice Treboux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Maurice Treboux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-11-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-11-13",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-10-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_011_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-10-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_011_obj_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-13-novembre-2018/motion-jean-remy-chevalley-et-consorts-motion-demandant-une-adaptation-de-la-reglementation-regissant-les-transports-scolaires",
+  "communes": [
+    {
+      "ofs": 5607,
+      "origine": "document"
+    },
+    {
+      "ofs": 5604,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224899,
+  "numero": "19_MOT_098",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Non pris en considération",
+    "date": "2019-06-25"
+  },
+  "depose": "2019-06-18",
+  "titre": "Une journée hebdomadaire végétarienne dans la restauration collective",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre Volet",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Sabine Glauser Krug",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-06-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-06-25",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2019-06-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_098_depot.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2021-06-23",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=382809"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/dbd26e93-b00d-4392-9f16-c05801adc649/meeting/1003921",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

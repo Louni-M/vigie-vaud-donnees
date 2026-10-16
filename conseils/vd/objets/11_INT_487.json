@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222220,
+  "numero": "11_INT_487",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2021-04-21"
+  },
+  "depose": "2011-02-22",
+  "titre": "Trains de nuit franco-italiens au travers de la Suisse. Trains fantômes !",
+  "contributeurs": [
+    {
+      "nom": "André Marendaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "André Marendaz",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-02-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-03-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-09-20",
+      "libelle": "Behandelt vom Parlament"
+    },
+    {
+      "date": "2021-04-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-09-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_487_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-03-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_487_Depot.pdf"
+    },
+    {
+      "titre": "Soutien à la réintroduction de liaisons ferroviaires nocturnes à travers l’Europe",
+      "date": "2021-04-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2049497"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-20-septembre-2011/reponse-du-conseil-detat-a-linterpellation-andre-marendaz-trains-de-nuit-franco-italiens-au-travers-de-la-suisse-trains-fantomes",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5764,
+      "origine": "document"
+    }
+  ]
+}

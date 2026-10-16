@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223636,
+  "numero": "15_PET_042",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2016-02-09"
+  },
+  "depose": "2015-09-29",
+  "titre": "Pétition NON aux explorations et exploitations d'hydrocarbures dans le Canton de Vaud !",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2015-09-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-02-09",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-02-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_PET_042_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-02-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_PET_042_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-9-fevrier-2016/petition-non-aux-explorations-et-exploitations-dhydrocarbures-dans-le-canton-de-vaud",
+  "communes": [
+    {
+      "ofs": 5408,
+      "origine": "document"
+    },
+    {
+      "ofs": 5693,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5514,
+  "objets": [
+    {
+      "cle": "vd/21_RES_10",
+      "numero": "21_RES_10",
+      "type": "Résolution",
+      "depose": "2021-04-20",
+      "titre": "Pour que l’Etat (civil) marque son engagement en faveur de l’égalité !",
+      "auteurs": [
+        {
+          "nom": "David Raedler",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Transmise au CE",
+        "date": "2021-06-16"
+      },
+      "derniere_etape": "2021-06-16",
+      "communes": [
+        {
+          "ofs": 5514,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_PET_033",
+      "numero": "19_PET_033",
+      "type": "Pétition",
+      "depose": "2019-08-27",
+      "titre": "Pétition pour une fermeture raisonnée et raisonnable de la RC 501 entre Bottens et Cugy",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2020-03-03"
+      },
+      "derniere_etape": "2020-03-03",
+      "communes": [
+        {
+          "ofs": 5514,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5516,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_321",
+      "numero": "19_INT_321",
+      "type": "Interpellation",
+      "depose": "2019-03-05",
+      "titre": "Quels soins psychiatriques pour le Chablais ?",
+      "auteurs": [
+        {
+          "nom": "Circé Fuchs",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Circé Fuchs",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2020-03-03"
+      },
+      "derniere_etape": "2020-03-03",
+      "communes": [
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5514,
+          "origine": "document"
+        },
+        {
+          "ofs": 5516,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5882,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_MOT_099",
+      "numero": "19_MOT_099",
+      "type": "Motion",
+      "depose": "2019-06-25",
+      "titre": "Acceptation de cadeaux par les élus : clarifier les règles du jeu pour les député-e-s du Grand Conseil",
+      "auteurs": [
+        {
+          "nom": "Jean Tschopp",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée à commission",
+        "date": "2019-10-01"
+      },
+      "derniere_etape": "2019-10-01",
+      "communes": [
+        {
+          "ofs": 5516,
+          "origine": "document"
+        },
+        {
+          "ofs": 5514,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_49",
+      "numero": "19_LEG_49",
+      "type": "Décret/Loi",
+      "depose": "2019-09-10",
+      "titre": "Exposé des motifs et projet de loi modifiant la loi du 30 mars 2004 sur l'exercice de la prostitution et Rapports du Conseil d'Etat au Grand Conseil sur les postulats Sandrine Bavaud et Co - Pour une véritable stratégie de réduction du préjudice dans le domaine de la prostitution",
+      "auteurs": [
+        {
+          "nom": "Philippe Ducommun",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Ducommun",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-10-01"
+      },
+      "derniere_etape": "2019-10-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5516,
+          "origine": "document"
+        },
+        {
+          "ofs": 5514,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5649,
+          "origine": "document"
+        },
+        {
+          "ofs": 5806,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_137",
+      "numero": "19_LEG_137",
+      "type": "Décret/Loi",
+      "depose": "2019-09-24",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'État un crédit d'ouvrage de CHF 9'950'000.- pour financer les travaux de réhabilitation de la route cantonale 501-B-P entre Cugy et Bottens sur le territoire des communes de Cugy, Bretigny sur-Morrens et Bottens",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": null
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-10-01"
+      },
+      "derniere_etape": "2019-10-01",
+      "communes": [
+        {
+          "ofs": 5516,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5514,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5515,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5523,
+          "origine": "document"
+        },
+        {
+          "ofs": 5527,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_RES_039",
+      "numero": "16_RES_039",
+      "type": "Résolution",
+      "depose": "2016-12-14",
+      "titre": "Projets éoliens vaudois : les blocages de l'armée méritent des éclaircissements",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-12-20"
+      },
+      "derniere_etape": "2016-12-20",
+      "communes": [
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        },
+        {
+          "ofs": 5560,
+          "origine": "document"
+        },
+        {
+          "ofs": 5514,
+          "origine": "document"
+        },
+        {
+          "ofs": 5665,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_MOT_156",
+      "numero": "11_MOT_156",
+      "type": "Motion",
+      "depose": "2012-01-17",
+      "titre": "En faveur de l'introduction d'un droit de préemption permettant de faciliter la politique foncière des collectivités publiques",
+      "auteurs": [
+        {
+          "nom": "Jean-Luc Chollet",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Jean-Luc Chollet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2012-10-02"
+      },
+      "derniere_etape": "2012-10-02",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5514,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_MOT_115",
+      "numero": "10_MOT_115",
+      "type": "Motion",
+      "depose": "2010-11-09",
+      "titre": "Demandant de légiférer en vue de l'implantation d'éoliennes sur le territoire vaudois et de prévoir une loi spécifique pour la construction d'éoliennes",
+      "auteurs": [
+        {
+          "nom": "Michel Renaud",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Michel Renaud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2011-12-20"
+      },
+      "derniere_etape": "2011-12-20",
+      "communes": [
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5514,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_MOT_117",
+      "numero": "10_MOT_117",
+      "type": "Motion",
+      "depose": "2010-11-16",
+      "titre": "Demandant l'inscription dans la loi sur les finances (LFin) d'indicateurs permettant de mieux comprendre la démarche budgétaire et d'oeuvrer dans le sens de la continuité et de l'efficience de l'action étatique",
+      "auteurs": [
+        {
+          "nom": "Pierre-Yves Rapaz",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Pierre-Yves Rapaz",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2011-09-27"
+      },
+      "derniere_etape": "2011-09-27",
+      "communes": [
+        {
+          "ofs": 5514,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_292",
+      "numero": "10_LEG_292",
+      "type": "Décret/Loi",
+      "depose": "2010-10-12",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Dommartin, Naz, Poliez-le-Grand et Sugnens (Montilliez)",
+      "auteurs": [
+        {
+          "nom": "Béatrice Métraux",
+          "parti": null
+        },
+        {
+          "nom": "Béatrice Métraux",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-12"
+      },
+      "derniere_etape": "2010-10-12",
+      "communes": [
+        {
+          "ofs": 5540,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5533,
+          "origine": "document"
+        },
+        {
+          "ofs": 5514,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

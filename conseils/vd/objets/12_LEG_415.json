@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222698,
+  "numero": "12_LEG_415",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-01-10"
+  },
+  "depose": "2012-01-10",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 5'578'000.- pour financer les travaux d'élimination de trois points noirs du réseau routier cantonal vaudois hors traversée de localité (RC 19: Trélex, giratoires des Migerendes et du Derby, RC 254: tronçon Essert-sous-Champvent - Peney)",
+  "contributeurs": [
+    {
+      "nom": "Jacques Perrin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jacques Perrin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-01-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-01-10",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Décret adopté par le Grand Conseil le 10.01.12",
+      "date": "2012-01-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/415_Texte_FAO.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-01-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/415_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-01-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/415_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-10-janvier-2012/expose-des-motifs-et-projet-de-decret-elimination-de-trois-points-noirs-du-reseau-routier-cantonal",
+  "communes": [
+    {
+      "ofs": 5730,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5905,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5727,
+      "origine": "document"
+    },
+    {
+      "ofs": 5422,
+      "origine": "document"
+    }
+  ]
+}

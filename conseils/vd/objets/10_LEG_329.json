@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222045,
+  "numero": "10_LEG_329",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-12-07"
+  },
+  "depose": "2010-12-07",
+  "titre": "EMPD accordant au Conseil d'Etat un crédit de CHF 1'730'000.- pour financer les études relatives à l'extension de l'immeuble de la Haute Ecole d'ingénierie et de gestion du canton de Vaud (HEIG-VD) à Yverdon-les-Bains",
+  "contributeurs": [
+    {
+      "nom": "Eric Bonjour",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Eric Bonjour",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-12-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-12-07",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-12-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/329_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-12-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/329_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 08.12.10",
+      "date": "2010-12-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/329_Decret.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seances-des-7-et-8-decembre-2010/expose-des-motifs-et-projet-de-decret-extension-de-limmeuble-de-la-heig-vd",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5582,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

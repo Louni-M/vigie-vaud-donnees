@@ -1,0 +1,301 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5565,
+  "objets": [
+    {
+      "cle": "vd/22_LEG_116",
+      "numero": "22_LEG_116",
+      "type": "Décret/Loi",
+      "depose": "2023-03-14",
+      "titre": "EMPD EMPD accordant au Conseil d'Etat un crédit d’ouvrage de CHF 10'900'000.- pour financer des travaux d’aménagement et la création de bandes cyclables sur la RC 401-B-P entre Grandson et Vaumarcus",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-03-14"
+      },
+      "derniere_etape": "2023-03-14",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5554,
+          "origine": "document"
+        },
+        {
+          "ofs": 5555,
+          "origine": "document"
+        },
+        {
+          "ofs": 5565,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        },
+        {
+          "ofs": 5855,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_10",
+      "numero": "21_INT_10",
+      "type": "Interpellation",
+      "depose": "2021-01-19",
+      "titre": "Quel avenir pour les ateliers CFF d'Yverdon-les-Bains ?",
+      "auteurs": [
+        {
+          "nom": "Stéphane Balet",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-07-06"
+      },
+      "derniere_etape": "2022-07-06",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5565,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_411",
+      "numero": "19_INT_411",
+      "type": "Interpellation",
+      "depose": "2019-10-29",
+      "titre": "Proverbe russe : Nous regardons le même soleil, mais nous ne mangeons pas le même dîner",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2020-06-16"
+      },
+      "derniere_etape": "2020-06-16",
+      "communes": [
+        {
+          "ofs": 5565,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_392",
+      "numero": "19_INT_392",
+      "type": "Interpellation",
+      "depose": "2019-09-24",
+      "titre": "Transition énergétique : Quels sont les freins au développement des projets d'énergies renouvelables sur le territoire vaudois et d'où viennent les blocages ? DES",
+      "auteurs": [
+        {
+          "nom": "Nicolas Suter",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2020-06-16"
+      },
+      "derniere_etape": "2020-06-16",
+      "communes": [
+        {
+          "ofs": 5565,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5406,
+          "origine": "document"
+        },
+        {
+          "ofs": 5863,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5607,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_POS_105",
+      "numero": "15_POS_105",
+      "type": "Postulat",
+      "depose": "2015-02-10",
+      "titre": "Pour une réalisation d'une aire de repos - restoroute sur l'A5 à Concise",
+      "auteurs": [
+        {
+          "nom": "Hugues Gander",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Hugues Gander",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2015-05-26"
+      },
+      "derniere_etape": "2015-05-26",
+      "communes": [
+        {
+          "ofs": 5554,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5746,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5565,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_LEG_54",
+      "numero": "13_LEG_54",
+      "type": "Décret/Loi",
+      "depose": "2013-05-28",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 1'940'000.- pour financer l'entretien lourd de trois giratoires Poissine, Mottey et Champ-Courbe sur la route RC 401-B-P entre la jonction autoroutière de Corcelettes près de Grandson et Concise, sur le territoire des communes de Grandson, Bonvillars, Onnens et de Corcelles-près-Concise",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-06-18"
+      },
+      "derniere_etape": "2013-06-18",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5554,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5551,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5565,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5555,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        },
+        {
+          "ofs": 5553,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

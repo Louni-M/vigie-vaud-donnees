@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224168,
+  "numero": "18_INI_004",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2019-10-08"
+  },
+  "depose": "2018-06-12",
+  "titre": "Révision de la LFStup : Pour des peines privatives de liberté en cas de trafic dans l'espace public",
+  "contributeurs": [
+    {
+      "nom": "Yvan Pahud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-06-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-06-26",
+      "libelle": "Zurückgewiesen"
+    },
+    {
+      "date": "2019-10-08",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-09-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INI_004_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-09-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INI_004_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-06-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INI_004_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-8-octobre-2019/initiative-gregory-devaud-et-consorts-au-nom-du-groupe-plr-revision-de-la-lfstup-pour-des-peines-privatives-de-liberte-en-cas-de-trafic-dans-lespace-public",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

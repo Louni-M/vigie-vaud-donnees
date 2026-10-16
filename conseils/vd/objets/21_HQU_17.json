@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225507,
+  "numero": "21_HQU_17",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2021-01-19"
+  },
+  "depose": "2021-01-12",
+  "titre": "Evacuation des participants d'une rave party par train spécial",
+  "contributeurs": [
+    {
+      "nom": "Cédric Echenard",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-01-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-01-19",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.24heures.ch/la-police-evacue-entre-200-et-300-jeunes-fetards-a-villeneuve-933906310408",
+      "date": "2021-01-12",
+      "lien": "https://www.24heures.ch/la-police-evacue-entre-200-et-300-jeunes-fetards-a-villeneuve-933906310408"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/964a60d5-e29a-486a-b529-192a218bae5d/meeting/1000545",
+  "communes": [
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

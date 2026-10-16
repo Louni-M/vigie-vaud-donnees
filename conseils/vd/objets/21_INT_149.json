@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225640,
+  "numero": "21_INT_149",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-03-16"
+  },
+  "depose": "2021-11-16",
+  "titre": "Des remises d’impôts et des plans de paiement accordés au compte-gouttes, dans quel intérêt ?",
+  "contributeurs": [
+    {
+      "nom": "Muriel Thalmann",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-11-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-11-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-03-16",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-11-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/1966#1043"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-06-21",
+      "lien": "http://www.sonomix.ch/live/gcvd/2142#5626"
+    },
+    {
+      "titre": "Remises d’impôts et plans de paiement accordés par l'Etat",
+      "date": "2022-03-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2106657"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d5d77378-e681-4957-80a5-c57fa6f1e82c/meeting/1004444",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5909,
+      "origine": "document"
+    }
+  ]
+}

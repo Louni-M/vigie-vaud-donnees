@@ -1,0 +1,933 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5656,
+  "objets": [
+    {
+      "cle": "vd/25_HQU_81",
+      "numero": "25_HQU_81",
+      "type": "Question orale",
+      "depose": "2025-06-03",
+      "titre": "Impossible de réaliser des aménagements cyclables à Hautemorges ?",
+      "auteurs": [
+        {
+          "nom": "Yannick Maury",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Terminée",
+        "date": "2025-06-10"
+      },
+      "derniere_etape": "2025-06-10",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_POS_38",
+      "numero": "21_POS_38",
+      "type": "Postulat",
+      "depose": "2021-06-23",
+      "titre": "Pour renforcer la protection des narcisses dans nos prairies",
+      "auteurs": [
+        {
+          "nom": "Léonard Studer",
+          "parti": "VER"
+        },
+        {
+          "nom": "Stéphane Montangero",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2025-05-07"
+      },
+      "derniere_etape": "2025-05-07",
+      "communes": [
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5745,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_INT_184",
+      "numero": "24_INT_184",
+      "type": "Interpellation",
+      "depose": "2024-12-18",
+      "titre": "Nouveaux horaires 2025 - Le pied du Jura oublié ?",
+      "auteurs": [
+        {
+          "nom": "Cédric Weissert",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-04-02"
+      },
+      "derniere_etape": "2025-04-02",
+      "communes": [
+        {
+          "ofs": 5491,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5486,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_89",
+      "numero": "23_INT_89",
+      "type": "Interpellation",
+      "depose": "2023-05-23",
+      "titre": "Transport de céréales par la route plutôt que par le rail : Quel gâchis !",
+      "auteurs": [
+        {
+          "nom": "Sylvain Freymond",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-09-20"
+      },
+      "derniere_etape": "2023-09-20",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_QUE_18",
+      "numero": "23_QUE_18",
+      "type": "Simple question",
+      "depose": "2023-04-04",
+      "titre": "Du rififi à Bussy-Chardonney autour du transport de céréales",
+      "auteurs": [
+        {
+          "nom": "Yannick Maury",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2023-05-24"
+      },
+      "derniere_etape": "2023-05-24",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_35",
+      "numero": "22_INT_35",
+      "type": "Interpellation",
+      "depose": "2022-03-01",
+      "titre": "La route cantonale entre Pampigny et Apples est-elle à l'abandon?",
+      "auteurs": [
+        {
+          "nom": "Sylvain Freymond",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-09-21"
+      },
+      "derniere_etape": "2022-09-21",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_POS_57",
+      "numero": "23_POS_57",
+      "type": "Postulat",
+      "depose": "2022-03-15",
+      "titre": "Écrans dans l’espace public: incompatibilité climatique",
+      "auteurs": [
+        {
+          "nom": "Elodie Lopez",
+          "parti": "EP"
+        },
+        {
+          "nom": "Josephine Byrne Garelli",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Transformée en postulat",
+        "date": "2022-03-15"
+      },
+      "derniere_etape": "2022-03-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5704,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5410,
+          "origine": "document"
+        },
+        {
+          "ofs": 5411,
+          "origine": "document"
+        },
+        {
+          "ofs": 5732,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_217",
+      "numero": "21_LEG_217",
+      "type": "Décret/Loi",
+      "depose": "2022-03-08",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant un soutien extraordinaire aux transports publics régionaux et urbains pour atténuer les pertes provoquées par le coronavirus (COVID 19) durant l’année 2021",
+      "auteurs": [
+        {
+          "nom": "Gérard Mojon",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-03-08"
+      },
+      "derniere_etape": "2022-03-08",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_RES_2",
+      "numero": "22_RES_2",
+      "type": "Résolution",
+      "depose": "2022-01-25",
+      "titre": "Pour que le COVID n'ait pas la peau des infrastructures ferroviaires prévues en Suisse romande!",
+      "auteurs": [
+        {
+          "nom": "Valérie Induni",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-01-25"
+      },
+      "derniere_etape": "2022-01-25",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_018",
+      "numero": "17_POS_018",
+      "type": "Postulat",
+      "depose": "2017-10-31",
+      "titre": "Soutenir l'Agenda 21 en favorisant l'utilisation et la production de gravier indigène, ceci en maintenant des postes de travail dans le canton",
+      "auteurs": [
+        {
+          "nom": "Jessica Jaccoud",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Jessica Jaccoud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2021-10-13"
+      },
+      "derniere_etape": "2021-10-13",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_15",
+      "numero": "20_INT_15",
+      "type": "Interpellation",
+      "depose": "2020-09-22",
+      "titre": "Clarification du périmètre, des compétences et des modalités en cas d’améliorations routières pour faciliter l’exploitation d’une gravière",
+      "auteurs": [
+        {
+          "nom": "Nicolas Suter",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-03-24"
+      },
+      "derniere_etape": "2021-03-24",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_QUE_17",
+      "numero": "20_QUE_17",
+      "type": "Simple question",
+      "depose": "2020-12-16",
+      "titre": "Forêt vaudoise : enjeux émotionnels et/ou objet scientifique ?",
+      "auteurs": [
+        {
+          "nom": "Yves Ferrari",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2021-02-17"
+      },
+      "derniere_etape": "2021-02-17",
+      "communes": [
+        {
+          "ofs": 5523,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_186",
+      "numero": "20_LEG_186",
+      "type": "Décret/Loi",
+      "depose": "2020-05-26",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit de CHF 1'430'800.- pour le Projet de développement régional agricole « Filière Noix de la Broye et du Pied du Jura »",
+      "auteurs": [
+        {
+          "nom": "Hugues Gander",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Hugues Gander",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-06-09"
+      },
+      "derniere_etape": "2020-06-09",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5492,
+          "origine": "document"
+        },
+        {
+          "ofs": 5674,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_186",
+      "numero": "19_LEG_186",
+      "type": "Décret/Loi",
+      "depose": "2019-11-27",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit de CHF 1'430'800.- pour le Projet de développement régional agricole « Filière Noix de la Broye et du Pied du Jura »",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2019-11-27"
+      },
+      "derniere_etape": "2019-11-27",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5674,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5492,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_181",
+      "numero": "19_LEG_181",
+      "type": "Décret/Loi",
+      "depose": "2019-11-20",
+      "titre": "EMPL Exposé des motifs et projet de décret sur la fusion des communes d'Apples, Bussy-Chardonney, Cottens, Pampigny, Reverolle et Sévery et projet de loi modifiant la loi du 30 mai 2006 sur le découpage territorial (181)",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2019-11-20"
+      },
+      "derniere_etape": "2019-11-20",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_LEG_209",
+      "numero": "15_LEG_209",
+      "type": "Décret/Loi",
+      "depose": "2015-03-31",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 4'500'000.- pour financer les travaux de réhabilitation de la route cantonale 30-B-P entre Bussy-Chardonney et Clarmont sur le territoire des communes de Bussy-Chardonney, Reverolle et Clarmont",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2015-03-31"
+      },
+      "derniere_etape": "2015-03-31",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5629,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_225",
+      "numero": "09_INT_225",
+      "type": "Interpellation",
+      "depose": "2014-10-28",
+      "titre": "Les taxes incitatives",
+      "auteurs": [
+        {
+          "nom": "Alexis Bally",
+          "parti": null
+        },
+        {
+          "nom": "Alexis Bally",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-10-28"
+      },
+      "derniere_etape": "2014-10-28",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_122",
+      "numero": "13_INT_122",
+      "type": "Interpellation",
+      "depose": "2013-04-30",
+      "titre": "L'avenir des Carrières d'Arvel est-il en mains du Conseil d'Etat ?",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-10-07"
+      },
+      "derniere_etape": "2014-10-07",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5655,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_RAP_116",
+      "numero": "14_RAP_116",
+      "type": "Rapport",
+      "depose": "2014-07-01",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Ginette Duvoisin et consorts demandant au Conseil d'Etat de renforcer et d'élargir les missions de l'IST (Institut universitaire romand de Santé au Travail)",
+      "auteurs": [
+        {
+          "nom": "Catherine Roulet",
+          "parti": null
+        },
+        {
+          "nom": "Catherine Roulet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2014-07-01"
+      },
+      "derniere_etape": "2014-07-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_127",
+      "numero": "13_INT_127",
+      "type": "Interpellation",
+      "depose": "2013-05-21",
+      "titre": "Une nouvelle façon de noyer le poisson !",
+      "auteurs": [
+        {
+          "nom": "Maurice Treboux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-10-29"
+      },
+      "derniere_etape": "2013-10-29",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_124",
+      "numero": "13_INT_124",
+      "type": "Interpellation",
+      "depose": "2013-04-30",
+      "titre": "Le Conseil d'Etat a-t-il des projets pour rendre plus fluide le trafic entre Cossonay-Gare et Cossonay-Ville ?",
+      "auteurs": [
+        {
+          "nom": "François Brélaz",
+          "parti": null
+        },
+        {
+          "nom": "François Brélaz",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-10-08"
+      },
+      "derniere_etape": "2013-10-08",
+      "communes": [
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5486,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_LEG_20",
+      "numero": "13_LEG_20",
+      "type": "Décret/Loi",
+      "depose": "2013-05-14",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 1'400'000.- pour le projet de développement régional agricole (PDRA) de valorisation des produits du Pied du Jura / Montricher et région",
+      "auteurs": [
+        {
+          "nom": "Catherine Aellen",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Catherine Aellen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-05-21"
+      },
+      "derniere_etape": "2013-05-21",
+      "communes": [
+        {
+          "ofs": 5492,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_POS_182",
+      "numero": "10_POS_182",
+      "type": "Postulat",
+      "depose": "2010-03-16",
+      "titre": "Postulat Philippe Martinet au nom du groupe des Verts, intitulé parce que les Conseils communaux ou généraux ne sont pas des salons de thé",
+      "auteurs": [
+        {
+          "nom": "Gloria Capt",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Gloria Capt",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2010-10-12"
+      },
+      "derniere_etape": "2010-10-12",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_274",
+      "numero": "09_INT_274",
+      "type": "Interpellation",
+      "depose": "2009-09-01",
+      "titre": "Comment l'Etat peut mieux épauler les membres de l'autorité communale qui s'élèvent contre des dysfonctionnements et/ou violations de lois",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-03-16"
+      },
+      "derniere_etape": "2010-03-16",
+      "communes": [
+        {
+          "ofs": 5656,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

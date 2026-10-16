@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222387,
+  "numero": "11_LEG_328",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Non entrée en matière",
+    "date": "2011-01-25"
+  },
+  "depose": "2011-01-18",
+  "titre": "Exposé des motifs et projets de lois modifiants- la loi sur la planification et le financement des établissements sanitaires (LPFES)- la loi sur la santé publique (LSP)- la loi d'aide aux personnes recourant à l'action médico-socaile (LAPRAMS)etRapport du Conseil d'Etat sur le postulat François Payot au nom du groupe libéral intitulé \"LPFES, bilan et rapport prospectif : une démarche essentielle\"",
+  "contributeurs": [
+    {
+      "nom": "Philippe Martinet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Martinet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-01-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-01-25",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-01-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/328_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-01-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/328_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-25-janvier-2011/expose-des-motifs-et-projets-de-lois-financements-des-etablissements-sanitaires-lpfes-sante-publique-lsp-et-aide-aux-personnes-recourant-a-laction-medico-sociale-laprams",
+  "communes": [
+    {
+      "ofs": 5637,
+      "origine": "document"
+    },
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5718,
+      "origine": "document"
+    }
+  ]
+}

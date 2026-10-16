@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228780,
+  "numero": "9_LEG_180",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-09-08"
+  },
+  "depose": "2009-09-01",
+  "titre": "Exposé des motifs et projets de décrets accordant- un crédit de CHF 1'352'000.- destiné à financer la réfection des toitures des bâtiments du Bugnon 9 (aile nord) et du Bugnon 7A,- un crédit additionnel de CHF 1'111'500.- au crédit d'ouvrage de CHF 1'582'000.- (décret du 26 avril 2005, objet 200170) pour les travaux urgents d'assainissement du grand auditoire du bâtiment du Bugnon 9 et dans le local de chaufferie- un crédit additionnel de CHF 449'000.- au crédit d'ouvrage de CHF 1'582'000.- (décret du 26 avril 2005, objet 200170) pour les travaux urgents d'entretien et d'assainissement de l'infrastructure de préparation et de conservation des corps pour l'enseignement de l'anatomie et pour la formation post-graduée- un crédit additionnel de CHF 662'000.- au crédit d'ouvrage de CHF 10'547'000.- (décret du 26 avril 2005, objet 200162) pour des travaux complémentaires liés au mauvais état du système structurel du bâtiment Bugnon 7",
+  "contributeurs": [
+    {
+      "nom": "Pierre Volet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierre Volet",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre Volet",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-09-01",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2009-09-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-09-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/180_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-09-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/180_RC.pdf"
+    },
+    {
+      "titre": "3ème décret",
+      "date": "2009-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/180_Decret_CHF_449000.pdf"
+    },
+    {
+      "titre": "2ème décret",
+      "date": "2009-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/180_Decret_CHF_1111500.pdf"
+    },
+    {
+      "titre": "1er décret",
+      "date": "2009-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/180_Decret__CHF_1352000.pdf"
+    },
+    {
+      "titre": "4ème décret",
+      "date": "2009-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/180_Decret_662_000.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-8-septembre-2009/expose-des-motifs-et-projets-de-decrets-travaux-refection-bugnon",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5584,
+      "origine": "document"
+    }
+  ]
+}

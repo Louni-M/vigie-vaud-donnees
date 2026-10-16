@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227380,
+  "numero": "23_RES_14",
+  "type": "Résolution",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2024-03-27"
+  },
+  "depose": "2023-06-06",
+  "titre": "Sauvons les emplois en Ville de Payerne",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Pedroli",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-06-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-06-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-03-27",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-06-20",
+      "lien": "https://www.sonomix.ch/live/gcvd/2542#6707"
+    },
+    {
+      "titre": "Reprise du site industriel de Payerne par la société Swisspor",
+      "date": "2024-03-27",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2230288"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/46932500-f448-4ef0-9e10-ca8f8e3f9ab6/meeting/1013649",
+  "communes": [
+    {
+      "ofs": 5822,
+      "origine": "titre"
+    }
+  ]
+}

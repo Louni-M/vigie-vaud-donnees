@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223477,
+  "numero": "15_INT_400",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-01-19"
+  },
+  "depose": "2015-06-16",
+  "titre": "Hôpital Riviera Chablais Vaud Valais France ?",
+  "contributeurs": [
+    {
+      "nom": "Pierre-Alain Favrod",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre-Alain Favrod",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-06-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-06-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-01-19",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-01-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_400_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-06-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_400_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-19-janvier-2016/reponse-du-conseil-detat-a-linterpellation-pierre-alain-favrod-et-consorts-hopital-riviera-chablais-vaud-valais-france",
+  "communes": [
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5635,
+      "origine": "document"
+    }
+  ]
+}

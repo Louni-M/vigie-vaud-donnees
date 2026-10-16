@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223333,
+  "numero": "14_MOT_057",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2015-04-21"
+  },
+  "depose": "2014-12-02",
+  "titre": "Déclamer sa volonté de développer les énergies renouvelables, c'est bien, la preuve par l'acte, c'est mieux!",
+  "contributeurs": [
+    {
+      "nom": "Claudine Wyssa",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claudine Wyssa",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-12-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-12-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-04-21",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_057_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2015-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_057_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-12-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_MOT_057_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-21-avril-2015/motion-jean-marc-chollet-et-consorts-declamer-sa-volonte-de-developper-les-energies-renouvelables-cest-bien-la-preuve-par-lacte-cest-mieux",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

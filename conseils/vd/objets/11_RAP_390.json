@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222593,
+  "numero": "11_RAP_390",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-09-27"
+  },
+  "depose": "2011-09-27",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Dominique-Richard Bonny et consorts intitulé \"Des médecins pour nos campagnes\"",
+  "contributeurs": [
+    {
+      "nom": "Catherine Roulet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Catherine Roulet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-09-27",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-09-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/390_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-09-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/390_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-29-novembre-2011/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-dominique-richard-bonny-intitule-des-medecins-pour-nos-campagnes",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5764,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5841,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223140,
+  "numero": "14_INT_227",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-11-11"
+  },
+  "depose": "2014-02-11",
+  "titre": "JO de Sotchi : Que diable allaient-ils faire dans cette galère ?",
+  "contributeurs": [
+    {
+      "nom": "Martial De Montmollin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Martial De Montmollin",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-02-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-03-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-11-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-10-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_227_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-02-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_227_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-11-novembre-2014/reponse-du-conseil-detat-a-linterpellation-martial-de-montmollin-jo-de-sotchi-que-diable-allaient-ils-faire-dans-cette-galere",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

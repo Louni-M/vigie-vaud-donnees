@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226132,
+  "numero": "22_HQU_12",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-01-25"
+  },
+  "depose": "2022-01-18",
+  "titre": "Belle balade (en camion) à la gravière et dans les bois de Ballens",
+  "contributeurs": [
+    {
+      "nom": "Yannick Maury",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-01-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-01-25",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.heidi.news/explorations/les-vaudois-et-leur-bac-a-sable-magique",
+      "date": "2022-01-25",
+      "lien": "https://www.heidi.news/explorations/les-vaudois-et-leur-bac-a-sable-magique"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/203836ef-eb97-4c2e-8345-f7176f2b1373/meeting/1004428",
+  "communes": [
+    {
+      "ofs": 5423,
+      "origine": "titre"
+    }
+  ]
+}

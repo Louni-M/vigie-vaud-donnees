@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226048,
+  "numero": "21_QUE_38",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-01-19"
+  },
+  "depose": "2021-11-23",
+  "titre": "Prise en charge du cancer de la prostate au CHUV : quo vadis ?",
+  "contributeurs": [
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-11-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-01-19",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Vulgarisation et prise en charge du cancer de la prostate au CHUV",
+      "date": "2021-12-27",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2097179"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/78e2961a-6171-48cb-9888-6ce3f088fb4d/meeting/1004411",
+  "communes": []
+}

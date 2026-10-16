@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5924,
+  "objets": [
+    {
+      "cle": "vd/21_INT_90",
+      "numero": "21_INT_90",
+      "type": "Interpellation",
+      "depose": "2021-06-23",
+      "titre": "Il faut fermer la place de tir de Vugelles-la-Mothe",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-12-08"
+      },
+      "derniere_etape": "2021-12-08",
+      "communes": [
+        {
+          "ofs": 5904,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5924,
+          "origine": "document"
+        },
+        {
+          "ofs": 5552,
+          "origine": "document"
+        },
+        {
+          "ofs": 5560,
+          "origine": "document"
+        },
+        {
+          "ofs": 5564,
+          "origine": "document"
+        },
+        {
+          "ofs": 5634,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_PET_006",
+      "numero": "12_PET_006",
+      "type": "Pétition",
+      "depose": "2013-04-16",
+      "titre": "Pétition en faveur de Daut Ahemti, Sadije Hyseni et leurs deux enfants",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2013-04-30"
+      },
+      "derniere_etape": "2013-04-30",
+      "communes": [
+        {
+          "ofs": 5924,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

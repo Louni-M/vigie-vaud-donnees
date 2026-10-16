@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224517,
+  "numero": "18_POS_071",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2020-03-03"
+  },
+  "depose": "2018-09-18",
+  "titre": "L'asphalte usagé est exporté massivement : n'est-ce pas une aberration ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-09-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-03-03",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_071_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_071_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-09-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_071_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-3-mars-2020/postulat-graziella-schaller-et-consorts-au-nom-du-groupe-vertliberal-lasphalte-usage-est-exporte-massivement-nest-ce-pas-une-aberration",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

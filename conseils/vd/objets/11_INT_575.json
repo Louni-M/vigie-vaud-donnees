@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222305,
+  "numero": "11_INT_575",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-06-05"
+  },
+  "depose": "2011-12-06",
+  "titre": "Affichage sauvage ou sauvagerie électorale ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-12-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-12-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-06-05",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_575_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-12-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_575_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-5-juin-2012/reponse-du-conseil-detat-a-linterpellation-jean-marie-surer-affichage-sauvage-ou-sauvagerie-electorale",
+  "communes": []
+}

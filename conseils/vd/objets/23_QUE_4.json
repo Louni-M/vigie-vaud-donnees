@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227255,
+  "numero": "23_QUE_4",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-03-15"
+  },
+  "depose": "2023-01-24",
+  "titre": "Payé pour faire la grève ?",
+  "contributeurs": [
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-01-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-03-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Pas de rémunération du personnel de l’État participant à la grève durant les heures de travail",
+      "date": "2023-03-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2166150"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/dafcde56-3b45-407b-99c9-acef991d618d/meeting/1013631",
+  "communes": []
+}

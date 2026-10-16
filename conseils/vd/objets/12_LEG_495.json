@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222745,
+  "numero": "12_LEG_495",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-11-27"
+  },
+  "depose": "2012-11-27",
+  "titre": "Exposé des motifs et projet de décret créant un fonds des contributions de remplacement liées aux abris de protection civile",
+  "contributeurs": [
+    {
+      "nom": "Jean-Robert Yersin",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-11-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-11-27",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/495_TexteCE.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 27.11.12",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/495_Texte_FAO.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/495_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-27-novembre-2012/expose-des-motifs-et-projet-de-decret-creant-un-fonds-des-contributions-de-remplacement-liees-aux-abris-de-protection-civile",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

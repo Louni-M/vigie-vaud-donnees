@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225607,
+  "numero": "21_INT_119",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-02-09"
+  },
+  "depose": "2021-09-21",
+  "titre": "L'île du Paradis, vraiment",
+  "contributeurs": [
+    {
+      "nom": "Olivier Epars",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-09-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-09-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-02-09",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "21_INT_119-Texte déposé",
+      "date": "2021-09-28",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2076141"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-03-29",
+      "lien": "http://www.sonomix.ch/live/gcvd/2086#1854"
+    },
+    {
+      "titre": "Plateforme flottante éphémère \"L’île du Paradis\"",
+      "date": "2022-02-09",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2101122"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5b176bc2-81ff-4195-9b46-bb86dd518f45/meeting/1004433",
+  "communes": [
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5638,
+      "origine": "document"
+    },
+    {
+      "ofs": 5632,
+      "origine": "document"
+    },
+    {
+      "ofs": 5633,
+      "origine": "document"
+    },
+    {
+      "ofs": 5405,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

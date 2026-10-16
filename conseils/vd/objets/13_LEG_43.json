@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222967,
+  "numero": "13_LEG_43",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-06-11"
+  },
+  "depose": "2013-05-28",
+  "titre": "Exposé des motifs et projet de lois- sur les hautes écoles vaudoises de type HES",
+  "contributeurs": [
+    {
+      "nom": "Catherine Labouchère",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Catherine Labouchère",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-05-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-05-28",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2013-06-04",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2013-06-11",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-05-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/43_Texte_CE_01.pdf"
+    },
+    {
+      "titre": "Tableau miroir avant le 3ème débat",
+      "date": "2013-06-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/43_Tableau_avant_3%C3%A8me_d%C3%A9bat.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-05-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/43_RC_01.pdf"
+    },
+    {
+      "titre": "Tableau miroir avant le 1er débat (reste valable pour le 2ème débat)",
+      "date": "2013-05-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/43_RC.pdf"
+    },
+    {
+      "titre": "LHEV adoptée par le Grand Conseil le 11.06.13",
+      "date": "2013-06-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/43_LHEV_FAO.pdf"
+    },
+    {
+      "titre": "LAC adoptée par le Grand Conseil le 04.06.13",
+      "date": "2013-06-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/43_LAC_FAO.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-11-juin-2013/expose-des-motifs-et-projet-de-lois-sur-les-hautes-ecoles-vaudoises-de-type-hes-modifiant-la-loi-du-19-septembre-1978-sur-les-activites-culturelles",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5582,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

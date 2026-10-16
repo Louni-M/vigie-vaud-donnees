@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224109,
+  "numero": "17_PET_001",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2018-03-13"
+  },
+  "depose": "2017-08-22",
+  "titre": "Pétition en faveur de la famille K",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2017-08-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-03-13",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-03-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_PET_001_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-03-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_PET_001_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-13-mars-2018/petition-en-faveur-de-la-famille-k",
+  "communes": [
+    {
+      "ofs": 5805,
+      "origine": "document"
+    }
+  ]
+}

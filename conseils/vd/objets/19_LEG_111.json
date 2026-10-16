@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224755,
+  "numero": "19_LEG_111",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-05-21"
+  },
+  "depose": "2019-04-30",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'étude de CHF 2'043'000.- pour financer les études de la RC 254-B-P Vuiteboeuf - Sainte-Croix, 2e étape, sur les communes de Bullet et de Sainte-Croix",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Christian Van Singer",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-04-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-04-30",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2019-05-21",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-04-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/111_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2019-04-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/111_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2019-04-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/111_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-21-mai-2019/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-detude-de-chf-2043000-pour-financer-les-etudes-de-la-rc-254-b-p-vuiteboeuf-sainte-croix-2e-etape-sur-les-communes-de-bullet-et-de-sainte-croix",
+  "communes": [
+    {
+      "ofs": 5766,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5568,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5552,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5562,
+      "origine": "document"
+    }
+  ]
+}

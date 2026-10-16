@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227686,
+  "numero": "24_INT_45",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2024-08-21"
+  },
+  "depose": "2024-03-05",
+  "titre": "Suisse romande ? Ici Londres !",
+  "contributeurs": [
+    {
+      "nom": "David Vogel",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-03-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-03-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-08-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-05-06",
+      "lien": "https://www.sonomix.ch/live/gcvd/3114#3905"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-03-12",
+      "lien": "https://www.sonomix.ch/live/gcvd/2764#4505"
+    },
+    {
+      "titre": "https://www.bfs.admin.ch/asset/fr/11987804",
+      "date": "2024-03-05",
+      "lien": "https://www.bfs.admin.ch/asset/fr/11987804"
+    },
+    {
+      "titre": "Liaison ferroviaire entre Londres et la Suisse romande",
+      "date": "2024-08-14",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2254697"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/61f84dac-cdb5-42d2-985f-9c5fa9153150/meeting/1026887",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5764,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223933,
+  "numero": "16_LEG_288",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-05-24"
+  },
+  "depose": "2016-05-24",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit de fr. 30'000'000.- pour financer la reconstruction complète du Centre Intercommunal de Glace de Malley",
+  "contributeurs": [
+    {
+      "nom": "Laurent Ballif",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Laurent Ballif",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-05-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-05-24",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-05-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/288_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-05-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/288_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-24-mai-2016/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-de-fr-30000000-pour-financer-la-reconstruction-complete-du-centre-intercommunal-de-glace-de-malley",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

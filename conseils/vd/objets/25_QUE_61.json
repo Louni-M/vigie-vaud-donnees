@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228384,
+  "numero": "25_QUE_61",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-08-20"
+  },
+  "depose": "2025-06-17",
+  "titre": "Les rédacteurs d’un rapport doivent-ils être maintenu dans l'anonymat ?",
+  "contributeurs": [
+    {
+      "nom": "Aurélien Demaurex",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-06-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-08-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Confidentialité dans le cadre d'un rapport de la Commission d'éthique et de recherche de l'Université de Lausanne",
+      "date": "2025-08-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2321873"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/13c51deb-6b15-4acc-b5e6-6a4a9e250da1/meeting/1026893",
+  "communes": []
+}

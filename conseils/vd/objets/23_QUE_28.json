@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227320,
+  "numero": "23_QUE_28",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-07-05"
+  },
+  "depose": "2023-05-30",
+  "titre": "Accueil de jour : l'offre pour les 1P-4P est-elle optimisée ?",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Cala",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-05-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-07-05",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.vd.ch/toutes-les-autorites/departements/departement-de-la-culture-des-infrastructures-et-des-ressources-humaines-dcirh/office-de-laccueil-de-jour-des-enfants-oaje",
+      "date": "2023-05-30",
+      "lien": "https://www.vd.ch/toutes-les-autorites/departements/departement-de-la-culture-des-infrastructures-et-des-ressources-humaines-dcirh/office-de-laccueil-de-jour-des-enfants-oaje"
+    },
+    {
+      "titre": "https://www.petitionenligne.ch/upae_pour_un_accueil_des_1-4p_seulement_le_midi",
+      "date": "2023-05-30",
+      "lien": "https://www.petitionenligne.ch/upae_pour_un_accueil_des_1-4p_seulement_le_midi"
+    },
+    {
+      "titre": "https://junova.ch/wp-content/uploads/2022/07/5reglmt-ajoval-para-proposition-aout-2022-vfinal.pdf",
+      "date": "2023-05-30",
+      "lien": "https://junova.ch/wp-content/uploads/2022/07/5reglmt-ajoval-para-proposition-aout-2022-vfinal.pdf"
+    },
+    {
+      "titre": "Accueil parascolaire de midi pour les enfants de 1P à 4P",
+      "date": "2023-07-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2187230"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e309f13d-d935-44fb-88ae-a5bec7023634/meeting/1013646",
+  "communes": [
+    {
+      "ofs": 5873,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    }
+  ]
+}

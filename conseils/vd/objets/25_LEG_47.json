@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 203277,
+  "numero": "25_LEG_47",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2026-06-09"
+  },
+  "depose": "2026-05-12",
+  "titre": "EMPD",
+  "contributeurs": [
+    {
+      "nom": "Florence Bettschart-Narbel",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-05-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-06-02",
+      "libelle": "Behandelt vom Parlament"
+    },
+    {
+      "date": "2026-06-02",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-06-09",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "EMPD Crédit additionnel 3 UNIL-Unithèque (hygiène, exploitation, câblage) - Texte adopté par CE - EMPD Crédit additionnel 3 UNIL-Unithèque - publié",
+      "date": "2025-05-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2305189"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/20884246-cc29-4153-84d9-7a2d1466b4cf/meeting/1029672",
+  "communes": []
+}

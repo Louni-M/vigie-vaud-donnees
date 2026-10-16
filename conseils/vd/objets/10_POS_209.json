@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222141,
+  "numero": "10_POS_209",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2011-02-01"
+  },
+  "depose": "2010-09-28",
+  "titre": "A quand des mesures pour réglementer les sports extrêmes",
+  "contributeurs": [
+    {
+      "nom": "Philippe Ducommun",
+      "parti": "UDC",
+      "role": null,
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-09-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-09-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-02-01",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-02-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_209_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-02-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_209_Objet_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_209_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-1-fevrier-2011/postulat-philippe-ducommun-mesures-pour-reglementer-les-sports-extremes",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

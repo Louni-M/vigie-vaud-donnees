@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228008,
+  "numero": "24_QUE_90",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-02-05"
+  },
+  "depose": "2024-12-03",
+  "titre": "Comment résoudre les conflits entre différentes procédures",
+  "contributeurs": [
+    {
+      "nom": "Maurice Neyroud",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-12-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-02-05",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Affectation des parcelles en cas de conflit entre le plan d’affectation cantonal Lavaux et les plans d’affectation communaux",
+      "date": "2025-02-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2285695"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/8eff9946-15ba-49b4-822c-89efdba50ffe/meeting/1026868",
+  "communes": []
+}

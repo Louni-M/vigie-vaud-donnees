@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227948,
+  "numero": "24_QUE_37",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-08-14"
+  },
+  "depose": "2024-04-30",
+  "titre": "Combien de communes accordent des autorisations hors zone à bâtir sans avoir obtenu l'autorisation cantonale ?",
+  "contributeurs": [
+    {
+      "nom": "Muriel Thalmann",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-04-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-08-14",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Autorisations hors zone à bâtir délivrées par les communes sans autorisation cantonale",
+      "date": "2024-08-14",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2253529"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f51c612f-6aa4-4ce0-9eca-1baff1d62101/meeting/1019567",
+  "communes": []
+}

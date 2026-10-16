@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223613,
+  "numero": "15_MOT_068",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2021-07-07"
+  },
+  "depose": "2015-06-30",
+  "titre": "Oui à un ASP dans un véhicule lors des contrôles radars immobiles pour excès de vitesse sans interception des contrevenants",
+  "contributeurs": [
+    {
+      "nom": "Albert Chapalay",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Albert Chapalay",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-06-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-06-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-01-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-06-10",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2021-07-07",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-12-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_068_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2015-12-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_068_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-06-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_068_Depot.pdf"
+    },
+    {
+      "titre": "Compétences des assistants de sécurité publique",
+      "date": "2020-06-10",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=400492"
+    },
+    {
+      "titre": "Compétences des assistants de sécurité publique",
+      "date": "2021-07-07",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2065827"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-12-janvier-2016-1/motion-jean-francois-cachin-et-consorts-oui-a-un-asp-dans-un-vehicule-lors-des-controles-radars-immobiles-pour-exces-de-vitesse-sans-interception-des-contrevenants",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5584,
+      "origine": "document"
+    },
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5422,
+      "origine": "document"
+    }
+  ]
+}

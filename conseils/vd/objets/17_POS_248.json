@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224156,
+  "numero": "17_POS_248",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2019-04-10"
+  },
+  "depose": "2017-06-06",
+  "titre": "Payons le juste prix, pour le lait mais pas seulement !",
+  "contributeurs": [
+    {
+      "nom": "Claire Attinger Doepper",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Claire Attinger Doepper",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claire Attinger Doepper",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-06-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-01-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-04-10",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_POS_248_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/17_POS_248_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Sept mesures destinées à soutenir les producteurs vaudois de lait d'industrie",
+      "date": "2019-04-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=341910"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-16-janvier-2018/postulat-stephane-montangero-et-consorts-payons-le-juste-prix-pour-le-lait-mais-pas-seulement",
+  "communes": [
+    {
+      "ofs": 5675,
+      "origine": "document"
+    },
+    {
+      "ofs": 5587,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5512,
+      "origine": "document"
+    },
+    {
+      "ofs": 5645,
+      "origine": "document"
+    }
+  ]
+}

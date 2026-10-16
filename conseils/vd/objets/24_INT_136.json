@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227601,
+  "numero": "24_INT_136",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2025-09-16"
+  },
+  "depose": "2024-09-10",
+  "titre": "Aide à la presse en ces périodes compliquées",
+  "contributeurs": [
+    {
+      "nom": "Didier Lohri",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-09-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-09-17",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-04-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-04-02",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-09-16",
+      "libelle": "Erledigt"
+    },
+    {
+      "date": "2025-09-16",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-09-16",
+      "lien": "https://www.sonomix.ch/live/gcvd/3205#5824"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-09-17",
+      "lien": "https://www.sonomix.ch/live/gcvd/2914#323"
+    },
+    {
+      "titre": "Plateforme Chek pour les 17-25 ans",
+      "date": "2025-04-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2296141"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/b08330a5-1163-461c-982c-a32e4a6d1679/meeting/1029636",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    }
+  ]
+}

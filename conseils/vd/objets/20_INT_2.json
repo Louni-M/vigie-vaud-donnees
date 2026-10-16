@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225117,
+  "numero": "20_INT_2",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-01-13"
+  },
+  "depose": "2020-09-01",
+  "titre": "Production artisanale locale hors zone à bâtir, vouée à être mise en bière ?",
+  "contributeurs": [
+    {
+      "nom": "Patrick Simonin",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-09-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-01-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-04-27",
+      "lien": "https://www.sonomix.ch/live/gcvd/1807#1441"
+    },
+    {
+      "titre": "Activités artisanales en zone agricole",
+      "date": "2021-01-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2029495"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6902f443-8006-41c7-8712-ac46433cc872/meeting/1000557",
+  "communes": [
+    {
+      "ofs": 5746,
+      "origine": "document"
+    }
+  ]
+}

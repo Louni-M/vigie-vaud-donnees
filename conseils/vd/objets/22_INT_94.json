@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226405,
+  "numero": "22_INT_94",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2025-09-16"
+  },
+  "depose": "2022-08-23",
+  "titre": "Quel soutien aux sans emplois de plus de 50 ans",
+  "contributeurs": [
+    {
+      "nom": "Claire Attinger Doepper",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-08-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-08-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-03-29",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-16",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-08-30",
+      "lien": "https://www.sonomix.ch/live/gcvd/2163#1731"
+    },
+    {
+      "titre": "Soutien aux sans-emploi de plus de 50 ans",
+      "date": "2023-03-29",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2168809"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/fe12013a-9332-46cb-8ded-e7a34686d81a/meeting/1029636",
+  "communes": []
+}

@@ -1,0 +1,626 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 2438,
+  "date": "2024-10-08",
+  "nom": "Séance - Mardi 08 octobre 2024 2024 à 18:00 & 20:30",
+  "lien": "https://www.lausanne.ch/apps/agir/seance/S_3508f882d93e44d3a527e6b1275e3f84.html",
+  "ordre_du_jour": [
+    {
+      "numero": "1",
+      "titre": "Interpellation urgente déposé le 1 octobre 2024 de M. Matthieu CARREL et crts « La Municipalité abandonne-t-elle la Palud» (CD)",
+      "categorie": "OJ INTENTIONNEL - INTERPELLATIONS",
+      "resultat": "Réponse immédiate avec résolution",
+      "objet": "5586/INT24-060"
+    },
+    {
+      "numero": "2",
+      "titre": "Interpellation urgente déposé le 1 octobre 2024 de [particulier] et crts « Gymnases lausannois : y a-t-il un pilote dans l'avion et un terrain sur lequel atterrir ?» (EJQ)",
+      "categorie": "OJ INTENTIONNEL - INTERPELLATIONS",
+      "resultat": "Réponse immédiate avec résolution",
+      "objet": "5586/INT24-061"
+    },
+    {
+      "numero": "3",
+      "titre": "Interpellation urgente déposé le 1 octobre 2024 de M. Johan PAIN et crts « Transports publics lausannois (tl) - Absentéisme - Sous-effectifs - Dégradations de la fiabilité des horaires et des prestations» (FIM)",
+      "categorie": "OJ INTENTIONNEL - INTERPELLATIONS",
+      "resultat": "Reporté",
+      "objet": "5586/INT24-062"
+    },
+    {
+      "numero": "4",
+      "titre": "Postulat de Mme Olivia FAHMY et consorts : « Une nourriture végétarienne dans les crèches et les autres lieux d'accueil des enfants». (EJQ)",
+      "categorie": "RAPPORTS",
+      "resultat": "Renvoi en Municipalité",
+      "objet": "5586/POS23-011"
+    },
+    {
+      "numero": "5",
+      "titre": "Postulat de Mme Patrizia Deborah MORI : « Alléger les contraintes qui pèsent sur l'aide à la personne». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Refusé/retiré",
+      "objet": "5586/POS23-037"
+    },
+    {
+      "numero": "6",
+      "titre": "Postulat de M. Daniel CURNIER et crts : « Stationnement : réprimer pour mieux inciter». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Renvoi en Municipalité",
+      "objet": "5586/POS23-025"
+    },
+    {
+      "numero": "7",
+      "titre": "Rapport-préavis 2023/29 - Réponse au Postulat de M. Jean-Pascal GENDRE : « Préemption et transparence ». (CD)",
+      "categorie": "RAPPORTS",
+      "resultat": "Approbation",
+      "objet": "5586/POS21-028"
+    },
+    {
+      "numero": "8",
+      "titre": "Pétition déposée le 20 juin 2023 du Collectif de commerçants : pour une Ville respectueuse de ses commerçants ([particulier]) : «Pour un poste de délégué aux commerces»",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/PE23-007"
+    },
+    {
+      "numero": "9",
+      "titre": "Postulat de M. Mountazar JAFFAR : « La fin des quartiers populaires, le début d'une meilleure justice sociale». (LEA)",
+      "categorie": "RAPPORTS",
+      "resultat": "Renvoi en Municipalité",
+      "objet": "5586/POS23-033"
+    },
+    {
+      "numero": "10",
+      "titre": "Postulat de Mme Romane BENVENUTI : « Semaine de 4 jours : un projet pilote pour travailler moins et vivre mieux». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-024"
+    },
+    {
+      "numero": "11",
+      "titre": "Postulat de Mme Franziska MEINHERZ : « Une aire d'accueil à Lausanne pour les gens du voyage». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Renvoi en Municipalité",
+      "objet": "5586/POS23-026"
+    },
+    {
+      "numero": "12",
+      "titre": "Rapport-préavis N° 2023/45 - Réponse au Postulat de M. Joël TEUSCHER et crts: « Livraisons écologiques et sociales pour les plus fragiles et dans tous les commerces». (SCS)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-053"
+    },
+    {
+      "numero": "13",
+      "titre": "Rapport-préavis N° 2023/45 - Réponse au Postulat de Mme Céline MISIEGO : « Casiers solidaires». (SCS)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS18-041"
+    },
+    {
+      "numero": "14",
+      "titre": "Postulat de Mme Sara GNONI : « Pour la création d'une assemblée citoyenne lausannoise pour une politique climatique juste, efficace et ambitieuse». (LEA)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS22-097"
+    },
+    {
+      "numero": "15",
+      "titre": "Postulat de M. Ilias PANCHARD : « Déposer plainte contre la police... à la police ? Pour une instance réellement indépendante en matière de plaintes ». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-048"
+    },
+    {
+      "numero": "16",
+      "titre": "Postulat de Mme Franziska MEINHERZ et consorts : « Un fonds de soutien pour les contestations de loyer ». (LEA)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-061"
+    },
+    {
+      "numero": "17",
+      "titre": "Postulat de M. Ilias PANCHARD : « Projet pilote pour une police de proximité sans arme à feu». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-047"
+    },
+    {
+      "numero": "18",
+      "titre": "Postulat de Mme Manon ZECCA et crts : «Le Vide-Poche, un lieu oublié de la Municipalité ?». (CD)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-057"
+    },
+    {
+      "numero": "19",
+      "titre": "Rapport-préavis N° 2023/43 - Réponse au postulat de M. Antoine Gösta PIGUET : «Pour une Commission consultative de la culture». (CD)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-007"
+    },
+    {
+      "numero": "20",
+      "titre": "Postulat de Mme Alexandra GERBER et crts : « Limiter les démolitions/reconstructions dans les quartiers». (CD)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-046"
+    },
+    {
+      "numero": "21",
+      "titre": "Rapport-préavis 2023/17 - Réponse au Postulat de Mme Anne BERGUERAND : « Postulat de Berguerand Anne et crts - Ressourcerie à la déchetterie, et si on allait plus loin ?». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-037"
+    },
+    {
+      "numero": "22",
+      "titre": "Rapport-préavis 2023/17 - Réponse au Postulat de M. Jacques-Etienne RASTORFER : « Pour une campagne ludique contre les souillures des chewing-gums». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-008"
+    },
+    {
+      "numero": "23",
+      "titre": "Rapport-préavis 2023/17 - Réponse au Postulat de Mme Anouck SAUGY : « Faisons PETer les poubelles !». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-066"
+    },
+    {
+      "numero": "24",
+      "titre": "Rapport-préavis 2023/17 - Réponse à la Pétition de l'Association AQUBE déposée le 25 mai 2021 de : «Pour la ré-ouverture des WC publics d'Entre-Bois à Bellevaux»",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/PE21-003"
+    },
+    {
+      "numero": "25",
+      "titre": "Rapport-préavis 2023/51 - Réponse au Postulat de Mme Audrey PETOUD : « Pour des espaces de sports urbains inclusifs ». (SCS)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-041"
+    },
+    {
+      "numero": "26",
+      "titre": "Postulat de M. Johan PAIN : «Distribution de chèques à la consommation aux ménages à faibles revenus valables dans tous les commerces de Lausanne ainsi que pour les manifestations culturelles». (SCS)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-049"
+    },
+    {
+      "numero": "27",
+      "titre": "Rapport-préavis N° 2023/55 - Réponse au Postulat de Mme Muriel CHENAUX MESNIER : « Pour plus d'espaces de jeu à Lausanne « ville amie des Enfants ». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-043"
+    },
+    {
+      "numero": "28",
+      "titre": "Rapport-préavis N° 2023/55 - Réponse au Postulat de Mme Sarah NEUMANN et consorts : « Cheminer Lausanne : pour un système d'orientation piéton·nes global, lisible et cohérent ». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS22-042"
+    },
+    {
+      "numero": "29",
+      "titre": "Rapport-préavis N° 2023/55 - Pétition déposée le 5 avril 2022 de l'Association pour la protection des piétons lausannois - « Assurer la sécurité des piétons»",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/PE22-006"
+    },
+    {
+      "numero": "30",
+      "titre": "Rapport-préavis N° 2023/55 - Réponse au Postulat de Mme Françoise PIRON : « Stop à la guerre des trottoirs, rendons ces espaces aux piétons ! ». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-065"
+    },
+    {
+      "numero": "31",
+      "titre": "Rapport-préavis N° 2023/55 - Réponse au Postulat de M. Musa KAMENICA : « Pour des aménagements à la route de la Clochatte à Sauvabelin ». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS19-006"
+    },
+    {
+      "numero": "32",
+      "titre": "Rapport-préavis N° 2023/55 - Réponse au Postulat de Mme Denise GEMESIO : « Sauvabelin : un trottoir pour garantir la sécurité des piétons ». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS22-066"
+    },
+    {
+      "numero": "33",
+      "titre": "Rapport-préavis N° 2023/55 - Réponse au Postulat de M. Nicola DI GIULIO : « Affichage électoral, un outil démocratique mais un fossé entre les zones foraines et le centre-ville de Lausanne !». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS22-076"
+    },
+    {
+      "numero": "34",
+      "titre": "Rapport-préavis N° 2023/56 - Réponse au postulat de M. Samuel DE VARGAS et consorts : «Des informations utiles pour les locataires». (LEA)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-006"
+    },
+    {
+      "numero": "35",
+      "titre": "Postulat de Mme Anaïs TIMOFTE : « FLAT : une fondation fantôme ? Améliorons la visibilité et la dotation de la Fondation Lausannoise pour l'Aide au Travail». (SCS)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-070"
+    },
+    {
+      "numero": "36",
+      "titre": "Postulat de M. Daniel CURNIER : « Bus TL : baisser le ton d'un (é)cran». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-040"
+    },
+    {
+      "numero": "37",
+      "titre": "Postulat de M. Oleg GAFNER : «Protéger les adolescent·e·s et les jeunes adultes - tests gratuits pour les infections sexuellement transmissibles». (EJQ)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-054"
+    },
+    {
+      "numero": "38",
+      "titre": "Postulat de Mme Valérie D'ACREMONT : « Pour un poste de délégué.e au commerce afin de favoriser le dialogue entre la ville et nos commerçant.es». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-042"
+    },
+    {
+      "numero": "39",
+      "titre": "Rapport-préavis N° 2024/08 « Réponse au postulat de Moscheni Fabrice - Un arbre lausannois comme dernier repos ». (LEA)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS18-054"
+    },
+    {
+      "numero": "40",
+      "titre": "Postulat de Mme Isabelle BONILLO : « Soutenir les artisans-créateurs locaux ». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-066"
+    },
+    {
+      "numero": "41",
+      "titre": "Postulat de M. Ilias PANCHARD : « Être puni pour avoir dormi dehors : halte aux amendes pour «camping sauvage»». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-077"
+    },
+    {
+      "numero": "42",
+      "titre": "Postulat de M. Johann DUPUIS et crts : «Lausanne doit passer au 30km/h au plus vite !». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-038"
+    },
+    {
+      "numero": "43",
+      "titre": "Rapport-préavis N° 2023/16 « Réponse au postulat de Piron Françoise et crts - Pour favoriser le développement des postes à deux». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-005"
+    },
+    {
+      "numero": "44",
+      "titre": "Rapport-préavis N° 2023/16  « Réponse au postulat de Piron Françoise et crts - Pour l'adoption par la Municipalité de Lausanne d'un \"Plan d'actions urgence climat au travail ! \"». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS18-038"
+    },
+    {
+      "numero": "45",
+      "titre": "Rapport-préavis N° 2023/16 « Réponse au postulat de Manzoni Laura et crts - Un 13e salaire pour tout le personnel auxiliaire et mensualisé de la Ville de Lausanne». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS19-003"
+    },
+    {
+      "numero": "46",
+      "titre": "Rapport-préavis N° 2023/16 « Réponse au postulat de Aubert Eliane - Pour étudier l'introduction du coworking dans l'administration lausannoise ». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS16-001"
+    },
+    {
+      "numero": "47",
+      "titre": "Rapport-préavis N° 2023/16 « Réponse au postulat de Piron Françoise et crts - Visons la parité dans tous les secteurs de l'administration communale». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-013"
+    },
+    {
+      "numero": "48",
+      "titre": "Rapport-préavis N° 2021/11 « Réponse au postulat de Donzé Manuel - Les devoirs surveillés à Lausanne : va-t-on vers une dégradation des conditions de ces prestations ? ». (EJQ)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS16-042"
+    },
+    {
+      "numero": "49",
+      "titre": "Rapport-préavis N° 2021/11 « Réponse au postulat de Germond Florence - Pour un renforcement de la prise en charge extra-scolaire des écolier-ère-s de 5e et 6e année primaire». (EJQ)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS10-051"
+    },
+    {
+      "numero": "50",
+      "titre": "Rapport-préavis N° 2024/01 « Réponse au postulat de Conscience Pierre et crts - Formatrices et formateurs pour adultes : un métier précaire à revaloriser rapidement». (SCS)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS22-018"
+    },
+    {
+      "numero": "51",
+      "titre": "Pétition déposée le 7 novembre 2023 de Karl et Nils Voggensperger : « Un stade pour tous-tes : Changeons le nom honteux du stade Juan-Antonio Samaranch ! » (CD)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/PE23-013"
+    },
+    {
+      "numero": "52",
+      "titre": "Rapport-préavis N° 2024/02 - Réponse au postulat de M. José MARTINHO et crts : «Smartvote à chaque élection communale». (CD)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-004"
+    },
+    {
+      "numero": "53",
+      "titre": "Rapport-préavis N° 2024/02 - Réponse au postulat de Mme Anouck SAUGY : «Bureaux de vote : intégrons nos jeunes». (CD)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS22-084"
+    },
+    {
+      "numero": "54",
+      "titre": "Rapport-préavis N° 2024/02 - Réponse au postulat de M. Louis DANA et crts : «Vote dès 16 ans : Lausanne doit prendre les devants !». (CD)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-040"
+    },
+    {
+      "numero": "55",
+      "titre": "Rapport-préavis N° 2024/02 - Réponse au postulat de Mme Christine GOUMAZ et crts : «Vote par procuration». (CD)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS22-061"
+    },
+    {
+      "numero": "56",
+      "titre": "Rapport-préavis N° 2024/12 - Réponse au postulat de M. Johann DUPUIS : « Pour le développement du rôle des travailleurs sociaux hors-murs en ville de Lausanne». (EJQ)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS22-085"
+    },
+    {
+      "numero": "57",
+      "titre": "Pétition du Comité libre des parents du quartier des Fiches par [particulier] : «Pour un chemin de l'école plus sûr» (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/PE23-012"
+    },
+    {
+      "numero": "58",
+      "titre": "Pétition au CC déposée le 16 janvier 2024 de Société de Développement du Sud-Ouest par M. Jean-Daniel Henchoz et crts : «Non à la fermeture du Bureau de vote de Cour» (CD)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/PE24-001"
+    },
+    {
+      "numero": "59",
+      "titre": "Postulat de Mme Franziska MEINHERZ et consorts : «Un tarif spécifique pour le stationnement des SUV de grande taille». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS24-002"
+    },
+    {
+      "numero": "60",
+      "titre": "Rapport-préavis N° 2023/66 - Réponse au Postulat de M. Benoît GAILLARD : «Prévenir le déploiement des technologies de reconnaissance faciale à Lausanne». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-079"
+    },
+    {
+      "numero": "61",
+      "titre": "Rapport-préavis N° 2023/66 - Réponse au Projet de règlement de M. Benoît GAILLARD : «Interdire l'usage des technologies de reconnaissance faciale et biométrique à des fins d'identification préventive par la police lausannoise». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/PR21-003"
+    },
+    {
+      "numero": "62",
+      "titre": "Rapport-préavis N° 2023/66 - Réponse au Projet de règlement de M. Benoît GAILLARD : «Interdire l'usage des technologies de reconnaissance faciale et biométrique dans la vidéosurveillance à Lausanne». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/PR21-002"
+    },
+    {
+      "numero": "63",
+      "titre": "Postulat de Mme Marlène BÉRARD : « Pour prévenir le vol de vélos en ville de Lausanne». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-073"
+    },
+    {
+      "numero": "64",
+      "titre": "Postulat de M. Johan PAIN : «Pour une enquête annuelle de satisfaction auprès du personnel communal». (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-030"
+    },
+    {
+      "numero": "65",
+      "titre": "Postulat de M. Samson YEMANE : « Police : renforcer et valoriser les compétences transculturelles». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-018"
+    },
+    {
+      "numero": "66",
+      "titre": "Postulat de [particulier] et consorts : « Non aux espèces menacées de poisson dans les assiettes lausannoises ! Pour une restauration protégeant les ressources halieutiques ». (LEA)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-043"
+    },
+    {
+      "numero": "67",
+      "titre": "Rapport-préavis N° 2023/70 - Réponse au Postulat de M. Samuel DE VARGAS : « Le drug checking, un outil supplémentaire en matière de réduction des risques liés à la consommation de stupéfiants ». (SCS)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-071"
+    },
+    {
+      "numero": "68",
+      "titre": "Pétition au CC de Bron Alain déposée le 5 décembre 2023 : « Borde pour un dépôt de bus sportif et solaire» (FIM)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/PE23-014"
+    },
+    {
+      "numero": "69",
+      "titre": "Postulat de M. Ilias PANCHARD : «Poursuite de la politique sociale du logement à la CPCL : la balle est entre les mains des membres de la Municipalité au comité». (CD)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS24-013"
+    },
+    {
+      "numero": "70",
+      "titre": "Rapport-préavis N° 2023/67 - Réponse au Postulat de M. Philippe MIAUTON : «Rendre Lausanne plus riche». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS16-051"
+    },
+    {
+      "numero": "71",
+      "titre": "Rapport-préavis N° 2023/67 - Réponse au Postulat de M. Jacques PERNET : «Postulat de Pernet Jacques et consorts - Quel futur pour le commerce lausannois ?». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS16-031"
+    },
+    {
+      "numero": "72",
+      "titre": "Rapport-préavis N° 2023/67 - Réponse au Postulat de Mme Anna CROLE-REES : «Postulat de Crole-Rees Anna et crts - le bonheur à Lausanne : où en est-on ?». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS23-022"
+    },
+    {
+      "numero": "73",
+      "titre": "Rapport-préavis N° 2023/67 - Réponse au Postulat de Mme Anna CROLE-REES : «Postulat de Crole-Rees Anna et crts - Après l'environnement, la sécurité et la mobilité : le bien-être social et économique de la population lausannoise !». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-001"
+    },
+    {
+      "numero": "74",
+      "titre": "Rapport-préavis N° 2023/67 - Réponse au Postulat de M. Denis CORBOZ : «Postulat de Corboz Denis - Développement de l'aide de livraison à domicile». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS17-032"
+    },
+    {
+      "numero": "75",
+      "titre": "Rapport-préavis N° 2023/67 - Réponse au Postulat de Mme Françoise PIRON : «Postulat de Piron Françoise et crts - Pour que les commerçant-e-s bénéficient d'une procédure administrative efficace». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS19-020"
+    },
+    {
+      "numero": "76",
+      "titre": "Rapport-préavis N° 2023/67 - Réponse au Postulat de M. Bertrand PICARD : «Postulat de Picard Bertrand et crts - P+R+S : Parc'n'ride'n'shop». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS16-057"
+    },
+    {
+      "numero": "77",
+      "titre": "Rapport-préavis N° 2023/67- Réponse au Postulat de Mr Nicolas TRIPET : «Postulat de Tripet Nicolas et crts - Taxes et bureaucratie : simplifier la vie des commerçants». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/POS19-021"
+    },
+    {
+      "numero": "78",
+      "titre": "Rapport-préavis N° 2023/65 - Réponse au Projet de règlement de M. Fabrice MOSCHENI : « Mieux protéger les policières et les policiers». (SE)",
+      "categorie": "RAPPORTS",
+      "resultat": "Reporté",
+      "objet": "5586/PR18-002"
+    },
+    {
+      "numero": "79",
+      "titre": "Interpellation déposée le 2 mai 2023 de M. Johann DUPUIS : « Fermeture d'hébergements d'urgence à l'état de saturation : bis repetita ad eternam ? » (SCS/14.03.2024)",
+      "categorie": "DROITS DES CONSEILLERS COMMUNAUX - INTERPELLATIONS",
+      "resultat": "Adoptée avec résolution",
+      "objet": "5586/INT23-032"
+    },
+    {
+      "numero": "80",
+      "titre": "Interpellation déposée le 7 novembre 2023 de M. Ilias PANCHARD : « Police municipale : l'uniforme, rien que l'uniforme ! Vraiment ?» (SE/14.03.2024)",
+      "categorie": "DROITS DES CONSEILLERS COMMUNAUX - INTERPELLATIONS",
+      "resultat": "Adoptée avec résolution",
+      "objet": "5586/INT23-072"
+    },
+    {
+      "numero": "81",
+      "titre": "Interpellation (urgence refusée) déposée le 2 mai 2023 de Mme Séverine GRAFF : « Agir contre l'augmentation du prix des transports publics » (FIM/28.03.2024)",
+      "categorie": "DROITS DES CONSEILLERS COMMUNAUX - INTERPELLATIONS",
+      "resultat": "Reporté",
+      "objet": "5586/INT23-031"
+    },
+    {
+      "numero": "82",
+      "titre": "Interpellation déposée le 13 septembre 2022 de M. Valéry BEAUD : «Plateforme 10, le nouvel îlot de chaleur urbain de Lausanne ?» (LEA/11.04.2024)",
+      "categorie": "DROITS DES CONSEILLERS COMMUNAUX - INTERPELLATIONS",
+      "resultat": "Reporté",
+      "objet": "5586/INT22-057"
+    },
+    {
+      "numero": "83",
+      "titre": "Interpellation déposée le 30 mai 2023 de M. Ilias PANCHARD et crts : «Renvois Dublin : que fait la Ville de Lausanne ?» (SE/EJQ/SCS/02.05.2024)",
+      "categorie": "DROITS DES CONSEILLERS COMMUNAUX - INTERPELLATIONS",
+      "resultat": "Reporté",
+      "objet": "5586/INT23-042"
+    },
+    {
+      "numero": "84",
+      "titre": "Interpellation déposée le 8 février 2022 de Mme Thanh-My TRAN-NHU et crts: «Subventions en faveur des clubs sportifs féminins : comment procéder au rééquilibrage ?» (SCS/02.05.2024)",
+      "categorie": "DROITS DES CONSEILLERS COMMUNAUX - INTERPELLATIONS",
+      "resultat": "Reporté",
+      "objet": "5586/INT22-013"
+    },
+    {
+      "numero": "85",
+      "titre": "Interpellation déposée le 2 mai 2023 de M. Nicola DI GIULIO et crts : «En 2007, les Lausannois désapprouvent par 54,6% la création d'un local d'injection, qu'en est-il aujourd'hui de la partie Nord-Est de la place de la Riponne ?» (SCS/16.05.2024)",
+      "categorie": "DROITS DES CONSEILLERS COMMUNAUX - INTERPELLATIONS",
+      "resultat": "Reporté",
+      "objet": "5586/INT23-027"
+    },
+    {
+      "numero": "86",
+      "titre": "Interpellation déposée le 12 septembre 2023 de Mme Sevgi KOYUNCU : «Que fait l'Administration communale pour protéger la santé et la personnalité de son personnel ?» (FIM/22.08.2024)",
+      "categorie": "DROITS DES CONSEILLERS COMMUNAUX - INTERPELLATIONS",
+      "resultat": "Reporté",
+      "objet": "5586/INT23-062"
+    },
+    {
+      "numero": "87",
+      "titre": "Interpellation déposée le 29 août 2023 de Mme Françoise PIRON : «Lieux de vie pour personnes avec troubles neuro-psychologiques: bilan et perspectives» (CD/12.09.2024)",
+      "categorie": "DROITS DES CONSEILLERS COMMUNAUX - INTERPELLATIONS",
+      "resultat": "Reporté",
+      "objet": "5586/INT23-054"
+    },
+    {
+      "numero": "88",
+      "titre": "Pétition du Collectif pour la sauvegarde du coteau de Grande-Rive (par [particulier]) et crts  : « Pour la préservation du caractère particulier du site Primerose - av. des Bains-ch. de Grande-Rive»",
+      "categorie": "ANNONCES ET INTERPELLATIONS",
+      "resultat": "Renvoi en COPET",
+      "objet": "5586/PE24-012"
+    }
+  ]
+}

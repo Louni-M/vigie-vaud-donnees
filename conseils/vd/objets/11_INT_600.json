@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222330,
+  "numero": "11_INT_600",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-09-11"
+  },
+  "depose": "2012-02-14",
+  "titre": "Exonérations fiscales aux entreprises : pour que l'impôt reste heureux",
+  "contributeurs": [
+    {
+      "nom": "Philippe Martinet",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-02-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-02-14",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-09-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-06-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_600_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-02-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_600_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-11-septembre-2012/reponse-du-conseil-detat-a-linterpellation-philippe-martinet-exonerations-fiscales-aux-entreprises-pour-que-limpot-reste-heureux",
+  "communes": [
+    {
+      "ofs": 5861,
+      "origine": "document"
+    }
+  ]
+}

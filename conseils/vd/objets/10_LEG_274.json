@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222007,
+  "numero": "10_LEG_274",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-06-22"
+  },
+  "depose": "2009-02-03",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit-cadre de CHF 8'600'000.- pour le renforcement au trafic 40t du solde des ouvrages du réseau routier cantonal prioritaire",
+  "contributeurs": [
+    {
+      "nom": "Grégory Devaud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Grégory Devaud",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Grégory Devaud",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-02-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-02-03",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2009-02-10",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2010-06-22",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_3_fevrier_2009/120_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_3_fevrier_2009/120_RC.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-06-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/274_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-06-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/274_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 22.06.10",
+      "date": "2010-06-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/274_decret_new.pdf"
+    },
+    {
+      "titre": "Décret adopté le 10 février 2009",
+      "date": "2009-02-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/120_Decret.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-22-juin-2010/expose-des-motifs-et-projet-de-decret-renforcement-au-trafic-40t",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

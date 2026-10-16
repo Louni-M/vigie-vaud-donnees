@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222453,
+  "numero": "11_MOT_130",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2012-03-20"
+  },
+  "depose": "2012-01-31",
+  "titre": "Demandant 20 jours de congé paternité pour les employés de l'Etat de Vaud",
+  "contributeurs": [
+    {
+      "nom": "Claude-Eric Dufour",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Florence Golaz",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-01-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-03-20",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2012-01-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_130_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2012-01-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_130_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2012-01-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_130_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-20-mars-2012/motion-nicolas-mattenberger-demandant-20-jours-de-conge-paternite-pour-les-employes-de-letat-de-vaud",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

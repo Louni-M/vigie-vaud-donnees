@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221539,
+  "numero": "08_POS_104",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2008-12-09"
+  },
+  "depose": "2008-12-09",
+  "titre": "Au nom du groupe libéral visant à rebondir pour montrer aux Vaudois leur patrimoine des Beaux-Arts",
+  "contributeurs": [
+    {
+      "nom": "Jean-Yves Pidoux",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Yves Pidoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-12-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-12-09",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2008-12-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_9_decembre_2008/08_POS_104_Depot.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2009-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Liste_objets_Commissions_nomeee_periode_16/08_POS_104_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-21-avril-2009/postulat-jean-marie-surer",
+  "communes": [
+    {
+      "ofs": 5464,
+      "origine": "document"
+    },
+    {
+      "ofs": 5425,
+      "origine": "document"
+    }
+  ]
+}

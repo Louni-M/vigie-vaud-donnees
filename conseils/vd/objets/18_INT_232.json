@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224317,
+  "numero": "18_INT_232",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-06-08"
+  },
+  "depose": "2018-09-04",
+  "titre": "Economie Familiale",
+  "contributeurs": [
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-09-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-09-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-06-08",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2018-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_232_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-09-06",
+      "lien": "https://www.sonomix.ch/live/gcvd/2165#3583"
+    },
+    {
+      "titre": "Enseignement de l'économie familiale",
+      "date": "2022-06-08",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2120186"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/bf35aa39-ab9e-441a-a6f8-148acce88d39/meeting/1012631",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5675,
+      "origine": "document"
+    }
+  ]
+}

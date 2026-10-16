@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222812,
+  "numero": "12_RAP_468",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-05-01"
+  },
+  "depose": "2012-05-01",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat PhilippeDucommun et consorts - A quand le retour aux 120 kilomètres à l'heure pour le contournement autoroutier de Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Valérie Schwaar",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Valérie Schwaar",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Valérie Schwaar",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-05-01",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/468_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/468_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-11-septembre-2012/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-philippe-ducommun-a-quand-le-retour-aux-120-kilometres-a-lheure-pour-le-contournement-autoroutier-de-lausanne",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5651,
+      "origine": "document"
+    },
+    {
+      "ofs": 5592,
+      "origine": "document"
+    }
+  ]
+}

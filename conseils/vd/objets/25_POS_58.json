@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 280154,
+  "numero": "25_POS_58",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2025-11-11"
+  },
+  "depose": "2025-11-04",
+  "titre": "Adapter les exigences de l’accueil de jour aux besoins de la population",
+  "contributeurs": [
+    {
+      "nom": "Cédric Weissert",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Sylvie Pittet Blanchette",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-11-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-11-04",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-11-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-11-11",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-11-11",
+      "lien": "https://www.sonomix.ch/live/gcvd/3259#4761"
+    },
+    {
+      "titre": "https://www.vd.ch/fileadmin/user_upload/organisation/dinf/oaje/Directives/directives_prescolaire_journee.pdf",
+      "date": "2025-11-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/dinf/oaje/Directives/directives_prescolaire_journee.pdf"
+    },
+    {
+      "titre": "https://faje-vd.ch/wp-content/uploads/2023/12/FAJE_ADJ_DIAGPROSP_Rapport_MGapo-VersionVF.pdf",
+      "date": "2025-11-11",
+      "lien": "https://faje-vd.ch/wp-content/uploads/2023/12/FAJE_ADJ_DIAGPROSP_Rapport_MGapo-VersionVF.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c026df0c-7584-48bc-807f-f1c87e3926ac/meeting/1029642",
+  "communes": [
+    {
+      "ofs": 5892,
+      "origine": "document"
+    },
+    {
+      "ofs": 5584,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5568,
+      "origine": "document"
+    },
+    {
+      "ofs": 5939,
+      "origine": "document"
+    }
+  ]
+}

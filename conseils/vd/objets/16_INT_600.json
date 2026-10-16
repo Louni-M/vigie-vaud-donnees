@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223853,
+  "numero": "16_INT_600",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-01-16"
+  },
+  "depose": "2016-11-15",
+  "titre": "Patinoire de Malley tout de béton et d'acier. Mais où est donc passé le bois et autre matériau de construction écologique ?",
+  "contributeurs": [
+    {
+      "nom": "Yvan Pahud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-11-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-11-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-01-16",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adotpé par le Conseil d'Etat",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_600_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-11-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_600_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-16-janvier-2018/reponse-du-conseil-detat-a-linterpellation-yvan-pahud-patinoire-de-malley-tout-de-beton-et-dacier-mais-ou-est-donc-passe-le-bois-et-autre-materiau-de-construction-ecologique",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    }
+  ]
+}

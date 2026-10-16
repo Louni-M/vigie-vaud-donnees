@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223341,
+  "numero": "14_PET_029",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2014-12-09"
+  },
+  "depose": "2014-08-26",
+  "titre": "Pétition en faveur de [particulier] et son enfant Mohammad Soleimani",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2014-08-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-12-09",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-12-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_PET_029_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-12-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_PET_029_D%C3%A9p%C3%B4t_01.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-12-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_PET_029_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seances-des-9-et-10-decembre-2014/petition-en-faveur-de-madame-nafiseh-ghovadi-et-son-enfant-mohammad-soleimani",
+  "communes": [
+    {
+      "ofs": 5407,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

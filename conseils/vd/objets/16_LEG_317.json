@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223952,
+  "numero": "16_LEG_317",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-11-22"
+  },
+  "depose": "2016-11-01",
+  "titre": "Exposé de motifs et projet de décert accordant au Conseil d'Etat un crédit d'ouvrage de CHF 4'985'000.- pour financer la correction routière de la RC 749-B-P et l'amélioration de l'intersection RC 749-B-P / RC 744-B-P sur le territoire des communes de Corsier-sur-Vevey et de Jongny",
+  "contributeurs": [
+    {
+      "nom": "Philippe Modoux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Modoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-11-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-11-22",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-11-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/317_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-11-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/317_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-22-novembre-2016/empd-de-chf-4985000-pour-financer-la-correction-routiere-de-la-rc-749-b-p-et-lamelioration-de-lintersection-rc-749-b-p-/-rc-744-b-p-sur-le-territoire-des-communes-de-corsier-sur-vevey-et-de-jongny",
+  "communes": [
+    {
+      "ofs": 5884,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5885,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5474,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

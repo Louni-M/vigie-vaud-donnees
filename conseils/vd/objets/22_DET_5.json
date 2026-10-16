@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226104,
+  "numero": "22_DET_5",
+  "type": "Détermination",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-08-16"
+  },
+  "depose": "2022-09-06",
+  "titre": "Pour que nos enfants apprennent non seulement à manger, mais aussi à cuisiner",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Montangero",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-09-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-08-16",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Education nutritionnelle",
+      "date": "2023-08-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2191128"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c57ef92b-be3d-4fee-b005-5aa776fea824/meeting/1012631",
+  "communes": [
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    }
+  ]
+}

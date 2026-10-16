@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227800,
+  "numero": "24_MOT_46",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2024-11-19"
+  },
+  "depose": "2024-11-19",
+  "titre": "Motion pour la réalisation d’un parking d’échange lors du prolongement du tramway de Renens à Villars-Ste-Croix",
+  "contributeurs": [
+    {
+      "nom": "Aurélien Demaurex",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-11-19",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-11-26",
+      "lien": "https://www.sonomix.ch/live/gcvd/2962#958"
+    },
+    {
+      "titre": "https://www.vd.ch/actualites/actualite/news/i-le-conseil-detat-soumet-au-grand-conseil-les-credits-du-prolongement-du-tramway-de-renens-a-villars-sainte-croix-1",
+      "date": "2024-11-26",
+      "lien": "https://www.vd.ch/actualites/actualite/news/i-le-conseil-detat-soumet-au-grand-conseil-les-credits-du-prolongement-du-tramway-de-renens-a-villars-sainte-croix-1"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/97661d75-75d2-4a36-a597-baebc8bd3524/meeting/1026867",
+  "communes": [
+    {
+      "ofs": 5591,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5651,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5624,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5635,
+      "origine": "document"
+    }
+  ]
+}

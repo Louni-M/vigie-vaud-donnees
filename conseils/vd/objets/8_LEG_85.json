@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228451,
+  "numero": "8_LEG_85",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2008-10-07"
+  },
+  "depose": "2008-09-30",
+  "titre": "EMPL modifiant la loi du 7 décembre 2004 sur les fusions de communes et le décret du 25 janvier 2005 sur l'incitation financière aux fusions de communes",
+  "contributeurs": [
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-09-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-09-30",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2008-10-07",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte du Conseil d'Etat",
+      "date": "2008-10-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_30_septembre_2008/85_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-10-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_30_septembre_2008/85_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-30-septembre-2008/expose-des-motifs-et-projet-de-loi-fusions-de-communes",
+  "communes": []
+}

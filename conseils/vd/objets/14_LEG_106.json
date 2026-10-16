@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223248,
+  "numero": "14_LEG_106",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-06-03"
+  },
+  "depose": "2014-05-06",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi du 31 mai 2005 sur l'exercice des activités économiques (LEAE) et Rapports du Conseil d'Etat au Grand Conseil sur la motion Aliette Rey-Marion et consorts au sujet des solariums self-service : Attention danger !",
+  "contributeurs": [
+    {
+      "nom": "Catherine Roulet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Catherine Roulet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-05-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-05-27",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2014-06-03",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-05-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/106_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-05-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/106_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-3-juin-2014/expose-des-motifs-et-projet-de-loi-modifiant-la-loi-du-31-mai-2005-sur-lexercice-des-activites-economiques-leae",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

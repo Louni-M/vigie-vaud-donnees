@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225658,
+  "numero": "21_INT_28",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-01-29"
+  },
+  "depose": "2021-02-16",
+  "titre": "Péjoration du nœud ferroviaire Palézieux – Toute une région déconnectée ?",
+  "contributeurs": [
+    {
+      "nom": "Cloé Baudet Pointet",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-02-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-03-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-01-29",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-05-06",
+      "lien": "https://www.sonomix.ch/live/gcvd/3114#4065"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-03-02",
+      "lien": "https://www.sonomix.ch/live/gcvd/1747#725"
+    },
+    {
+      "titre": "Desserte de la gare de Palézieux",
+      "date": "2025-01-29",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2284348"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/87df612d-e694-4dfe-ae5a-3c679cbaf979/meeting/1026887",
+  "communes": [
+    {
+      "ofs": 5805,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5607,
+      "origine": "document"
+    }
+  ]
+}

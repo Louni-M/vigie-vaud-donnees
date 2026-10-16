@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222902,
+  "numero": "13_INT_157",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-01-07"
+  },
+  "depose": "2013-09-10",
+  "titre": "Cours professionnels: bâtiments EPCL / Vallée de la jeunesse utilisation suspendue rentrée repoussée",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-09-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-09-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-01-07",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-01-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_157_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-09-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_157_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-7-janvier-2014/reponse-du-conseil-detat-a-linterpellation-jean-marie-surer-et-consorts-cours-professionnels-batiments-epcl-/-vallee-de-la-jeunesse-utilisation-suspendue-rentree-repoussee",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5627,
+      "origine": "document"
+    }
+  ]
+}

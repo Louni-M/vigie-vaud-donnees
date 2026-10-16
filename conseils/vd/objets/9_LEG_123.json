@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 176527,
+  "numero": "9_LEG_123",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-05-19"
+  },
+  "depose": "2009-05-12",
+  "titre": "Exposé des motifs et projet de loi sur le secteur électrique",
+  "contributeurs": [
+    {
+      "nom": "Rémy Pache",
+      "parti": "LIB",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Michel Dolivo",
+      "parti": "EP",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-05-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-05-12",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2009-05-19",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/123_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_au_8_avril_2009/123_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_au_8_avril_2009/123_RC_maj.pdf"
+    },
+    {
+      "titre": "Tableau comparatif après le 2ème débat",
+      "date": "2009-05-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/123_Tableau-miroir_123_pour_3eme_debat__version_SGC.pdf"
+    },
+    {
+      "titre": "Tableau comparatif après le 1er débat",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/123_tab_comp.pdf"
+    },
+    {
+      "titre": "Loi adoptée par le Grand Conseil le 19 mai 2009",
+      "date": "2009-05-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/123_loi_adoptee.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-19-mai-2009/expose-des-motifs-et-projet-de-loi-sur-le-secteur-electrique",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

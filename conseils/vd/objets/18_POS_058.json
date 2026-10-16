@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224503,
+  "numero": "18_POS_058",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-02-04"
+  },
+  "depose": "2018-05-08",
+  "titre": "Constructions agricoles hors zone à bâtir : Bois ou métal ?",
+  "contributeurs": [
+    {
+      "nom": "Olivier Gfeller",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Olivier Gfeller",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-05-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-02-04",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_058_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_058_obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-05-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_058_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-4-fevrier-2020/postulat-jean-luc-bezencon-et-consorts-constructions-agricoles-hors-zone-a-batir-bois-ou-metal",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 202987,
+  "numero": "18_PET_016",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2019-01-29"
+  },
+  "depose": "2018-05-15",
+  "titre": "Pétition - La famille U. ne doit pas être renvoyée",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2018-05-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-01-29",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_016_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_016_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-29-janvier-2019/petition-la-famille-u-ne-doit-pas-etre-renvoyee",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5764,
+      "origine": "document"
+    }
+  ]
+}

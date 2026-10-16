@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221969,
+  "numero": "10_LEG_205",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-03-02"
+  },
+  "depose": "2010-02-02",
+  "titre": "Exposé des motifs et projet de loi sur le service de défense contre l'incendie et de secours (LS",
+  "contributeurs": [
+    {
+      "nom": "François Payot",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "François Payot",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-02-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-02-23",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2010-03-02",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-02-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/205_Texte_CE.pdf"
+    },
+    {
+      "titre": "Tableau miroir après le premier débat",
+      "date": "2010-03-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/205_Tableau_apres_1er_debat.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-02-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/205_RC.pdf"
+    },
+    {
+      "titre": "Loi adoptée par le Grand Conseil le 02.03.10",
+      "date": "2010-03-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/205_Loi_adoptee_new.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-2-mars-2010/expose-des-motifs-et-projet-de-loi-sur-le-service-de-defense-contre-lincendie-et-de-secours-lsdis",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5646,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222232,
+  "numero": "11_INT_502",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-03-19"
+  },
+  "depose": "2011-04-12",
+  "titre": "Factures non payées aux EMS vaudois",
+  "contributeurs": [
+    {
+      "nom": "Philippe Randin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Randin",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-04-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-04-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-03-19",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-01-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_502_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_502_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-19-mars-2013/reponse-du-conseil-detat-a-linterpellation-philippe-randin-factures-non-payees-aux-ems-vaudois",
+  "communes": []
+}

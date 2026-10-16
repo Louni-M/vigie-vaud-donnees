@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222562,
+  "numero": "11_POS_299",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2013-03-26"
+  },
+  "depose": "2012-05-22",
+  "titre": "Promouvoir davantage les conventions collectives de travail !",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Cachin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-François Cachin",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-05-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-05-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-03-26",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2013-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/11_POS_299_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2013-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/11_POS_299_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et developpement",
+      "date": "2013-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/11_POS_299_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2013-03-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_299_Obj_et_d%C3%A9v.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-05-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_299_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-26-mars-2013/postulat-nicolas-rochat-concernant-la-promotion-economique-promouvoir-davantage-les-conventions-collectives-de-travail",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

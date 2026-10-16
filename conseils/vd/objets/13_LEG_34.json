@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222970,
+  "numero": "13_LEG_34",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-05-21"
+  },
+  "depose": "2013-05-14",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 104.9 mios pour financer les transformations lourdes du bloc opératoire principal du CHUV et la création d'une structure préfabriquée pour maintenir l'activité durant les travaux",
+  "contributeurs": [
+    {
+      "nom": "Catherine Roulet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Catherine Roulet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-05-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-05-21",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-05-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/34_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-05-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/34_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le GC le 21.05.13",
+      "date": "2013-05-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/34_FAO.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-21-mai-2013/expose-des-motifs-et-projet-de-decret-accordant-un-credit-dinvestissement-de-chf-1049-mios-pour-financer-les-transformations-lourdes-du-bloc-operatoire-principal-du-chuv-et-la-creation-dune-structure-prefabriquee-pour-maintenir-lactivite-durant-les-tr",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5718,
+      "origine": "document"
+    }
+  ]
+}

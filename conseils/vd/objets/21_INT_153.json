@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225645,
+  "numero": "21_INT_153",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-11-30"
+  },
+  "depose": "2021-11-30",
+  "titre": "Les Zadistes et la suite ?.......bis",
+  "contributeurs": [
+    {
+      "nom": "Jean-Luc Bezençon",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-11-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-12-07",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-11-30",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-12-07",
+      "lien": "https://www.sonomix.ch/live/gcvd/1976#589"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-05-02",
+      "lien": "https://www.sonomix.ch/live/gcvd/2374#4396"
+    },
+    {
+      "titre": "Les coûts engendrés par l’occupation de la colline du Mormont à la charge de la Police cantonale",
+      "date": "2022-11-23",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2148594"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/879f885c-7ba5-465e-ac0b-ecac9c25b62e/meeting/1013642",
+  "communes": [
+    {
+      "ofs": 5482,
+      "origine": "document"
+    },
+    {
+      "ofs": 5498,
+      "origine": "document"
+    }
+  ]
+}

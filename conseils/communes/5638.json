@@ -1,0 +1,1263 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5638,
+  "objets": [
+    {
+      "cle": "vd/24_INT_7",
+      "numero": "24_INT_7",
+      "type": "Interpellation",
+      "depose": "2024-01-16",
+      "titre": "Prisons vaudoises sous haute tension ?",
+      "auteurs": [
+        {
+          "nom": "Nicola Di Giulio",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2026-05-05"
+      },
+      "derniere_etape": "2026-05-05",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_LEG_32",
+      "numero": "24_LEG_32",
+      "type": "Décret/Loi",
+      "depose": "2024-11-19",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit d’étude complémentaire de CHF 12'620’000 pour financer les études relatives à la construction de la future prison des Grands-Marais (PGM) en une étape de travaux au lieu de deux ainsi que pour financer les diagnostics archéologiques relatifs à la construction de la future prison des Grands-Marais (PGM) et des sites adjacents, la Nouvelle colonie ouverte (COO) et le Poste de contrôle avancé (PCA) dans la Plaine de l’Orbe",
+      "auteurs": [
+        {
+          "nom": "Patrick Simonin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-11-19"
+      },
+      "derniere_etape": "2024-11-19",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_QUE_49",
+      "numero": "24_QUE_49",
+      "type": "Simple question",
+      "depose": "2024-06-18",
+      "titre": "Capacité pénitentiaire vaudoise en 2024",
+      "auteurs": [
+        {
+          "nom": "Fabrice Moscheni",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2024-08-21"
+      },
+      "derniere_etape": "2024-08-21",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_POS_23",
+      "numero": "24_POS_23",
+      "type": "Postulat",
+      "depose": "2024-05-07",
+      "titre": "Le Canton de Vaud frise encore et toujours les sommets suisses du taux d’incarcération : quelles actions entreprendre pour enfin infléchir ce constat ?",
+      "auteurs": [
+        {
+          "nom": "David Raedler",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2024-05-07"
+      },
+      "derniere_etape": "2024-05-07",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_MOT_11",
+      "numero": "22_MOT_11",
+      "type": "Motion",
+      "depose": "2022-03-22",
+      "titre": "Pour tripler les rénovations énergétiques avec l’aide indirecte de la Banque nationale",
+      "auteurs": [
+        {
+          "nom": "Pierre Zwahlen",
+          "parti": "VER"
+        },
+        {
+          "nom": "Cendrine Cachemaille",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2024-03-26"
+      },
+      "derniere_etape": "2024-03-26",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_POS_16",
+      "numero": "22_POS_16",
+      "type": "Postulat",
+      "depose": "2022-03-22",
+      "titre": "Pour que l’Unil rende honneur au Professeur Jean Wintsch et révoque le doctorat honoris causas à Mussolini",
+      "auteurs": [
+        {
+          "nom": "Elodie Lopez",
+          "parti": "EP"
+        },
+        {
+          "nom": "Alberto Mocchi",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Non pris en considération",
+        "date": "2023-08-29"
+      },
+      "derniere_etape": "2023-08-29",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_POS_18",
+      "numero": "22_POS_18",
+      "type": "Postulat",
+      "depose": "2022-03-22",
+      "titre": "Formation gardien-ne d’animaux avec orientation animaux de rente",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        },
+        {
+          "nom": "Olivier Petermann",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2023-05-17"
+      },
+      "derniere_etape": "2023-05-17",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_HQU_12",
+      "numero": "23_HQU_12",
+      "type": "Question orale",
+      "depose": "2023-01-31",
+      "titre": "Santé en prison : une étude est-elle prévue pour établir les facteurs de dégradation de la santé psychique des détenus ?",
+      "auteurs": [
+        {
+          "nom": "Mathilde Marendaz",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Terminée",
+        "date": "2023-02-07"
+      },
+      "derniere_etape": "2023-02-07",
+      "communes": [
+        {
+          "ofs": 5589,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5883,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_POS_29",
+      "numero": "21_POS_29",
+      "type": "Postulat",
+      "depose": "2021-05-25",
+      "titre": "Lutte contre la pollution des sols du canton",
+      "auteurs": [
+        {
+          "nom": "Claire Attinger Doepper",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Taraneh Aminian",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2022-06-29"
+      },
+      "derniere_etape": "2022-06-29",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_POS_150",
+      "numero": "19_POS_150",
+      "type": "Postulat",
+      "depose": "2019-06-04",
+      "titre": "Femmes incarcérées dans le canton de Vaud : être dans une prison pensée par et pour les hommes",
+      "auteurs": [
+        {
+          "nom": "Grégory Devaud",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Grégory Devaud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2022-06-15"
+      },
+      "derniere_etape": "2022-06-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_241",
+      "numero": "21_LEG_241",
+      "type": "Décret/Loi",
+      "depose": "2022-03-29",
+      "titre": "EMPD EMPD accordant au Conseil d'Etat un crédit d’ouvrage de CHF 25'900'000.- pour financer les travaux d’assainissement des murs, estacades sur la RC 719 et du pont de la Barboleuse situés sur le territoire de la Commune de Gryon",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-03-29"
+      },
+      "derniere_etape": "2022-03-29",
+      "communes": [
+        {
+          "ofs": 5405,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_226",
+      "numero": "21_LEG_226",
+      "type": "Décret/Loi",
+      "depose": "2022-03-29",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d’études de CHF 800'000.- pour financer les études préalables à la phase d’exécution des travaux de réaménagement de la RC 80 entre le carrefour des Pressoirs (compris) et le carrefour de la route de la Gare (non compris), sur les communes de Lonay, Denges et Echandens",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-03-29"
+      },
+      "derniere_etape": "2022-03-29",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5632,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5633,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5643,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5649,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_119",
+      "numero": "21_INT_119",
+      "type": "Interpellation",
+      "depose": "2021-09-21",
+      "titre": "L'île du Paradis, vraiment",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-02-09"
+      },
+      "derniere_etape": "2022-02-09",
+      "communes": [
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_POS_30",
+      "numero": "21_POS_30",
+      "type": "Postulat",
+      "depose": "2021-06-01",
+      "titre": "N’en jetez plus, il y en a assez !!!",
+      "auteurs": [
+        {
+          "nom": "Nathalie Jaccard",
+          "parti": "VER"
+        },
+        {
+          "nom": "Maurice Treboux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2021-06-08"
+      },
+      "derniere_etape": "2021-06-08",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5405,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_15",
+      "numero": "21_LEG_15",
+      "type": "Décret/Loi",
+      "depose": "2021-03-30",
+      "titre": "Exposé des motifs EXPOSE DES MOTIFS ET PROJETS DE DECRETS accordant au Conseil d'Etat 6 crédits additionnels pour le Plan climat afin de financer les travaux d’assainissement énergétique de 9 bâtiments soit :",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2021-03-30"
+      },
+      "derniere_etape": "2021-03-30",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_RES_041",
+      "numero": "20_RES_041",
+      "type": "Résolution",
+      "depose": "2020-03-03",
+      "titre": "Pour plus de transparence de la Banque Nationale Suisse (BNS) dans la gestion des risques liés au climat",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Transmise au CE",
+        "date": "2021-02-03"
+      },
+      "derniere_etape": "2021-02-03",
+      "communes": [
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5497,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_RES_042",
+      "numero": "20_RES_042",
+      "type": "Résolution",
+      "depose": "2020-05-12",
+      "titre": "Au nom du groupe UDC – Garantir un accès à tous, aux masques, gants et solutions hydroalcooliques de qualité",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2020-09-08"
+      },
+      "derniere_etape": "2020-09-08",
+      "communes": [
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5497,
+          "origine": "document"
+        },
+        {
+          "ofs": 5407,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_222",
+      "numero": "20_LEG_222",
+      "type": "Décret/Loi",
+      "depose": "2020-05-12",
+      "titre": "Exposé des motifs et projet de décrets accordant au Conseil d'Etat un crédit-cadre de CHF 28'800'000.- pour financer les travaux d'entretien prioritaires ainsi que les études pour d'importants assainissements des bâtiments pénitentiaires, ainsi qu'un crédit d'investissement de CHF 17'000'000.- pour financer les travaux de rénovation de la prison de la Tuilière à Lonay",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-05-26"
+      },
+      "derniere_etape": "2020-05-26",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_RAP_130",
+      "numero": "20_RAP_130",
+      "type": "Rapport",
+      "depose": "2020-03-10",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Claude Alain Voiblet et consorts - Uniformisons la pratique romande en matière d'exécution des peines",
+      "auteurs": [
+        {
+          "nom": "Florence Bettschart-Narbel",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Florence Bettschart-Narbel",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-03-10"
+      },
+      "derniere_etape": "2020-03-10",
+      "communes": [
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_191",
+      "numero": "18_INT_191",
+      "type": "Interpellation",
+      "depose": "2018-06-12",
+      "titre": "Est-ce qu'il y a une collaboration intercantonale quant à la  gestion des places de détention, et si oui quelle est-elle ?",
+      "auteurs": [
+        {
+          "nom": "Jean-Daniel Carrard",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Jean-Daniel Carrard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2020-02-11"
+      },
+      "derniere_etape": "2020-02-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_MOT_018",
+      "numero": "18_MOT_018",
+      "type": "Motion",
+      "depose": "2018-02-06",
+      "titre": "Surpopulation carcérale et manque de places de détention : il y a urgence !",
+      "auteurs": [
+        {
+          "nom": "Claude Schwab",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Claude Schwab",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-12-11"
+      },
+      "derniere_etape": "2018-12-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_LEG_18",
+      "numero": "18_LEG_18",
+      "type": "Décret/Loi",
+      "depose": "2018-05-08",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 24'900'000.-pour financer la sécurisation de la Prison de La Croisée à Orbe.",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": null
+        },
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2018-05-08"
+      },
+      "derniere_etape": "2018-05-08",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_RAP_37",
+      "numero": "18_RAP_37",
+      "type": "Rapport",
+      "depose": "2018-01-30",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil concernant l'institution d'une Commission d'enquête parlementaire sur la gestion du Service pénitentiaire",
+      "auteurs": [
+        {
+          "nom": "Rémy Jaquier",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Rémy Jaquier",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Non entrée en matière",
+        "date": "2018-01-30"
+      },
+      "derniere_etape": "2018-01-30",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_RAP_274",
+      "numero": "16_RAP_274",
+      "type": "Rapport",
+      "depose": "2016-10-11",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Anne Papilloud et consorts – Quelle politique carcérale pour le canton ? – Et réponse du Conseil d'Etat à la détermination Marc-Olivier Buffat",
+      "auteurs": [
+        {
+          "nom": "Fabienne Despot",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Fabienne Despot",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2016-10-11"
+      },
+      "derniere_etape": "2016-10-11",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_LEG_160",
+      "numero": "14_LEG_160",
+      "type": "Décret/Loi",
+      "depose": "2014-11-04",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 5'678'000.- pour financer les études générales d'accidents (relevés statistiques et analyses détaillées des accidents), ainsi que les travaux d'élimination de trois points noirs du réseau routier cantonal vaudois hors traversée de localité (RC 79-B-P: Echandens, carrefour du Pont du Brizet, RC 780-B-P / RC 705-B-P: Yvorne, carrefour de Pré Nové et RC 519-B-P / RC 524-B-P: Payerne, giratoire de la Coulaz)",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2014-11-04"
+      },
+      "derniere_etape": "2014-11-04",
+      "communes": [
+        {
+          "ofs": 5633,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5415,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5822,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5486,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_INT_067",
+      "numero": "12_INT_067",
+      "type": "Interpellation",
+      "depose": "2012-11-27",
+      "titre": "La LAMal n'est pas la carte de crédit du Conseil d'Etat vaudois !",
+      "auteurs": [
+        {
+          "nom": "Claude-Alain Voiblet",
+          "parti": null
+        },
+        {
+          "nom": "Claude-Alain Voiblet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-04-23"
+      },
+      "derniere_etape": "2013-04-23",
+      "communes": [
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5713,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_15",
+      "numero": "12_LEG_15",
+      "type": "Décret/Loi",
+      "depose": "2012-11-27",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit de CHF 9'500'000.- pour financer l'agrandissement du secteur détention avant jugement de la prison de la Croisée",
+      "auteurs": [
+        {
+          "nom": "Véronique Hurni",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Véronique Hurni",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-11-27"
+      },
+      "derniere_etape": "2012-11-27",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_435",
+      "numero": "12_LEG_435",
+      "type": "Décret/Loi",
+      "depose": "2012-01-10",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 7'486'700.- pour le renouvellement du système d'information et de gestion du Service de la population (SPOP) et pour la mise en oeuvre de la cyberadministration au SPOP",
+      "auteurs": [
+        {
+          "nom": "Jacques Ansermet",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Jacques Ansermet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-01-10"
+      },
+      "derniere_etape": "2012-01-10",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_188",
+      "numero": "09_INT_188",
+      "type": "Interpellation",
+      "depose": "2009-10-06",
+      "titre": "Si l'agrandissement du centre de détention de Champ-Dollon intéresse aussi les Vaudois",
+      "auteurs": [
+        {
+          "nom": "Jacques Nicolet",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Jacques Nicolet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-03-16"
+      },
+      "derniere_etape": "2010-03-16",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221978,
+  "numero": "10_LEG_227",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-04-20"
+  },
+  "depose": "2010-04-13",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi sur la protection des mineurs du 4 mai 2004",
+  "contributeurs": [
+    {
+      "nom": "Gloria Capt",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Gloria Capt",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-04-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-04-20",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-04-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/227_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-04-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/227_RC.pdf"
+    },
+    {
+      "titre": "Loi adoptée par le Grand Conseil le 20.04.10",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/227_Loi_adoptee_ter.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-20-avril-2010/expose-des-motifs-et-projet-de-loi-sur-la-protection-des-mineurs",
+  "communes": [
+    {
+      "ofs": 5764,
+      "origine": "document"
+    }
+  ]
+}

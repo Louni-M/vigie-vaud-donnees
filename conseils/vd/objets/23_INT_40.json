@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227070,
+  "numero": "23_INT_40",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-06-21"
+  },
+  "depose": "2023-03-14",
+  "titre": "Dossier électronique du patient : où en est-on ?",
+  "contributeurs": [
+    {
+      "nom": "Florence Bettschart-Narbel",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-03-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-03-21",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-06-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-11-21",
+      "lien": "https://www.sonomix.ch/live/gcvd/2651#4670"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-03-21",
+      "lien": "https://www.sonomix.ch/live/gcvd/2335#2911"
+    },
+    {
+      "titre": "Etat des lieux sur la mise en œuvre du dossier électronique du patient",
+      "date": "2023-06-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2184273"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/086f3653-d780-41c7-b005-6be41970f36d/meeting/1019547",
+  "communes": []
+}

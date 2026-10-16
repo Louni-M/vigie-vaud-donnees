@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223415,
+  "numero": "15_INT_330",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-11-10"
+  },
+  "depose": "2015-01-20",
+  "titre": "Quel traitement réserve l'EVAM aux personnes vulnérables, en particulier sur le plan médical ?",
+  "contributeurs": [
+    {
+      "nom": "Catherine Roulet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Catherine Roulet",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-01-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-11-10",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-11-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_330_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-01-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_330_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-10-novembre-2015/reponse-du-conseil-detat-a-linterpellation-catherine-roulet-et-consort-quel-traitement-reserve-levam-aux-personnes-vulnerables-en-particulier-sur-le-plan-medical",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

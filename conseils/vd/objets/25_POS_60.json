@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 282727,
+  "numero": "25_POS_60",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2025-11-18"
+  },
+  "depose": "2025-11-11",
+  "titre": "Postulat : Liaisons de transports publics entre la Vallée de Joux, Morez et Nyon",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Cala",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre-Alain Favrod",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-11-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-11-11",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-11-18",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-11-18",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-11-18",
+      "lien": "https://www.sonomix.ch/live/gcvd/3268#576"
+    },
+    {
+      "titre": "https://www.vd.ch/etat-droit-finances/statistique/prospective/etudes-thematiques/transition-energetique-et-mobilite-dans-le-canton-de-vaud-a-lhorizon-2050?utm_source=chatgpt.com",
+      "date": "2025-11-18",
+      "lien": "https://www.vd.ch/etat-droit-finances/statistique/prospective/etudes-thematiques/transition-energetique-et-mobilite-dans-le-canton-de-vaud-a-lhorizon-2050?utm_source=chatgpt.com"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/7ab63c39-6c4f-4eed-9b51-00c8b8d2fc29/meeting/1029676",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "titre"
+    }
+  ]
+}

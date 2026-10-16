@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221827,
+  "numero": "10_INT_340",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-02-08"
+  },
+  "depose": "2010-02-16",
+  "titre": "L'évolution du système de l'imposition d'après la dépense",
+  "contributeurs": [
+    {
+      "nom": "Jean-Michel Favez",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-02-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-02-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-02-08",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-02-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_340_Texte_CE.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2010-02-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_340_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-8-fevrier-2011/reponse-du-conseil-detat-a-linterpellation-jean-michel-favez-evolution-du-systeme-de-limposition-dapres-la-depense",
+  "communes": []
+}

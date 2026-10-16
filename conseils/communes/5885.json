@@ -1,0 +1,215 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5885,
+  "objets": [
+    {
+      "cle": "vd/16_LEG_317",
+      "numero": "16_LEG_317",
+      "type": "Décret/Loi",
+      "depose": "2016-11-01",
+      "titre": "Exposé de motifs et projet de décert accordant au Conseil d'Etat un crédit d'ouvrage de CHF 4'985'000.- pour financer la correction routière de la RC 749-B-P et l'amélioration de l'intersection RC 749-B-P / RC 744-B-P sur le territoire des communes de Corsier-sur-Vevey et de Jongny",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2016-11-22"
+      },
+      "derniere_etape": "2016-11-22",
+      "communes": [
+        {
+          "ofs": 5884,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5885,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5474,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_499",
+      "numero": "16_INT_499",
+      "type": "Interpellation",
+      "depose": "2016-04-26",
+      "titre": "Voter, ce n'est pas toujours si simple",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-10-04"
+      },
+      "derniere_etape": "2016-10-04",
+      "communes": [
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5883,
+          "origine": "document"
+        },
+        {
+          "ofs": 5885,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_261",
+      "numero": "10_LEG_261",
+      "type": "Décret/Loi",
+      "depose": "2010-04-20",
+      "titre": "Préavis du Conseil d'Etat au Grand Conseil sur la validité de l'initiative populaire cantonale \"Sauver Lavaux\" et projet de décret constatant la nullité de l'initiative populaire cantonale \"Sauver Lavaux\"",
+      "auteurs": [
+        {
+          "nom": "Laurent Ballif",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Jacques Haldy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-06-08"
+      },
+      "derniere_etape": "2010-06-08",
+      "communes": [
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5885,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5610,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_INT_146",
+      "numero": "08_INT_146",
+      "type": "Interpellation",
+      "depose": "2008-11-11",
+      "titre": "Des approximations dans les autorisations de construction du parking de Saint-Saphorin",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-05-19"
+      },
+      "derniere_etape": "2009-05-19",
+      "communes": [
+        {
+          "ofs": 5610,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5604,
+          "origine": "document"
+        },
+        {
+          "ofs": 5607,
+          "origine": "document"
+        },
+        {
+          "ofs": 5609,
+          "origine": "document"
+        },
+        {
+          "ofs": 5882,
+          "origine": "document"
+        },
+        {
+          "ofs": 5883,
+          "origine": "document"
+        },
+        {
+          "ofs": 5884,
+          "origine": "document"
+        },
+        {
+          "ofs": 5885,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227588,
+  "numero": "24_INT_125",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-09-02"
+  },
+  "depose": "2024-09-03",
+  "titre": "Nos signatures ne sont pas à vendre !",
+  "contributeurs": [
+    {
+      "nom": "Alberto Mocchi",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-09-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-09-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-06-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-18",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-02",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-09-02",
+      "lien": "http://www.sonomix.ch/live/gcvd/3177#2821"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-09-10",
+      "lien": "https://www.sonomix.ch/live/gcvd/2911#10818"
+    },
+    {
+      "titre": "Le Conseil d'Etat œuvre à protéger les droits populaires",
+      "date": "2025-06-11",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2309395"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/55796a9f-6651-4841-8537-3e42de748189/meeting/1029634",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222089,
+  "numero": "10_MOT_125",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2011-08-30"
+  },
+  "depose": "2011-01-11",
+  "titre": "Visant à faciliter l'accès à la justice pour les justiciables non assistés par un mandataire",
+  "contributeurs": [
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-01-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-01-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-08-30",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2011-05-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_125_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2011-05-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_125_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-05-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_125_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-01-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_125_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-30-aout-2011/motion-jean-michel-dolivo-visant-a-faciliter-lacces-a-la-justice-pour-les-justiciables-non-assistes-par-un-mandataire",
+  "communes": []
+}

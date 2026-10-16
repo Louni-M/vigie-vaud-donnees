@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224439,
+  "numero": "18_MOT_046",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2019-11-05"
+  },
+  "depose": "2018-05-22",
+  "titre": "Introduire le principe de remboursement de l'aide sociale",
+  "contributeurs": [
+    {
+      "nom": "Carole Dubois",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Carole Dubois",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-05-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-06-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-11-05",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-10-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_046_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-10-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_046_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_046_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-5-novembre-2019/motion-alexandre-berthoud-et-consorts-introduire-le-principe-de-remboursement-de-laide-sociale",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222287,
+  "numero": "11_INT_556",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-05-08"
+  },
+  "depose": "2011-11-08",
+  "titre": "Tourisme nucléaire, où se sont donc envolées les 32 tonnes de poussières radioactives ?",
+  "contributeurs": [
+    {
+      "nom": "Béatrice Métraux",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-11-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-05-08",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-03-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_556_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-11-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_556_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-8-mai-2012/reponse-du-conseil-detat-a-linterpellation-beatrice-metraux-tourisme-nucleaire-ou-se-sont-donc-envolees-les-32-tonnes-de-poussieres-radioactives",
+  "communes": [
+    {
+      "ofs": 5646,
+      "origine": "document"
+    },
+    {
+      "ofs": 5482,
+      "origine": "document"
+    },
+    {
+      "ofs": 5529,
+      "origine": "document"
+    }
+  ]
+}

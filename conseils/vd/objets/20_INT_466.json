@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225180,
+  "numero": "20_INT_466",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2020-09-16"
+  },
+  "depose": "2020-03-10",
+  "titre": "Moins c'est haut, plus SEMO ?",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Croci Torti",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-03-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-05-26",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-09-16",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Dépôt",
+      "date": "2020-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_466_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-01-26",
+      "lien": "https://www.sonomix.ch/live/gcvd/1706#500"
+    },
+    {
+      "titre": "Evolution des semestres de motivation",
+      "date": "2020-09-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2006903"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/78650af9-9bb2-4cf1-aa2e-3a4c1d24ddf2/meeting/1000546",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

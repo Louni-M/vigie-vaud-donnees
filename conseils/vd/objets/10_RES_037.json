@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222193,
+  "numero": "10_RES_037",
+  "type": "Résolution",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-01-25"
+  },
+  "depose": "2010-06-01",
+  "titre": "L'implantation d'une antenne au sommet du Mont-Tendre",
+  "contributeurs": [
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": null,
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-06-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-06-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-01-25",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-01-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_399_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-25-janvier-2011/reponse-du-conseil-detat-a-linterpellation-raphael-mahaim-implantation-dune-antenne-au-mont-tendre",
+  "communes": [
+    {
+      "ofs": 5655,
+      "origine": "document"
+    }
+  ]
+}

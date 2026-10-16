@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221345,
+  "numero": "08_INI_012",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2008-12-16"
+  },
+  "depose": "2008-06-10",
+  "titre": "Auprès des Chambres fédérales demandant au Conseil fédéral une modification de la loi sur la protection de l'environnement afin d'y introduire des prescriptions sur l'introduction d'une étiquette indiquant les émissions de CO2 émises lors de la production et du transport des denrées alimentaires non-transformées",
+  "contributeurs": [
+    {
+      "nom": "Pierre-André Pernoud",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre-André Pernoud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-06-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-12-16",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-12-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Senace_du_16_decembre_2008/08_INI_012_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2008-06-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_INI_012_Objet.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2008-12-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Senace_du_16_decembre_2008/08_INI-012_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-des-16-et-17-decembre-2008/initiative-cantonale-gregory-devaud",
+  "communes": []
+}

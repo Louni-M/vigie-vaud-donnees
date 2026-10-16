@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221328,
+  "numero": "07_MOT_011",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Eingereicht",
+    "date": "2008-04-22"
+  },
+  "depose": "2008-04-22",
+  "titre": "Motion du Groupe libéral pour un Canton de Vaud fiscalement attractif",
+  "contributeurs": [
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-04-22",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2008-05-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_20_mai08/07_MOT_011_Rapport_maj_com.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2008-04-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/07_MOT_011_rapport_min.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2008-04-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_22_avril_2008/07_MOT_011_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-05-20",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-20-mai-2008"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2008-05-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_20_mai08/07_MOT_011_rapport_min_com.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2008-04-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_29_avril08/07_MOT_011_Rapport_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-27-mai-2008/motion-du-groupe-liberal-pour-un-canton-de-vaud-fiscalement-attractif",
+  "communes": [
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5464,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5582,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

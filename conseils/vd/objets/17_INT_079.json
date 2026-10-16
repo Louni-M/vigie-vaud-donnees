@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 176396,
+  "numero": "17_INT_079",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-01-26"
+  },
+  "depose": "2021-01-26",
+  "titre": "Comment se portent les jeunes LGBT vaudois-es ?",
+  "contributeurs": [
+    {
+      "nom": "Léonore Porchet",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-05-29",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2021-01-26",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Léonore Porchet - Comment se portent les jeunes LGBT vaudois-es ?",
+      "date": "2019-05-29",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=346153"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1b2fb24f-855d-4533-8f1c-80569b2a7a38/meeting/1003920",
+  "communes": [
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

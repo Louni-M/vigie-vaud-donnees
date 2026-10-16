@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 296865,
+  "numero": "CA26/002",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2026-03-17"
+  },
+  "depose": "2026-01-06",
+  "titre": "Demande d'ouverture de compte d'attente pour l'avant-projet de réfection de la STAP et du réservoir de Crissier",
+  "contributeurs": [
+    {
+      "nom": "Monique Karakas",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-01-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-03-17",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Communication signée",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/68/683ab07bb169419789af98011d9506ad.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/53/e3697aa2cae24787ad0215c5a6327453.htm",
+  "communes": []
+}

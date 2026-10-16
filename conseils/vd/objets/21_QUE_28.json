@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226036,
+  "numero": "21_QUE_28",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-12-15"
+  },
+  "depose": "2021-06-23",
+  "titre": "Problème avec la",
+  "contributeurs": [
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-06-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-12-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Traitement des signalements de cas d’enfants en difficulté dans leur contexte familial",
+      "date": "2021-12-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2092588"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/21dcc3c3-a9a1-4ed8-a266-0d30c17f6287/meeting/1003921",
+  "communes": []
+}

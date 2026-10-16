@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221343,
+  "numero": "08_INI_010",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2008-10-28"
+  },
+  "depose": "2008-05-06",
+  "titre": "Demandant au Conseil d'Etat d'intervenir auprès de l'Assemblée fédérale afin d'obtenir une prolongation d'au moins trois ans du moratoire sur l'utilisation d'organismes génétiquement modifiés",
+  "contributeurs": [
+    {
+      "nom": "Christian Streit",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-05-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-10-28",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2008-09-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_7_octobre_2008/08_INI_010_RC_maj.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2008-09-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_7_octobre_2008/08_INI_010_RC_min.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2008-05-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_INI_010.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2008-09-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_28_octobre_2008/08_INI_010_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-28-octobre-2008/initiative-nicole-jufer-tissot",
+  "communes": [
+    {
+      "ofs": 5590,
+      "origine": "document"
+    }
+  ]
+}

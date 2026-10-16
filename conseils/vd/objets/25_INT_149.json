@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 284967,
+  "numero": "25_INT_149",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2025-11-25"
+  },
+  "depose": "2025-11-18",
+  "titre": "Agressions, deal, Morges va-t-elle devenir le nouveau Lausanne ?",
+  "contributeurs": [
+    {
+      "nom": "Cédric Weissert",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-11-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-11-18",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-11-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-11-25",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-11-25",
+      "lien": "https://www.sonomix.ch/live/gcvd/3273#474"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/feb02d31-60a5-45ef-9ac7-35bb106c2460/meeting/1029644",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "titre"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223065,
+  "numero": "13_POS_036",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2014-05-13"
+  },
+  "depose": "2013-05-21",
+  "titre": "L'avenir pour les deux pontons et la digue olympique installés en face du CIO et du quai d'Ouchy à Lausanne",
+  "contributeurs": [
+    {
+      "nom": "François Brélaz",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "François Brélaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Catherine Aellen",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-05-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-05-21",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-05-13",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2014-03-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_036_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2014-03-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_036_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-03-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_036_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-05-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_036_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-13-mai-2014/postulat-jean-francois-cachin-et-consorts-lavenir-pour-les-deux-pontons-et-la-digue-olympique-installes-en-face-du-cio-et-du-quai-douchy-a-lausanne",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    },
+    {
+      "ofs": 5588,
+      "origine": "document"
+    }
+  ]
+}

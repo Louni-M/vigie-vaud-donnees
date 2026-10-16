@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222673,
+  "numero": "12_INT_064",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-06-18"
+  },
+  "depose": "2012-11-20",
+  "titre": "La commune de Lausanne n'a-t-elle pas les moyens de se payer sa « Nouvelle Terrasse »?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-11-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-11-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-06-18",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-06-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_059_Texte_CE.pdf"
+    },
+    {
+      "titre": "Réponse immédiate du Conseil d'Etat",
+      "date": "2012-11-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_064_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-11-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_064_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-18-juin-2013/reponse-du-conseil-detat-aux-interpellations-axel-marion-lengagement-du-canton-dans-le-dispositif-toxicomanie-et-marginalite-de-la-ville-de-lausanne-des-precisions-svp",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

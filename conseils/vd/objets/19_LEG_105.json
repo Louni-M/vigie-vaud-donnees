@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224752,
+  "numero": "19_LEG_105",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-11-26"
+  },
+  "depose": "2019-11-05",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi du 2 mars 2010 sur le service de défense contre l'incendie et de secours (LSDIS)",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Cachin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Cachin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-François Cachin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-11-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-11-05",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2019-11-19",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2019-11-26",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/105_TexteCE.pdf"
+    },
+    {
+      "titre": "Tableau miroir à l'issue du 2e débat",
+      "date": "2019-11-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/105_TableauMiroir_issue_2e_debat.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/105_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-26-novembre-2019/expose-des-motifs-et-projet-de-loi-modifiant-la-loi-du-2-mars-2010-sur-le-service-de-defense-contre-lincendie-et-de-secours-lsdis",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

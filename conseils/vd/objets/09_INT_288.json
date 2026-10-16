@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221647,
+  "numero": "09_INT_288",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-12-14"
+  },
+  "depose": "2009-10-06",
+  "titre": "Relative à l'évasion du lynx Aisha du Juraparc à Vallorbe",
+  "contributeurs": [
+    {
+      "nom": "Jacqueline Rostan",
+      "parti": "LIB",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-10-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-10-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-12-14",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2009-10-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_288_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-12-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_288_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seances-des-14-et-15-decembre-2010/reponse-du-conseil-detat-a-linterpellation-jacqueline-rostan-evasion-du-lynx-aisha-du-juraparc-a-vallorbe",
+  "communes": [
+    {
+      "ofs": 5764,
+      "origine": "titre"
+    }
+  ]
+}

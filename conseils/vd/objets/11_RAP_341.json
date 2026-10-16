@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222583,
+  "numero": "11_RAP_341",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-04-12"
+  },
+  "depose": "2011-04-12",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Albert Chapalay et consorts demandant au Conseil d'Etat de réévaluer les propositions du rapport Furger en relation avec, notamment, les décisions désastreuses de ne plus considérer le territoire de la commune de Château-d'Oex au titre de domaine skiable vaudois",
+  "contributeurs": [
+    {
+      "nom": "Pierre Grandjean",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-04-12",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/341_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la Commission",
+      "date": "2011-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/341_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-12-avril-2011/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-albert-chapalay-reevaluer-les-propositions-du-rapport-furger",
+  "communes": [
+    {
+      "ofs": 5841,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5842,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    }
+  ]
+}

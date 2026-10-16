@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224393,
+  "numero": "18_LEG_53",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2018-12-11"
+  },
+  "depose": "2018-11-06",
+  "titre": "Exposé des motifs et projet de loi sur les ressources naturelles du sous-sol (LRNSS) et Rapport du Conseil d'Etat au Grand Conseil sur la motion Raphaël Mahaim et consorts \"Motion du groupe des verts en faveur de la géothermie : pour voir loin, il faut creuser profond !\"",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Chapuisat",
+      "parti": "V'L",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Chapuisat",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Olivier Gfeller",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-11-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-11-13",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2018-11-27",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2018-12-11",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/53_TexteCe.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-des-11-et-12-decembre-2018/expose-des-motifs-et-projet-de-loi-sur-les-ressources-naturelles-du-sous-sol-lrnss-et-rapport-du-conseil-detat-au-grand-conseil-sur-la-motion-raphael-mahaim-et-consorts-motion-du-groupe-des-verts-en-faveur-de-la-geothermie-pour-voir-loin-il-faut-cr",
+  "communes": [
+    {
+      "ofs": 5408,
+      "origine": "document"
+    },
+    {
+      "ofs": 5501,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5540,
+      "origine": "document"
+    }
+  ]
+}

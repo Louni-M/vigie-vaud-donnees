@@ -1,0 +1,410 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5702,
+  "objets": [
+    {
+      "cle": "vd/25_INT_3",
+      "numero": "25_INT_3",
+      "type": "Interpellation",
+      "depose": "2025-01-21",
+      "titre": "Source du Montant, une fausse bonne idée, où en sommes-nous ?",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-08-19"
+      },
+      "derniere_etape": "2025-08-19",
+      "communes": [
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/25_QUE_18",
+      "numero": "25_QUE_18",
+      "type": "Simple question",
+      "depose": "2025-03-04",
+      "titre": "« Source du Montant – Cézille – Gresolière » qui commande quoi, qui paye quoi ?",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2025-06-25"
+      },
+      "derniere_etape": "2025-06-25",
+      "communes": [
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_POS_18",
+      "numero": "20_POS_18",
+      "type": "Postulat",
+      "depose": "2020-11-24",
+      "titre": "Le report modal requiert de favoriser la multimodalité : offrons à celle-ci les outils multiples nécessaires !",
+      "auteurs": [
+        {
+          "nom": "David Raedler",
+          "parti": "VER"
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2020-12-01"
+      },
+      "derniere_etape": "2020-12-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5723,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_RES_006",
+      "numero": "08_RES_006",
+      "type": "Résolution",
+      "depose": "2008-05-06",
+      "titre": "Pour une action vigoureuse du Conseil d'Etat en faveur des infrastructures de transports du district de Nyon",
+      "auteurs": [
+        {
+          "nom": "Mario-Charles Pertusio",
+          "parti": "AdC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2020-03-11"
+      },
+      "derniere_etape": "2020-03-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5720,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5723,
+          "origine": "document"
+        },
+        {
+          "ofs": 5717,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5730,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_165",
+      "numero": "19_LEG_165",
+      "type": "Décret/Loi",
+      "depose": "2019-09-18",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit-cadre de CHF 3'130'000.- pour financer les travaux d'entretien lourd de murs de soutènement du réseau routier cantonal pour la période 2019-2022",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2019-09-18"
+      },
+      "derniere_etape": "2019-09-18",
+      "communes": [
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5704,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_LEG_79",
+      "numero": "14_LEG_79",
+      "type": "Décret/Loi",
+      "depose": "2014-01-21",
+      "titre": "Exposé des motifs et projet de loi d'application de l'ordonnance fédérale sur l'aide au Service sanitaire apicole etRapport du Conseil d'Etat au Grand Conseil sur le postulat Aliette Rey-Marion et consorts - Biodiversité ! Les abeilles en sont aussi les garantes !",
+      "auteurs": [
+        {
+          "nom": "Claude Schwab",
+          "parti": null
+        },
+        {
+          "nom": "Claude Schwab",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2014-02-04"
+      },
+      "derniere_etape": "2014-02-04",
+      "communes": [
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_RAP_313",
+      "numero": "11_RAP_313",
+      "type": "Rapport",
+      "depose": "2011-08-23",
+      "titre": "Des clarifications concernant l'implantation de parcs industriels éoliens dans l'Arc jurassien",
+      "auteurs": [
+        {
+          "nom": "Fabienne Despot",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2011-08-23"
+      },
+      "derniere_etape": "2011-08-23",
+      "communes": [
+        {
+          "ofs": 5511,
+          "origine": "document"
+        },
+        {
+          "ofs": 5537,
+          "origine": "document"
+        },
+        {
+          "ofs": 5539,
+          "origine": "document"
+        },
+        {
+          "ofs": 5530,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5854,
+          "origine": "document"
+        },
+        {
+          "ofs": 5744,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_179",
+      "numero": "9_LEG_179",
+      "type": "Décret/Loi",
+      "depose": "2009-10-06",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit-cadre de CHF 3'205'000.- pour la réhabilitation de la RC 34, de la RC 67 et de la RC 632",
+      "auteurs": [
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-11-17"
+      },
+      "derniere_etape": "2009-11-17",
+      "communes": [
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5425,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

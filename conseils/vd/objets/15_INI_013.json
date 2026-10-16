@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223409,
+  "numero": "15_INI_013",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2016-05-31"
+  },
+  "depose": "2015-11-10",
+  "titre": "Dépouillement lors des scrutins fédéraux : tous les citoyens communaux doivent pouvoir participer !",
+  "contributeurs": [
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-11-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-11-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-05-31",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INI_013_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INI_013_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-11-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INI_013_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-31-mai-2016/initiative-raphael-mahaim-et-consorts-depouillement-lors-des-scrutins-federaux-tous-les-citoyens-communaux-doivent-pouvoir-participer",
+  "communes": [
+    {
+      "ofs": 5745,
+      "origine": "document"
+    }
+  ]
+}

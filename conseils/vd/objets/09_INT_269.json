@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221626,
+  "numero": "09_INT_269",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-01-31"
+  },
+  "depose": "2009-09-01",
+  "titre": "Comment coordonner efficacement les transports publics dans les dossiers de l'hôpital Riviera-Chablais et de l'agglomération Riviera",
+  "contributeurs": [
+    {
+      "nom": "Jean-Michel Dolivo",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-09-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-01-31",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2009-09-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_269_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-01-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_269_Texte_CE_new.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-11-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_269_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-31-janvier-2012/reponse-du-conseil-detat-a-linterpellation-jean-michel-dolivo-demandant-comment-coordonner-efficacement-les-transports-publics-dans-les-dossiers-de-lhopital-riviera-chablais",
+  "communes": [
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

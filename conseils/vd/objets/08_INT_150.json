@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221418,
+  "numero": "08_INT_150",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2009-05-26"
+  },
+  "depose": "2008-11-18",
+  "titre": "L'usage des balles expansives par la police cantonale",
+  "contributeurs": [
+    {
+      "nom": "Pierre Zwahlen",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-11-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-11-18",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2009-05-26",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-05-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_INT_150__texte.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2008-11-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_18novembre_2008/08_INT_150_Objet.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-26-mai-2009/reponse-du-conseil-detat-a-linterpellation-pierre-zwahlen",
+  "communes": [
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

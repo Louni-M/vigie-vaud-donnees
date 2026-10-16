@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222642,
+  "numero": "12_INT_032",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-02-05"
+  },
+  "depose": "2012-10-02",
+  "titre": "Faillite de l'entreprise totale Baumag dans le cadre de la construction du bâtiment Géopolis de l'Université de Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Patrick Vallat",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Patrick Vallat",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-10-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-10-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-02-05",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-02-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_032_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-10-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_032_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-5-fevrier-2013/reponse-du-conseil-detat-a-lnterpellation-patrick-vallat-faillite-de-lentreprise-totale-baumag-dans-le-cadre-de-la-construction-du-batiment-geopolis-de-luniversite-de-lausanne",
+  "communes": [
+    {
+      "ofs": 5627,
+      "origine": "document"
+    }
+  ]
+}

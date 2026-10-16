@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 120073,
+  "numero": "CA23/011",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2023-11-07"
+  },
+  "depose": "2023-08-29",
+  "titre": "Ouverture d'un compte d'attente en prévision d'études préliminaires relatives à la rénovation du Temple de Chailly",
+  "contributeurs": [
+    {
+      "nom": "Aline Roy",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-08-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-11-07",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "33_05_oct_ccc_compte_attente_renovation_temple_chailly.pdf v1.0",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/1c/1ce96dc373f14d2a9e756e883a3b3521.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/34/a933296f10c24f8f9c191d3f40a3a334.htm",
+  "communes": []
+}

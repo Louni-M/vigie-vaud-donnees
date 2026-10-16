@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223359,
+  "numero": "14_POS_076",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2014-12-09"
+  },
+  "depose": "2014-06-24",
+  "titre": "Quel traitement réserve l'EVAM aux personnes vulnérables, en particulier sur le plan médical ? DECS,",
+  "contributeurs": [
+    {
+      "nom": "Catherine Roulet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Catherine Roulet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-06-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-06-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-12-09",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-11-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_076_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-11-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_076_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-06-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_076_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seances-des-9-et-10-decembre-2014/postulat-jean-michel-dolivo-et-consorts-quel-traitement-reserve-levam-aux-personnes-vulnerables-en-particulier-sur-le-plan-medical",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

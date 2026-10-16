@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223807,
+  "numero": "16_INT_555",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-01-08"
+  },
+  "depose": "2016-09-06",
+  "titre": "Les bureaux d'architecture vaudois sont-ils à la hauteur des ambitions du Conseil d'Etat ?",
+  "contributeurs": [
+    {
+      "nom": "Hugues Gander",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-09-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-09-13",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-01-08",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-01-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_555_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-09-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_555_Depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-8-janvier-2019/reponse-du-conseil-detat-a-linterpellation-hugues-gander-les-bureaux-darchitecture-vaudois-sont-ils-a-la-hauteur-des-ambitions-du-conseil-detat",
+  "communes": [
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222987,
+  "numero": "13_LEG_497",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-03-05"
+  },
+  "depose": "2013-02-05",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi du 30 novembre 1964 sur la distribution de l'eau (LDE)",
+  "contributeurs": [
+    {
+      "nom": "Jacques Haldy",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Yves Pidoux",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-02-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-02-12",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2013-03-05",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-02-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/497_Texte_CE.pdf"
+    },
+    {
+      "titre": "Loi adoptée par le Grand Conseil le 05.03.13",
+      "date": "2013-03-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/497_Texte_FAO.pdf"
+    },
+    {
+      "titre": "Tableau miroir avant le 1er débat",
+      "date": "2013-02-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/497_Tableau_avant_1er_d%C3%A9bat.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2013-02-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/497_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2013-02-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/497_RC_maj.pdf"
+    },
+    {
+      "titre": "Tableau miroir avant le 2ème débat",
+      "date": "2013-02-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/497_-_Tableau_comparatif_issue_du_premier_d%C3%A9bat.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-5-mars-2013/expose-des-motifs-et-projet-de-loi-modifiant-la-loi-du-30-novembre-1964-sur-la-distribution-de-leau-lde",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

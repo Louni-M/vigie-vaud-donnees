@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 202997,
+  "numero": "19_INT_408",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-03-24"
+  },
+  "depose": "2019-10-08",
+  "titre": "Feuilleton de la forêt du Flon, suite et fin ?",
+  "contributeurs": [
+    {
+      "nom": "Axel Marion",
+      "parti": "AdC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-10-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-10-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-03-24",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2019-10-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_408_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-08",
+      "lien": "https://www.sonomix.ch/live/gcvd/1854#5379"
+    },
+    {
+      "titre": "Abandon de la liaison routière Vigie-Gonin à Lausanne",
+      "date": "2021-03-24",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2045431"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f8e355b9-e711-45a4-a66d-bc7eaf95b064/meeting/1000563",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5635,
+      "origine": "document"
+    }
+  ]
+}

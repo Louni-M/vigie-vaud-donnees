@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222526,
+  "numero": "11_POS_253",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2012-04-03"
+  },
+  "depose": "2011-08-23",
+  "titre": "Pour une comparaison intercantonale en matière d'impôt de sociétés",
+  "contributeurs": [
+    {
+      "nom": "Eric Bonjour",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-08-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-08-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-04-03",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-03-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_253_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2012-03-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_253_Objet_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_253_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-3-avril-2012/postulat-michel-mouquin-pour-une-comparaison-intercantonale-en-matiere-dimpot-de-societes",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 327366,
+  "numero": "26_HQU_82",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2026-05-12"
+  },
+  "depose": "2026-05-05",
+  "titre": "Collaborations avec la CICAD",
+  "contributeurs": [
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-05-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-05-05",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Erledigt"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f8b77ac9-ba33-4c70-b5a0-ebc142dfeb53/meeting/1029668",
+  "communes": []
+}

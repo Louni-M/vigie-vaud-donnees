@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 203048,
+  "numero": "20_QUE_17",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-02-17"
+  },
+  "depose": "2020-12-16",
+  "titre": "Forêt vaudoise : enjeux émotionnels et/ou objet scientifique ?",
+  "contributeurs": [
+    {
+      "nom": "Yves Ferrari",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-12-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-02-17",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Recherche sur les changements climatiques dans les forêts vaudoises",
+      "date": "2021-02-17",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2037845"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/82b58c88-c07e-473b-8dcc-b0e8852ebc16/meeting/1000542",
+  "communes": [
+    {
+      "ofs": 5523,
+      "origine": "document"
+    },
+    {
+      "ofs": 5841,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5656,
+      "origine": "document"
+    },
+    {
+      "ofs": 5764,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226027,
+  "numero": "21_QUE_19",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-06-09"
+  },
+  "depose": "2021-04-27",
+  "titre": "Assemblée générale d'association",
+  "contributeurs": [
+    {
+      "nom": "Aurélien Clerc",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-04-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-06-09",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Mesures de protection contre le COVID-19 applicables aux assemblées générales d'associations",
+      "date": "2021-06-09",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2059262"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a2295782-771e-4386-b37c-3616c2ee78b0/meeting/1000557",
+  "communes": []
+}

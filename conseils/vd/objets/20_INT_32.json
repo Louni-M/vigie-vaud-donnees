@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225130,
+  "numero": "20_INT_32",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-03-31"
+  },
+  "depose": "2020-10-06",
+  "titre": "Drame du camp de Moria : Le Canton de Vaud est-il prêt à accueillir plus de réfugié.e.s, en particulier des familles avec enfants et des mineur.e.s non accompagné.e.s ?",
+  "contributeurs": [
+    {
+      "nom": "Monique Ryf",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-10-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-10-27",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-03-31",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-30",
+      "lien": "https://www.sonomix.ch/live/gcvd/1892#7974"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2020-10-27",
+      "lien": "http://www.sonomix.ch/live/gcvd/1604#4616"
+    },
+    {
+      "titre": "Accueil en Suisse de réfugiés issus du camp grec de Moria",
+      "date": "2021-03-31",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2046648"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/8b562662-e36a-468e-a198-ccda948fedfc/meeting/1003922",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    }
+  ]
+}

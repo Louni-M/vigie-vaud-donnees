@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226638,
+  "numero": "22_POS_20",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2022-05-10"
+  },
+  "depose": "2022-05-03",
+  "titre": "Agissons pour favoriser la participation aux élections cantonales et assurer la représentativité de nos institutions!",
+  "contributeurs": [
+    {
+      "nom": "David Raedler",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alexandre Démétriadès",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-05-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-05-10",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.swissinfo.ch/fre/pourquoi-les-%C3%A9lections-cantonales-n-int%C3%A9ressent-plus/47500148",
+      "date": "2023-11-28",
+      "lien": "https://www.swissinfo.ch/fre/pourquoi-les-%C3%A9lections-cantonales-n-int%C3%A9ressent-plus/47500148"
+    },
+    {
+      "titre": "https://www.sta.be.ch/fr/start.html?newsID=d8b18e8e-2ec3-49c6-917a-726de48aecae",
+      "date": "2023-11-28",
+      "lien": "https://www.sta.be.ch/fr/start.html?newsID=d8b18e8e-2ec3-49c6-917a-726de48aecae"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-12-13",
+      "lien": "https://www.sonomix.ch/live/gcvd/2693#7071"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-05-10",
+      "lien": "https://www.sonomix.ch/live/gcvd/2105#5596"
+    },
+    {
+      "titre": "https://www.rts.ch/info/suisse/13021258-elections-votations-qui-sont-les-abstentionnistes.html",
+      "date": "2023-11-28",
+      "lien": "https://www.rts.ch/info/suisse/13021258-elections-votations-qui-sont-les-abstentionnistes.html"
+    },
+    {
+      "titre": "https://www.ne.ch/autorites/CHAN/CHAN/elections-votations/stat/Pages/210418.aspx",
+      "date": "2023-11-28",
+      "lien": "https://www.ne.ch/autorites/CHAN/CHAN/elections-votations/stat/Pages/210418.aspx"
+    },
+    {
+      "titre": "https://www.24heures.ch/pourquoi-la-population-a-boude-les-elections-vaudoises-791327137904",
+      "date": "2023-11-28",
+      "lien": "https://www.24heures.ch/pourquoi-la-population-a-boude-les-elections-vaudoises-791327137904"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/2ebac8de-05ed-4d06-b209-03760b3734e1/meeting/1019553",
+  "communes": [
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5760,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

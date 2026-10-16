@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228469,
+  "numero": "8_RAP_69",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2008-07-01"
+  },
+  "depose": "2008-07-01",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat de la commission de gestion à la suite du refus par le Grand Conseil de la deuxième réponse sur l'entretien du Château cantonal",
+  "contributeurs": [
+    {
+      "nom": "Anne-Marie Depoisier",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Anne-Marie Depoisier",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-07-01",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet et développement",
+      "date": "2008-07-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_1er_juillet_2008/69_Texte_adopte_par_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission de gestion",
+      "date": "2008-07-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_1er_juillet_2008/69_Rapport_com.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-09-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_16_septembre_2008/69_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-09-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/69_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-16-septembre-2008/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-de-la-commission-de-gestion",
+  "communes": [
+    {
+      "ofs": 5693,
+      "origine": "document"
+    },
+    {
+      "ofs": 5725,
+      "origine": "document"
+    }
+  ]
+}

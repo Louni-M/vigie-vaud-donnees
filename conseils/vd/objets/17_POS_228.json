@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224145,
+  "numero": "17_POS_228",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2018-07-03"
+  },
+  "depose": "2017-01-24",
+  "titre": "Le Bois-Mermet avec vocation de prison administrative ? DEIS,",
+  "contributeurs": [
+    {
+      "nom": "Claude Schwab",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claude Schwab",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Claude Schwab",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-01-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-07-03",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-06-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/17_POS_228_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-06-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/17_POS_228_obj_et_dev.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-3-juillet-2018/postulat-veronique-hurni-et-consorts-le-bois-mermet-avec-vocation-de-prison-administrative",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5892,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222522,
+  "numero": "11_POS_249",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Überwiesen",
+    "date": "2011-12-20"
+  },
+  "depose": "2011-06-07",
+  "titre": "Pour que la complexité du système électoral ne soit pas un obstacle à la participation des électeurs!",
+  "contributeurs": [
+    {
+      "nom": "Michel Renaud",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Michel Renaud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-06-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-06-07",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-12-20",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-12-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_249_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-12-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_249_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-06-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_249_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-31-janvier-2012/postulat-raphael-mahaim-pour-la-complexite-du-systeme-electoral-ne-soit-pas-un-obstacle-a-la-participation-des-electeurs",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

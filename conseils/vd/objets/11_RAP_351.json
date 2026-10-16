@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222585,
+  "numero": "11_RAP_351",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-11-29"
+  },
+  "depose": "2011-10-11",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur les postulats Maximilien Bernhard et consorts pour un bilan de la politique cantonale en matière de prévention et de lutte contre les toxicomanies et Philippe Leuba et consorts demandant l'adoption d'un cadre légal interdisant ou tout au moins régissant la pose et le recours aux distributeurs de seringues destinées aux toxicomanes",
+  "contributeurs": [
+    {
+      "nom": "Philippe Ducommun",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Ducommun",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Ducommun",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-10-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-29",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-10-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/351_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-10-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/351_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-24-janvier-2012/rapport-du-conseil-detat-au-grand-conseil-sur-les-postulats-maximilien-bernhard-pour-un-bilan-de-la-politique-cantonale-en-matiere-de-prevention-et-de-lutte-contre-la-toxicomanies",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

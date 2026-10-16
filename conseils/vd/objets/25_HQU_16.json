@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228056,
+  "numero": "25_HQU_16",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2025-02-11"
+  },
+  "depose": "2025-02-04",
+  "titre": "Place de la Gare à Lausanne: le canton adhère-t-il au projet ?",
+  "contributeurs": [
+    {
+      "nom": "Florence Bettschart-Narbel",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-02-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-02-11",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5bb3f586-eafb-49aa-b370-df653a583750/meeting/1026878",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

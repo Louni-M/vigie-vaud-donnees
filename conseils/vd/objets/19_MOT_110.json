@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224911,
+  "numero": "19_MOT_110",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2020-10-27"
+  },
+  "depose": "2019-09-17",
+  "titre": "Les curateurs presque bénévoles et taxés",
+  "contributeurs": [
+    {
+      "nom": "Anne-Sophie Betschart",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Monique Ryf",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-09-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-09-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-10-27",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2019-09-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_110_depot.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2020-10-27",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=388281"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/65c5b4a2-dadf-436b-90c6-fb58690ef7b8/meeting/1000532",
+  "communes": []
+}

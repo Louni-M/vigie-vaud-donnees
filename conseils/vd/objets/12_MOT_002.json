@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222752,
+  "numero": "12_MOT_002",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2013-03-26"
+  },
+  "depose": "2012-09-04",
+  "titre": "Proposant de donner au Service de la population et à l'Organe cantonal de contrôle de l'assurance-maladie et accident une base légale pour dénoncer les fraudes ou abus. DECS,",
+  "contributeurs": [
+    {
+      "nom": "Catherine Aellen",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Catherine Aellen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-09-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-09-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-03-26",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-03-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_MOT_002_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2013-03-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_MOT_002_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-09-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_MOT_002_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-26-mars-2013/motion-francois-brelaz-et-consorts-proposant-de-donner-au-service-de-la-population-et-a-lorgane-cantonal-de-controle-de-lassurance-maladie-et-accident-une-base-legale-pour-denoncer-les-fraudes-ou-abus",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

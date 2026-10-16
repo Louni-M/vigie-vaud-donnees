@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221701,
+  "numero": "09_MOT_082",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2010-01-19"
+  },
+  "depose": "2009-09-08",
+  "titre": "Pour une offensive de formation continue, demandant des bons de formation de 5000.- Fr. pour tous les titulaires de CFC",
+  "contributeurs": [
+    {
+      "nom": "Sonya Butera",
+      "parti": "SOC",
+      "role": null,
+      "sorte": "personne"
+    },
+    {
+      "nom": "Sonya Butera",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Ginette Duvoisin",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-09-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-01-19",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2009-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_082_Depot.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2010-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_082_RC_maj.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2010-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_082_RC_min.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_082_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-19-janvier-2010/motion-jean-christophe-schwaab-bons-de-formation",
+  "communes": []
+}

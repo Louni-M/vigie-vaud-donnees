@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222713,
+  "numero": "12_LEG_444",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-04-24"
+  },
+  "depose": "2012-04-24",
+  "titre": "Exposé des motifs et projet de loi sur le financement résiduel des soins de longue durée en EMS et Rapport du Conseil d'Etat au Grand Conseil sur le postulat André Delacour et consorts proposant la conclusion d'un concordat intercantonal entre le canton de Vaud et celui de Fribourg instituant un libre choix et accès aux personnes âgées dans les EMS vaudois ou fribourgeois",
+  "contributeurs": [
+    {
+      "nom": "Catherine Roulet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Catherine Roulet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-04-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-04-24",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-04-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/444_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-04-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/444_RC.pdf"
+    },
+    {
+      "titre": "LOF adoptée par le Grand Conseil le 24.04.12",
+      "date": "2012-04-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/444_LOF_FAO.pdf"
+    },
+    {
+      "titre": "LFR-EMS adoptée par le Grand Conseil le 24.04.12",
+      "date": "2012-04-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/444_LFR-EMS_FAO.pdf"
+    },
+    {
+      "titre": "LAPRAMS adoptée par le Grand Conseil le 24.04.12",
+      "date": "2012-04-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/444_LAPRAMS_FAO.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-24-avril-2012/expose-des-motifs-et-projet-de-loi-sur-le-financement-residuel-des-soins-de-longues-duree-en-ems",
+  "communes": [
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5464,
+      "origine": "document"
+    },
+    {
+      "ofs": 5451,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

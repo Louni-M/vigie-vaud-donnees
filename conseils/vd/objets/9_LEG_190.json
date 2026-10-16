@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228786,
+  "numero": "9_LEG_190",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-09-01"
+  },
+  "depose": "2009-08-25",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit de CHF 35'000'000.- à la Fondation de Beaulieu pour les travaux de modernisation du site de Beaulieu",
+  "contributeurs": [
+    {
+      "nom": "Jean Christophe Schwaab",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-08-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-08-25",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2009-09-01",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-08-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/190_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-08-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/190_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 01.09.09",
+      "date": "2009-09-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/190_Decret_adopte.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-1-septembre-2009/expose-des-motifs-et-projet-de-decret-modernisation-du-site-de-beaulieu",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    }
+  ]
+}

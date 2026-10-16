@@ -1,0 +1,5418 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "conseil": "vd",
+  "annee": 2017,
+  "objets": [
+    {
+      "cle": "vd/17_RES_002",
+      "numero": "17_RES_002",
+      "type": "Résolution",
+      "depose": "2017-12-19",
+      "titre": "Faire respecter les conventions collectives de travail étendues et la Loi sur le service de l'emploi contre la sous-enchère salariale sur le chantier de l'Hôpital Riviera-Chablais",
+      "auteurs": [
+        {
+          "nom": "Jean-Michel Dolivo",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2017-12-19"
+      },
+      "derniere_etape": "2017-12-19",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_RAP_376",
+      "numero": "17_RAP_376",
+      "type": "Rapport",
+      "depose": "2017-12-19",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Amélie Cherbuin et consorts - Centraliser les offres pour l'hébergement social d'urgence",
+      "auteurs": [
+        {
+          "nom": "Amélie Cherbuin",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Amélie Cherbuin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2017-12-19"
+      },
+      "derniere_etape": "2017-12-19",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_RAP_358",
+      "numero": "17_RAP_358",
+      "type": "Rapport",
+      "depose": "2017-12-19",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Fabienne Freymond Cantone et consorts suite à une rencontre organisée sous l'égide du FIR - Forum Interparlementaire Romand : Le Canton de Vaud et le CICR - un engagement à développer",
+      "auteurs": [
+        {
+          "nom": "Raphaël Mahaim",
+          "parti": "VER"
+        },
+        {
+          "nom": "Raphaël Mahaim",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2017-12-19"
+      },
+      "derniere_etape": "2017-12-19",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_RAP_336",
+      "numero": "17_RAP_336",
+      "type": "Rapport",
+      "depose": "2017-12-19",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat de Jean-Michel Dolivo et consorts « Le Revenu déterminant unifié (RDU) répond-il aux objectifs poursuivis par la loi ?»",
+      "auteurs": [
+        {
+          "nom": "Jean-Michel Dolivo",
+          "parti": null
+        },
+        {
+          "nom": "Jean-Michel Dolivo",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2017-12-19"
+      },
+      "derniere_etape": "2017-12-19",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_POS_225",
+      "numero": "17_POS_225",
+      "type": "Postulat",
+      "depose": "2017-12-19",
+      "titre": "Que fait-on de notre blé ?",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2021-03-17"
+      },
+      "derniere_etape": "2021-03-17",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_PET_067",
+      "numero": "17_PET_067",
+      "type": "Pétition",
+      "depose": "2017-12-19",
+      "titre": "Pétition contre les décisions de la Caisse cantonale de compensation AVS",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2018-09-11"
+      },
+      "derniere_etape": "2018-09-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_089",
+      "numero": "17_INT_089",
+      "type": "Interpellation",
+      "depose": "2017-12-19",
+      "titre": "Le Conseil d'Etat soutient l'initiative pour le remboursement des soins dentaires ; mais jusqu'où ?",
+      "auteurs": [
+        {
+          "nom": "Gérard Mojon",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Gérard Mojon",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-02-13"
+      },
+      "derniere_etape": "2018-02-13",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_088",
+      "numero": "17_INT_088",
+      "type": "Interpellation",
+      "depose": "2017-12-19",
+      "titre": "Quid des rentes transitoires ?",
+      "auteurs": [
+        {
+          "nom": "Catherine Labouchère",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Catherine Labouchère",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-02"
+      },
+      "derniere_etape": "2019-04-02",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_087",
+      "numero": "17_INT_087",
+      "type": "Interpellation",
+      "depose": "2017-12-19",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Thierry Dubois – La police est-elle et se sent-elle soutenue tant par sa hiérarchie que pas nos conseillers d'Etat afin de répondre au plus près aux droits et devoirs de chacun, avec une autorité suffisante lors de manifestations non autorisées et radicalisées pratiquées par des manifestants dans un lieu privé ?",
+      "auteurs": [
+        {
+          "nom": "Conseil d'État",
+          "parti": null
+        },
+        {
+          "nom": "Thierry Dubois",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-29"
+      },
+      "derniere_etape": "2018-05-29",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5732,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_086",
+      "numero": "17_INT_086",
+      "type": "Interpellation",
+      "depose": "2017-12-19",
+      "titre": "Une politique sanitaire dentaire à CHF 100 millions par an minimum ?",
+      "auteurs": [
+        {
+          "nom": "Claire Richard",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Claire Richard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-02-13"
+      },
+      "derniere_etape": "2018-02-13",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_085",
+      "numero": "17_INT_085",
+      "type": "Interpellation",
+      "depose": "2017-12-19",
+      "titre": "La canton de Vaud vilipende-t-il l'argent du contribuable par complaisance ?",
+      "auteurs": [
+        {
+          "nom": "Denis Rubattel",
+          "parti": null
+        },
+        {
+          "nom": "Denis Rubattel",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-04"
+      },
+      "derniere_etape": "2018-09-04",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_084",
+      "numero": "17_INT_084",
+      "type": "Interpellation",
+      "depose": "2017-12-19",
+      "titre": "\"269Life Libération Animale\", serons-nous contraints au véganisme ?",
+      "auteurs": [
+        {
+          "nom": "Marion Wahlen",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Marion Wahlen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-02-20"
+      },
+      "derniere_etape": "2019-02-20",
+      "communes": [
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_083",
+      "numero": "17_INT_083",
+      "type": "Interpellation",
+      "depose": "2017-12-19",
+      "titre": "Notre économie vaudoise",
+      "auteurs": [
+        {
+          "nom": "Pierre-André Romanens",
+          "parti": null
+        },
+        {
+          "nom": "Pierre-André Romanens",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-04"
+      },
+      "derniere_etape": "2018-09-04",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_082",
+      "numero": "17_INT_082",
+      "type": "Interpellation",
+      "depose": "2017-12-19",
+      "titre": "Quels seront les médecins dentistes engagés pour faire tourner les policliniques dentaires régionales ?",
+      "auteurs": [
+        {
+          "nom": "Thierry Dubois",
+          "parti": null
+        },
+        {
+          "nom": "Thierry Dubois",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-02-13"
+      },
+      "derniere_etape": "2018-02-13",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_024",
+      "numero": "17_POS_024",
+      "type": "Postulat",
+      "depose": "2017-11-28",
+      "titre": "Et si le Canton de Vaud organisait les championnats du monde de l'apprentissage des métiers en 2023 ?",
+      "auteurs": [
+        {
+          "nom": "Nicolas Croci Torti",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Nicolas Croci Torti",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2021-12-08"
+      },
+      "derniere_etape": "2021-12-08",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_074",
+      "numero": "17_INT_074",
+      "type": "Interpellation",
+      "depose": "2017-11-28",
+      "titre": "Bilan des réserves de Terrains à bâtir et taux de saturation",
+      "auteurs": [
+        {
+          "nom": "Régis Courdesse",
+          "parti": null
+        },
+        {
+          "nom": "Régis Courdesse",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-06-19"
+      },
+      "derniere_etape": "2018-06-19",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_073",
+      "numero": "17_INT_073",
+      "type": "Interpellation",
+      "depose": "2017-11-28",
+      "titre": "Ecole à journée continue pour tous, mais accueil parascolaire durant la pause de midi à deux vitesses : cherchez l'erreur !",
+      "auteurs": [
+        {
+          "nom": "Dominique-Ella Christin",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Dominique-Ella Christin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-06-11"
+      },
+      "derniere_etape": "2019-06-11",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_072",
+      "numero": "17_INT_072",
+      "type": "Interpellation",
+      "depose": "2017-11-28",
+      "titre": "Elections à la proportionnelle dans les communes vaudoises : quelles conséquences pour le fonctionnement des législatifs communaux ?",
+      "auteurs": [
+        {
+          "nom": "Raphaël Mahaim",
+          "parti": null
+        },
+        {
+          "nom": "Raphaël Mahaim",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-22"
+      },
+      "derniere_etape": "2018-05-22",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_071",
+      "numero": "17_INT_071",
+      "type": "Interpellation",
+      "depose": "2017-11-28",
+      "titre": "Réduction du soutien financier cantonal des améliorations foncières pour les réseaux d'eau",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        },
+        {
+          "nom": "Didier Lohri",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-04"
+      },
+      "derniere_etape": "2018-09-04",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_070",
+      "numero": "17_INT_070",
+      "type": "Interpellation",
+      "depose": "2017-11-28",
+      "titre": "Renvoi des criminels étrangers : notre canton ... bon ou mauvais élève ?",
+      "auteurs": [
+        {
+          "nom": "Thierry Dubois",
+          "parti": null
+        },
+        {
+          "nom": "Thierry Dubois",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-04"
+      },
+      "derniere_etape": "2018-09-04",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_POS_023",
+      "numero": "17_POS_023",
+      "type": "Postulat",
+      "depose": "2017-11-21",
+      "titre": "Réveillons et ... recyclons la Belle au bois dormante !",
+      "auteurs": [
+        {
+          "nom": "Maurice Neyroud",
+          "parti": null
+        },
+        {
+          "nom": "Maurice Neyroud",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2018-12-18"
+      },
+      "derniere_etape": "2018-12-18",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_MOT_012",
+      "numero": "17_MOT_012",
+      "type": "Motion",
+      "depose": "2017-11-21",
+      "titre": "Des députés qui sont les représentants de l'arrondissement dans lequel ils ont élu domicile",
+      "auteurs": [
+        {
+          "nom": "Jean Tschopp",
+          "parti": null
+        },
+        {
+          "nom": "Jean Tschopp",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-11-20"
+      },
+      "derniere_etape": "2018-11-20",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_069",
+      "numero": "17_INT_069",
+      "type": "Interpellation",
+      "depose": "2017-11-21",
+      "titre": "Le PAIR est-il en stabulation libre ?",
+      "auteurs": [
+        {
+          "nom": "Sabine Glauser Krug",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_068",
+      "numero": "17_INT_068",
+      "type": "Interpellation",
+      "depose": "2017-11-21",
+      "titre": "Un détenu sur deux est musulman à Genève. Et dans le canton de Vaud ?",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": null
+        },
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-12-11"
+      },
+      "derniere_etape": "2018-12-11",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_067",
+      "numero": "17_INT_067",
+      "type": "Interpellation",
+      "depose": "2017-11-21",
+      "titre": "Un gymnase pour l'exemple",
+      "auteurs": [
+        {
+          "nom": "Anne-Laure Métraux-Botteron",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-01"
+      },
+      "derniere_etape": "2018-05-01",
+      "communes": [
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_066",
+      "numero": "17_INT_066",
+      "type": "Interpellation",
+      "depose": "2017-11-21",
+      "titre": "Prolongation des horaires d'ouverture, qui assumera les coûts engendrés ?",
+      "auteurs": [
+        {
+          "nom": "Isabelle Freymond",
+          "parti": "IND"
+        },
+        {
+          "nom": "Isabelle Freymond",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-04"
+      },
+      "derniere_etape": "2018-09-04",
+      "communes": [
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_065",
+      "numero": "17_INT_065",
+      "type": "Interpellation",
+      "depose": "2017-11-21",
+      "titre": "Un mort sans importance dans un foyer de l'EVAM ?",
+      "auteurs": [
+        {
+          "nom": "Jean-Michel Dolivo",
+          "parti": "EP"
+        },
+        {
+          "nom": "Jean-Michel Dolivo",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-11-20"
+      },
+      "derniere_etape": "2018-11-20",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_064",
+      "numero": "17_INT_064",
+      "type": "Interpellation",
+      "depose": "2017-11-21",
+      "titre": "Favoriser la formation duale en garantissant un accès équitable au Salon des métiers dans notre canton !",
+      "auteurs": [
+        {
+          "nom": "Philippe Jobin",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Jobin",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-25"
+      },
+      "derniere_etape": "2018-09-25",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_022",
+      "numero": "17_POS_022",
+      "type": "Postulat",
+      "depose": "2017-11-14",
+      "titre": "La facturation dans les hôpitaux publics d'une hospitalisation par un forfait de type DRG : une affaire rentable ?!",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2021-04-21"
+      },
+      "derniere_etape": "2021-04-21",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_POS_021",
+      "numero": "17_POS_021",
+      "type": "Postulat",
+      "depose": "2017-11-14",
+      "titre": "Pour une politique cantonale en matière de bornes de recharge des véhicules électriques. DTE, DIRH.  R",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": null
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2022-06-15"
+      },
+      "derniere_etape": "2022-06-15",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5746,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5646,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_020",
+      "numero": "17_POS_020",
+      "type": "Postulat",
+      "depose": "2017-11-14",
+      "titre": "Pour un système public de garanties de loyer en faveur des jeunes en formation ou à la recherche d'un premier emploi",
+      "auteurs": [
+        {
+          "nom": "Felix Stürner",
+          "parti": null
+        },
+        {
+          "nom": "Felix Stürner",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2018-09-25"
+      },
+      "derniere_etape": "2018-09-25",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_MOT_011",
+      "numero": "17_MOT_011",
+      "type": "Motion",
+      "depose": "2017-11-14",
+      "titre": "Motion demandant une adaptation de la réglementation régissant les transports scolaires",
+      "auteurs": [
+        {
+          "nom": "Maurice Treboux",
+          "parti": null
+        },
+        {
+          "nom": "Maurice Treboux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-11-13"
+      },
+      "derniere_etape": "2018-11-13",
+      "communes": [
+        {
+          "ofs": 5607,
+          "origine": "document"
+        },
+        {
+          "ofs": 5604,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_063",
+      "numero": "17_INT_063",
+      "type": "Interpellation",
+      "depose": "2017-11-14",
+      "titre": "Simplifions les procédures d'autorisations pour les camps et les colonies de vacances !",
+      "auteurs": [
+        {
+          "nom": "Denis Rubattel",
+          "parti": null
+        },
+        {
+          "nom": "Denis Rubattel",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-09"
+      },
+      "derniere_etape": "2019-04-09",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_062",
+      "numero": "17_INT_062",
+      "type": "Interpellation",
+      "depose": "2017-11-14",
+      "titre": "Garantir le droit à une information diversifiée et de qualité par la redevance",
+      "auteurs": [
+        {
+          "nom": "Jean Tschopp",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2017-11-14"
+      },
+      "derniere_etape": "2017-11-14",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_061",
+      "numero": "17_INT_061",
+      "type": "Interpellation",
+      "depose": "2017-11-14",
+      "titre": "Procédure de mise à l'enquête des PGA ; synonyme de dystopie pour les citoyens et les élus du génie local",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        },
+        {
+          "nom": "Didier Lohri",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2020-02-04"
+      },
+      "derniere_etape": "2020-02-04",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_060",
+      "numero": "17_INT_060",
+      "type": "Interpellation",
+      "depose": "2017-11-14",
+      "titre": "Taxe CO2 prélevée sur les combustibles fossiles : plus de transparence de la taxe affectée",
+      "auteurs": [
+        {
+          "nom": "Philippe Krieg",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Krieg",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-06-19"
+      },
+      "derniere_etape": "2018-06-19",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_059",
+      "numero": "17_INT_059",
+      "type": "Interpellation",
+      "depose": "2017-11-14",
+      "titre": "Révision globale de la péréquation intercommunale, une planification à prévoir dès maintenant pour travailler sereinement !",
+      "auteurs": [
+        {
+          "nom": "Josephine Byrne Garelli",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Josephine Byrne Garelli",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_058",
+      "numero": "17_INT_058",
+      "type": "Interpellation",
+      "depose": "2017-11-14",
+      "titre": "Transports scolaires : les Communes doivent toujours passer à la caisse ?",
+      "auteurs": [
+        {
+          "nom": "Jean-Marc Genton",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Jean-Marc Genton",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2022-05-25"
+      },
+      "derniere_etape": "2022-05-25",
+      "communes": [
+        {
+          "ofs": 5604,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_057",
+      "numero": "17_INT_057",
+      "type": "Interpellation",
+      "depose": "2017-11-14",
+      "titre": "A l'Ouest, oui ! mais pas trop !",
+      "auteurs": [
+        {
+          "nom": "Myriam Romano-Malagrifa",
+          "parti": null
+        },
+        {
+          "nom": "Myriam Romano-Malagrifa",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-29"
+      },
+      "derniere_etape": "2018-05-29",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_056",
+      "numero": "17_INT_056",
+      "type": "Interpellation",
+      "depose": "2017-11-14",
+      "titre": "CRPS - Conseils régionaux de prévention et de sécurité, après huit ans quel bilan ?",
+      "auteurs": [
+        {
+          "nom": "Myriam Romano-Malagrifa",
+          "parti": null
+        },
+        {
+          "nom": "Myriam Romano-Malagrifa",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INI_001",
+      "numero": "17_INI_001",
+      "type": "Initiative",
+      "depose": "2017-11-14",
+      "titre": "Faciliter la lutte contre le harcèlement sexuel dans le cadre du travail",
+      "auteurs": [
+        {
+          "nom": "Jean-Michel Dolivo",
+          "parti": "EP"
+        },
+        {
+          "nom": "Alexandre Démétriadès",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2020-10-06"
+      },
+      "derniere_etape": "2020-10-06",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_POS_019",
+      "numero": "17_POS_019",
+      "type": "Postulat",
+      "depose": "2017-11-07",
+      "titre": "Réseaux de santé, le Grand Conseil se doit de clarifier la situation pour l'avenir de tous nos concitoyens, clients potentiels aux soins à domicile !",
+      "auteurs": [
+        {
+          "nom": "Gérard Mojon",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Gérard Mojon",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-05-22"
+      },
+      "derniere_etape": "2018-05-22",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_055",
+      "numero": "17_INT_055",
+      "type": "Interpellation",
+      "depose": "2017-11-07",
+      "titre": "\"Concept vaudois de développement de l'oenotourisme\" : quelles constatations et quelles concrétisations ? Pour quel avenir ?",
+      "auteurs": [
+        {
+          "nom": "Patrick Simonin",
+          "parti": null
+        },
+        {
+          "nom": "Patrick Simonin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-04"
+      },
+      "derniere_etape": "2018-09-04",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_054",
+      "numero": "17_INT_054",
+      "type": "Interpellation",
+      "depose": "2017-11-07",
+      "titre": "Tridel sous les feux de la rampe, n'oublions pas la surcapacité",
+      "auteurs": [
+        {
+          "nom": "François Pointet",
+          "parti": "V'L"
+        },
+        {
+          "nom": "François Pointet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-05-07"
+      },
+      "derniere_etape": "2019-05-07",
+      "communes": [
+        {
+          "ofs": 5721,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_053",
+      "numero": "17_INT_053",
+      "type": "Interpellation",
+      "depose": "2017-11-07",
+      "titre": "Information sur le droit aux subsides des cotisations d'assurance maladie : du périodique qui s'éternise",
+      "auteurs": [
+        {
+          "nom": "Marc Vuilleumier",
+          "parti": null
+        },
+        {
+          "nom": "Marc Vuilleumier",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2017-11-07"
+      },
+      "derniere_etape": "2017-11-07",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_POS_018",
+      "numero": "17_POS_018",
+      "type": "Postulat",
+      "depose": "2017-10-31",
+      "titre": "Soutenir l'Agenda 21 en favorisant l'utilisation et la production de gravier indigène, ceci en maintenant des postes de travail dans le canton",
+      "auteurs": [
+        {
+          "nom": "Jessica Jaccoud",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Jessica Jaccoud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2021-10-13"
+      },
+      "derniere_etape": "2021-10-13",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_017",
+      "numero": "17_POS_017",
+      "type": "Rapport",
+      "depose": "2017-10-31",
+      "titre": "Blockchain : le web 3.0 peut changer les rapports entre l'administration et les administrés",
+      "auteurs": [
+        {
+          "nom": "Maurice Neyroud",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Maurice Neyroud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2023-04-05"
+      },
+      "derniere_etape": "2023-04-05",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_POS_016",
+      "numero": "17_POS_016",
+      "type": "Postulat",
+      "depose": "2017-10-31",
+      "titre": "L'illettrisme, un fléau : comment y remédier dans l'école obligatoire ?",
+      "auteurs": [
+        {
+          "nom": "Laurence Cretegny",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Laurence Cretegny",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-11-13"
+      },
+      "derniere_etape": "2018-11-13",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_015",
+      "numero": "17_POS_015",
+      "type": "Postulat",
+      "depose": "2017-10-31",
+      "titre": "Financement uniforme des prestations de santé ambulatoires et stationnaires : un sujet à transmettre à notre commission de santé publique !",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-09-25"
+      },
+      "derniere_etape": "2018-09-25",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_PET_007",
+      "numero": "17_PET_007",
+      "type": "Pétition",
+      "depose": "2017-10-31",
+      "titre": "Pétition pour adapter les procédures de l'article 107 de la loi sur le Grand Conseil",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2018-12-11"
+      },
+      "derniere_etape": "2018-12-11",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_PET_006",
+      "numero": "17_PET_006",
+      "type": "Pétition",
+      "depose": "2017-10-31",
+      "titre": "Pétition en faveur de la famille G",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2019-01-29"
+      },
+      "derniere_etape": "2019-01-29",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_MOT_010",
+      "numero": "17_MOT_010",
+      "type": "Motion",
+      "depose": "2017-10-31",
+      "titre": "Des subsides à l'assurance maladie versés au prorata du taux d'activité",
+      "auteurs": [
+        {
+          "nom": "Felix Stürner",
+          "parti": null
+        },
+        {
+          "nom": "Felix Stürner",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2019-04-02"
+      },
+      "derniere_etape": "2019-04-02",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_052",
+      "numero": "17_INT_052",
+      "type": "Interpellation",
+      "depose": "2017-10-31",
+      "titre": "Echange automatique de renseignements, quelles conséquences pour le canton de Vaud ?",
+      "auteurs": [
+        {
+          "nom": "Laurence Cretegny",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-04-05"
+      },
+      "derniere_etape": "2023-04-05",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_051",
+      "numero": "17_INT_051",
+      "type": "Interpellation",
+      "depose": "2017-10-31",
+      "titre": "Echallens, ses campagnes, sa maison du Blé et du Pain, son gymnase et... ses forêts",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-01"
+      },
+      "derniere_etape": "2018-05-01",
+      "communes": [
+        {
+          "ofs": 5518,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5511,
+          "origine": "document"
+        },
+        {
+          "ofs": 5521,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_014",
+      "numero": "17_POS_014",
+      "type": "Postulat",
+      "depose": "2017-10-24",
+      "titre": "Tout n'est pas bon dans le porc !",
+      "auteurs": [
+        {
+          "nom": "Carine Carvalho",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Carine Carvalho",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2022-10-12"
+      },
+      "derniere_etape": "2022-10-12",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_013",
+      "numero": "17_POS_013",
+      "type": "Postulat",
+      "depose": "2017-10-24",
+      "titre": "Quelle gouvernance future pour nos agglomérations ?",
+      "auteurs": [
+        {
+          "nom": "Claire Richard",
+          "parti": null
+        },
+        {
+          "nom": "Claire Richard",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2017-10-24"
+      },
+      "derniere_etape": "2017-10-24",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_012",
+      "numero": "17_POS_012",
+      "type": "Postulat",
+      "depose": "2017-10-24",
+      "titre": "En savoir un peu plus sur les PIG (prestations d'intérêt général)",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2019-04-10"
+      },
+      "derniere_etape": "2019-04-10",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_PET_005",
+      "numero": "17_PET_005",
+      "type": "Pétition",
+      "depose": "2017-10-24",
+      "titre": "Pétition des commerçants de la commune d'Ollon contre la fermeture de leur office postal",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-08-28"
+      },
+      "derniere_etape": "2018-08-28",
+      "communes": [
+        {
+          "ofs": 5409,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_PET_004",
+      "numero": "17_PET_004",
+      "type": "Pétition",
+      "depose": "2017-10-24",
+      "titre": "Pétition pour le maintien des offices postaux du canton de Vaud",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-08-28"
+      },
+      "derniere_etape": "2018-08-28",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_MOT_009",
+      "numero": "17_MOT_009",
+      "type": "Motion",
+      "depose": "2017-10-24",
+      "titre": "Pour que la commission d'enquête parlementaire ne devienne pas un postulat \"au rabais\"",
+      "auteurs": [
+        {
+          "nom": "Jean Tschopp",
+          "parti": null
+        },
+        {
+          "nom": "Jean Tschopp",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2017-10-24"
+      },
+      "derniere_etape": "2017-10-24",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_MOT_008",
+      "numero": "17_MOT_008",
+      "type": "Motion",
+      "depose": "2017-10-24",
+      "titre": "Agir plus efficacement contre la sous-enchère salariale et sociale",
+      "auteurs": [
+        {
+          "nom": "Florence Bettschart-Narbel",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Florence Bettschart-Narbel",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2018-09-11"
+      },
+      "derniere_etape": "2018-09-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_049",
+      "numero": "17_INT_049",
+      "type": "Interpellation",
+      "depose": "2017-10-24",
+      "titre": "Bienveillance en milieu scolaire",
+      "auteurs": [
+        {
+          "nom": "Sabine Glauser Krug",
+          "parti": null
+        },
+        {
+          "nom": "Sabine Glauser Krug",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-09"
+      },
+      "derniere_etape": "2019-04-09",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_048",
+      "numero": "17_INT_048",
+      "type": "Interpellation",
+      "depose": "2017-10-24",
+      "titre": "Tergiversations au sein de l'Hôpital Riviera Chablais : la politique de la direction est-elle compatible avec les objectifs du Conseil d'Etat en matière de santé publique ?",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-12-18"
+      },
+      "derniere_etape": "2018-12-18",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_047",
+      "numero": "17_INT_047",
+      "type": "Interpellation",
+      "depose": "2017-10-24",
+      "titre": "De l'argent et des Jeux !",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-06-05"
+      },
+      "derniere_etape": "2018-06-05",
+      "communes": [
+        {
+          "ofs": 5407,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_046",
+      "numero": "17_INT_046",
+      "type": "Interpellation",
+      "depose": "2017-10-24",
+      "titre": "Stratégie biodiversité suisse, comment et avec qui le canton développe-t-il son infrastructure écologique ?",
+      "auteurs": [
+        {
+          "nom": "Conseil d'État",
+          "parti": null
+        },
+        {
+          "nom": "Séverine Evéquoz",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-11-27"
+      },
+      "derniere_etape": "2018-11-27",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_045",
+      "numero": "17_INT_045",
+      "type": "Interpellation",
+      "depose": "2017-10-24",
+      "titre": "Introduction du vote électronique dans le canton de Vaud : CHvote (GE) versus La Poste",
+      "auteurs": [
+        {
+          "nom": "Manuel Donzé",
+          "parti": null
+        },
+        {
+          "nom": "Manuel Donzé",
+          "parti": "AdC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-22"
+      },
+      "derniere_etape": "2018-05-22",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_MOT_007",
+      "numero": "17_MOT_007",
+      "type": "Motion",
+      "depose": "2017-10-03",
+      "titre": "Médiation civile systématique : favoriser les accords plutôt que les longs procès",
+      "auteurs": [
+        {
+          "nom": "Mathieu Blanc",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Mathieu Blanc",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-12-11"
+      },
+      "derniere_etape": "2018-12-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_MOT_006",
+      "numero": "17_MOT_006",
+      "type": "Motion",
+      "depose": "2017-10-03",
+      "titre": "Médiation civile et assistance judiciaire : un couple qui peut faire bon ménage",
+      "auteurs": [
+        {
+          "nom": "Mathieu Blanc",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Mathieu Blanc",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-12-11"
+      },
+      "derniere_etape": "2018-12-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_044",
+      "numero": "17_INT_044",
+      "type": "Interpellation",
+      "depose": "2017-10-03",
+      "titre": "Viol d'adolescentes et de femmes très alcoolisées : après l'abandon d'une campagne de prévention, quelles mesures l'Etat de Vaud entend-il prendre ?",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-02"
+      },
+      "derniere_etape": "2019-04-02",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_043",
+      "numero": "17_INT_043",
+      "type": "Interpellation",
+      "depose": "2017-10-03",
+      "titre": "Planification scolaire : pour que les villages restent des lieux vivants",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-02-19"
+      },
+      "derniere_etape": "2019-02-19",
+      "communes": [
+        {
+          "ofs": 5913,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5903,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5680,
+          "origine": "document"
+        },
+        {
+          "ofs": 5530,
+          "origine": "document"
+        },
+        {
+          "ofs": 5923,
+          "origine": "document"
+        },
+        {
+          "ofs": 5910,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_042",
+      "numero": "17_INT_042",
+      "type": "Interpellation",
+      "depose": "2017-10-03",
+      "titre": "Application de l'art. 108 RLS, quelques précisions svp",
+      "auteurs": [
+        {
+          "nom": "Catherine Labouchère",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Catherine Labouchère",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-09"
+      },
+      "derniere_etape": "2019-04-09",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_041",
+      "numero": "17_INT_041",
+      "type": "Interpellation",
+      "depose": "2017-10-03",
+      "titre": "Utilisation de drones privés dans le domaine public : quelle législation cantonale ?",
+      "auteurs": [
+        {
+          "nom": "Jean-Daniel Carrard",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Jean-Daniel Carrard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_040",
+      "numero": "17_INT_040",
+      "type": "Interpellation",
+      "depose": "2017-10-03",
+      "titre": "Dans quelles mesures l'accroissement du secteur ambulatoire favorisé par l'Etat contribue-t-il à une augmentation constante des primes maladies ?",
+      "auteurs": [
+        {
+          "nom": "Thierry Dubois",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Thierry Dubois",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-25"
+      },
+      "derniere_etape": "2018-09-25",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_POS_008",
+      "numero": "17_POS_008",
+      "type": "Postulat",
+      "depose": "2017-09-19",
+      "titre": "Encourager et faciliter l'assainissement énergétique des bâtiments",
+      "auteurs": [
+        {
+          "nom": "Christian Van Singer",
+          "parti": null
+        },
+        {
+          "nom": "Christian Van Singer",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2022-02-02"
+      },
+      "derniere_etape": "2022-02-02",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_MOT_003",
+      "numero": "17_MOT_003",
+      "type": "Motion",
+      "depose": "2017-09-19",
+      "titre": "Valorisation et promotion de la formation duale",
+      "auteurs": [
+        {
+          "nom": "Axel Marion",
+          "parti": "AdC"
+        },
+        {
+          "nom": "Axel Marion",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2022-03-09"
+      },
+      "derniere_etape": "2022-03-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_035",
+      "numero": "17_INT_035",
+      "type": "Interpellation",
+      "depose": "2017-09-19",
+      "titre": "Par mesure de précaution, le Canton de Vaud va-t-il suivre l'exemple du Canton de Thurgovie et supprimer la planification des parcs éoliens ?",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": null
+        },
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-06-04"
+      },
+      "derniere_etape": "2019-06-04",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_034",
+      "numero": "17_INT_034",
+      "type": "Interpellation",
+      "depose": "2017-09-19",
+      "titre": "PDCn : les effets collatéraux du choix de la date de référence",
+      "auteurs": [
+        {
+          "nom": "Etienne Räss",
+          "parti": "VER"
+        },
+        {
+          "nom": "Etienne Räss",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-06-19"
+      },
+      "derniere_etape": "2018-06-19",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_033",
+      "numero": "17_INT_033",
+      "type": "Interpellation",
+      "depose": "2017-09-19",
+      "titre": "Sous perfusion, la Caisse de pension de l'Etat de Vaud est-elle en bonne santé ?",
+      "auteurs": [
+        {
+          "nom": "Alain Bovay",
+          "parti": null
+        },
+        {
+          "nom": "Alain Bovay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-25"
+      },
+      "derniere_etape": "2018-09-25",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_032",
+      "numero": "17_INT_032",
+      "type": "Interpellation",
+      "depose": "2017-09-19",
+      "titre": "Nouveaux médias et révolution numérique : le Plan d'études romand, c'est bien, mais quelle assurance pour que son chapitre MITIC atteigne ses cibles ?",
+      "auteurs": [
+        {
+          "nom": "Fabienne Freymond Cantone",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Fabienne Freymond Cantone",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2017-09-19"
+      },
+      "derniere_etape": "2017-09-19",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_030",
+      "numero": "17_INT_030",
+      "type": "Interpellation",
+      "depose": "2017-09-19",
+      "titre": "Les ZIZA : nouvel étalon pour ne rien faire ?",
+      "auteurs": [
+        {
+          "nom": "Stéphane Rezso",
+          "parti": null
+        },
+        {
+          "nom": "Stéphane Rezso",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2020-02-04"
+      },
+      "derniere_etape": "2020-02-04",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_029",
+      "numero": "17_INT_029",
+      "type": "Interpellation",
+      "depose": "2017-09-19",
+      "titre": "Récolte publique d'amiante : Quelles précautions vis-à-vis de la population ?",
+      "auteurs": [
+        {
+          "nom": "Guy Gaudard",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Guy Gaudard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2017-09-19"
+      },
+      "derniere_etape": "2017-09-19",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_POS_007",
+      "numero": "17_POS_007",
+      "type": "Postulat",
+      "depose": "2017-09-12",
+      "titre": "Bordure de route cantonale, affichage politique ou capharnaüm !",
+      "auteurs": [
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Florence Gross",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2018-12-18"
+      },
+      "derniere_etape": "2018-12-18",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_006",
+      "numero": "17_POS_006",
+      "type": "Postulat",
+      "depose": "2017-09-12",
+      "titre": "Promouvoir et soutenir les produits des artisans boulangers, pâtissiers, confiseurs et ce, pour le bien du secteur et des consommateurs-ice-s !",
+      "auteurs": [
+        {
+          "nom": "Sabine Glauser Krug",
+          "parti": "VER"
+        },
+        {
+          "nom": "Sabine Glauser Krug",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2024-01-31"
+      },
+      "derniere_etape": "2024-01-31",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_PET_003",
+      "numero": "17_PET_003",
+      "type": "Pétition",
+      "depose": "2017-09-12",
+      "titre": "Pétition pour empêcher le démantèlement des cures vaudoises",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2019-10-08"
+      },
+      "derniere_etape": "2019-10-08",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_028",
+      "numero": "17_INT_028",
+      "type": "Interpellation",
+      "depose": "2017-09-12",
+      "titre": "CFC, comment faire pour maintenir son attractivité ?",
+      "auteurs": [
+        {
+          "nom": "Nicolas Glauser",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-06-16"
+      },
+      "derniere_etape": "2021-06-16",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_027",
+      "numero": "17_INT_027",
+      "type": "Interpellation",
+      "depose": "2017-09-12",
+      "titre": "Dossiers numériques : Quelle anticipation et quels moyens informatiques pour la Justice vaudoise ?",
+      "auteurs": [
+        {
+          "nom": "Marc-Olivier Buffat",
+          "parti": null
+        },
+        {
+          "nom": "Marc-Olivier Buffat",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-22"
+      },
+      "derniere_etape": "2018-05-22",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_026",
+      "numero": "17_INT_026",
+      "type": "Interpellation",
+      "depose": "2017-09-12",
+      "titre": "Nos condamnés qui sont en liberté !",
+      "auteurs": [
+        {
+          "nom": "Denis Rubattel",
+          "parti": null
+        },
+        {
+          "nom": "Denis Rubattel",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_025",
+      "numero": "17_INT_025",
+      "type": "Interpellation",
+      "depose": "2017-09-12",
+      "titre": "Le concept jurassien de NEI - Nouvelle Entreprise Innovante. Un outil intéressant pour le Canton de Vaud ?",
+      "auteurs": [
+        {
+          "nom": "Manuel Donzé",
+          "parti": "AdC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_024",
+      "numero": "17_INT_024",
+      "type": "Interpellation",
+      "depose": "2017-09-12",
+      "titre": "Epalinges : un EMS dans la tourmente ?",
+      "auteurs": [
+        {
+          "nom": "Claude Matter",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Claude Matter",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-22"
+      },
+      "derniere_etape": "2018-05-22",
+      "communes": [
+        {
+          "ofs": 5584,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_005",
+      "numero": "17_POS_005",
+      "type": "Postulat",
+      "depose": "2017-09-05",
+      "titre": "Mobilité 4.0 : plus de mobilité pour moins de béton",
+      "auteurs": [
+        {
+          "nom": "Muriel Thalmann",
+          "parti": null
+        },
+        {
+          "nom": "Muriel Thalmann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-06-05"
+      },
+      "derniere_etape": "2018-06-05",
+      "communes": [
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_023",
+      "numero": "17_INT_023",
+      "type": "Interpellation",
+      "depose": "2017-09-05",
+      "titre": "Accélérons les procédures dans le cadre des projets de construction de nouvelles porcheries vaudoises !",
+      "auteurs": [
+        {
+          "nom": "Sylvain Freymond",
+          "parti": null
+        },
+        {
+          "nom": "Sylvain Freymond",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-09-24"
+      },
+      "derniere_etape": "2019-09-24",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_021",
+      "numero": "17_INT_021",
+      "type": "Interpellation",
+      "depose": "2017-09-05",
+      "titre": "Quand les PLAFA ne plafonnent pas",
+      "auteurs": [
+        {
+          "nom": "Marc Vuilleumier",
+          "parti": null
+        },
+        {
+          "nom": "Marc Vuilleumier",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-18"
+      },
+      "derniere_etape": "2018-09-18",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_PET_002",
+      "numero": "17_PET_002",
+      "type": "Pétition",
+      "depose": "2017-08-29",
+      "titre": "Pétition [particulier]",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2018-05-29"
+      },
+      "derniere_etape": "2018-05-29",
+      "communes": [
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_020",
+      "numero": "17_INT_020",
+      "type": "Interpellation",
+      "depose": "2017-08-29",
+      "titre": "Dumping salarial avec les filiales partenaires de La Poste, comment protéger les commerçants ?",
+      "auteurs": [
+        {
+          "nom": "Vincent Keller",
+          "parti": "EP"
+        },
+        {
+          "nom": "Vincent Keller",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-08-28"
+      },
+      "derniere_etape": "2018-08-28",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_019",
+      "numero": "17_INT_019",
+      "type": "Interpellation",
+      "depose": "2017-08-29",
+      "titre": "Manuels scolaires sponsorisés, non merci !",
+      "auteurs": [
+        {
+          "nom": "Vincent Keller",
+          "parti": null
+        },
+        {
+          "nom": "Vincent Keller",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-09"
+      },
+      "derniere_etape": "2019-04-09",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_018",
+      "numero": "17_INT_018",
+      "type": "Interpellation",
+      "depose": "2017-08-29",
+      "titre": "La Poste ferme des agences, Car Postal va-t-elle réduire ses dessertes ?",
+      "auteurs": [
+        {
+          "nom": "Vincent Keller",
+          "parti": null
+        },
+        {
+          "nom": "Vincent Keller",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-12-18"
+      },
+      "derniere_etape": "2018-12-18",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_016",
+      "numero": "17_INT_016",
+      "type": "Interpellation",
+      "depose": "2017-08-29",
+      "titre": "La morale vestimentaire, nouvelle discipline scolaire ?",
+      "auteurs": [
+        {
+          "nom": "Léonore Porchet",
+          "parti": null
+        },
+        {
+          "nom": "Léonore Porchet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-09"
+      },
+      "derniere_etape": "2019-04-09",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_014",
+      "numero": "17_INT_014",
+      "type": "Interpellation",
+      "depose": "2017-08-29",
+      "titre": "Courriels des députés sommes-nous en sécurité ?",
+      "auteurs": [
+        {
+          "nom": "Maurice Mischler",
+          "parti": "VER"
+        },
+        {
+          "nom": "Maurice Mischler",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2022-09-28"
+      },
+      "derniere_etape": "2022-09-28",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_013",
+      "numero": "17_INT_013",
+      "type": "Interpellation",
+      "depose": "2017-08-29",
+      "titre": "Qu'en est il du sponsoring éducatif dans l'école publique vaudoise ?",
+      "auteurs": [
+        {
+          "nom": "Anne Baehler Bech",
+          "parti": "VER"
+        },
+        {
+          "nom": "Anne Baehler Bech",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-09"
+      },
+      "derniere_etape": "2019-04-09",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_012",
+      "numero": "17_INT_012",
+      "type": "Interpellation",
+      "depose": "2017-08-29",
+      "titre": "Les enfants à haut potentiel sont-ils en danger à l'Ecole publique ?",
+      "auteurs": [
+        {
+          "nom": "Philippe Vuillemin",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Vuillemin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-05-14"
+      },
+      "derniere_etape": "2019-05-14",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_011",
+      "numero": "17_INT_011",
+      "type": "Interpellation",
+      "depose": "2017-08-29",
+      "titre": "Des médecins ignorés et pourtant bien vivants et probablement très utiles",
+      "auteurs": [
+        {
+          "nom": "Philippe Vuillemin",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Vuillemin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-25"
+      },
+      "derniere_etape": "2018-09-25",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_POS_001",
+      "numero": "17_POS_001",
+      "type": "Postulat",
+      "depose": "2017-08-22",
+      "titre": "L'Agenda 2030 de développement durable pour boussole",
+      "auteurs": [
+        {
+          "nom": "Claire Richard",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Claire Richard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-06-19"
+      },
+      "derniere_etape": "2018-06-19",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_PET_001",
+      "numero": "17_PET_001",
+      "type": "Pétition",
+      "depose": "2017-08-22",
+      "titre": "Pétition en faveur de la famille K",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-03-13"
+      },
+      "derniere_etape": "2018-03-13",
+      "communes": [
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_MOT_002",
+      "numero": "17_MOT_002",
+      "type": "Motion",
+      "depose": "2017-08-22",
+      "titre": "Pour favoriser l'apprentissage de la culture numérique dans le cadre de l'école obligatoire - passer des intentions aux actes",
+      "auteurs": [
+        {
+          "nom": "Muriel Thalmann",
+          "parti": null
+        },
+        {
+          "nom": "Muriel Thalmann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-05-01"
+      },
+      "derniere_etape": "2018-05-01",
+      "communes": [
+        {
+          "ofs": 5635,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_MOT_001",
+      "numero": "17_MOT_001",
+      "type": "Motion",
+      "depose": "2017-08-22",
+      "titre": "Police coordonnée vaudoise : pour une gouvernance et un commandement unifiés",
+      "auteurs": [
+        {
+          "nom": "Anne Baehler Bech",
+          "parti": "VER"
+        },
+        {
+          "nom": "Anne Baehler Bech",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2019-03-19"
+      },
+      "derniere_etape": "2019-03-19",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_010",
+      "numero": "17_INT_010",
+      "type": "Interpellation",
+      "depose": "2017-08-22",
+      "titre": "Les jet-skis vont ils nous mener en bateau ?",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": null
+        },
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-05-07"
+      },
+      "derniere_etape": "2019-05-07",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_009",
+      "numero": "17_INT_009",
+      "type": "Interpellation",
+      "depose": "2017-08-22",
+      "titre": "Quel contenu pour la future policlinique de la Riviera ?",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-12-18"
+      },
+      "derniere_etape": "2018-12-18",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_008",
+      "numero": "17_INT_008",
+      "type": "Interpellation",
+      "depose": "2017-08-22",
+      "titre": "De la surveillance des cochons à la concurrence déloyale, il n'y a qu'une fine pellicule !",
+      "auteurs": [
+        {
+          "nom": "Yves Ferrari",
+          "parti": null
+        },
+        {
+          "nom": "Yves Ferrari",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-09-24"
+      },
+      "derniere_etape": "2019-09-24",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_007",
+      "numero": "17_INT_007",
+      "type": "Interpellation",
+      "depose": "2017-08-22",
+      "titre": "Réduire la pression financière de la classe moyenne vaudoise",
+      "auteurs": [
+        {
+          "nom": "Claire Richard",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Claire Richard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-15"
+      },
+      "derniere_etape": "2018-05-15",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_006",
+      "numero": "17_INT_006",
+      "type": "Interpellation",
+      "depose": "2017-08-22",
+      "titre": "Porcheries vaudoises : encore un scandale !",
+      "auteurs": [
+        {
+          "nom": "Claire Richard",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Claire Richard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-09-24"
+      },
+      "derniere_etape": "2019-09-24",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_005",
+      "numero": "17_INT_005",
+      "type": "Interpellation",
+      "depose": "2017-08-22",
+      "titre": "De la promotion à la surveillance de la filière porcine, il n'y a plus qu'un tout petit pas !",
+      "auteurs": [
+        {
+          "nom": "Valérie Schwaar",
+          "parti": null
+        },
+        {
+          "nom": "Valérie Schwaar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-09-24"
+      },
+      "derniere_etape": "2019-09-24",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_004",
+      "numero": "17_INT_004",
+      "type": "Interpellation",
+      "depose": "2017-08-22",
+      "titre": "Quelle valeur a la parole de l'Etat ?",
+      "auteurs": [
+        {
+          "nom": "Axel Marion",
+          "parti": "AdC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-15"
+      },
+      "derniere_etape": "2018-05-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_003",
+      "numero": "17_INT_003",
+      "type": "Interpellation",
+      "depose": "2017-08-22",
+      "titre": "Petrosvibri SA à Noville, de l'eau dans le gaz ?",
+      "auteurs": [
+        {
+          "nom": "Jean-Michel Dolivo",
+          "parti": "EP"
+        },
+        {
+          "nom": "Conseil d'État",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-11-27"
+      },
+      "derniere_etape": "2018-11-27",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_002",
+      "numero": "17_INT_002",
+      "type": "Interpellation",
+      "depose": "2017-08-22",
+      "titre": "Que nous apprend le prêt de CHF 500'000 octroyé par l'Etat de Vaud à la société Swiss Space Systems Holdings SA ?",
+      "auteurs": [
+        {
+          "nom": "Manuel Donzé",
+          "parti": "AdC"
+        },
+        {
+          "nom": "Manuel Donzé",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-11-26"
+      },
+      "derniere_etape": "2019-11-26",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_001",
+      "numero": "17_INT_001",
+      "type": "Interpellation",
+      "depose": "2017-08-22",
+      "titre": "Marche contre Monsanto du 20 mai 2017 : un dispositif policier disproportionné ?",
+      "auteurs": [
+        {
+          "nom": "Hadrien Buclin",
+          "parti": "EP"
+        },
+        {
+          "nom": "Hadrien Buclin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-29"
+      },
+      "derniere_etape": "2018-05-29",
+      "communes": [
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_252",
+      "numero": "17_POS_252",
+      "type": "Postulat",
+      "depose": "2017-06-20",
+      "titre": "Combattre l'exploitation des faillites à répétition",
+      "auteurs": [
+        {
+          "nom": "Nathalie Jaccard",
+          "parti": "VER"
+        },
+        {
+          "nom": "Nathalie Jaccard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2020-03-04"
+      },
+      "derniere_etape": "2020-03-04",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_PET_072",
+      "numero": "17_PET_072",
+      "type": "Pétition",
+      "depose": "2017-06-20",
+      "titre": "Pétition pour un prix du lait payé un franc le litre aux producteurs vaudois de lait",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2019-11-26"
+      },
+      "derniere_etape": "2019-11-26",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_PET_071",
+      "numero": "17_PET_071",
+      "type": "Pétition",
+      "depose": "2017-06-20",
+      "titre": "Pétition : Un écoquartier à Malley OUI, mais pas sur un site pollué !",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2020-02-04"
+      },
+      "derniere_etape": "2020-02-04",
+      "communes": [
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5589,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_726",
+      "numero": "17_INT_726",
+      "type": "Interpellation",
+      "depose": "2017-06-20",
+      "titre": "Quand l'Etat de Vaud recommandera-t-il l'applique dentaire canine comme alternative à la muselière ?",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-01-16"
+      },
+      "derniere_etape": "2018-01-16",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_724",
+      "numero": "17_INT_724",
+      "type": "Interpellation",
+      "depose": "2017-06-20",
+      "titre": "Pourquoi la commune de Château-d'Oex ne peut-elle obtenir l'appui des autorités cantonales pour maintenir un site (Les Monts-Chevreuils) pour pratiquer le ski alpin et le ski de randonnée ?",
+      "auteurs": [
+        {
+          "nom": "A. Chapalay",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-02-12"
+      },
+      "derniere_etape": "2019-02-12",
+      "communes": [
+        {
+          "ofs": 5841,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_251",
+      "numero": "17_POS_251",
+      "type": "Postulat",
+      "depose": "2017-06-13",
+      "titre": "Renforcer l'enseignement de l'allemand par une amélioration du recrutement des enseignant-e-s !",
+      "auteurs": [
+        {
+          "nom": "Felix Stürner",
+          "parti": null
+        },
+        {
+          "nom": "Felix Stürner",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2018-10-09"
+      },
+      "derniere_etape": "2018-10-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_250",
+      "numero": "17_POS_250",
+      "type": "Postulat",
+      "depose": "2017-06-13",
+      "titre": "Compensation de la progression à froid : aussi en matière scolaire ?",
+      "auteurs": [
+        {
+          "nom": "Gérard Mojon",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Gérard Mojon",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2018-10-09"
+      },
+      "derniere_etape": "2018-10-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_MOT_108",
+      "numero": "17_MOT_108",
+      "type": "Motion",
+      "depose": "2017-06-13",
+      "titre": "Pour un allongement de la période de publication de la brochure officielle de votation",
+      "auteurs": [
+        {
+          "nom": "Jean Tschopp",
+          "parti": null
+        },
+        {
+          "nom": "Jean Tschopp",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-05-22"
+      },
+      "derniere_etape": "2018-05-22",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_723",
+      "numero": "17_INT_723",
+      "type": "Interpellation",
+      "depose": "2017-06-13",
+      "titre": "Accès aux chemins forestiers ? Mieux vaut ne pas tomber dans un gouffre ou avoir des soucis de mobilité !",
+      "auteurs": [
+        {
+          "nom": "Véronique Hurni",
+          "parti": null
+        },
+        {
+          "nom": "Véronique Hurni",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-11-27"
+      },
+      "derniere_etape": "2018-11-27",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_722",
+      "numero": "17_INT_722",
+      "type": "Interpellation",
+      "depose": "2017-06-13",
+      "titre": "Nouvel horaire des CFF : quelles mesures de compensation pour limiter la péjoration des relations entre l'Est vaudois et Fribourg-Berne ?",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2017-06-13"
+      },
+      "derniere_etape": "2017-06-13",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_721",
+      "numero": "17_INT_721",
+      "type": "Interpellation",
+      "depose": "2017-06-13",
+      "titre": "Bombardier : un train de licenciements incompréhensible",
+      "auteurs": [
+        {
+          "nom": "Alberto Cherubini",
+          "parti": null
+        },
+        {
+          "nom": "Alberto Cherubini",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-07-03"
+      },
+      "derniere_etape": "2018-07-03",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_720",
+      "numero": "17_INT_720",
+      "type": "Interpellation",
+      "depose": "2017-06-13",
+      "titre": "Horaires CFF 2018 - vers la désertification de l'Est vaudois ?",
+      "auteurs": [
+        {
+          "nom": "Nicolas Croci Torti",
+          "parti": null
+        },
+        {
+          "nom": "Nicolas Croci Torti",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_719",
+      "numero": "17_INT_719",
+      "type": "Interpellation",
+      "depose": "2017-06-13",
+      "titre": "Le canton finance-t-il le local d'injection de Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Fabien Deillon",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Fabien Deillon",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-09"
+      },
+      "derniere_etape": "2019-04-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_718",
+      "numero": "17_INT_718",
+      "type": "Interpellation",
+      "depose": "2017-06-13",
+      "titre": "Hôpital Riviera-Chablais : pratiques douteuses",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": null
+        },
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2017-12-19"
+      },
+      "derniere_etape": "2017-12-19",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_717",
+      "numero": "17_INT_717",
+      "type": "Interpellation",
+      "depose": "2017-06-13",
+      "titre": "NISSAN, GENERALI, THERMO FISHER : Quelle stratégie entend poursuivre le Conseil d'Etat pour garantir l'attractivité économique du canton de Vaud ?",
+      "auteurs": [
+        {
+          "nom": "Marc-Olivier Buffat",
+          "parti": "PLR"
+        },
+        {
+          "nom": "François Clément",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-07-03"
+      },
+      "derniere_etape": "2018-07-03",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5731,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_716",
+      "numero": "17_INT_716",
+      "type": "Interpellation",
+      "depose": "2017-06-13",
+      "titre": "Séparation de la cellule familiale et renvoi indirect vers l'Afghanistan ; le Conseil d'Etat a-t-il pris en compte les conventions internationales relatives aux droits de l'homme et de l'enfant ainsi que la clause discrétionnaire du Règlement Dublin III avant de procéder au transfert de force d'une partie de la famille H. ?",
+      "auteurs": [
+        {
+          "nom": "Alexandre Démétriadès",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Alexandre Démétriadès",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-08"
+      },
+      "derniere_etape": "2018-05-08",
+      "communes": [
+        {
+          "ofs": 5407,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_715",
+      "numero": "17_INT_715",
+      "type": "Interpellation",
+      "depose": "2017-06-13",
+      "titre": "Vote électronique : quelles sont les prochaines étapes ?",
+      "auteurs": [
+        {
+          "nom": "Julien Sansonnens",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-22"
+      },
+      "derniere_etape": "2018-05-22",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_714",
+      "numero": "17_INT_714",
+      "type": "Interpellation",
+      "depose": "2017-06-13",
+      "titre": "Quelle place aux pharmaciens de référence dans les CMS du canton de Vaud ?",
+      "auteurs": [
+        {
+          "nom": "Catherine Labouchère",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Catherine Labouchère",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-09"
+      },
+      "derniere_etape": "2019-04-09",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_713",
+      "numero": "17_INT_713",
+      "type": "Interpellation",
+      "depose": "2017-06-13",
+      "titre": "Instruction civique, éducation à la citoyenneté, instruction politique : où en est-on dans l'école vaudoise aujourd'hui ?",
+      "auteurs": [
+        {
+          "nom": "Claire Richard",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Claire Richard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-11-06"
+      },
+      "derniere_etape": "2018-11-06",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_712",
+      "numero": "17_INT_712",
+      "type": "Interpellation",
+      "depose": "2017-06-13",
+      "titre": "Quelle place réservée à l'écologie dans l'enseignement vaudois ?",
+      "auteurs": [
+        {
+          "nom": "Claire Richard",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Claire Richard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-02-19"
+      },
+      "derniere_etape": "2019-02-19",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5607,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_711",
+      "numero": "17_INT_711",
+      "type": "Interpellation",
+      "depose": "2017-06-13",
+      "titre": "Sauvegarder les prérogatives des prestataires privés en matière de pédagogie spécialisée",
+      "auteurs": [
+        {
+          "nom": "Philippe Jobin",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Jobin",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-09"
+      },
+      "derniere_etape": "2019-04-09",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_POS_249",
+      "numero": "17_POS_249",
+      "type": "Postulat",
+      "depose": "2017-06-06",
+      "titre": "Dès 30 ans dépistage précoce du cancer du sein et reconstruction mammaire pour toutes",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2018-09-11"
+      },
+      "derniere_etape": "2018-09-11",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_POS_248",
+      "numero": "17_POS_248",
+      "type": "Postulat",
+      "depose": "2017-06-06",
+      "titre": "Payons le juste prix, pour le lait mais pas seulement !",
+      "auteurs": [
+        {
+          "nom": "Claire Attinger Doepper",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Claire Attinger Doepper",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2019-04-10"
+      },
+      "derniere_etape": "2019-04-10",
+      "communes": [
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        },
+        {
+          "ofs": 5645,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_MOT_107",
+      "numero": "17_MOT_107",
+      "type": "Motion",
+      "depose": "2017-06-06",
+      "titre": "Subvention pour les routes cantonales en traversée de localité : que tout l'argent promis aille aux communes !",
+      "auteurs": [
+        {
+          "nom": "Muriel Thalmann",
+          "parti": null
+        },
+        {
+          "nom": "Muriel Thalmann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-03-13"
+      },
+      "derniere_etape": "2018-03-13",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_710",
+      "numero": "17_INT_710",
+      "type": "Interpellation",
+      "depose": "2017-06-06",
+      "titre": "Cessons la sous-traitance",
+      "auteurs": [
+        {
+          "nom": "Jean Tschopp",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_709",
+      "numero": "17_INT_709",
+      "type": "Interpellation",
+      "depose": "2017-06-06",
+      "titre": "Logopédistes indépendants : quel but en regard de la loi ?",
+      "auteurs": [
+        {
+          "nom": "Claudine Wyssa",
+          "parti": null
+        },
+        {
+          "nom": "Claudine Wyssa",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-09"
+      },
+      "derniere_etape": "2019-04-09",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_PET_070",
+      "numero": "17_PET_070",
+      "type": "Pétition",
+      "depose": "2017-05-30",
+      "titre": "Pétition pour la renaturation du ruisseau « Le Flon de Carrouge » à Servion",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2018-03-13"
+      },
+      "derniere_etape": "2018-03-13",
+      "communes": [
+        {
+          "ofs": 5806,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5799,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_MOT_106",
+      "numero": "17_MOT_106",
+      "type": "Motion",
+      "depose": "2017-05-23",
+      "titre": "Fiscalité agricole : il faut se résoudre à réviser la loi vaudoise",
+      "auteurs": [
+        {
+          "nom": "Hugues Gander",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2018-01-09"
+      },
+      "derniere_etape": "2018-01-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_708",
+      "numero": "17_INT_708",
+      "type": "Interpellation",
+      "depose": "2017-05-23",
+      "titre": "Tous les chemins mènent à Berne, mais les CFF pourraient-ils nous proposer le plus court ?",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_707",
+      "numero": "17_INT_707",
+      "type": "Interpellation",
+      "depose": "2017-05-23",
+      "titre": "Des enfants non scolarisés dans le canton de Vaud ?",
+      "auteurs": [
+        {
+          "nom": "Claudine Wyssa",
+          "parti": null
+        },
+        {
+          "nom": "Claudine Wyssa",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-09"
+      },
+      "derniere_etape": "2019-04-09",
+      "communes": [
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_706",
+      "numero": "17_INT_706",
+      "type": "Interpellation",
+      "depose": "2017-05-23",
+      "titre": "Ce très vieux serpent de lac va-t-il enfin être euthanasié par le Conseil d'Etat ?",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": null
+        },
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-05-07"
+      },
+      "derniere_etape": "2019-05-07",
+      "communes": [
+        {
+          "ofs": 5464,
+          "origine": "document"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_242",
+      "numero": "17_POS_242",
+      "type": "Postulat",
+      "depose": "2017-03-28",
+      "titre": "Bois-énergie, comment soutenir cette énergie renouvelable",
+      "auteurs": [
+        {
+          "nom": "Daniel Ruch",
+          "parti": null
+        },
+        {
+          "nom": "Daniel Ruch",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2019-06-19"
+      },
+      "derniere_etape": "2019-06-19",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_696",
+      "numero": "17_INT_696",
+      "type": "Interpellation",
+      "depose": "2017-03-28",
+      "titre": "Quel est l'avenir du financement de la préparation à la formation initiale dans les centres de formation professionnelle spécialisée ?",
+      "auteurs": [
+        {
+          "nom": "Rémy Jaquier",
+          "parti": null
+        },
+        {
+          "nom": "Rémy Jaquier",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-02"
+      },
+      "derniere_etape": "2019-04-02",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_695",
+      "numero": "17_INT_695",
+      "type": "Interpellation",
+      "depose": "2017-03-28",
+      "titre": "Desserte de l'hôpital Riviera Chablais et prolongement de la ligne VMCV 201",
+      "auteurs": [
+        {
+          "nom": "Susanne Jungclaus Delarze",
+          "parti": null
+        },
+        {
+          "nom": "Susanne Jungclaus Delarze",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-12-18"
+      },
+      "derniere_etape": "2018-12-18",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_694",
+      "numero": "17_INT_694",
+      "type": "Interpellation",
+      "depose": "2017-03-28",
+      "titre": "Va-t-on équiper les cellules de postes de police avec la télévision et placera-t-on des prévenus dans les postes de police régionale ?",
+      "auteurs": [
+        {
+          "nom": "Philippe Jobin",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Jobin",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-29"
+      },
+      "derniere_etape": "2018-05-29",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_693",
+      "numero": "17_INT_693",
+      "type": "Interpellation",
+      "depose": "2017-03-28",
+      "titre": "Mise à mal d'un système institutionnel, écartelé entre exigences et moyens",
+      "auteurs": [
+        {
+          "nom": "Catherine Roulet",
+          "parti": null
+        },
+        {
+          "nom": "Catherine Roulet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-22"
+      },
+      "derniere_etape": "2018-05-22",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_692",
+      "numero": "17_INT_692",
+      "type": "Interpellation",
+      "depose": "2017-03-28",
+      "titre": "Mieux aider les jeunes à gérer leur argent",
+      "auteurs": [
+        {
+          "nom": "Catherine Labouchère",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Catherine Labouchère",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2017-03-28"
+      },
+      "derniere_etape": "2017-03-28",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_691",
+      "numero": "17_INT_691",
+      "type": "Interpellation",
+      "depose": "2017-03-28",
+      "titre": "Suicides dans la paysannerie : vers un renforcement des mesures de prévention ?",
+      "auteurs": [
+        {
+          "nom": "Julien Sansonnens",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-08-27"
+      },
+      "derniere_etape": "2019-08-27",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_686",
+      "numero": "17_INT_686",
+      "type": "Interpellation",
+      "depose": "2017-03-14",
+      "titre": "Repas à domicile au bistro",
+      "auteurs": [
+        {
+          "nom": "Graziella Schaller",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Graziella Schaller",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-04-02"
+      },
+      "derniere_etape": "2019-04-02",
+      "communes": [
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5588,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_684",
+      "numero": "17_INT_684",
+      "type": "Interpellation",
+      "depose": "2017-03-07",
+      "titre": "Mobilis : qui sont les gagnants, qui sont les perdants ?",
+      "auteurs": [
+        {
+          "nom": "Nicolas Croci Torti",
+          "parti": null
+        },
+        {
+          "nom": "Nicolas Croci Torti",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-06-12"
+      },
+      "derniere_etape": "2018-06-12",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_682",
+      "numero": "17_INT_682",
+      "type": "Interpellation",
+      "depose": "2017-03-07",
+      "titre": "Promouvoir le télétravail afin de faciliter la conciliation vie familiale-vie professionnelle et notamment le travail féminin : quel bilan dans la fonction publique vaudoise ?",
+      "auteurs": [
+        {
+          "nom": "Dominique-Ella Christin",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Dominique-Ella Christin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-12-18"
+      },
+      "derniere_etape": "2018-12-18",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_681",
+      "numero": "17_INT_681",
+      "type": "Interpellation",
+      "depose": "2017-03-07",
+      "titre": "Transfert du rail à la route avec l'abandon du trafic marchandises sur les lignes Travys. Quelles conséquences économiques et surtout écologiques pour le Nord-Vaudois ?",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": null
+        },
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-06-12"
+      },
+      "derniere_etape": "2018-06-12",
+      "communes": [
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5766,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_680",
+      "numero": "17_INT_680",
+      "type": "Interpellation",
+      "depose": "2017-03-07",
+      "titre": "Evitons l'enfer des délais dans les réponses aux interventions parlementaires : faisons appel au SIEL !",
+      "auteurs": [
+        {
+          "nom": "Etienne Räss",
+          "parti": null
+        },
+        {
+          "nom": "Etienne Räss",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-11-06"
+      },
+      "derniere_etape": "2018-11-06",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_679",
+      "numero": "17_INT_679",
+      "type": "Interpellation",
+      "depose": "2017-03-07",
+      "titre": "La politique de placement de la BNS est-elle compatible avec l'Accord de Paris sur le climat ?",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_678",
+      "numero": "17_INT_678",
+      "type": "Interpellation",
+      "depose": "2017-03-07",
+      "titre": "Pour en finir avec les distributeurs de boissons sucrées",
+      "auteurs": [
+        {
+          "nom": "Catherine Roulet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-05-04"
+      },
+      "derniere_etape": "2022-05-04",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_677",
+      "numero": "17_INT_677",
+      "type": "Interpellation",
+      "depose": "2017-03-07",
+      "titre": "Pour faciliter le stationnement des personnes en situation de handicap",
+      "auteurs": [
+        {
+          "nom": "François Clément",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-18"
+      },
+      "derniere_etape": "2018-09-18",
+      "communes": [
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_676",
+      "numero": "17_INT_676",
+      "type": "Interpellation",
+      "depose": "2017-03-07",
+      "titre": "Stop aux fermetures des offices postaux",
+      "auteurs": [
+        {
+          "nom": "Marc Oran",
+          "parti": null
+        },
+        {
+          "nom": "Marc Oran",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-08-28"
+      },
+      "derniere_etape": "2018-08-28",
+      "communes": [
+        {
+          "ofs": 5588,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_240",
+      "numero": "17_POS_240",
+      "type": "Postulat",
+      "depose": "2017-02-28",
+      "titre": "Faciliter la poursuite des études pour les étudiant-e-s avec statut de réfugié et leur accès aux Hautes écoles",
+      "auteurs": [
+        {
+          "nom": "Laurence Cretegny",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Laurence Cretegny",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2020-11-11"
+      },
+      "derniere_etape": "2020-11-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_675",
+      "numero": "17_INT_675",
+      "type": "Interpellation",
+      "depose": "2017-02-28",
+      "titre": "Quelle politique du bitcoin pour notre canton ?",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": [
+        {
+          "ofs": 5721,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_674",
+      "numero": "17_INT_674",
+      "type": "Interpellation",
+      "depose": "2017-02-28",
+      "titre": "L'agriculture durable à l'exemple donné par le canton",
+      "auteurs": [
+        {
+          "nom": "Andreas Wüthrich",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Andreas Wüthrich",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-04"
+      },
+      "derniere_etape": "2018-09-04",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_673",
+      "numero": "17_INT_673",
+      "type": "Interpellation",
+      "depose": "2017-02-28",
+      "titre": "A quand la mise en pratique des solutions existantes pour faire sauter les bouchons autoroutiers ?",
+      "auteurs": [
+        {
+          "nom": "Laurent Miéville",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Laurent Miéville",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-06-05"
+      },
+      "derniere_etape": "2018-06-05",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_672",
+      "numero": "17_INT_672",
+      "type": "Interpellation",
+      "depose": "2017-02-28",
+      "titre": "Déterminer l'agressivité du cancer de la prostate ? : Déterminons le DT !",
+      "auteurs": [
+        {
+          "nom": "Véronique Hurni",
+          "parti": null
+        },
+        {
+          "nom": "Véronique Hurni",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-11"
+      },
+      "derniere_etape": "2018-09-11",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INI_023",
+      "numero": "17_INI_023",
+      "type": "Initiative",
+      "depose": "2017-02-28",
+      "titre": "Site unique du Tribunal cantonal : passer la vitesse supérieure !",
+      "auteurs": [
+        {
+          "nom": "Mathieu Blanc",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2018-03-06"
+      },
+      "derniere_etape": "2018-03-06",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INI_022",
+      "numero": "17_INI_022",
+      "type": "Initiative",
+      "depose": "2017-02-28",
+      "titre": "Soutenons les associations sportives et culturelles : revoyons leur TVA",
+      "auteurs": [
+        {
+          "nom": "Conseil d'État",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2017-12-19"
+      },
+      "derniere_etape": "2017-12-19",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_MOT_105",
+      "numero": "17_MOT_105",
+      "type": "Motion",
+      "depose": "2017-02-14",
+      "titre": "Pour obtenir une répartition plus équitable du financement des établissements scolaires entre l'Etat de Vaud et les Communes en matière de rénovations lourdes ou de nouvelles constructions",
+      "auteurs": [
+        {
+          "nom": "Stéphane Rezso",
+          "parti": null
+        },
+        {
+          "nom": "Stéphane Rezso",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2019-10-08"
+      },
+      "derniere_etape": "2019-10-08",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_671",
+      "numero": "17_INT_671",
+      "type": "Interpellation",
+      "depose": "2017-02-14",
+      "titre": "Les établissements médicaux vaudois sont-ils immunisés contre les virus informatiques ?",
+      "auteurs": [
+        {
+          "nom": "Céline Ehrwein Nihan",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-25"
+      },
+      "derniere_etape": "2018-09-25",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_669",
+      "numero": "17_INT_669",
+      "type": "Interpellation",
+      "depose": "2017-02-07",
+      "titre": "Pour que le patrimoine ne soit pas que financier !",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": [
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_668",
+      "numero": "17_INT_668",
+      "type": "Interpellation",
+      "depose": "2017-02-07",
+      "titre": "Elaboration de la brochure explicative officielle lors des votations cantonales : le Conseil d'Etat va-t-il adapter ses pratiques aux recommandations de la Cour constitutionnelle ?",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_667",
+      "numero": "17_INT_667",
+      "type": "Interpellation",
+      "depose": "2017-02-07",
+      "titre": "Les robots menacent-ils des emplois dans le secteur public comme privé ? Paieront-ils bientôt des impôts ?",
+      "auteurs": [
+        {
+          "nom": "Julien Sansonnens",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2017-12-19"
+      },
+      "derniere_etape": "2017-12-19",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_POS_238",
+      "numero": "17_POS_238",
+      "type": "Postulat",
+      "depose": "2017-01-31",
+      "titre": "Pour un vrai soutien à la presse et aux médias",
+      "auteurs": [
+        {
+          "nom": "Jessica Jaccoud",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Jessica Jaccoud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-03-27"
+      },
+      "derniere_etape": "2018-03-27",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_POS_236",
+      "numero": "17_POS_236",
+      "type": "Postulat",
+      "depose": "2017-01-31",
+      "titre": "CHUV - EMS : relever le défi de la vieillesse passe aussi par l'égalité salariale des infirmières",
+      "auteurs": [
+        {
+          "nom": "Philippe Vuillemin",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Vuillemin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-09-18"
+      },
+      "derniere_etape": "2018-09-18",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_665",
+      "numero": "17_INT_665",
+      "type": "Interpellation",
+      "depose": "2017-01-31",
+      "titre": "La Poste : combien restera-t-il d'offices dans le Canton d'ici à 2020 ?",
+      "auteurs": [
+        {
+          "nom": "Delphine Probst",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Delphine Probst",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-04"
+      },
+      "derniere_etape": "2018-09-04",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_POS_229",
+      "numero": "17_POS_229",
+      "type": "Postulat",
+      "depose": "2017-01-24",
+      "titre": "Reconnaissance et conditions cadres pour les infirmières et infirmiers",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": null
+        },
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2019-11-06"
+      },
+      "derniere_etape": "2019-11-06",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_228",
+      "numero": "17_POS_228",
+      "type": "Postulat",
+      "depose": "2017-01-24",
+      "titre": "Le Bois-Mermet avec vocation de prison administrative ? DEIS,",
+      "auteurs": [
+        {
+          "nom": "Claude Schwab",
+          "parti": null
+        },
+        {
+          "nom": "Claude Schwab",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2018-07-03"
+      },
+      "derniere_etape": "2018-07-03",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_661",
+      "numero": "17_INT_661",
+      "type": "Interpellation",
+      "depose": "2017-01-24",
+      "titre": "Places en EMS : les besoins futurs seront-ils satisfaits ?",
+      "auteurs": [
+        {
+          "nom": "Julien Sansonnens",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-05-22"
+      },
+      "derniere_etape": "2018-05-22",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_659",
+      "numero": "17_INT_659",
+      "type": "Interpellation",
+      "depose": "2017-01-24",
+      "titre": "Subsides à l'assurance maladie et Loi sur l'accueil de jour des enfants - Quelles conséquences en cas de refus de la RIE III fédérale ?",
+      "auteurs": [
+        {
+          "nom": "Marc-Olivier Buffat",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-09-10"
+      },
+      "derniere_etape": "2019-09-10",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_POS_222",
+      "numero": "17_POS_222",
+      "type": "Postulat",
+      "depose": "2017-01-10",
+      "titre": "Les lois de la nature et celles du marché sont-elles compatibles ?",
+      "auteurs": [
+        {
+          "nom": "Maurice Neyroud",
+          "parti": null
+        },
+        {
+          "nom": "Maurice Neyroud",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2021-03-03"
+      },
+      "derniere_etape": "2021-03-03",
+      "communes": [
+        {
+          "ofs": 5551,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_221",
+      "numero": "17_POS_221",
+      "type": "Postulat",
+      "depose": "2017-01-10",
+      "titre": "Des valeurs biométriques aussi pour les autorisations de séjour d'étrangers",
+      "auteurs": [
+        {
+          "nom": "Michel Miéville",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Michel Miéville",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2018-01-16"
+      },
+      "derniere_etape": "2018-01-16",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_653",
+      "numero": "17_INT_653",
+      "type": "Interpellation",
+      "depose": "2017-01-10",
+      "titre": "Nouvel horaire des CFF : quelles mesures de compensation pour limiter la péjoration des relations entre l'Est vaudois et Fribourg-Berne ?",
+      "auteurs": [
+        {
+          "nom": "Carole Schelker",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Carole Schelker",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": []
+    },
+    {
+      "cle": "vd/17_INT_652",
+      "numero": "17_INT_652",
+      "type": "Interpellation",
+      "depose": "2017-01-10",
+      "titre": "Au secoursdes festivals d'Avenches !",
+      "auteurs": [
+        {
+          "nom": "Aliette Rey-Marion",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Aliette Rey-Marion",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-09-10"
+      },
+      "derniere_etape": "2019-09-10",
+      "communes": [
+        {
+          "ofs": 5451,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_651",
+      "numero": "17_INT_651",
+      "type": "Interpellation",
+      "depose": "2017-01-10",
+      "titre": "Qu'en est-il de la collaboration intercantonale en matière agricole ?",
+      "auteurs": [
+        {
+          "nom": "Lena Lio",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-04-24"
+      },
+      "derniere_etape": "2018-04-24",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_POS_220",
+      "numero": "16_POS_220",
+      "type": "Postulat",
+      "depose": "2017-01-10",
+      "titre": "Sécurité routière pour toutes les régions en toute saison",
+      "auteurs": [
+        {
+          "nom": "Muriel Thalmann",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Muriel Thalmann",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2018-03-13"
+      },
+      "derniere_etape": "2018-03-13",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_POS_219",
+      "numero": "16_POS_219",
+      "type": "Postulat",
+      "depose": "2017-01-10",
+      "titre": "Rendre justice aux lésés de la nouvelle fiscalité agricole - trouver une solution cantonale pour ne pas cautionner un drame humain",
+      "auteurs": [
+        {
+          "nom": "Philippe Jobin",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Jobin",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2018-01-09"
+      },
+      "derniere_etape": "2018-01-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_MOT_103",
+      "numero": "16_MOT_103",
+      "type": "Motion",
+      "depose": "2017-01-10",
+      "titre": "Sortons du bois pour valoriser nos ressources forestières",
+      "auteurs": [
+        {
+          "nom": "Yves Ferrari",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée à commission",
+        "date": "2017-01-10"
+      },
+      "derniere_etape": "2017-01-10",
+      "communes": [
+        {
+          "ofs": 5534,
+          "origine": "document"
+        },
+        {
+          "ofs": 5512,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_649",
+      "numero": "16_INT_649",
+      "type": "Interpellation",
+      "depose": "2017-01-10",
+      "titre": "Fiscalité agricole et maintenant ?",
+      "auteurs": [
+        {
+          "nom": "Laurence Cretegny",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2017-01-10"
+      },
+      "derniere_etape": "2017-01-10",
+      "communes": []
+    },
+    {
+      "cle": "vd/16_INT_648",
+      "numero": "16_INT_648",
+      "type": "Interpellation",
+      "depose": "2017-01-10",
+      "titre": "Lutte contre le radicalisme et ses effets néfastes : état des lieux",
+      "auteurs": [
+        {
+          "nom": "Laurence Cretegny",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2017-01-10"
+      },
+      "derniere_etape": "2017-01-10",
+      "communes": []
+    },
+    {
+      "cle": "vd/16_INT_646",
+      "numero": "16_INT_646",
+      "type": "Interpellation",
+      "depose": "2017-01-10",
+      "titre": "Pas de base légale pour le financement des EMS : que fait le",
+      "auteurs": [
+        {
+          "nom": "Alain Bovay",
+          "parti": null
+        },
+        {
+          "nom": "Alain Bovay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-09-25"
+      },
+      "derniere_etape": "2018-09-25",
+      "communes": []
+    }
+  ]
+}

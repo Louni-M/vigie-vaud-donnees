@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222543,
+  "numero": "11_POS_272",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-06-05"
+  },
+  "depose": "2011-12-06",
+  "titre": "Réaliser le marquage adéquat des routes cantonales secondaires vaudoises pour accroître la sécurité de tous les usagers",
+  "contributeurs": [
+    {
+      "nom": "Valérie Schwaar",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Valérie Schwaar",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-12-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-12-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-06-05",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_272_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2012-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_272_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-12-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_272_D%C3%A9p%C3%B4t_01.pdf"
+    },
+    {
+      "titre": "Séance du mardi 6 décembre 2011",
+      "date": "2011-12-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_272_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-5-juin-2012/postulat-aliette-rey-marion-realiser-le-marquage-adequat-des-routes-cantonales-secondaires-vaudoises-pour-accroitre-la-securite-de-tous-les-usagers",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

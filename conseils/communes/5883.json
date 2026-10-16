@@ -1,0 +1,387 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5883,
+  "objets": [
+    {
+      "cle": "vd/23_HQU_12",
+      "numero": "23_HQU_12",
+      "type": "Question orale",
+      "depose": "2023-01-31",
+      "titre": "Santé en prison : une étude est-elle prévue pour établir les facteurs de dégradation de la santé psychique des détenus ?",
+      "auteurs": [
+        {
+          "nom": "Mathilde Marendaz",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Terminée",
+        "date": "2023-02-07"
+      },
+      "derniere_etape": "2023-02-07",
+      "communes": [
+        {
+          "ofs": 5589,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5883,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_283",
+      "numero": "19_INT_283",
+      "type": "Interpellation",
+      "depose": "2019-01-15",
+      "titre": "Patrimoine en péril, que fait l'Etat de Vaud pour le préserver ?",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2020-02-04"
+      },
+      "derniere_etape": "2020-02-04",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5883,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_RAP_16",
+      "numero": "19_RAP_16",
+      "type": "Rapport",
+      "depose": "2019-04-30",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Fabienne Freymond Cantone et consorts aux Conseils d'Etat vaudois, genevois et valaisan : Pour engager une réflexion coordonnée pour une meilleure conciliation entre les activités et infrastructures nautiques et les milieux naturels du Lac Léman",
+      "auteurs": [
+        {
+          "nom": "Yvan Luccarini",
+          "parti": "EP"
+        },
+        {
+          "nom": "Yvan Luccarini",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-04-30"
+      },
+      "derniere_etape": "2019-04-30",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5646,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5648,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5588,
+          "origine": "document"
+        },
+        {
+          "ofs": 5883,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_499",
+      "numero": "16_INT_499",
+      "type": "Interpellation",
+      "depose": "2016-04-26",
+      "titre": "Voter, ce n'est pas toujours si simple",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-10-04"
+      },
+      "derniere_etape": "2016-10-04",
+      "communes": [
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5883,
+          "origine": "document"
+        },
+        {
+          "ofs": 5885,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_245",
+      "numero": "14_INT_245",
+      "type": "Interpellation",
+      "depose": "2014-04-08",
+      "titre": "Rives du Lac, projets bloqués : l'Etat exige, mais n'en a pas les moyens !",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-10-28"
+      },
+      "derniere_etape": "2014-10-28",
+      "communes": [
+        {
+          "ofs": 5883,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_143",
+      "numero": "13_INT_143",
+      "type": "Interpellation",
+      "depose": "2013-07-02",
+      "titre": "Fermeture des bars au Festival de jazz de Montreux : le remède est pire que le mal !",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-12-10"
+      },
+      "derniere_etape": "2013-12-10",
+      "communes": [
+        {
+          "ofs": 5886,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5883,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_427",
+      "numero": "10_INT_427",
+      "type": "Interpellation",
+      "depose": "2010-10-05",
+      "titre": "Le train des Vignes ne doit-il pas favoriser le trafic des voyageurs avant le transport des marchandises ?",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-02-01"
+      },
+      "derniere_etape": "2011-02-01",
+      "communes": [
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5607,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5883,
+          "origine": "document"
+        },
+        {
+          "ofs": 5632,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_INT_146",
+      "numero": "08_INT_146",
+      "type": "Interpellation",
+      "depose": "2008-11-11",
+      "titre": "Des approximations dans les autorisations de construction du parking de Saint-Saphorin",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-05-19"
+      },
+      "derniere_etape": "2009-05-19",
+      "communes": [
+        {
+          "ofs": 5610,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5604,
+          "origine": "document"
+        },
+        {
+          "ofs": 5607,
+          "origine": "document"
+        },
+        {
+          "ofs": 5609,
+          "origine": "document"
+        },
+        {
+          "ofs": 5882,
+          "origine": "document"
+        },
+        {
+          "ofs": 5883,
+          "origine": "document"
+        },
+        {
+          "ofs": 5884,
+          "origine": "document"
+        },
+        {
+          "ofs": 5885,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

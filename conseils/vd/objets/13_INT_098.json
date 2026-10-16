@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222844,
+  "numero": "13_INT_098",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-10-29"
+  },
+  "depose": "2013-02-12",
+  "titre": "La récolte du PET va-t-elle disparaître dans les eco-points ?",
+  "contributeurs": [
+    {
+      "nom": "Brigitte Crottaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Brigitte Crottaz",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-02-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-02-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-10-29",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-06-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_098_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-02-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_098_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-29-octobre-2013/reponse-du-conseil-detat-a-linterpellation-brigitte-crottaz-et-consorts-la-recolte-du-pet-va-t-elle-disparaitre-dans-les-eco-points",
+  "communes": [
+    {
+      "ofs": 5635,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

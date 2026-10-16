@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223750,
+  "numero": "16_INT_495",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-10-11"
+  },
+  "depose": "2016-03-15",
+  "titre": "Feux pour traversée de piétons et cycles sur la RC 1 à la hauteur de l'allée de Dorigny : un choix réfléchi et réellement judicieux ?",
+  "contributeurs": [
+    {
+      "nom": "Michele Mossi",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Michele Mossi",
+      "parti": "AdC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-03-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-04-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-10-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-08-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_495_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_495_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-11-octobre-2016/reponse-du-conseil-detat-a-linterpellation-michele-mossi-et-consorts-feux-pour-traversee-de-pietons-et-cycles-sur-la-rc-1-a-la-hauteur-de-lallee-de-dorigny-un-choix-reflechi-et-reellement-judicieux",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5635,
+      "origine": "document"
+    },
+    {
+      "ofs": 5648,
+      "origine": "document"
+    }
+  ]
+}

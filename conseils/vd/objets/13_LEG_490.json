@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222985,
+  "numero": "13_LEG_490",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-01-22"
+  },
+  "depose": "2013-01-08",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi du 23 juin 2009 sur l'interdiction de fumer dans les lieux publics (motion Haenni) et Rapport du Conseil d'Etat au Grand Conseil sur la motion Frédéric Haenni et consorts demandant l'harmonisation de la loi vaudoise sur la fumée avec les pratiques des autres cantons romands permettant aux casinos les mêmes aménagements pragmatiques que ceux consentis dans les cantons de Fribourg, Jura, Genève, Valais ainsi que dans celui de Berne",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-01-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-01-08",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2013-01-22",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-01-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/490_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2013-01-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/490_RC_maj.pdf"
+    },
+    {
+      "titre": "Tableau miroir avant le 3ème débat",
+      "date": "2013-01-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/490_Tableau_miroir_avant_le_3%C3%A8me_d%C3%A9bat_new.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2013-01-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/490_RC_min.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-22-janvier-2013/expose-des-motifs-et-projet-de-loi-modifiant-la-loi-du-23-juin-2009-sur-linterdiction-de-fumer-dans-les-lieux-publics",
+  "communes": [
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5464,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

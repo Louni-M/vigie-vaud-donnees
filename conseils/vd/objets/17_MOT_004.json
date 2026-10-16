@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224097,
+  "numero": "17_MOT_004",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2022-09-14"
+  },
+  "depose": "2018-10-02",
+  "titre": "2020 : 3èmes Jeux Olympiques d'hiver de la Jeunesse et sport scolaire = 6060 journées de sports hivernaux en plus pour nos écoliers",
+  "contributeurs": [
+    {
+      "nom": "Patrick Simonin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Patrick Simonin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-10-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-10-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-09-14",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-10-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_004_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-10-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_004_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Jeux Olympiques d'hiver de la Jeunesse 2020 et sport scolaire",
+      "date": "2022-09-14",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2135103"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-9-octobre-2018/motion-hugues-gander-et-consorts-2020-3emes-jeux-olympiques-dhiver-de-la-jeunesse-et-sport-scolaire-6060-journees-de-sports-hivernaux-en-plus-pour-nos-ecoliers",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5568,
+      "origine": "document"
+    },
+    {
+      "ofs": 5407,
+      "origine": "document"
+    }
+  ]
+}

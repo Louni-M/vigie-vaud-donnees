@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224947,
+  "numero": "19_POS_111",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2019-11-19"
+  },
+  "depose": "2019-02-19",
+  "titre": "Compensation de carbone dans le Canton de Vaud",
+  "contributeurs": [
+    {
+      "nom": "Axel Marion",
+      "parti": "AdC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Axel Marion",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-02-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-03-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-11-19",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_111_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_111_obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-03-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_POS_111_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-19-novembre-2019/postulat-claire-richard-et-consorts-au-nom-du-groupe-vertliberal-compensation-de-carbone-dans-le-canton-de-vaud",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

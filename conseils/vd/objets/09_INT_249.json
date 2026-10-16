@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221607,
+  "numero": "09_INT_249",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-03-23"
+  },
+  "depose": "2009-05-19",
+  "titre": "Les compétences au quotidien",
+  "contributeurs": [
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-05-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-05-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-03-23",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_249_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-05-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_249_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-23-mars-2010/reponse-du-conseil-detat-a-linterpellation-aliette-rey-marion",
+  "communes": []
+}

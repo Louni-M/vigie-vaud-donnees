@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224282,
+  "numero": "18_INT_197",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-10-01"
+  },
+  "depose": "2018-06-12",
+  "titre": "Restructuration de Nestlé et Nespresso : du grain à moudre pour garantir le partenariat social et préserver les intérêts des collectivités publiques",
+  "contributeurs": [
+    {
+      "nom": "Arnaud Bouverat",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Arnaud Bouverat",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-06-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-06-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-10-01",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_197_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-06-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_197_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-1er-octobre-2019/reponse-du-conseil-detat-a-linterpellation-arnaud-bouverat-et-consorts-restructuration-de-nestle-et-nespresso-du-grain-a-moudre-pour-garantir-le-partenariat-social-et-preserver-les-interets-des-collectivites-publiques",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5624,
+      "origine": "document"
+    },
+    {
+      "ofs": 5451,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    }
+  ]
+}

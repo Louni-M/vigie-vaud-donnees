@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223681,
+  "numero": "15_POS_146",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2016-08-23"
+  },
+  "depose": "2015-11-10",
+  "titre": "Couverture ECA des bâtiments agricoles : risques de sous-couverture et primes arbitraires",
+  "contributeurs": [
+    {
+      "nom": "Philippe Randin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Randin",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-11-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-11-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-08-23",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-06-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_146_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-06-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_146_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-11-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_146_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-23-aout-2016/postulat-raphael-mahaim-et-consorts-couverture-eca-des-batiments-agricoles-risques-de-sous-couverture-et-primes-arbitraires",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

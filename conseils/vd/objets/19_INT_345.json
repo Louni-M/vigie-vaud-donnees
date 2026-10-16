@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224661,
+  "numero": "19_INT_345",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-09-04"
+  },
+  "depose": "2019-05-21",
+  "titre": "Parc naturel périurbain du Jorat ou comment se priver d'une ressource locale et dépenser inutilement l'argent du contribuable ?",
+  "contributeurs": [
+    {
+      "nom": "Yvan Pahud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-05-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-05-21",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-09-04",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_345_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-05-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_345_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2020-11-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/1641#5326"
+    },
+    {
+      "titre": "Soutien de l’Etat au projet de parc naturel périurbain du Jorat",
+      "date": "2019-09-04",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=385840"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/546b3916-469e-493b-8eba-f71675f50843/meeting/1000536",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5523,
+      "origine": "document"
+    },
+    {
+      "ofs": 5792,
+      "origine": "document"
+    },
+    {
+      "ofs": 5785,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223281,
+  "numero": "14_LEG_153",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-09-09"
+  },
+  "depose": "2014-09-02",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 33.5 millions pour financer la poursuite des travaux de mensuration officielle et le développement de l'infrastructure cantonale en données géographiques (mise en oeuvre des lois fédérale et cantonale sur la géoinformation) etRapport du Conseil d'Etat au Grand Conseil sur la mensuration officielle et l'infrastructure cantonale des données géographiques",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Cachin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Cachin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-François Cachin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-09-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-09-09",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-09-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/153_TExte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-09-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/153_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-9-septembre-2014/expose-des-motifs-et-projet-de-decret-accordant-un-credit-dinvestissement-de-chf-335-millions-pour-financer-la-poursuite-des-travaux-de-mensuration-officielle-et-le-developpement-de-linfrastructure-cantonale-en-donnees-geographiques",
+  "communes": [
+    {
+      "ofs": 5730,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5604,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

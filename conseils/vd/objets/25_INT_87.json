@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228214,
+  "numero": "25_INT_87",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-06-24"
+  },
+  "depose": "2025-06-17",
+  "titre": "Ligne CFF Lausanne - Payerne : où se cache le quai 2 ?",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Pedroli",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-06-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-24",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-06-24",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-06-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/3155#969"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/98e354bc-383b-46ee-b8fc-fd8568b62029/meeting/1029653",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5822,
+      "origine": "titre"
+    }
+  ]
+}

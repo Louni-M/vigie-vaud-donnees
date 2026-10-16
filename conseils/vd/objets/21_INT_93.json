@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225729,
+  "numero": "21_INT_93",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-11-24"
+  },
+  "depose": "2021-06-30",
+  "titre": "L'Etat est-il civil?",
+  "contributeurs": [
+    {
+      "nom": "Pierre Zwahlen",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-06-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-08-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-11-24",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-08-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/1897#1046"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-12-21",
+      "lien": "https://www.sonomix.ch/live/gcvd/2001#5581"
+    },
+    {
+      "titre": "L’état civil face à la pandémie",
+      "date": "2021-11-24",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2087917"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/8b791f37-fe95-4752-b9af-409e5540fd19/meeting/1004423",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223642,
+  "numero": "15_POS_103",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2015-08-25"
+  },
+  "depose": "2015-02-10",
+  "titre": "Pour une politique de formation continue en faveur des Adultes aînés",
+  "contributeurs": [
+    {
+      "nom": "Daniel Ruch",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Daniel Ruch",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Daniel Ruch",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-02-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-02-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-08-25",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-08-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_103_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2015-08-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_103_Obj_et_d%C3%A9v.PDF"
+    },
+    {
+      "titre": "Retour à l'0rdre du jour",
+      "date": "2015-08-25",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-25-aout-2015"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-02-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_103_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-25-aout-2015/postulat-filip-uffer-et-consorts-pour-une-politique-de-formation-continue-en-faveur-des-adultes-aines",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5855,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226015,
+  "numero": "21_POS_67",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2023-12-20"
+  },
+  "depose": "2021-12-21",
+  "titre": "De l’usage de l’histoire dans le secondaire I vaudois ou comment éviter que cela ne devienne la MER à boire",
+  "contributeurs": [
+    {
+      "nom": "Felix Stürner",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Cédric Weissert",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-12-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-01-18",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-12-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-09-06",
+      "lien": "https://www.sonomix.ch/live/gcvd/2165#4137"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-01-18",
+      "lien": "https://www.sonomix.ch/live/gcvd/2036#1044"
+    },
+    {
+      "titre": "Enseignement de l’histoire à l’école obligatoire",
+      "date": "2023-12-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2214165"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a105afb4-7f16-410e-b800-c7fbc21ee34c/meeting/1012631",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5415,
+      "origine": "document"
+    },
+    {
+      "ofs": 5422,
+      "origine": "document"
+    },
+    {
+      "ofs": 5482,
+      "origine": "document"
+    }
+  ]
+}

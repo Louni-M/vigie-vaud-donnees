@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226717,
+  "numero": "22_QUE_23",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-09-07"
+  },
+  "depose": "2022-05-31",
+  "titre": "Restitution des subventions COVID: quid pour le canton?",
+  "contributeurs": [
+    {
+      "nom": "Florence Gross",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-05-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-09-07",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Restitution des subventions COVID",
+      "date": "2022-09-07",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2133399"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/bae3e07a-b054-4c1f-be14-f97cb10a2319/meeting/1004442",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223471,
+  "numero": "15_INT_392",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2015-11-24"
+  },
+  "depose": "2015-06-09",
+  "titre": "Solidarité oui, mais dans le respect des lois",
+  "contributeurs": [
+    {
+      "nom": "Véronique Hurni",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Véronique Hurni",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-06-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-06-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-11-24",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-11-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_392_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_392_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-24-novembre-2015/reponse-du-conseil-detat-a-linterpellation-veronique-hurni-solidarite-oui-mais-dans-le-respect-des-lois",
+  "communes": [
+    {
+      "ofs": 5764,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

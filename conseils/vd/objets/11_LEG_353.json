@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222402,
+  "numero": "11_LEG_353",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-01-11"
+  },
+  "depose": "2011-01-11",
+  "titre": "EMPD accordant un crédit d'ouvrage de CHF 7'000'000.- pour les travaux de renouvellement des installations électromécaniques des galeries de Cheseaux, RC 401 et de Marcolet, RC 82, commune de Crissier",
+  "contributeurs": [
+    {
+      "nom": "Jean-Jacques Truffer",
+      "parti": "LIB",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Jacques Truffer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-01-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-01-11",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-01-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/353_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-01-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/353_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 11.01.11",
+      "date": "2011-01-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/353_Decret_adopte.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-11-janvier-2011/expose-des-motifs-et-projet-de-decret-renouvellement-des-installations-electromecaniques-des-galeries-de-cheseaux-rc-401-et-de-marcolet-rc-82",
+  "communes": [
+    {
+      "ofs": 5582,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5583,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5635,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

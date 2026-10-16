@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222088,
+  "numero": "10_MOT_124",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2012-01-24"
+  },
+  "depose": "2010-12-21",
+  "titre": "Différer les horaires de vente d'alcool des heures d'ouverture des commerces et des établissements publics: une mesure efficace de santé publique et de prévention de la violence",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-12-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-12-21",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-01-24",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-11-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_124_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-11-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_124_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-12-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_124_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-24-janvier-2012/motion-gregoire-junod-differer-les-horaires-de-vente-dalcool-des-heures-douverture-des-commerces-une-mesure-efficace-de-sante-publique-et-de-prevention-de-la-violence",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    }
+  ]
+}

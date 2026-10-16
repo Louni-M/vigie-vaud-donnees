@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 29258,
+  "numero": "CA22/008",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2022-08-30"
+  },
+  "depose": "2022-06-01",
+  "titre": "Etudes préliminaires pour l'écoquartier de Malley Gazomètre",
+  "contributeurs": [
+    {
+      "nom": "Cécile Wolf",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-06-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-08-30",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Communication au CC signée",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/6a/6a0417019a6443cf99bece0add0ca6d0.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/a2/fc7e96793a7a40b785dc86c0f79258a2.htm",
+  "communes": []
+}

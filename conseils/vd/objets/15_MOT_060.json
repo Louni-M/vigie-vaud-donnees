@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223605,
+  "numero": "15_MOT_060",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2015-09-29"
+  },
+  "depose": "2015-02-10",
+  "titre": "Qui veut gagner des millions ?",
+  "contributeurs": [
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-02-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-02-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-09-29",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet et développement",
+      "date": "2015-09-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_060_Obj_et_d%C3%A9v.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-02-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_060_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-29-septembre-2015/motion-vassilis-venizelos-au-nom-du-groupe-des-verts-et-consorts-qui-veut-gagner-des-millions",
+  "communes": []
+}

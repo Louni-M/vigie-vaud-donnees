@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224430,
+  "numero": "18_MOT_037",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2018-10-02"
+  },
+  "depose": "2018-05-01",
+  "titre": "Augmenter le pouvoir d'achat des contribuables vaudois par une baisse d'impôts de 3 points",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Berthoud",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-05-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-10-02",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-10-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_037_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-10-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_037_obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-05-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_037_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-2-octobre-2018/motion-philippe-jobin-et-consorts-au-nom-du-groupe-udc-augmenter-le-pouvoir-dachat-des-contribuables-vaudois-par-une-baisse-dimpots-de-3-points",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5693,
+      "origine": "document"
+    }
+  ]
+}

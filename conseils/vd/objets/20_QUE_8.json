@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225430,
+  "numero": "20_QUE_8",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2020-12-16"
+  },
+  "depose": "2020-10-06",
+  "titre": "La collection du musée de l’Elysée restera-t-elle dans l’ombre ?",
+  "contributeurs": [
+    {
+      "nom": "Cloé Baudet Pointet",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-10-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-12-16",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visibilité des collections du Musée de l’Elysée",
+      "date": "2020-12-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2025243"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/625cc20e-e783-4e1c-87c7-9d625828bf80/meeting/1000530",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

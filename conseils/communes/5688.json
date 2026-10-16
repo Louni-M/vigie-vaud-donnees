@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5688,
+  "objets": [
+    {
+      "cle": "vd/21_LEG_112",
+      "numero": "21_LEG_112",
+      "type": "Décret/Loi",
+      "depose": "2021-11-23",
+      "titre": "EMPD accordant au CE un crédit d’étude de CHF 595'000.- pour financer les études de la création d’une rampe d’accès en direction de Berne et d’une amélioration de l’exploitation de la jonction sud de Moudon entre la RC 601 Lausanne – Berne et la RC 626 – Oron – Moudon, sur la commune de Moudon",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-11-23"
+      },
+      "derniere_etape": "2021-11-23",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5805,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5665,
+          "origine": "document"
+        },
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5688,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_14",
+      "numero": "20_INT_14",
+      "type": "Interpellation",
+      "depose": "2020-09-22",
+      "titre": "Accord Canton-Communes sur la répartition de la facture sociale : quid des communes dont l’aide péréquative est plafonnée ?",
+      "auteurs": [
+        {
+          "nom": "Pierre Dessemontet",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-02-03"
+      },
+      "derniere_etape": "2021-02-03",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5688,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_584",
+      "numero": "16_INT_584",
+      "type": "Interpellation",
+      "depose": "2016-09-27",
+      "titre": "Chauffage de la caserne de Valacrêt à Moudon : du bois au mazout ?",
+      "auteurs": [
+        {
+          "nom": "Pierre Volet",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-10-04"
+      },
+      "derniere_etape": "2016-10-04",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5688,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_283",
+      "numero": "10_LEG_283",
+      "type": "Décret/Loi",
+      "depose": "2010-06-22",
+      "titre": "Exposé des motifs et projet de décret accordant la garantie de l'Etat de Vaud et la prise en charge du service de la dette pour l'emprunt de CHF 10'566'339.-, contracté par l'Association du Centre Intercommunal de Santé l'Oasis (ACISO), pour le financement des travaux de transformation de l'ancien hôpital de Moudon en établissement médico-social",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-06-22"
+      },
+      "derniere_etape": "2010-06-22",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5673,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5688,
+          "origine": "document"
+        },
+        {
+          "ofs": 5692,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221812,
+  "numero": "11_INT_512",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-12-20"
+  },
+  "depose": "2011-05-31",
+  "titre": "Requérants d'asile à Gland",
+  "contributeurs": [
+    {
+      "nom": "Gabriel Poncet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Gabriel Poncet",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-05-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-05-31",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-12-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-12-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_512_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_512_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-20-decembre-2011/reponse-du-conseil-detat-a-linterpellation-gabriel-poncet-requerants-dasile-a-gland",
+  "communes": [
+    {
+      "ofs": 5721,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5587,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224272,
+  "numero": "18_INT_188",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-05-07"
+  },
+  "depose": "2018-06-05",
+  "titre": "Pourquoi continuer de faire le nettoyage de printemps à nos belles rivières ?",
+  "contributeurs": [
+    {
+      "nom": "Olivier Epars",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Olivier Epars",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-06-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-06-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-01-23",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2019-05-07",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-04-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_188_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-06-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_188_depot.pdf"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2019-05-07",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-7-mai-2019"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2019-04-30",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-30-avril-2019"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2018-06-05",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-5-juin-2018"
+    },
+    {
+      "titre": "Prévention des pollutions des cours d'eau liés à l'entretien des habitations",
+      "date": "2019-01-23",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=360835"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-7-mai-2019/reponse-du-conseil-detat-a-linterpellation-olivier-epars-pourquoi-continuer-de-faire-le-nettoyage-de-printemps-a-nos-belles-rivieres",
+  "communes": [
+    {
+      "ofs": 5568,
+      "origine": "document"
+    },
+    {
+      "ofs": 5766,
+      "origine": "document"
+    },
+    {
+      "ofs": 5552,
+      "origine": "document"
+    },
+    {
+      "ofs": 5675,
+      "origine": "document"
+    },
+    {
+      "ofs": 5669,
+      "origine": "document"
+    },
+    {
+      "ofs": 5480,
+      "origine": "document"
+    }
+  ]
+}

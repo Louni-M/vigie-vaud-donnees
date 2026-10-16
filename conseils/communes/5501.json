@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5501,
+  "objets": [
+    {
+      "cle": "vd/23_LEG_185",
+      "numero": "23_LEG_185",
+      "type": "Décret/Loi",
+      "depose": "2024-03-05",
+      "titre": "EMPD EMPD accordant au Conseil d'Etat un crédit cadre de CHF 15’500'000.- pour financer des travaux d’entretien de huit tronçons de routes cantonales situés sur les RC 1 entre la jonction autoroutière de Malley et le giratoire de Dorigny, RC 78 entre Bremblens et Bussigny, RC 79/76 entre Bussigny giratoire de Poimboeuf et le carrefour l’Ile à Brizet, RC 179 entre la jonction autoroutière de Crissier et le carrefour de Buyère, RC 303/313 entre Sullens et Bettens/Bioley-Orjulaz, RC 546 entre Bois d’Archan et Froideville, RC 290 entre Ependes et Mathod ainsi que la RC 618 entre Curtilles et Lucens",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-03-05"
+      },
+      "derniere_etape": "2024-03-05",
+      "communes": [
+        {
+          "ofs": 5622,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5624,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5583,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5501,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5471,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5511,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5523,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5914,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5919,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5669,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5675,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_LEG_53",
+      "numero": "18_LEG_53",
+      "type": "Décret/Loi",
+      "depose": "2018-11-06",
+      "titre": "Exposé des motifs et projet de loi sur les ressources naturelles du sous-sol (LRNSS) et Rapport du Conseil d'Etat au Grand Conseil sur la motion Raphaël Mahaim et consorts \"Motion du groupe des verts en faveur de la géothermie : pour voir loin, il faut creuser profond !\"",
+      "auteurs": [
+        {
+          "nom": "Jean-François Chapuisat",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Jean-François Chapuisat",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2018-12-11"
+      },
+      "derniere_etape": "2018-12-11",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5501,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5540,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_MOT_071",
+      "numero": "15_MOT_071",
+      "type": "Motion",
+      "depose": "2015-09-01",
+      "titre": "Stop aux recherches d'hydrocarbures",
+      "auteurs": [
+        {
+          "nom": "Fabienne Despot",
+          "parti": null
+        },
+        {
+          "nom": "Fabienne Despot",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-02-09"
+      },
+      "derniere_etape": "2016-02-09",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5501,
+          "origine": "document"
+        },
+        {
+          "ofs": 5540,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5539,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_303",
+      "numero": "14_INT_303",
+      "type": "Interpellation",
+      "depose": "2014-10-28",
+      "titre": "Gaz, moratoire ou passoire ?",
+      "auteurs": [
+        {
+          "nom": "Michel Collet",
+          "parti": null
+        },
+        {
+          "nom": "Michel Collet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-04-21"
+      },
+      "derniere_etape": "2015-04-21",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5540,
+          "origine": "document"
+        },
+        {
+          "ofs": 5501,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

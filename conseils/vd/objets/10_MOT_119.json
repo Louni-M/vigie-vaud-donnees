@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222082,
+  "numero": "10_MOT_119",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2011-08-30"
+  },
+  "depose": "2010-11-30",
+  "titre": "Assainissement du sol des installations de tir",
+  "contributeurs": [
+    {
+      "nom": "Philippe Jobin",
+      "parti": "UDC",
+      "role": null,
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-11-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-12-07",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-08-30",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_119_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement ",
+      "date": "2011-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_119_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-12-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_119_Depot_et_annexes.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-30-aout-2011/motion-philippe-jobin-assainissement-du-sol-des-installations-de-tir",
+  "communes": [
+    {
+      "ofs": 5805,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5718,
+      "origine": "document"
+    },
+    {
+      "ofs": 5458,
+      "origine": "document"
+    },
+    {
+      "ofs": 5919,
+      "origine": "document"
+    },
+    {
+      "ofs": 5523,
+      "origine": "document"
+    },
+    {
+      "ofs": 5765,
+      "origine": "document"
+    }
+  ]
+}

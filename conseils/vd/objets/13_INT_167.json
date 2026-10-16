@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222912,
+  "numero": "13_INT_167",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-03-18"
+  },
+  "depose": "2013-10-08",
+  "titre": "Pourquoi vouloir raser le chalet au 17, chemin de Cergnat, à Ormont Dessous ?",
+  "contributeurs": [
+    {
+      "nom": "François Brélaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "François Brélaz",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-10-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-10-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-03-18",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-11-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_167_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-10-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_167_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-18-mars-2014/reponse-du-conseil-detat-a-linterpellation-francois-brelaz-et-consort-pourquoi-vouloir-raser-le-chalet-au-17-chemin-de-cergnat-a-ormont-dessous",
+  "communes": [
+    {
+      "ofs": 5410,
+      "origine": "document"
+    },
+    {
+      "ofs": 5554,
+      "origine": "document"
+    }
+  ]
+}

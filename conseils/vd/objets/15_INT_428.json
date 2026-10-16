@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223505,
+  "numero": "15_INT_428",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-05-10"
+  },
+  "depose": "2015-09-22",
+  "titre": "De l'intérêt des statistiques d'échec et de réussite dans le parcours des étudiants de l'EPFL",
+  "contributeurs": [
+    {
+      "nom": "Fabienne Despot",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Fabienne Despot",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-09-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-10-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-05-10",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-05-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_428_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-09-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_428_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-10-mai-2016/reponse-du-conseil-detat-a-linterpellation-fabienne-despot-de-linteret-des-statistiques-dechec-et-de-reussite-dans-le-parcours-des-etudiants-de-lepfl",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

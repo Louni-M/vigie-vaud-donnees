@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224863,
+  "numero": "19_MOT_079",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-01-07"
+  },
+  "depose": "2019-02-19",
+  "titre": "Les élues aussi ont droit à un véritable congé maternité !",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-02-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-03-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-01-07",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-01-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_079_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-01-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_079_obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-03-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_MOT_079_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-7-janvier-2020/motion-sarah-neumann-et-consorts-les-elues-aussi-ont-droit-a-un-veritable-conge-maternite",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

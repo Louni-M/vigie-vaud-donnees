@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223365,
+  "numero": "14_POS_083",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2023-09-13"
+  },
+  "depose": "2014-09-09",
+  "titre": "Soutenir l'accès aux arts vivants des personnes handicapées",
+  "contributeurs": [
+    {
+      "nom": "Christiane Jaquet-Berger",
+      "parti": "LGa",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Christiane Jaquet-Berger",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-09-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-09-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-05-12",
+      "libelle": "Zurückgezogen"
+    },
+    {
+      "date": "2023-09-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-05-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_083_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2015-05-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_083_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-09-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_083_D%C3%A9p%C3%B4t.pdf"
+    },
+    {
+      "titre": "Renforcer l’accès à la culture pour les personnes en situation de handicap",
+      "date": "2023-09-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2197985"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-12-mai-2015/postulat-jean-tschopp-et-consorts-soutenir-lacces-aux-arts-vivants-des-personnes-handicapees",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5451,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    },
+    {
+      "ofs": 5861,
+      "origine": "document"
+    }
+  ]
+}

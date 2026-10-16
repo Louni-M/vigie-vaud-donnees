@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5655,
+  "objets": [
+    {
+      "cle": "vd/25_POS_55",
+      "numero": "25_POS_55",
+      "type": "Postulat",
+      "depose": "2025-10-28",
+      "titre": "Pour que la Commission foncière rurale reste au service des paysan·ne·s",
+      "auteurs": [
+        {
+          "nom": "Mathilde Marendaz",
+          "parti": "EP"
+        },
+        {
+          "nom": "Laurence Cretegny",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée à commission",
+        "date": "2025-11-04"
+      },
+      "derniere_etape": "2025-11-04",
+      "communes": [
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5655,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_193",
+      "numero": "23_INT_193",
+      "type": "Interpellation",
+      "depose": "2023-12-19",
+      "titre": "Application de la loi foncière rurale : de la transparence !",
+      "auteurs": [
+        {
+          "nom": "Mathilde Marendaz",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-06-12"
+      },
+      "derniere_etape": "2024-06-12",
+      "communes": [
+        {
+          "ofs": 5655,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_122",
+      "numero": "13_INT_122",
+      "type": "Interpellation",
+      "depose": "2013-04-30",
+      "titre": "L'avenir des Carrières d'Arvel est-il en mains du Conseil d'Etat ?",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-10-07"
+      },
+      "derniere_etape": "2014-10-07",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5655,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_RES_037",
+      "numero": "10_RES_037",
+      "type": "Résolution",
+      "depose": "2010-06-01",
+      "titre": "L'implantation d'une antenne au sommet du Mont-Tendre",
+      "auteurs": [
+        {
+          "nom": "Raphaël Mahaim",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-01-25"
+      },
+      "derniere_etape": "2011-01-25",
+      "communes": [
+        {
+          "ofs": 5655,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

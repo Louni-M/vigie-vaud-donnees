@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223637,
+  "numero": "15_PET_043",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2016-05-03"
+  },
+  "depose": "2015-09-29",
+  "titre": "Pétition en faveur de Hesat Shabani",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2015-09-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-05-03",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-05-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_PET_043_RC.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-05-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_PET_043_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-3-mai-2016/petition-en-faveur-de-hesat-shabani",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222184,
+  "numero": "10_RAP_39",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-03-23"
+  },
+  "depose": "2010-03-23",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Jacques-André Haury et consorts demandant au Conseil d'Etat un rapport sur les mesures que prend l'Université pour garantir l'objectivité scientifique dans la recherche médicale et dans l'enseignement",
+  "contributeurs": [
+    {
+      "nom": "Pascale Manzini",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pascale Manzini",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-03-23",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-03-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/39_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-03-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/39_COMPL_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-23-mars-2010/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-jacques-andre-haury",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

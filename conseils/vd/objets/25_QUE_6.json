@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228382,
+  "numero": "25_QUE_6",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-03-26"
+  },
+  "depose": "2025-02-04",
+  "titre": "Combien de personnes sont-elles incarcérées dans le canton de Vaud à la suite de conversions d’amendes ?",
+  "contributeurs": [
+    {
+      "nom": "Hadrien Buclin",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-02-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-03-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-03-26",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Personnes incarcérées suite à la conversion d’amendes municipales ou préfectorales",
+      "date": "2025-03-26",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2294708"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6de7eb38-6e4d-4d9e-bf13-d059ac45ddd5/meeting/1026877",
+  "communes": []
+}

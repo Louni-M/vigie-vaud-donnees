@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 229113,
+  "numero": "24_LEG_213",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-11-25"
+  },
+  "depose": "2025-11-25",
+  "titre": "Et projet de décret sur la fusion des communes de L’Abbaye, Le Chenit et Le Lieu et projet de loi modifiant la loi du 30 mai 2006 sur le découpage territorial",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Cala",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-03-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-11-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-11-25",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Exposé des motifs Fusion des communes de l'Abbaye, Le Chenit et Le Lieu - Texte adopté par CE - EMPL-EMPD Fusion Vallée de Joux - publié",
+      "date": "2025-03-19",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2294443"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/644bbcd2-d265-4503-aacd-e7d2b3d1f752/meeting/1029644",
+  "communes": [
+    {
+      "ofs": 5871,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5872,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5873,
+      "origine": "titre"
+    }
+  ]
+}

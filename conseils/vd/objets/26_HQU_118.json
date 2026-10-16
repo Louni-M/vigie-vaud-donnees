@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 340078,
+  "numero": "26_HQU_118",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2026-09-08"
+  },
+  "depose": "2026-09-01",
+  "titre": "Soutient aux alpages",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Bolay",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-09-08",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/470e0799-690b-44ee-9b4a-f0bb94c851af/meeting/1033708",
+  "communes": []
+}

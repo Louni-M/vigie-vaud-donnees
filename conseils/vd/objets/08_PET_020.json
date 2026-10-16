@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221486,
+  "numero": "08_PET_020",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2008-11-18"
+  },
+  "depose": "2008-11-18",
+  "titre": "Pétition des verts de la Broye pour des transports publics plus fréquents et plus efficients entre Lausanne et la Broye",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2008-11-18",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-11-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_18novembre_2008/08_PET_020_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2008-11-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_18novembre_2008/08_PET_020_Objet.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-18-novembre-2008/petition-des-verts-de-la-broye",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

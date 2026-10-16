@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221986,
+  "numero": "10_LEG_242",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-03-23"
+  },
+  "depose": "2010-02-02",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit de CHF 1'618'000.- destiné à l'achèvement de la réfection de la Ferme de Dorigny et à la construction d'un abri de biens culturels sécurisé et enterré sous la Ferme de Dorigny, propriété de l'Etat de Vaud et siège de la Fondation Jean Monnet pour l'Europe",
+  "contributeurs": [
+    {
+      "nom": "Laurent Wehrli",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Laurent Wehrli",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-02-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-03-23",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-02-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/242_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-02-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/242_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 23.03.10",
+      "date": "2010-03-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/242_Decret_adopte.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-23-mars-2010/expose-des-motifs-et-projet-de-decret-ferme-de-dorigny-fondation-jean-monnet",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

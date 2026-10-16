@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222342,
+  "numero": "11_INT_611",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-09-11"
+  },
+  "depose": "2012-03-06",
+  "titre": "L'exonération fiscale du géant Vale International : les dizaines de milliards tirés des exploitations minières",
+  "contributeurs": [
+    {
+      "nom": "Pierre Zwahlen",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-03-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-03-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-09-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-05-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_611_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-03-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_611_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-11-septembre-2012/reponse-du-conseil-detat-a-linterpellation-pierre-zwahlen-concernant-lexoneration-fiscale-du-geant-vale-international-les-dizaines-de-milliards-tires-des-exploitations-minieres",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5646,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

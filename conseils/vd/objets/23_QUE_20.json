@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227221,
+  "numero": "23_QUE_20",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-07-05"
+  },
+  "depose": "2023-05-02",
+  "titre": "Enfants ukrainiens scolarisés",
+  "contributeurs": [
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-05-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-07-05",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Enfants ukrainiens scolarisés",
+      "date": "2023-07-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2187233"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6c7c902a-4557-400b-be7b-dfec7f1ee3fd/meeting/1013642",
+  "communes": []
+}

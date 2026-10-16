@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221972,
+  "numero": "10_LEG_208",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2010-08-31"
+  },
+  "depose": "2010-05-25",
+  "titre": "Exposé des motifs et projets de lois :- sur l'agriculture vaudoiseetRapport du Conseil d'Etat au Grand Conseil sur la motion :- Pierre-André Pidoux demandant au Conseil d'Etat l'élaboration d'une véritable loi-cadre cantonale vaudoise sur l'agriculture, définissant son rôle, ses buts et ses fonctionsetsur les postulats :- Bernard Martin concernant l'agriculture et le climat- Bernard Borel et consorts pour la création d'un fond de démarrage pour les projets d'agriculture contractuelle de proximitéetRéponses du Conseil d'Etat au Grand Conseil aux résolutions :- Michèle Gay Vallotton sur la la fermeture de l'école de fromagerie de Moudon et sur la privatisation de son unité de production- Jacques Chollet et consorts demandant au Conseil d'Etat d'intervenir auprès du Conseil Fédéral afin que conformément à l'art. 182 de la loi sur l'agriculture, un service de répression des fraudes soit rapidement mis en place et à l'interpellation :- Philippe Jobin concernant la compétitivité de l'arboriculture vaudoise sur le plan national et international",
+  "contributeurs": [
+    {
+      "nom": "Claude-André Fardel",
+      "parti": "RAD",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-05-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-06-15",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2010-08-31",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Tableau miroir après le 2ème débat",
+      "date": "2010-09-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/208_Tableau-miroir_LAgr_VD_pour_3eme_debat.pdf"
+    },
+    {
+      "titre": "Tableau miroir après les travaux de la commission",
+      "date": "2010-05-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/208_Tableau_avant_1er_debat.pdf"
+    },
+    {
+      "titre": "Tableau miroir après le 1er débat",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/208_Tableau_apres_1er_debat.pdf"
+    },
+    {
+      "titre": "Loi modifiant la loi sur la viticulture adoptée par le Grand Conseil le 31.08.10",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/208_loi_viticulture.pdf"
+    },
+    {
+      "titre": "Loi sur l'agriculture adoptée par le Grand Conseil le 07.09.10",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/208_Lagr_adoptee_new.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-7-septembre-2010/expose-des-motifs-et-projet-de-loi-sur-lagriculture-vaudoise",
+  "communes": [
+    {
+      "ofs": 5678,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

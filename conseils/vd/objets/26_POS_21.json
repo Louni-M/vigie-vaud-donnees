@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 329648,
+  "numero": "26_POS_21",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2026-05-26"
+  },
+  "depose": "2026-05-19",
+  "titre": "Victimes de violences liées au genre sans statut légal et risque d’expulsion : une contradiction institutionnelle préoccupante",
+  "contributeurs": [
+    {
+      "nom": "Laure Jaton",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Felix Stürner",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-05-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-05-19",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-05-26",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2026-05-26",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.24heures.ch/vaud-laugmentation-de-la-violence-preoccupe-la-police-cantonale-811256863243",
+      "date": "2026-05-19",
+      "lien": "https://www.24heures.ch/vaud-laugmentation-de-la-violence-preoccupe-la-police-cantonale-811256863243"
+    },
+    {
+      "titre": "https://odae-romand.ch/breve/femmes-sans-papiers-prioriser-lexpulsion-au-detriment-dune-prise-en-charge-adequate/",
+      "date": "2026-05-19",
+      "lien": "https://odae-romand.ch/breve/femmes-sans-papiers-prioriser-lexpulsion-au-detriment-dune-prise-en-charge-adequate/"
+    },
+    {
+      "titre": "https://lecourrier.ch/2025/09/24/la-triple-peine-des-femmes-sans-papiers/",
+      "date": "2026-05-19",
+      "lien": "https://lecourrier.ch/2025/09/24/la-triple-peine-des-femmes-sans-papiers/"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4ef9b499-64ae-41ac-a0d0-438cfd82a899/meeting/1029670",
+  "communes": [
+    {
+      "ofs": 5764,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222119,
+  "numero": "10_POS_187",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2011-02-08"
+  },
+  "depose": "2010-05-11",
+  "titre": "Au nom du groupe socialiste au sujet de l'inspection fiscale, bilan et perspectives au-delà des promesses non tenues",
+  "contributeurs": [
+    {
+      "nom": "Frédéric Borloz",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-05-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-05-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-02-08",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2011-02-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_187_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2011-02-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_187_RC_maj_new.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-02-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_187_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2010-05-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_187_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-8-fevrier-2011/postulat-jean-christophe-schwaab-inspection-fiscale-bilan-et-perspectives-au-dela-des-promesses-non-tenues",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

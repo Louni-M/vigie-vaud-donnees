@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224117,
+  "numero": "17_PET_068",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2018-05-15"
+  },
+  "depose": "2018-02-13",
+  "titre": "Pétition pour une vindicte tardive de l'incendie intentionnel",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2018-02-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-15",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-02-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_PET_068_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-02-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/17_PET_068_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-15-mai-2018/petition-pour-une-vindicte-tardive-de-lincendie-intentionnel",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5520,
+      "origine": "document"
+    }
+  ]
+}

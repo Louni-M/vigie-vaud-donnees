@@ -1,0 +1,330 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5730,
+  "objets": [
+    {
+      "cle": "vd/25_POS_24",
+      "numero": "25_POS_24",
+      "type": "Postulat",
+      "depose": "2025-03-25",
+      "titre": "Davantage de places d’accueil pour les victimes de violence dans le couple dans tous les districts du canton",
+      "auteurs": [
+        {
+          "nom": "Laure Jaton",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Laure Jaton",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée à commission",
+        "date": "2025-04-01"
+      },
+      "derniere_etape": "2025-04-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5730,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5556,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_RES_006",
+      "numero": "08_RES_006",
+      "type": "Résolution",
+      "depose": "2008-05-06",
+      "titre": "Pour une action vigoureuse du Conseil d'Etat en faveur des infrastructures de transports du district de Nyon",
+      "auteurs": [
+        {
+          "nom": "Mario-Charles Pertusio",
+          "parti": "AdC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2020-03-11"
+      },
+      "derniere_etape": "2020-03-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5720,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5723,
+          "origine": "document"
+        },
+        {
+          "ofs": 5717,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5730,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_216",
+      "numero": "18_INT_216",
+      "type": "Interpellation",
+      "depose": "2018-07-03",
+      "titre": "La fête des écoles se mue-t-elle en promontoire d'actions politiques ?",
+      "auteurs": [
+        {
+          "nom": "Alain Bovay",
+          "parti": null
+        },
+        {
+          "nom": "Alain Bovay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-09-10"
+      },
+      "derniere_etape": "2019-09-10",
+      "communes": [
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5766,
+          "origine": "document"
+        },
+        {
+          "ofs": 5552,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5730,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_364",
+      "numero": "15_INT_364",
+      "type": "Interpellation",
+      "depose": "2015-03-24",
+      "titre": "Pas d'entrepôt, pas de train ; pas de train, pas de meilleurs transports publics",
+      "auteurs": [
+        {
+          "nom": "Jessica Jaccoud",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Jessica Jaccoud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-09-08"
+      },
+      "derniere_etape": "2015-09-08",
+      "communes": [
+        {
+          "ofs": 5730,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_363",
+      "numero": "15_INT_363",
+      "type": "Interpellation",
+      "depose": "2015-03-24",
+      "titre": "Les trains régionaux sont-ils menacés dans leur développement par la rigueur de la LAT ?",
+      "auteurs": [
+        {
+          "nom": "Catherine Labouchère",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Catherine Labouchère",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-09-08"
+      },
+      "derniere_etape": "2015-09-08",
+      "communes": [
+        {
+          "ofs": 5730,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_LEG_153",
+      "numero": "14_LEG_153",
+      "type": "Décret/Loi",
+      "depose": "2014-09-02",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 33.5 millions pour financer la poursuite des travaux de mensuration officielle et le développement de l'infrastructure cantonale en données géographiques (mise en oeuvre des lois fédérale et cantonale sur la géoinformation) etRapport du Conseil d'Etat au Grand Conseil sur la mensuration officielle et l'infrastructure cantonale des données géographiques",
+      "auteurs": [
+        {
+          "nom": "Jean-François Cachin",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Jean-François Cachin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2014-09-09"
+      },
+      "derniere_etape": "2014-09-09",
+      "communes": [
+        {
+          "ofs": 5730,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5604,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_415",
+      "numero": "12_LEG_415",
+      "type": "Décret/Loi",
+      "depose": "2012-01-10",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 5'578'000.- pour financer les travaux d'élimination de trois points noirs du réseau routier cantonal vaudois hors traversée de localité (RC 19: Trélex, giratoires des Migerendes et du Derby, RC 254: tronçon Essert-sous-Champvent - Peney)",
+      "auteurs": [
+        {
+          "nom": "Jacques Perrin",
+          "parti": null
+        },
+        {
+          "nom": "Jacques Perrin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-01-10"
+      },
+      "derniere_etape": "2012-01-10",
+      "communes": [
+        {
+          "ofs": 5730,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5905,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

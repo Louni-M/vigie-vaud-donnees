@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226728,
+  "numero": "22_QUE_32",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-11-30"
+  },
+  "depose": "2022-09-06",
+  "titre": "Présence du loup dans le canton : des informations plus précises seraient utiles",
+  "contributeurs": [
+    {
+      "nom": "Hadrien Buclin",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-09-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-11-30",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Pertes pour les troupeaux dans les alpages",
+      "date": "2022-11-30",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2148544"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ebb010ec-6ed4-415c-9e19-991e0313fe85/meeting/1012631",
+  "communes": []
+}

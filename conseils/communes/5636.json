@@ -1,0 +1,892 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5636,
+  "objets": [
+    {
+      "cle": "vd/26_MOT_27",
+      "numero": "26_MOT_27",
+      "type": "Motion",
+      "depose": "2026-05-19",
+      "titre": "Pour un crédit d’ouvrage destiné à financer les travaux de rénovation du système technique et des infrastructures de la piscine du Gymnase d’Etoy (prise en considération immédiate)",
+      "auteurs": [
+        {
+          "nom": "Sergei Aschwanden",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2026-05-26"
+      },
+      "derniere_etape": "2026-05-26",
+      "communes": [
+        {
+          "ofs": 5636,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_183",
+      "numero": "23_INT_183",
+      "type": "Interpellation",
+      "depose": "2023-12-05",
+      "titre": "Y en a point comme nos fruits !",
+      "auteurs": [
+        {
+          "nom": "Alberto Mocchi",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-08-19"
+      },
+      "derniere_etape": "2025-08-19",
+      "communes": [
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5817,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5732,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_PAR_7",
+      "numero": "23_PAR_7",
+      "type": "Recours de compétence",
+      "depose": "2023-04-25",
+      "titre": "Rapport annuel 2021 de la commission interparlementaire de contrôle de l’Autorité de surveillance LPP et des fondations de la Suisse occidentale (CIP As-So)",
+      "auteurs": [
+        {
+          "nom": "Philippe Miauton",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2023-04-25"
+      },
+      "derniere_etape": "2023-04-25",
+      "communes": [
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_POS_21",
+      "numero": "22_POS_21",
+      "type": "Postulat",
+      "depose": "2022-05-03",
+      "titre": "Pour un Observatoire de la santé et des accidents au travail",
+      "auteurs": [
+        {
+          "nom": "Hadrien Buclin",
+          "parti": "EP"
+        },
+        {
+          "nom": "Gérard Mojon",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Non pris en considération",
+        "date": "2023-04-25"
+      },
+      "derniere_etape": "2023-04-25",
+      "communes": [
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_LEG_304",
+      "numero": "22_LEG_304",
+      "type": "Décret/Loi",
+      "depose": "2023-04-25",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d’investissement de CHF 69’280'000.- pour financer l’acquisition des biens-fonds nos 1490, 1491, 1492 et 1494 du cadastre de la Commune d’Etoy, pour le gymnase de Nyon – La Côte",
+      "auteurs": [
+        {
+          "nom": "Kilian Duggan",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-04-25"
+      },
+      "derniere_etape": "2023-04-25",
+      "communes": [
+        {
+          "ofs": 5636,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5724,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_RAP_30",
+      "numero": "22_RAP_30",
+      "type": "Rapport",
+      "depose": "2023-03-21",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le bilan intermédiaire du plan stratégique 2019-2023 du CHUV",
+      "auteurs": [
+        {
+          "nom": "Sylvie Podio",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-03-21"
+      },
+      "derniere_etape": "2023-03-21",
+      "communes": [
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_LEG_175",
+      "numero": "22_LEG_175",
+      "type": "Décret/Loi",
+      "depose": "2023-03-21",
+      "titre": "EMPL modifiant la loi sur la santé publique (LSP) - protection des données – accès au RCPers -",
+      "auteurs": [
+        {
+          "nom": "Sylvie Podio",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-03-21"
+      },
+      "derniere_etape": "2023-03-21",
+      "communes": [
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_130",
+      "numero": "22_INT_130",
+      "type": "Interpellation",
+      "depose": "2022-09-27",
+      "titre": "Mesures de coercition, qu’en est-il aujourd’hui ?",
+      "auteurs": [
+        {
+          "nom": "Nicola Di Giulio",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-12-21"
+      },
+      "derniere_etape": "2022-12-21",
+      "communes": [
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_56",
+      "numero": "22_INT_56",
+      "type": "Interpellation",
+      "depose": "2022-05-03",
+      "titre": "Problèmes en pédiatrie, les questions conjoncturelles actuelles sont-elles aussi structurelles ?",
+      "auteurs": [
+        {
+          "nom": "Catherine Labouchère",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-11-02"
+      },
+      "derniere_etape": "2022-11-02",
+      "communes": [
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_121",
+      "numero": "22_INT_121",
+      "type": "Interpellation",
+      "depose": "2022-09-20",
+      "titre": "Don du sang... point de situation",
+      "auteurs": [
+        {
+          "nom": "Fabrice Tanner",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-09-27"
+      },
+      "derniere_etape": "2022-09-27",
+      "communes": [
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_273",
+      "numero": "21_LEG_273",
+      "type": "Décret/Loi",
+      "depose": "2022-03-22",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit d’investissement de CHF 6'600'000.- pour financer les travaux de transformation et d’aménagement des surfaces du futur gymnase de Nyon - La Côte à Etoy (GNLC)",
+      "auteurs": [
+        {
+          "nom": "Nicolas Glauser",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-03-22"
+      },
+      "derniere_etape": "2022-03-22",
+      "communes": [
+        {
+          "ofs": 5724,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5636,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_QUE_37",
+      "numero": "21_QUE_37",
+      "type": "Simple question",
+      "depose": "2021-10-12",
+      "titre": "Pour un soutien pérenne au refuge pour animaux \"Erminea\"",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2021-12-15"
+      },
+      "derniere_etape": "2021-12-15",
+      "communes": [
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5731,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_99",
+      "numero": "21_LEG_99",
+      "type": "Décret/Loi",
+      "depose": "2021-11-23",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit d’études de CHF 800’000.- pour financer les études préalables à la phase d’exécution des travaux du réaménagement de la RC 1 – étape 5 – entre le carrefour du Banc-des-Pauvres, à St-Prex, et la limite communale de Morges, sur les Communes de St-Prex, Lully et Tolochenaz",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-11-23"
+      },
+      "derniere_etape": "2021-11-23",
+      "communes": [
+        {
+          "ofs": 5646,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5642,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5639,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5649,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5851,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_LEG_54",
+      "numero": "18_LEG_54",
+      "type": "Décret/Loi",
+      "depose": "2018-11-06",
+      "titre": "Exposé des motifs et projet de décret ordonnant la convocation des électeurs pour se prononcer sur l'initiative populaire « Pour un canton sans extraction d'hydrocarbures »",
+      "auteurs": [
+        {
+          "nom": "Jean-François Chapuisat",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Jean-François Chapuisat",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Transmise au CE",
+        "date": "2018-11-13"
+      },
+      "derniere_etape": "2018-11-13",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5863,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_LEG_13",
+      "numero": "18_LEG_13",
+      "type": "Décret/Loi",
+      "depose": "2018-01-16",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 4'500'000.- pour financer des travaux d'assainissement de trois routes cantonales : RC 58 Etoy-Lavigny, RC 533 Neyruz-Denezy et RC 790 Aigle-Ollon (route Industrielle)",
+      "auteurs": [
+        {
+          "nom": "Muriel Thalmann",
+          "parti": null
+        },
+        {
+          "nom": "Muriel Thalmann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2018-01-16"
+      },
+      "derniere_etape": "2018-01-16",
+      "communes": [
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_LEG_129",
+      "numero": "15_LEG_129",
+      "type": "Décret/Loi",
+      "depose": "2015-01-27",
+      "titre": "Exposé des motifs et projet de loi sur la pédagogie spécialisée (LPS)et Rapports du Conseil d'Etat au Grand Conseil sur- le postulat Bernard Borel pour l'amélioration et la clarification de la prise en charge financière des troubles du langage et de la communication dans le préscolaire",
+      "auteurs": [
+        {
+          "nom": "Sylvie Podio",
+          "parti": "VER"
+        },
+        {
+          "nom": "Sylvie Podio",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2015-09-01"
+      },
+      "derniere_etape": "2015-09-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5646,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_MOT_045",
+      "numero": "14_MOT_045",
+      "type": "Motion",
+      "depose": "2014-04-08",
+      "titre": "Des betteraves plutôt que des parkings dans les centres commerciaux !",
+      "auteurs": [
+        {
+          "nom": "Régis Courdesse",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Régis Courdesse",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2015-01-13"
+      },
+      "derniere_etape": "2015-01-13",
+      "communes": [
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5516,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_INT_067",
+      "numero": "12_INT_067",
+      "type": "Interpellation",
+      "depose": "2012-11-27",
+      "titre": "La LAMal n'est pas la carte de crédit du Conseil d'Etat vaudois !",
+      "auteurs": [
+        {
+          "nom": "Claude-Alain Voiblet",
+          "parti": null
+        },
+        {
+          "nom": "Claude-Alain Voiblet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-04-23"
+      },
+      "derniere_etape": "2013-04-23",
+      "communes": [
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5713,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_POS_303",
+      "numero": "11_POS_303",
+      "type": "Postulat",
+      "depose": "2012-05-29",
+      "titre": "Postulat Elisabeth Ruey-Ray demandant un état des lieux de la prise en charge des enfants autistes dans le canton de Vaud et des soutiens accordés à leurs familles et une analyse de la possibilité de développer des Unités d'accueil temporaire (UAT) aptes à accueillir notamment des adolescents",
+      "auteurs": [
+        {
+          "nom": "Florence Golaz",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Florence Golaz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2013-01-22"
+      },
+      "derniere_etape": "2013-01-22",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_345",
+      "numero": "11_LEG_345",
+      "type": "Décret/Loi",
+      "depose": "2011-03-29",
+      "titre": "Exposé des motifs et projet de décret autorisant le Conseil d'Etat à accorder la garantie de l'Etat pour des crédits hypothécaires, intervenus depuis août 2008 et à venir d'ici juin 2011, d'institutions reconnues d'utilité publique accueillant des personnes adultes en situation de handicap ou en grandes difficultés sociales",
+      "auteurs": [
+        {
+          "nom": "Catherine Roulet",
+          "parti": null
+        },
+        {
+          "nom": "Catherine Roulet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-03-29"
+      },
+      "derniere_etape": "2011-03-29",
+      "communes": [
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5646,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_262",
+      "numero": "09_INT_262",
+      "type": "Interpellation",
+      "depose": "2009-06-30",
+      "titre": "Relative à la carrière des Bruyères",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-12-15"
+      },
+      "derniere_etape": "2009-12-15",
+      "communes": [
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5623,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_INT_061",
+      "numero": "08_INT_061",
+      "type": "Interpellation",
+      "depose": "2008-10-28",
+      "titre": "Le Littoral Parc",
+      "auteurs": [
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": null
+        },
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2008-11-11"
+      },
+      "derniere_etape": "2008-11-11",
+      "communes": [
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5646,
+          "origine": "document"
+        },
+        {
+          "ofs": 5851,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

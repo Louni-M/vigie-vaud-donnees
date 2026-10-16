@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224125,
+  "numero": "17_POS_008",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2022-02-02"
+  },
+  "depose": "2017-09-19",
+  "titre": "Encourager et faciliter l'assainissement énergétique des bâtiments",
+  "contributeurs": [
+    {
+      "nom": "Christian Van Singer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Christian Van Singer",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-09-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-06-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-02-02",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-02-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_POS_008_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-02-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_POS_008_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Encourager et faciliter l'assainissement énergétique des bâtiments",
+      "date": "2022-02-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2101382"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-19-juin-2018/postulat-thierry-dubois-et-consorts-encourager-et-faciliter-lassainissement-energetique-des-batiments",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

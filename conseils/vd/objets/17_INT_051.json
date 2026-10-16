@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228621,
+  "numero": "17_INT_051",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-05-01"
+  },
+  "depose": "2017-10-31",
+  "titre": "Echallens, ses campagnes, sa maison du Blé et du Pain, son gymnase et... ses forêts",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-10-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-05-01",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-05-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_INT_051_TexteCE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-1er-mai-2018/reponse-du-conseil-detat-a-linterpellation-jean-francois-thuillard-et-consorts-echallens-ses-campagnes-sa-maison-du-ble-et-du-pain-son-gymnase-et-ses-forets",
+  "communes": [
+    {
+      "ofs": 5518,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5512,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5534,
+      "origine": "document"
+    },
+    {
+      "ofs": 5511,
+      "origine": "document"
+    },
+    {
+      "ofs": 5521,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

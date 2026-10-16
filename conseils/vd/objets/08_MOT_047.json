@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221466,
+  "numero": "08_MOT_047",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2009-01-27"
+  },
+  "depose": "2008-08-26",
+  "titre": "Pour tous",
+  "contributeurs": [
+    {
+      "nom": "Philippe Ducommun",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-08-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-01-27",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2008-08-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_02_septembre_2008/08_MOT_047_Objet.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2009-01-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/08_MOT_047_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-27-janvier-2009/motion-philippe-ducommun",
+  "communes": [
+    {
+      "ofs": 5709,
+      "origine": "document"
+    }
+  ]
+}

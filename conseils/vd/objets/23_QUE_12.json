@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227303,
+  "numero": "23_QUE_12",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-06-14"
+  },
+  "depose": "2023-03-07",
+  "titre": "Quelle est la situation du STI de la région de Nyon?",
+  "contributeurs": [
+    {
+      "nom": "David Raedler",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-03-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-06-14",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Situation du Service technique intercommunal de la région de Nyon au regard du droit des marchés publics",
+      "date": "2023-06-14",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2182603"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ec62deac-f8e5-4b46-9775-92bda4028aa2/meeting/1013636",
+  "communes": [
+    {
+      "ofs": 5729,
+      "origine": "document"
+    }
+  ]
+}

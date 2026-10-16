@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225592,
+  "numero": "21_INT_105",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2021-09-07"
+  },
+  "depose": "2021-08-31",
+  "titre": "Les campagnes et régions périphérique font-ils les frais de la centralisation des services de l'Etat?",
+  "contributeurs": [
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-08-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-09-07",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "21_INT_105-Texte déposé",
+      "date": "2021-09-07",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2072557"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/532f7bc3-4c99-4565-9bc2-9639cd53700d/meeting/1004404",
+  "communes": [
+    {
+      "ofs": 5568,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

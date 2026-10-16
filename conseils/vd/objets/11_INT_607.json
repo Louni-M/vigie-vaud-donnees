@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222337,
+  "numero": "11_INT_607",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-09-11"
+  },
+  "depose": "2012-03-06",
+  "titre": "Les relations dangereuses entre l'ACI et une multinationale brésilienne",
+  "contributeurs": [
+    {
+      "nom": "Anne Décosterd",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-03-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-03-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-09-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-05-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_607_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-03-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_607_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-11-septembre-2012/reponse-du-conseil-detat-a-linterpellation-anne-decosterd-sur-les-relations-dangereuses-entre-laci-et-une-multinationale-bresilienne",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5646,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222624,
+  "numero": "12_INT_015",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-03-31"
+  },
+  "depose": "2012-09-04",
+  "titre": "Quel avenir pour les physiothérapeutes indépendants dans le Canton de Vaud ?",
+  "contributeurs": [
+    {
+      "nom": "Christa Calpini",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Christa Calpini",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-09-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-09-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-03-31",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_015_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-09-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_015_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-31-mars-2015/reponse-du-conseil-detat-a-linterpellation-christa-calpini-quel-avenir-pour-les-physiotherapeutes-independants-dans-le-canton-de-vaud",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

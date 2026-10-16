@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228142,
+  "numero": "25_INT_21",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2025-02-11"
+  },
+  "depose": "2025-02-04",
+  "titre": "Goulet d'étranglement de Crissier - qui va payer l'addition ?",
+  "contributeurs": [
+    {
+      "nom": "Jerome De Benedictis",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-02-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-02-11",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-02-11",
+      "lien": "https://www.sonomix.ch/live/gcvd/3023#970"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e7b51596-e57c-4e86-8354-14b4e2df09eb/meeting/1026878",
+  "communes": [
+    {
+      "ofs": 5583,
+      "origine": "titre"
+    }
+  ]
+}

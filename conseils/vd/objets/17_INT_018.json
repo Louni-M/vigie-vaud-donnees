@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228590,
+  "numero": "17_INT_018",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-12-18"
+  },
+  "depose": "2017-08-29",
+  "titre": "La Poste ferme des agences, Car Postal va-t-elle réduire ses dessertes ?",
+  "contributeurs": [
+    {
+      "nom": "Vincent Keller",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Vincent Keller",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-08-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-12-18",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-03-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_INT_018_TexteCE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-18-decembre-2018/reponse-du-conseil-detat-a-linterpellation-vincent-keller-et-consorts-la-poste-ferme-des-agences-car-postal-va-t-elle-reduire-ses-dessertes",
+  "communes": [
+    {
+      "ofs": 5561,
+      "origine": "document"
+    }
+  ]
+}

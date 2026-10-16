@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225977,
+  "numero": "21_POS_30",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2021-06-08"
+  },
+  "depose": "2021-06-01",
+  "titre": "N’en jetez plus, il y en a assez !!!",
+  "contributeurs": [
+    {
+      "nom": "Nathalie Jaccard",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Maurice Treboux",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-06-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-06-08",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-03-29",
+      "lien": "http://www.sonomix.ch/live/gcvd/2086#1987"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/fd756fee-7117-4061-bdf8-83c63fb54121/meeting/1004433",
+  "communes": [
+    {
+      "ofs": 5638,
+      "origine": "document"
+    },
+    {
+      "ofs": 5632,
+      "origine": "document"
+    },
+    {
+      "ofs": 5633,
+      "origine": "document"
+    },
+    {
+      "ofs": 5405,
+      "origine": "document"
+    }
+  ]
+}

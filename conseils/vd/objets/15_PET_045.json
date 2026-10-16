@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 86182,
+  "numero": "15_PET_045",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2016-03-08"
+  },
+  "depose": "2016-03-08",
+  "titre": "Pétition de G. S. - pour la  restitution de mon permis de conduire",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2016-03-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-03-08",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-03-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_PET_045_RC_v2.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-03-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_PET_045_D%C3%A9p%C3%B4t_v2.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-8-mars-2016/petition-de-g-s-pour-la-restitution-de-mon-permis-de-conduire",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5409,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 296113,
+  "numero": "25_PAR_20",
+  "type": "Recours de compétence",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2026-03-03"
+  },
+  "depose": "2025-12-10",
+  "titre": "Rapport annuel 2024 de la commission interparlementaire de contrôle du gymnase intercantonal de la Broye (GYB)",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Pedroli",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-12-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-02-24",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-03-03",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a7b2f5fb-b944-4246-8626-166822f2dadc/meeting/1029662",
+  "communes": []
+}

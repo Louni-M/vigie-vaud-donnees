@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227351,
+  "numero": "23_QUE_59",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-03-13"
+  },
+  "depose": "2023-12-06",
+  "titre": "Financement des salaires du personnel soignants du CHUV par subside est-il compatible avec la LAMAL?",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-12-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-03-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Salaires du personnel du CHUV",
+      "date": "2024-03-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2223108"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/776a0c8c-9a2b-49cb-9299-a2ee9a45643b/meeting/1019552",
+  "communes": []
+}

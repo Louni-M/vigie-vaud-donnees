@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223276,
+  "numero": "14_LEG_142",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-09-23"
+  },
+  "depose": "2014-07-01",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi sur les prestations complémentaires à l'assurance-vieillesse, survivants et invalidité (LVPC) et Rapport du Conseil d'Etat au Grand Conseil sur la motion Catherine Roulet et consorts \"Le canton de Vaud est-il pingre avec ses handicapés?\"",
+  "contributeurs": [
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-07-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-09-16",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2014-09-23",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-07-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/142_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-07-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/142_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-23-septembre-2014/expose-des-motifs-et-projet-de-loi-modifiant-la-loi-sur-les-prestations-complementaires-a-lassurance-vieillesse-survivants-et-invalidite-lvpc",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

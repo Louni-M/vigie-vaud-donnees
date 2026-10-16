@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223034,
+  "numero": "13_MOT_033",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2014-09-30"
+  },
+  "depose": "2013-12-10",
+  "titre": "Revoir le dimensionnement de la zone de l'habitat traditionnellement dispersé mesure C23 du plan directeur cantonal",
+  "contributeurs": [
+    {
+      "nom": "Jacques Nicolet",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jacques Nicolet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Alexis Bally",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-12-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-12-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-09-30",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2014-06-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_033_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2014-06-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_033_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-06-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_033_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-12-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_033_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-30-septembre-2014/motion-jean-marc-genton-et-consorts-revoir-le-dimensionnement-de-la-zone-de-lhabitat-traditionnellement-disperse-mesure-c23-du-plan-directeur-cantonal",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

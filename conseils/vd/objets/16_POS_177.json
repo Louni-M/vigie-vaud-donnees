@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224007,
+  "numero": "16_POS_177",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2016-05-31"
+  },
+  "depose": "2016-05-31",
+  "titre": "Développer à Moudon un centre d'information et de formation en matière d'agriculture, de production et d'élevage BIO",
+  "contributeurs": [
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-05-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-05-31",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-11-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_177_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-11-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_177_Obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_177_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-20-decembre-2016/postulat-jacques-perrin-et-consorts-developper-a-moudon-un-centre-dinformation-et-de-formation-en-matiere-dagriculture-de-production-et-delevage-bio",
+  "communes": [
+    {
+      "ofs": 5678,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5841,
+      "origine": "document"
+    },
+    {
+      "ofs": 5607,
+      "origine": "document"
+    }
+  ]
+}

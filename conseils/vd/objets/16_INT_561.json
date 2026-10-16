@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223812,
+  "numero": "16_INT_561",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-02-11"
+  },
+  "depose": "2016-09-06",
+  "titre": "Le Conseil d'Etat va-t-il s'opposer avec fermeté au moratoire sur les OGM ?",
+  "contributeurs": [
+    {
+      "nom": "Pierre Guignard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierre Guignard",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-09-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-09-13",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-02-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adotpé par le Conseil d'Etat",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/16_INT_561_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-09-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_561_Depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-11-fevrier-2020/reponse-du-conseil-detat-a-linterpellation-pierre-guignard-le-conseil-detat-va-t-il-sopposer-avec-fermete-au-moratoire-sur-les-ogm",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227124,
+  "numero": "23_INT_89",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-09-20"
+  },
+  "depose": "2023-05-23",
+  "titre": "Transport de céréales par la route plutôt que par le rail : Quel gâchis !",
+  "contributeurs": [
+    {
+      "nom": "Sylvain Freymond",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-05-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-05-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-09-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-01-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/2707#8652"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-05-30",
+      "lien": "https://www.sonomix.ch/live/gcvd/2408#1152"
+    },
+    {
+      "titre": "Transport de céréales : le Conseil d’Etat souhaite encourager le report modal de la route au rail",
+      "date": "2023-09-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2196904"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c79bfcb6-2aa1-4d48-8035-d82877a707a0/meeting/1019556",
+  "communes": [
+    {
+      "ofs": 5656,
+      "origine": "document"
+    },
+    {
+      "ofs": 5423,
+      "origine": "document"
+    }
+  ]
+}

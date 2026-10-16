@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5434,
+  "objets": [
+    {
+      "cle": "vd/24_INT_43",
+      "numero": "24_INT_43",
+      "type": "Interpellation",
+      "depose": "2024-03-05",
+      "titre": "Relevé pédologique des surfaces de SDA sur le territoire cantonal / Etat des lieux",
+      "auteurs": [
+        {
+          "nom": "Marc-Olivier Buffat",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-09-25"
+      },
+      "derniere_etape": "2024-09-25",
+      "communes": [
+        {
+          "ofs": 5429,
+          "origine": "document"
+        },
+        {
+          "ofs": 5430,
+          "origine": "document"
+        },
+        {
+          "ofs": 5434,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_LEG_247",
+      "numero": "22_LEG_247",
+      "type": "Décret/Loi",
+      "depose": "2023-06-20",
+      "titre": "EMPD accordant un crédit-cadre de 4 ans de CHF 50'000'000.- pour la période 2023-2026, visant à renforcer le soutien de l'État aux infrastructures touristiques au sens de l’article 24, al. 2 LADE et rapport du CE à la motion Venizelos - opération Vivaldi",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-06-20"
+      },
+      "derniere_etape": "2023-06-20",
+      "communes": [
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5434,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5891,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        },
+        {
+          "ofs": 5407,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

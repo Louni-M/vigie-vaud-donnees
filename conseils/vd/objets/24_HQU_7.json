@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227517,
+  "numero": "24_HQU_7",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2024-01-23"
+  },
+  "depose": "2024-01-16",
+  "titre": "Loup y est tu ?",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Bolay",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-01-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-01-23",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/af8b5882-e0ab-4892-9527-d138348be7d5/meeting/1019556",
+  "communes": []
+}

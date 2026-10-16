@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225627,
+  "numero": "21_INT_137",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-03-30"
+  },
+  "depose": "2021-11-02",
+  "titre": "Collaboration entre le Canton et les Communes en matière de STEP",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marc Sordet",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-11-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-11-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-03-30",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-05-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/2120#4912"
+    },
+    {
+      "titre": "Collaboration entre le Canton et les communes en matière d’épuration urbaine",
+      "date": "2022-03-30",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2109059"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f9c7c97b-d7a0-43d0-88bc-0727bfc5ed87/meeting/1004436",
+  "communes": [
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5675,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5858,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

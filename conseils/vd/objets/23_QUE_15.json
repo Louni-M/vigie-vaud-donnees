@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227307,
+  "numero": "23_QUE_15",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-05-03"
+  },
+  "depose": "2023-03-21",
+  "titre": "Autorisations de tirs du loup délivrées par la Confédération",
+  "contributeurs": [
+    {
+      "nom": "Olivier Petermann",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-03-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-05-03",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Autorisations de tirs de loup dans le Jura vaudois",
+      "date": "2023-05-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2174249"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f9626527-4112-476c-9581-f8be5c81cb3a/meeting/1013638",
+  "communes": []
+}

@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221410,
+  "numero": "08_INT_143",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-05-11"
+  },
+  "depose": "2008-11-11",
+  "titre": "De l'assurance-maladie et demandant à quel jeu se prête le",
+  "contributeurs": [
+    {
+      "nom": "Philippe Ducommun",
+      "parti": "UDC",
+      "role": null,
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Ducommun au sujet de l'assurance-maladie et",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-11-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-11-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-05-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté apr le Conseil d'Etat",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_INT_143_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2008-11-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seanve_du_11_novembre_2008/08_INT_143_Objet.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-11-mai-2010/reponse-du-conseil-detat-a-linterpellation-philippe-ducommun",
+  "communes": [
+    {
+      "ofs": 5582,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5473,
+      "origine": "document"
+    },
+    {
+      "ofs": 5521,
+      "origine": "document"
+    },
+    {
+      "ofs": 5527,
+      "origine": "document"
+    }
+  ]
+}

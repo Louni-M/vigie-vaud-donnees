@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226167,
+  "numero": "22_HQU_57",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-06-14"
+  },
+  "depose": "2022-06-07",
+  "titre": "Salariés à Genève, mais nulle part ailleurs ?",
+  "contributeurs": [
+    {
+      "nom": "Sonya Butera",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-06-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-06-14",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "(i)",
+      "date": "2022-06-14",
+      "lien": "https://www.bger.ch/files/live/sites/bger/files/pdf/fr/2c_0575_2020_yyyy_mm_dd_T_f_14_32_25.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a99a3114-e565-4161-9046-f296c53d4ddc/meeting/1004443",
+  "communes": []
+}

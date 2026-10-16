@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223067,
+  "numero": "13_POS_038",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2013-12-17"
+  },
+  "depose": "2013-06-11",
+  "titre": "Pour une meilleure desserte grandes lignes de la Gare de Palézieux, de la Haute-Broye et des Hauts de Lavaux",
+  "contributeurs": [
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-06-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-06-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-12-17",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-11-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_038_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2013-11-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_038_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-06-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_POS_038_d%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-mardi-17-decembre-2013/postulat-marc-oran-pour-une-meilleure-desserte-grandes-lignes-de-la-gare-de-palezieux-de-la-haute-broye-et-des-hauts-de-lavaux",
+  "communes": [
+    {
+      "ofs": 5805,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    },
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5607,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

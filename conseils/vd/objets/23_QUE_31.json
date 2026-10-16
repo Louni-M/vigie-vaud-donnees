@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227324,
+  "numero": "23_QUE_31",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-11-01"
+  },
+  "depose": "2023-06-27",
+  "titre": "À quand un accès facilité aux archives numérisées de la FAO ?",
+  "contributeurs": [
+    {
+      "nom": "Yannick Maury",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-06-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-11-01",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Accès aux archives numérisées de la Feuille des avis officiels",
+      "date": "2023-11-01",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2205004"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/27b8f692-a39e-46f5-aec4-8f1d46f74d43/meeting/1013650",
+  "communes": []
+}

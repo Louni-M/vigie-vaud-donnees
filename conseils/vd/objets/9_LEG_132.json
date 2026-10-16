@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228748,
+  "numero": "9_LEG_132",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-02-10"
+  },
+  "depose": "2009-02-03",
+  "titre": "Exposé des motifs et projet de lois d'application de la loi fédérale du 23 mars 2007 sur l'aide aux victimes d'infractions abrogeant la loi d'application du 16 décembre 1992 de la loi fédérale du 4 octobre 1991 sur l'aide aux victimes d'infraction (LVLAVI) et modifiant le code de procédure pénale du 12 septembre 1967 (CPP)",
+  "contributeurs": [
+    {
+      "nom": "Jacques Haldy",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jacques Haldy",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-02-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-02-10",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Divers/132_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Divers/132_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-10-fevrier-2009/expose-des-motifs-et-projet-de-lois-aide-aux-victimes-dinfractions-lvlavi",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

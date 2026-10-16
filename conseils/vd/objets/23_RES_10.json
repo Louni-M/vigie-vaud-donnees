@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227376,
+  "numero": "23_RES_10",
+  "type": "Résolution",
+  "statut": {
+    "libelle": "Transmise au CE",
+    "date": "2024-06-12"
+  },
+  "depose": "2023-05-09",
+  "titre": "Soutien à la ligne CFF du pied du Jura et au réseau romand",
+  "contributeurs": [
+    {
+      "nom": "Jean-Daniel Carrard",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-05-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-05-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-06-12",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-05-09",
+      "lien": "https://www.sonomix.ch/live/gcvd/2379#7818"
+    },
+    {
+      "titre": "Horaires CFF 2025",
+      "date": "2024-06-12",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2244393"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/29aa1ceb-a515-4226-ba53-613dfebce192/meeting/1013643",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

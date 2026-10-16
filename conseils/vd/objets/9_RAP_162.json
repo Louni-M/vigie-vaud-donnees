@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228833,
+  "numero": "9_RAP_162",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-09-15"
+  },
+  "depose": "2009-09-15",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Olivier Gfeller et consorts demandant au Conseil d'Etat la création d'un cadastre des déchets industriels",
+  "contributeurs": [
+    {
+      "nom": "Fabienne Despot",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-15",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/162_texte_du_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/162_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-3-novembre-2009/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-olivier-gfeller",
+  "communes": [
+    {
+      "ofs": 5587,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5451,
+      "origine": "document"
+    }
+  ]
+}

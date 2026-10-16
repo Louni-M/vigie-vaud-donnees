@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222359,
+  "numero": "11_INT_628",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-12-11"
+  },
+  "depose": "2012-04-24",
+  "titre": "Centre de formation des requérants d'asile au Mont-sur-Lausanne : les résidents du nouveau quartier de Montjoie passent de la joie aux larmes !",
+  "contributeurs": [
+    {
+      "nom": "Claude-Alain Voiblet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claude-Alain Voiblet",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-04-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-04-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-12-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_628_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-04-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_628_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seances-des-11-et-12-decembre-2012/reponse-du-conseil-detat-a-linterpellation-claude-alain-voiblet-centre-de-formation-des-requerants-dasile-au-mont-sur-lausanne-les-residents-du-nouveau-quartier-de-montjoie-passent-de-la-joie-aux-larmes",
+  "communes": [
+    {
+      "ofs": 5587,
+      "origine": "titre"
+    }
+  ]
+}

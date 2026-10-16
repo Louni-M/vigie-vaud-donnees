@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222480,
+  "numero": "11_MOT_156",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2012-10-02"
+  },
+  "depose": "2012-01-17",
+  "titre": "En faveur de l'introduction d'un droit de préemption permettant de faciliter la politique foncière des collectivités publiques",
+  "contributeurs": [
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-01-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-01-17",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-10-02",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-04-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_156_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2012-04-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_156_Objet_et_d%C3%A9v.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_156_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-2-octobre-2012/motion-jerome-christen-en-faveur-de-lintroduction-dun-droit-de-preemption-permettant-de-faciliter-la-politique-fonciere-des-collectivites-publiques",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5514,
+      "origine": "document"
+    }
+  ]
+}

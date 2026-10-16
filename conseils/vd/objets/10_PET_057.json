@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222098,
+  "numero": "10_PET_057",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2011-12-20"
+  },
+  "depose": "2011-05-31",
+  "titre": "Pétition contre l'implantation d'une antenne sur le Mont-Tendre",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2011-05-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-12-20",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_PET_057_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_PET_057_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-20-decembre-2011/petition-contre-limplantation-dune-antenne-sur-le-mont-tendre",
+  "communes": []
+}

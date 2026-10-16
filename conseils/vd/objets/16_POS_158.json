@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223990,
+  "numero": "16_POS_158",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2016-12-20"
+  },
+  "depose": "2016-02-02",
+  "titre": "Bas les armes !",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Rezso",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Stéphane Rezso",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Alexandre Démétriadès",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-02-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-02-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-12-20",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2016-11-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_158_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2016-11-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_158_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-11-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_158_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-02-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_158_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-20-decembre-2016/postulat-jean-tschopp-et-consorts-bas-les-armes",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

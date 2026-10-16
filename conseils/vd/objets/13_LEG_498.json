@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222988,
+  "numero": "13_LEG_498",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-03-05"
+  },
+  "depose": "2013-01-29",
+  "titre": "Exposé des motifs et projets de lois modifiant- la loi du 30 mars 2004 sur l'exercice de la prostitution et- la loi du 30 mars 2004 sur l'exercice de la prostitution(contre-projet à la motion Pierre Zwahlen en vue d'empêcher la prostitution des personnes mineurs etRapport du Conseil d'Etat au Grand Conseil sur la motion Pierre Zwahlen et consorts en vue d'empêcher la prostitution de personnes mineures",
+  "contributeurs": [
+    {
+      "nom": "Michel Miéville",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Michel Miéville",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Marc Oran",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-01-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-02-12",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2013-03-05",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/498_Texte_CE.pdf"
+    },
+    {
+      "titre": "Loi adoptée par le Grand Conseil le 05.03.13",
+      "date": "2013-03-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/498_Texte_FAO.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2013-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/498_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2013-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/498_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-5-mars-2013/expose-des-motifs-et-projets-de-lois-modifiant-la-loi-du-30-mars-2004-sur-lexercice-de-la-prostitution-et-rapport-du-conseil-detat-au-grand-conseil-sur-la-motion-pierre-zwahlen-en-vue-dempecher-la-prostitution-de-personnes-mineures",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5523,
+      "origine": "document"
+    }
+  ]
+}

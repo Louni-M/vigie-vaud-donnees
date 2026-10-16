@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225902,
+  "numero": "21_MOT_1",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2021-06-01"
+  },
+  "depose": "2021-01-19",
+  "titre": "N'oublions pas les indépendant.e.s !",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Cala",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Gérard Mojon",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Amélie Cherbuin",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-01-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-06-01",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-01",
+      "lien": "https://www.sonomix.ch/live/gcvd/1849#1247"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-01-26",
+      "lien": "https://www.sonomix.ch/live/gcvd/1707#3036"
+    },
+    {
+      "titre": "Q&A Entreprises",
+      "date": "2021-01-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/themes/economie_emploi/entreprises/Q_A_Entreprises.pdf"
+    },
+    {
+      "titre": "https://www.admin.ch/opc/fr/classified-compilation/20200841/index.html",
+      "date": "2021-05-11",
+      "lien": "https://www.admin.ch/opc/fr/classified-compilation/20200841/index.html"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/b30b2a3b-73b9-4d54-9862-ef1e0ce74be7/meeting/1000562",
+  "communes": []
+}

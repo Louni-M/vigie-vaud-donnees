@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227072,
+  "numero": "23_INT_42",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-06-21"
+  },
+  "depose": "2023-03-14",
+  "titre": "Un avenir pour les abattoirs locaux?",
+  "contributeurs": [
+    {
+      "nom": "Anna Perret",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-03-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-03-21",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-06-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.vd.ch/toutes-les-actualites/communiques-de-presse/detail?tx_vdpressreleases_pressrelease%5BpressRelease%5D=27379&cHash=34d470b6b68d4cc24caba29d7229bc8f",
+      "date": "2023-03-14",
+      "lien": "https://www.vd.ch/toutes-les-actualites/communiques-de-presse/detail?tx_vdpressreleases_pressrelease%5BpressRelease%5D=27379&cHash=34d470b6b68d4cc24caba29d7229bc8f"
+    },
+    {
+      "titre": "https://www.vd.ch/toutes-les-actualites/communiques-de-presse/detail/communique/controle-des-viandes-transfert-de-competences-des-communes-au-canton-1579009149",
+      "date": "2023-03-14",
+      "lien": "https://www.vd.ch/toutes-les-actualites/communiques-de-presse/detail/communique/controle-des-viandes-transfert-de-competences-des-communes-au-canton-1579009149"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-03-21",
+      "lien": "https://www.sonomix.ch/live/gcvd/2335#3232"
+    },
+    {
+      "titre": "https://www.lacote.ch/vaud/la-cote/morges-district/aubonne-commune/aubonne-ville/le-projet-dabattoir-daubonne-joue-son-avenir-en-ce-moment-1265074",
+      "date": "2023-03-14",
+      "lien": "https://www.lacote.ch/vaud/la-cote/morges-district/aubonne-commune/aubonne-ville/le-projet-dabattoir-daubonne-joue-son-avenir-en-ce-moment-1265074"
+    },
+    {
+      "titre": "https://www.ipcc.ch/site/assets/uploads/sites/4/2020/06/SRCCL_SPM_fr.pdf",
+      "date": "2023-03-14",
+      "lien": "https://www.ipcc.ch/site/assets/uploads/sites/4/2020/06/SRCCL_SPM_fr.pdf"
+    },
+    {
+      "titre": "https://www.bourgognefranchecomte.fr/elle-cree-le-premier-abattoir-mobile-de-france",
+      "date": "2023-03-14",
+      "lien": "https://www.bourgognefranchecomte.fr/elle-cree-le-premier-abattoir-mobile-de-france"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-01-21",
+      "lien": "https://www.sonomix.ch/live/gcvd/3011#7102"
+    },
+    {
+      "titre": "Règles juridiques et administratives régissant les abattoirs du canton",
+      "date": "2023-06-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2184333"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5db87c2e-96a3-420d-bb62-030442321096/meeting/1026875",
+  "communes": [
+    {
+      "ofs": 5422,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5861,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5762,
+      "origine": "document"
+    }
+  ]
+}

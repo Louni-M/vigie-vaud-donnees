@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5436,
+  "objets": [
+    {
+      "cle": "vd/25_LEG_173",
+      "numero": "25_LEG_173",
+      "type": "Décret/Loi",
+      "depose": "2025-11-25",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Gimel, Saubraz et Saint-Oyens et projet de loi modifiant la loi du 30 mai 2006 sur le découpage territorial",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-11-25"
+      },
+      "derniere_etape": "2025-11-25",
+      "communes": [
+        {
+          "ofs": 5428,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5437,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5436,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_107",
+      "numero": "13_INT_107",
+      "type": "Interpellation",
+      "depose": "2013-03-12",
+      "titre": "Aménagement du territoire, questions d'un nul qui aimerait en savoir plus",
+      "auteurs": [
+        {
+          "nom": "François Brélaz",
+          "parti": null
+        },
+        {
+          "nom": "François Brélaz",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-01-21"
+      },
+      "derniere_etape": "2014-01-21",
+      "communes": [
+        {
+          "ofs": 5436,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_42",
+      "numero": "10_LEG_42",
+      "type": "Décret/Loi",
+      "depose": "2010-01-26",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit de CHF 3'950'000.- pour la correction de la RC 47 entre Le Pontet et Gimel, sur le territoire des communes d'Essertines-sur-Rolle et de Gimel",
+      "auteurs": [
+        {
+          "nom": "Philippe Reymond",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Reymond",
+          "parti": "RAD"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-02-02"
+      },
+      "derniere_etape": "2010-02-02",
+      "communes": [
+        {
+          "ofs": 5428,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5856,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5436,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

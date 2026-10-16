@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223111,
+  "numero": "15_INT_376",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-04-12"
+  },
+  "depose": "2015-04-28",
+  "titre": "Académie de Police de Savatan : état des lieux !",
+  "contributeurs": [
+    {
+      "nom": "Denis Rubattel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Denis Rubattel",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-04-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-04-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-04-12",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_376_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-04-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_376_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-12-avril-2016/reponse-du-conseil-detat-a-linterpellation-denis-rubattel-academie-de-police-de-savatan-etat-des-lieux",
+  "communes": [
+    {
+      "ofs": 5634,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

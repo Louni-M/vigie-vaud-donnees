@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226749,
+  "numero": "22_QUE_5",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-03-16"
+  },
+  "depose": "2022-02-01",
+  "titre": "Métiers forestiers et formation professionnelle",
+  "contributeurs": [
+    {
+      "nom": "Didier Lohri",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-02-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-03-16",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Métiers forestiers et formation professionnelle",
+      "date": "2022-03-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2106742"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/7933c70d-73bb-4913-be22-e97b6ffef25b/meeting/1004426",
+  "communes": [
+    {
+      "ofs": 5587,
+      "origine": "document"
+    }
+  ]
+}

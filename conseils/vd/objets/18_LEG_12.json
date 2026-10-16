@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224361,
+  "numero": "18_LEG_12",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2018-01-16"
+  },
+  "depose": "2018-01-16",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 4'900'000.- pour financer les travaux de renforcement et d'assainissement des murs de soutènement y compris la réhabilitation de la chaussée au lieu-dit La Cula sur la route cantonale RC 251 sur la commune des Clées",
+  "contributeurs": [
+    {
+      "nom": "Muriel Thalmann",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Muriel Thalmann",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-01-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-01-16",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/12_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/12_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-16-janvier-2018/empd-accordant-au-conseil-detat-un-credit-dinvestissement-de-chf-4900000-pour-financer-les-travaux-de-renforcement-et-dassainissement-des-murs-de-soutenement-y-compris-la-rehabilitation-de-la-chaussee-au-lieu-dit-la-cula",
+  "communes": [
+    {
+      "ofs": 5750,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5748,
+      "origine": "document"
+    }
+  ]
+}

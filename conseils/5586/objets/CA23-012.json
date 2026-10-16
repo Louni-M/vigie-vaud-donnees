@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 120074,
+  "numero": "CA23/012",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2023-12-05"
+  },
+  "depose": "2023-09-19",
+  "titre": "Demande d'ouverture d'un compte d'attente pour la Revitalisation des sources de la Bressonne et du Riolet ainsi que du ruisseau de Vennes",
+  "contributeurs": [
+    {
+      "nom": "Isabelle Burgy",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-09-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-12-05",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Communication au CC signée",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/87/878b0ff1239e45859425cbc8564bf9bf.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/3c/06f3d9fc7931400eb8ecfb8f68184b3c.htm",
+  "communes": []
+}

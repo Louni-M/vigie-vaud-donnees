@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 29257,
+  "numero": "CA22/006",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2022-08-30"
+  },
+  "depose": "2022-06-01",
+  "titre": "Etudes préliminaires pour le concept thermique des bâtiments à construire sur la zone de couverture de l'autoroute aux Boveresses",
+  "contributeurs": [
+    {
+      "nom": "Cécile Wolf",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-06-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-08-30",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Communication au CC signée",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/38/38e8896446fa4e62a7afd7cc65bb2d74.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/96/6a8a0455306344eaa04d51fe4037a996.htm",
+  "communes": []
+}

@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226356,
+  "numero": "22_INT_51",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-06-29"
+  },
+  "depose": "2022-03-29",
+  "titre": "Démolira ? démolira pas ? ou la saga de la Prise Zacharie",
+  "contributeurs": [
+    {
+      "nom": "Jean-Luc Chollet",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-03-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-04-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-06-29",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-05-30",
+      "lien": "https://www.sonomix.ch/live/gcvd/2409#0"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-04-05",
+      "lien": "https://www.sonomix.ch/live/gcvd/2090#250"
+    },
+    {
+      "titre": "Dossier de la Prise Zacharie (Concise)",
+      "date": "2022-06-29",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2125158"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c5504bec-1c0a-49a2-9dd2-269adc282e01/meeting/1013646",
+  "communes": [
+    {
+      "ofs": 5554,
+      "origine": "document"
+    }
+  ]
+}

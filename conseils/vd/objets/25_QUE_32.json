@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228351,
+  "numero": "25_QUE_32",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-05-28"
+  },
+  "depose": "2025-04-29",
+  "titre": "Indication du pays de production du pain : quelles mesures ont été prises par l'OFCO ?",
+  "contributeurs": [
+    {
+      "nom": "Loïc Bardet",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Loïc Bardet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-04-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-05-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-05-28",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Contrôle de l’origine du pain : application de la nouvelle obligation fédérale",
+      "date": "2025-05-28",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2306897"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/2e0e2733-7da8-4684-9a4b-e7fa69b871d7/meeting/1026886",
+  "communes": []
+}

@@ -1,0 +1,992 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5637,
+  "objets": [
+    {
+      "cle": "vd/23_LEG_147",
+      "numero": "23_LEG_147",
+      "type": "Décret/Loi",
+      "depose": "2025-09-23",
+      "titre": "Loi sur l'énergie (LVLEne) - révision totale ; Préavis du CE sur l'initiative Vassilis Venizelos et consorts « 300 millions pour une relance favorable à la transition énergétique » et projet de décret ; Rapports et réponse à 4 motions, 16 postulats et 3 interpellations",
+      "auteurs": [
+        {
+          "nom": "Nicolas Suter",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Mathilde Marendaz",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyé pour suite du 3ème débat",
+        "date": "2025-11-25"
+      },
+      "derniere_etape": "2025-11-25",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5649,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5607,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_POS_50",
+      "numero": "22_POS_50",
+      "type": "Postulat",
+      "depose": "2022-09-13",
+      "titre": "La région Lausannoise n'aurait-elle pas besoin d'un hôpital de ville?",
+      "auteurs": [
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Sylvie Podio",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2025-04-09"
+      },
+      "derniere_etape": "2025-04-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5520,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_INT_79",
+      "numero": "24_INT_79",
+      "type": "Interpellation",
+      "depose": "2024-04-23",
+      "titre": "Comment favoriser un processus transparent sur les PIG qui leur permettent de remplir leurs missions fondamentales?",
+      "auteurs": [
+        {
+          "nom": "Joëlle Minacci",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-07-03"
+      },
+      "derniere_etape": "2024-07-03",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5588,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5627,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_56",
+      "numero": "23_INT_56",
+      "type": "Interpellation",
+      "depose": "2023-04-04",
+      "titre": "Situation des psychomotriciennes dans les secteurs public et subventionné",
+      "auteurs": [
+        {
+          "nom": "Vincent Keller",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-11-29"
+      },
+      "derniere_etape": "2023-11-29",
+      "communes": [
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_POS_149",
+      "numero": "19_POS_149",
+      "type": "Postulat",
+      "depose": "2019-06-04",
+      "titre": "Création artistique, résidences et répétitions : quel est l'état des lieux ?",
+      "auteurs": [
+        {
+          "nom": "Sarah Neumann",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Claude Matter",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2022-10-12"
+      },
+      "derniere_etape": "2022-10-12",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5761,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5799,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_LEG_13",
+      "numero": "18_LEG_13",
+      "type": "Décret/Loi",
+      "depose": "2018-01-16",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 4'500'000.- pour financer des travaux d'assainissement de trois routes cantonales : RC 58 Etoy-Lavigny, RC 533 Neyruz-Denezy et RC 790 Aigle-Ollon (route Industrielle)",
+      "auteurs": [
+        {
+          "nom": "Muriel Thalmann",
+          "parti": null
+        },
+        {
+          "nom": "Muriel Thalmann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2018-01-16"
+      },
+      "derniere_etape": "2018-01-16",
+      "communes": [
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_LEG_107",
+      "numero": "14_LEG_107",
+      "type": "Décret/Loi",
+      "depose": "2014-05-06",
+      "titre": "Exposé des motifs et projet de loi modifiant la loi sur la gestion des déchets et Rapport du Conseil d'Etat au Grand Conseil sur la motion Régis Courdesse et consorts demandant de prolonger le délai pour l'octroi de la participation de l'Etat pour les installations de compostage et de méthanisation des déchets et pour les centres de collecte des déchets valorisables",
+      "auteurs": [
+        {
+          "nom": "Jean-Marc Chollet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Jean-Marc Chollet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2014-05-13"
+      },
+      "derniere_etape": "2014-05-13",
+      "communes": [
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5581,
+          "origine": "document"
+        },
+        {
+          "ofs": 5592,
+          "origine": "document"
+        },
+        {
+          "ofs": 5692,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_RAP_84",
+      "numero": "13_RAP_84",
+      "type": "Rapport",
+      "depose": "2013-11-26",
+      "titre": "Rapport du Conseil d'Etat sur la politique sanitaire 2013-2017 et Exposé des motifs et projet de décret sur le Plan stratégique du CHUV 2014-2018",
+      "auteurs": [
+        {
+          "nom": "Catherine Roulet",
+          "parti": null
+        },
+        {
+          "nom": "Catherine Roulet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Transmise au CE",
+        "date": "2013-11-26"
+      },
+      "derniere_etape": "2013-11-26",
+      "communes": [
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_404",
+      "numero": "11_LEG_404",
+      "type": "Décret/Loi",
+      "depose": "2011-09-27",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 3'000'000.- pour le financement des investissements nécessaires à la mise en oeuvre du Schéma directeur de la Fédération des hôpitaux vaudois informatique (FHVI) pour l'année 2011",
+      "auteurs": [
+        {
+          "nom": "Jacques Ansermet",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Jacques Ansermet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-10-04"
+      },
+      "derniere_etape": "2011-10-04",
+      "communes": [
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5589,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_376",
+      "numero": "11_LEG_376",
+      "type": "Décret/Loi",
+      "depose": "2011-05-03",
+      "titre": "Exposé des motifs et projets de lois modifiant :- la loi sur la planification et le financement des établissements sanitaires d'intérêt public (LPFES)- la loi sur la santé publique (LSP)- la loi d'aide aux personnes recourant à l'action médico-sociale (LAPRAMS) et Rapport du Conseil d'Etat au Grand Conseil sur la motion Jacques Perrin et consorts au nom du groupe radical - LPFES : réactiver le dossier en dissociant ses volets",
+      "auteurs": [
+        {
+          "nom": "Philippe Jobin",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Jobin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-05-17"
+      },
+      "derniere_etape": "2011-05-17",
+      "communes": [
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_345",
+      "numero": "11_LEG_345",
+      "type": "Décret/Loi",
+      "depose": "2011-03-29",
+      "titre": "Exposé des motifs et projet de décret autorisant le Conseil d'Etat à accorder la garantie de l'Etat pour des crédits hypothécaires, intervenus depuis août 2008 et à venir d'ici juin 2011, d'institutions reconnues d'utilité publique accueillant des personnes adultes en situation de handicap ou en grandes difficultés sociales",
+      "auteurs": [
+        {
+          "nom": "Catherine Roulet",
+          "parti": null
+        },
+        {
+          "nom": "Catherine Roulet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-03-29"
+      },
+      "derniere_etape": "2011-03-29",
+      "communes": [
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        },
+        {
+          "ofs": 5646,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_369",
+      "numero": "11_LEG_369",
+      "type": "Décret/Loi",
+      "depose": "2011-02-15",
+      "titre": "Exposé des motifs et projet de décret ordonnant la convocation des électeurs pour définir le préavis du canton dans la procédure d'audition concernant le plan sectoriel « Dépôts en couches géologiques profondes », étape 1",
+      "auteurs": [
+        {
+          "nom": "Raphaël Mahaim",
+          "parti": "VER"
+        },
+        {
+          "nom": "Guy-Philippe Bolay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-02-22"
+      },
+      "derniere_etape": "2011-02-22",
+      "communes": [
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_328",
+      "numero": "11_LEG_328",
+      "type": "Décret/Loi",
+      "depose": "2011-01-18",
+      "titre": "Exposé des motifs et projets de lois modifiants- la loi sur la planification et le financement des établissements sanitaires (LPFES)- la loi sur la santé publique (LSP)- la loi d'aide aux personnes recourant à l'action médico-socaile (LAPRAMS)etRapport du Conseil d'Etat sur le postulat François Payot au nom du groupe libéral intitulé \"LPFES, bilan et rapport prospectif : une démarche essentielle\"",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Non entrée en matière",
+        "date": "2011-01-25"
+      },
+      "derniere_etape": "2011-01-25",
+      "communes": [
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_364",
+      "numero": "10_INT_364",
+      "type": "Interpellation",
+      "depose": "2011-01-25",
+      "titre": "L'avenir de la filière de la biométhanisation",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-01-25"
+      },
+      "derniere_etape": "2011-01-25",
+      "communes": [
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5581,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_335",
+      "numero": "10_LEG_335",
+      "type": "Décret/Loi",
+      "depose": "2010-11-02",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 3'400'000 pour financer en 2010 des investissements extraordinaires dans des hôpitaux privés reconnus d'intérêt public pour des travaux de modernisation et des entretiens immobiliers et techniques lourds",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-11-02"
+      },
+      "derniere_etape": "2010-11-02",
+      "communes": [
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_334",
+      "numero": "10_LEG_334",
+      "type": "Décret/Loi",
+      "depose": "2010-11-02",
+      "titre": "Exposé des motifs et projet de decret accordant un crédit d'investissement de CHF 2'330'000 pour financer en 2010 des investissements périodiques extraordinaires dans des hôpitaux privés reconnus d'intérêt public pour l'assainissement des infrastructures et des installations techniques",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-11-02"
+      },
+      "derniere_etape": "2010-11-02",
+      "communes": [
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_254",
+      "numero": "09_INT_254",
+      "type": "Interpellation",
+      "depose": "2009-05-26",
+      "titre": "Demandant à quand le port du masque antipollution et des tampons auriculaires pour les habitants d'Aubonne",
+      "auteurs": [
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-01-26"
+      },
+      "derniere_etape": "2010-01-26",
+      "communes": [
+        {
+          "ofs": 5422,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5646,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5851,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_INT_088",
+      "numero": "08_INT_088",
+      "type": "Interpellation",
+      "depose": "2008-04-29",
+      "titre": "L'adaptation des établissements sanitaires aux nouvelles normes de l'ECA",
+      "auteurs": [
+        {
+          "nom": "Pierre Rochat",
+          "parti": "LIB"
+        },
+        {
+          "nom": "Pierre Rochat",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-01-20"
+      },
+      "derniere_etape": "2009-01-20",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/8_LEG_121",
+      "numero": "8_LEG_121",
+      "type": "Décret/Loi",
+      "depose": "2008-12-16",
+      "titre": "Exposé des motifs et projet de décret accordant la garantie de l'Etat de Vaud et la prise en charge du service de la dette pour l'emprunt complémentaire de CHF 1'250'000.- contracté par la Fondation Plein Soleil pour financer les travaux de la 1ère étape de construction d'un nouveau centre d'hébergement spécialisé de Plein Soleil (prise en charge et hébergement de personnes handicapées physiques souffrant de maladies neurologiques)",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2008-12-16"
+      },
+      "derniere_etape": "2008-12-16",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/8_LEG_102",
+      "numero": "8_LEG_102",
+      "type": "Décret/Loi",
+      "depose": "2008-10-28",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement additionnel de CHF 2'100'000 pour financer en 2008 des investissements périodiques urgents dans les hôpitaux privés reconnus d'intérêt public",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2008-11-04"
+      },
+      "derniere_etape": "2008-11-04",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/8_LEG_78",
+      "numero": "8_LEG_78",
+      "type": "Décret/Loi",
+      "depose": "2008-06-10",
+      "titre": "Exposé des motifs et projet de décret accordant à la Fondation Plein Soleil la garantie de l'Etat de Vaud et la prise en charge du service de la dette sur un emprunt de CHF 24'500'000.- au titre de la participation de l’Etat pour financer la 1ère étape de construction de son nouveau bâtiment pour héberger des handicapés physiques atteints de maladies neurologiques ainsi que la garantie de l'Etat pour l'emprunt complémentaire de CHF 2'200'000.- à contracter jusqu'au versement complet de la subvention de l’OFAS",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2008-06-17"
+      },
+      "derniere_etape": "2008-06-17",
+      "communes": [
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

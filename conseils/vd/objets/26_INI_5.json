@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 328030,
+  "numero": "26_INI_5",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2026-05-19"
+  },
+  "depose": "2026-05-12",
+  "titre": "Extension du congé de prise en charge aux jeunes adultes jusqu’à la fin de l’obligation d’entretien",
+  "contributeurs": [
+    {
+      "nom": "Séverine Graff",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Felix Stürner",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-05-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-05-19",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/9f0db8b4-cd60-4595-bbed-d46c43617c87/meeting/1029669",
+  "communes": []
+}

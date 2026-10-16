@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225118,
+  "numero": "20_INT_20",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2020-10-21"
+  },
+  "depose": "2020-09-29",
+  "titre": "« SOS Communes » aux frais des contribuables?",
+  "contributeurs": [
+    {
+      "nom": "Jessica Jaccoud",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-09-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-10-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-10-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Jessica Jaccoud SOS Communes_copie",
+      "date": "2020-10-27",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2012934"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2020-11-17",
+      "lien": "https://www.sonomix.ch/live/gcvd/1637#5364"
+    },
+    {
+      "titre": "Interpellation Jessica Jaccoud et consorts – « SOS Communes » aux frais des contribuables ?",
+      "date": "2020-10-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2012938"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/67cbadd2-5504-48e2-ad11-1801b1436e76/meeting/1000535",
+  "communes": [
+    {
+      "ofs": 5582,
+      "origine": "document"
+    }
+  ]
+}

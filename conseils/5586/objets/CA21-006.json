@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 29255,
+  "numero": "CA21/006",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2022-04-05"
+  },
+  "depose": "2021-12-13",
+  "titre": "ARCH - PG - Interface multimodale de la Place de la Gare - Vélostation nord",
+  "contributeurs": [
+    {
+      "nom": "François Menthonnex",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-12-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-04-05",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Communication au Conseil communal - Ouverture d'un compte d'attente - Interface multimodale de la place de la Gare - Vélostation nord",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/ad/ad086a9804cc441db1f40c221cdeb814.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/0a/532b2cc035244266ab7946495760c90a.htm",
+  "communes": []
+}

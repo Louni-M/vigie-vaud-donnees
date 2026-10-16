@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222826,
+  "numero": "13_INI_004",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2014-05-13"
+  },
+  "depose": "2013-10-29",
+  "titre": "Visant à rendre publiques et gratuites les données du Registre foncier",
+  "contributeurs": [
+    {
+      "nom": "Régis Courdesse",
+      "parti": "V'L",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Anne Baehler Bech",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-10-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-11-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-05-13",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2014-05-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INI_004_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2014-05-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INI_004_RC_maj.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2014-05-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INI_004_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INI_004_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-13-mai-2014/initiative-nicolas-rochat-fernandez-et-consorts-visant-a-rendre-publiques-et-gratuites-les-donnees-du-registre-foncier",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

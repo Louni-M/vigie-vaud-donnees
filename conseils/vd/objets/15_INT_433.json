@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223510,
+  "numero": "15_INT_433",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-04-26"
+  },
+  "depose": "2015-09-29",
+  "titre": "Aide d'urgence: il est urgent de prendre la mesure des problèmes !",
+  "contributeurs": [
+    {
+      "nom": "Julien Eggenberger",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Julien Eggenberger",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-09-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-10-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-04-26",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_433_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-10-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_433_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-26-avril-2016/reponse-du-conseil-detat-a-linterpellation-julien-eggenberger-et-consorts-aide-durgence-il-est-urgent-de-prendre-la-mesure-des-problemes",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

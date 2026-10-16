@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223311,
+  "numero": "14_LEG_95",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-03-18"
+  },
+  "depose": "2014-03-11",
+  "titre": "Exposé des motifs et projet de loi abrogeant la loi du 21 novembre 1938 sur les associations illicites etRapport du Conseil d'Etat au Grand Conseil sur le postulat Stéphane Montangero et consorts demandant au Conseil d'Etat l'abrogation de la loi du 21 novembre 1938 sur les associations illicites",
+  "contributeurs": [
+    {
+      "nom": "Christa Calpini",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Christa Calpini",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-03-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-03-18",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-03-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/95_texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-03-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/95_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-18-mars-2014/expose-des-motifs-et-projet-de-loi-abrogeant-la-loi-du-21-novembre-1938-sur-les-associations-illicites",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

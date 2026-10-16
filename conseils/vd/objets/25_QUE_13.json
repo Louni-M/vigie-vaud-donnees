@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228329,
+  "numero": "25_QUE_13",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-04-30"
+  },
+  "depose": "2025-02-25",
+  "titre": "CGN : qu’en est-il de l’implantation des mesures proposées dans le rapport d’enquête sur l’incident du « Simplon » ?",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-02-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-04-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-04-30",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Implantation des mesures du rapport d’enquête sur l’incident du bateau \"Simplon\"",
+      "date": "2025-04-30",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2300172"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/95750ded-f5f9-45ca-9e77-7d97856024e0/meeting/1026879",
+  "communes": []
+}

@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228825,
+  "numero": "9_RAP_136",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2009-04-21"
+  },
+  "depose": "2009-04-21",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Jean Christophe Schwaab demandant d'agir contre la surconsommation d'alcool fort chez les jeunes",
+  "contributeurs": [
+    {
+      "nom": "Claude-Eric Dufour",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claude-Eric Dufour",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-04-21",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/136_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/136_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-21-avril-2009/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-jean-christophe-schwaab",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

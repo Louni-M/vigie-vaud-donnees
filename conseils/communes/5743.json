@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5743,
+  "objets": [
+    {
+      "cle": "vd/13_INT_155",
+      "numero": "13_INT_155",
+      "type": "Interpellation",
+      "depose": "2013-09-03",
+      "titre": "La poste ferme des bureaux : jusqu'à quand ?",
+      "auteurs": [
+        {
+          "nom": "Marc Oran",
+          "parti": null
+        },
+        {
+          "nom": "Marc Oran",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-04-08"
+      },
+      "derniere_etape": "2014-04-08",
+      "communes": [
+        {
+          "ofs": 5588,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5623,
+          "origine": "document"
+        },
+        {
+          "ofs": 5831,
+          "origine": "document"
+        },
+        {
+          "ofs": 5743,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

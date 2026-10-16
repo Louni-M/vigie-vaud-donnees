@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224519,
+  "numero": "18_POS_073",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2020-02-04"
+  },
+  "depose": "2018-09-25",
+  "titre": "Pour s'y retrouver dans la foison des informations : création d'un \"guichet familles\"",
+  "contributeurs": [
+    {
+      "nom": "Felix Stürner",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Felix Stürner",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-09-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-10-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-02-04",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-01-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_073_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2020-01-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_073_obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-10-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_073_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-4-fevrier-2020/postulat-monique-ryf-et-consorts-pour-sy-retrouver-dans-la-foison-des-informations-creation-dun-guichet-familles",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228159,
+  "numero": "25_INT_39",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2025-11-18"
+  },
+  "depose": "2025-03-25",
+  "titre": "Faisons le Lac du Canton de Vaud Grand de Nouveau",
+  "contributeurs": [
+    {
+      "nom": "David Vogel",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-03-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-04-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-08-13",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-11-18",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-04-01",
+      "lien": "https://www.sonomix.ch/live/gcvd/3087#287"
+    },
+    {
+      "titre": "Rebaptiser le Léman",
+      "date": "2025-08-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2320355"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/7546064a-3669-40a1-b4b5-307556100778/meeting/1029676",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

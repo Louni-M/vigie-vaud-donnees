@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228001,
+  "numero": "24_QUE_84",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-01-15"
+  },
+  "depose": "2024-11-19",
+  "titre": "Une procédure d'engagement particulière au sein de la",
+  "contributeurs": [
+    {
+      "nom": "Géraldine Dubuis",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Géraldine Dubuis",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-11-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-01-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "post sur LinkedIn",
+      "date": "2024-11-19",
+      "lien": "https://www.linkedin.com/posts/giannisaitta_pour-maccompagner-et-me-soutenir-ces-prochains-activity-7262052179711086592-_spR?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+      "titre": "Publication d’une offre de mandat externe sur un réseau social professionnel",
+      "date": "2025-01-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2281792"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4e6f86aa-4809-4b7d-981d-07940e6017b1/meeting/1026866",
+  "communes": []
+}

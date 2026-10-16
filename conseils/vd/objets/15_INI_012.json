@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223408,
+  "numero": "15_INI_012",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2016-02-09"
+  },
+  "depose": "2015-06-09",
+  "titre": "Visant à donner aux autorités communales un droit de regard sur l'organisation des points d'accès au réseau postal",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": "SOC",
+      "role": "Rapporteurs de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": "SOC",
+      "role": "Rapporteurs de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-06-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-06-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-02-09",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "de la commission",
+      "date": "2016-02-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INI_012_RC_prise_en_consid%C3%A9ration.pdf"
+    },
+    {
+      "titre": "de la commission",
+      "date": "2016-02-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INI_012_RC_classement.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-02-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INI_012_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-06-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INI_012_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-9-fevrier-2016/initiative-julien-eggenberger-et-consorts-visant-a-donner-aux-autorites-communales-un-droit-de-regard-sur-lorganisation-des-points-dacces-au-reseau-postal",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

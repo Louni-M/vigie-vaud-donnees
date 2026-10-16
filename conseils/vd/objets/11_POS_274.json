@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222546,
+  "numero": "11_POS_274",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2012-08-28"
+  },
+  "depose": "2011-12-13",
+  "titre": "Demandant la mise à l'étude d'un plan pour la gestion de l'eau durant les périodes de sécheresse",
+  "contributeurs": [
+    {
+      "nom": "Anne Décosterd",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Anne Décosterd",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-12-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-12-13",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-08-28",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_274_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2012-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_274_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-12-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_274_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-28-aout-2012/postulat-marc-andre-bory-demandant-la-mise-a-letude-dun-plan-pour-la-gestion-de-leau-durant-les-periodes-de-secheresse",
+  "communes": [
+    {
+      "ofs": 5492,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

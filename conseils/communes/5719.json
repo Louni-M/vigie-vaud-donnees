@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5719,
+  "objets": [
+    {
+      "cle": "vd/25_LEG_26",
+      "numero": "25_LEG_26",
+      "type": "Décret/Loi",
+      "depose": "2026-03-17",
+      "titre": "Exposé des motifs et projet de loi portant reconnaissance de la Fédération des Eglises anglicanes et catholique chrétienne dans le Canton de Vaud",
+      "auteurs": [
+        {
+          "nom": "Claude Nicole Grin",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2026-03-17"
+      },
+      "derniere_etape": "2026-03-17",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5719,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5714,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

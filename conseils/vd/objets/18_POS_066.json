@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224511,
+  "numero": "18_POS_066",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2019-10-08"
+  },
+  "depose": "2018-06-05",
+  "titre": "Adéquation des lieux de résidence pour un mandat électif entre canton et commune",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-06-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-06-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-10-08",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_066_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_066_Obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-06-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_POS_066_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-8-octobre-2019/postulat-didier-lohri-et-consorts-adequation-des-lieux-de-residence-pour-un-mandat-electif-entre-canton-et-commune",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

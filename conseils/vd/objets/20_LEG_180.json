@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225256,
+  "numero": "20_LEG_180",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2020-06-09"
+  },
+  "depose": "2020-06-09",
+  "titre": "Exposé des motifs et projet de décret : - accordant au Conseil d'Etat un crédit d'investissement de CHF 18'100'000.- pour la modernisation des infrastructures stationnaires de la Cité hospitalière (réalisation de chambres doubles dans le bâtiment hospitalier principal)- accordant au Conseil d'Etat un crédit d'études de CHF 5'960'000.- pour la réhabilitation de l'Hôpital de Beaumont- accordant au Conseil d'Etat un crédit d'investissement de CHF 24'240'000.- pour agrandir et transformer le garage à ambulances (transports internes et inter-hospitaliers)- accordant au Conseil d'Etat un crédit d'études de CHF 3'890'000.- pour la reconstruction du garage des ambulances (urgences)",
+  "contributeurs": [
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-06-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-06-09",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/180_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/180_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-9-juin-2020/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-dinvestissement-de-chf-18100000-pour-la-modernisation-des-infrastructures-stationnaires-de-la-cite-hospitaliere-realisation-de-chambres-doubles-dans-le-batiment-hospita",
+  "communes": [
+    {
+      "ofs": 5584,
+      "origine": "document"
+    },
+    {
+      "ofs": 5725,
+      "origine": "document"
+    },
+    {
+      "ofs": 5624,
+      "origine": "document"
+    },
+    {
+      "ofs": 5412,
+      "origine": "document"
+    }
+  ]
+}

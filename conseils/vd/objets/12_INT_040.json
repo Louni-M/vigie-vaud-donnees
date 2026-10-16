@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222648,
+  "numero": "12_INT_040",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-03-12"
+  },
+  "depose": "2012-11-06",
+  "titre": "Le Service des automobiles vendeur clandestin des adresses de ses administrés ?",
+  "contributeurs": [
+    {
+      "nom": "Fabienne Freymond Cantone",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-11-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-11-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-03-12",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Réponse immédiate du Conseil d'Etat",
+      "date": "2012-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_040_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_040_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-12-mars-2013/reponse-du-conseil-detat-a-linterpellation-fabienne-freymond-cantone-le-service-des-automobiles-vendeur-clandestin-des-adresses-de-ses-administres",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

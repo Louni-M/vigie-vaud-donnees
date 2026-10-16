@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224746,
+  "numero": "19_LEG_100",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-01-08"
+  },
+  "depose": "2019-01-08",
+  "titre": "Exposé des motifs et projet de décret accordant au CE un crédit d'investissement de CHF 4'300'000.- pour financer le travaux d'assainissement du bâtiment pénitentiaire de la Colonie fermée à Orbe",
+  "contributeurs": [
+    {
+      "nom": "Régis Courdesse",
+      "parti": "V'L",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Régis Courdesse",
+      "parti": "V'L",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-01-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-01-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-01-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/100_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-01-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/100_RC.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-8-janvier-2019/expose-des-motifs-et-projet-de-decret-accordant-au-ce-un-credit-dinvestissement-de-chf-4300000-pour-financer-les-travaux-dassainissement-du-batiment-penitentiaire-de-la-colonie-fermee-a-orbe",
+  "communes": [
+    {
+      "ofs": 5757,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

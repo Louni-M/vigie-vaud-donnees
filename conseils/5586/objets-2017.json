@@ -1,0 +1,388 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "conseil": "5586",
+  "annee": 2017,
+  "objets": [
+    {
+      "cle": "5586/POS17-018",
+      "numero": "POS17/018",
+      "type": "Postulat",
+      "depose": "2017-11-14",
+      "titre": "Utilisons du bois suisse pour notre métamorphose",
+      "auteurs": [
+        {
+          "nom": "Jean-Marie Fürbringer",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2022-02-08"
+      },
+      "derniere_etape": "2022-02-08",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-015",
+      "numero": "POS17/015",
+      "type": "Postulat",
+      "depose": "2017-10-03",
+      "titre": "Des aménagements pour la mobilité douce sur le Pont Chauderon",
+      "auteurs": [
+        {
+          "nom": "Johann Dupuis",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2022-04-12"
+      },
+      "derniere_etape": "2022-04-12",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-014",
+      "numero": "POS17/014",
+      "type": "Postulat",
+      "depose": "2017-10-03",
+      "titre": "Demande à la Municipalité d'étudier la possibilité de prolonger la phase verte pour les piétons",
+      "auteurs": [
+        {
+          "nom": "Françoise Longchamp",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-02-07"
+      },
+      "derniere_etape": "2023-02-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-021",
+      "numero": "POS17/021",
+      "type": "Postulat",
+      "depose": "2017-09-05",
+      "titre": "Grands chantiers : de l'art, de la couleur et une ouverture sur l'espace public",
+      "auteurs": [
+        {
+          "nom": "Valéry Beaud",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2022-10-11"
+      },
+      "derniere_etape": "2022-10-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-022",
+      "numero": "POS17/022",
+      "type": "Postulat",
+      "depose": "2017-08-22",
+      "titre": "Pour une recréation des cours de récréation",
+      "auteurs": [
+        {
+          "nom": "Jacques-Etienne Rastorfer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-05-28"
+      },
+      "derniere_etape": "2024-05-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-001",
+      "numero": "POS17/001",
+      "type": "Postulat",
+      "depose": "2017-08-22",
+      "titre": "Pour des manifestations sportives écologiques et durables",
+      "auteurs": [
+        {
+          "nom": "Thanh-My Tran-Nhu",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-02-07"
+      },
+      "derniere_etape": "2023-02-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-024",
+      "numero": "POS17/024",
+      "type": "Postulat",
+      "depose": "2017-06-13",
+      "titre": "Pédibus 2.0 : que roule le cyclobus !",
+      "auteurs": [
+        {
+          "nom": "Romain Felli",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-12-03"
+      },
+      "derniere_etape": "2024-12-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-025",
+      "numero": "POS17/025",
+      "type": "Postulat",
+      "depose": "2017-05-23",
+      "titre": "Moins de feux rouges pour plus de fluidité ?",
+      "auteurs": [
+        {
+          "nom": "Mathieu Maillard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-02-07"
+      },
+      "derniere_etape": "2023-02-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-029",
+      "numero": "POS17/029",
+      "type": "Postulat",
+      "depose": "2017-05-02",
+      "titre": "Pour la promotion des véhicules électriques sur le domaine communal",
+      "auteurs": [
+        {
+          "nom": "Anna Zangger",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-10-01"
+      },
+      "derniere_etape": "2024-10-01",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-027",
+      "numero": "POS17/027",
+      "type": "Postulat",
+      "depose": "2017-05-02",
+      "titre": "Créer du lien intergénérationnel à travers les cantines scolaires",
+      "auteurs": [
+        {
+          "nom": "Manuel Donzé",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-02-28"
+      },
+      "derniere_etape": "2023-02-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-032",
+      "numero": "POS17/032",
+      "type": "Postulat",
+      "depose": "2017-04-04",
+      "titre": "Développement de l'aide de livraison à domicile",
+      "auteurs": [
+        {
+          "nom": "Denis Corboz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2024-12-10"
+      },
+      "derniere_etape": "2024-12-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-063",
+      "numero": "POS17/063",
+      "type": "Postulat",
+      "depose": "2017-03-07",
+      "titre": "Un drone, mais pour quoi faire ?",
+      "auteurs": [
+        {
+          "nom": "Henri Klunge",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-02-07"
+      },
+      "derniere_etape": "2023-02-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-036",
+      "numero": "POS17/036",
+      "type": "Postulat",
+      "depose": "2017-03-07",
+      "titre": "Une politique publique pour toutes et tous : analyse budgétaire en termes de genre et d'égalité entre femmes et hommes",
+      "auteurs": [
+        {
+          "nom": "Carolina Carvalho",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2026-02-10"
+      },
+      "derniere_etape": "2026-02-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-002",
+      "numero": "POS17/002",
+      "type": "Postulat",
+      "depose": "2017-02-14",
+      "titre": "Demande à la Municipalité d'étudier l'inclusion d'un chapitre 'transversal' intitulé 'Retombées économiques' dans les préavis et rapport-préavis",
+      "auteurs": [
+        {
+          "nom": "Jacques Pernet",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2022-05-24"
+      },
+      "derniere_etape": "2022-05-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-060",
+      "numero": "POS17/060",
+      "type": "Postulat",
+      "depose": "2017-01-17",
+      "titre": "Des pauses dans l'affichage publicitaire à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Vincent Rossi",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2022-10-11"
+      },
+      "derniere_etape": "2022-10-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-059",
+      "numero": "POS17/059",
+      "type": "Postulat",
+      "depose": "2017-01-17",
+      "titre": "Pages blanches pour Lausanne",
+      "auteurs": [
+        {
+          "nom": "Céline Misiego",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2022-10-11"
+      },
+      "derniere_etape": "2022-10-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-057",
+      "numero": "POS17/057",
+      "type": "Postulat",
+      "depose": "2017-01-17",
+      "titre": "Demande à la Municipalité d'établir l'inventaire des missions que Lausanne doit, pour des raisons légales, exécuter ou décide, parce qu'elle les juge indispensables pour le bien de ses administrés, de se les donner",
+      "auteurs": [
+        {
+          "nom": "Thérèse De Meuron",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-06-06"
+      },
+      "derniere_etape": "2023-06-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-056",
+      "numero": "POS17/056",
+      "type": "Postulat",
+      "depose": "2017-01-17",
+      "titre": "Voies express vélo et rues cyclables",
+      "auteurs": [
+        {
+          "nom": "Johann Dupuis",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2022-04-12"
+      },
+      "derniere_etape": "2022-04-12",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS17-051",
+      "numero": "POS17/051",
+      "type": "Postulat",
+      "depose": "2017-01-17",
+      "titre": "La Place de la Sallaz aux piétons",
+      "auteurs": [
+        {
+          "nom": "Guy Gaudard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Approbation",
+        "date": "2023-02-07"
+      },
+      "derniere_etape": "2023-02-07",
+      "communes": []
+    }
+  ]
+}

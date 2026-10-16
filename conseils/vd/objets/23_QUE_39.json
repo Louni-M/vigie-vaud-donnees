@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227332,
+  "numero": "23_QUE_39",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-11-01"
+  },
+  "depose": "2023-09-05",
+  "titre": "Quel soutien financier pour la lutte contre le frelon asiatique ?",
+  "contributeurs": [
+    {
+      "nom": "Monique Ryf",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-09-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-11-01",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Lutte contre le frelon asiatique",
+      "date": "2023-11-01",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2205019"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/987c3aaf-62e5-4e79-95d0-9f8b86345da1/meeting/1019538",
+  "communes": []
+}

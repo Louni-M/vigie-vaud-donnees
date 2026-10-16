@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227583,
+  "numero": "24_INT_120",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2026-06-16"
+  },
+  "depose": "2024-08-27",
+  "titre": "Quelle est la situation d'endettement de la population vaudoise",
+  "contributeurs": [
+    {
+      "nom": "Céline Misiego",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-08-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-09-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-05-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-05-07",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2026-06-16",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-09-03",
+      "lien": "http://www.sonomix.ch/live/gcvd/2900#344"
+    },
+    {
+      "titre": "Endettement de la population vaudoise",
+      "date": "2025-05-07",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2301645"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/0c1de564-6d16-46a9-88b6-ca7a7b1691dd/meeting/1029673",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,875 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5718,
+  "objets": [
+    {
+      "cle": "vd/25_INT_144",
+      "numero": "25_INT_144",
+      "type": "Interpellation",
+      "depose": "2025-11-04",
+      "titre": "Informatique WiFi EMPD 2020-2023, réfléchissons et appliquons un stop et go !",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Transmise au CE",
+        "date": "2025-11-11"
+      },
+      "derniere_etape": "2025-11-11",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/25_INT_3",
+      "numero": "25_INT_3",
+      "type": "Interpellation",
+      "depose": "2025-01-21",
+      "titre": "Source du Montant, une fausse bonne idée, où en sommes-nous ?",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-08-19"
+      },
+      "derniere_etape": "2025-08-19",
+      "communes": [
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/25_QUE_18",
+      "numero": "25_QUE_18",
+      "type": "Simple question",
+      "depose": "2025-03-04",
+      "titre": "« Source du Montant – Cézille – Gresolière » qui commande quoi, qui paye quoi ?",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2025-06-25"
+      },
+      "derniere_etape": "2025-06-25",
+      "communes": [
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_INT_79",
+      "numero": "24_INT_79",
+      "type": "Interpellation",
+      "depose": "2024-04-23",
+      "titre": "Comment favoriser un processus transparent sur les PIG qui leur permettent de remplir leurs missions fondamentales?",
+      "auteurs": [
+        {
+          "nom": "Joëlle Minacci",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-07-03"
+      },
+      "derniere_etape": "2024-07-03",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5588,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5627,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/25_POS_21",
+      "numero": "25_POS_21",
+      "type": "Postulat",
+      "depose": "2024-05-07",
+      "titre": "Allergies alimentaires et restauration : cessons de faire la fine bouche et garantissons enfin une vraie formation !",
+      "auteurs": [
+        {
+          "nom": "David Raedler",
+          "parti": "VER"
+        },
+        {
+          "nom": "Isabelle Freymond",
+          "parti": "IND"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Transformée en postulat",
+        "date": "2024-05-07"
+      },
+      "derniere_etape": "2024-05-07",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_QUE_56",
+      "numero": "23_QUE_56",
+      "type": "Simple question",
+      "depose": "2023-11-21",
+      "titre": "Tarifs hospitaliers : des tarifs non objectifs approuvés par le Conseil d’Etat ?",
+      "auteurs": [
+        {
+          "nom": "Fabrice Moscheni",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2023-12-20"
+      },
+      "derniere_etape": "2023-12-20",
+      "communes": [
+        {
+          "ofs": 5718,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_POS_104",
+      "numero": "19_POS_104",
+      "type": "Postulat",
+      "depose": "2019-01-22",
+      "titre": "Etude sur les raisons des réadmissions hospitalières potentiellement évitables : mieux vaut prévenir que guérir",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2022-05-04"
+      },
+      "derniere_etape": "2022-05-04",
+      "communes": [
+        {
+          "ofs": 5718,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_POS_18",
+      "numero": "20_POS_18",
+      "type": "Postulat",
+      "depose": "2020-11-24",
+      "titre": "Le report modal requiert de favoriser la multimodalité : offrons à celle-ci les outils multiples nécessaires !",
+      "auteurs": [
+        {
+          "nom": "David Raedler",
+          "parti": "VER"
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2020-12-01"
+      },
+      "derniere_etape": "2020-12-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5723,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_424",
+      "numero": "19_INT_424",
+      "type": "Interpellation",
+      "depose": "2019-11-26",
+      "titre": "L'écologie extrême veut-elle la peau de la biodiversité et interdire l'accès à nos forêts ?",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-06-10"
+      },
+      "derniere_etape": "2020-06-10",
+      "communes": [
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5710,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5732,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_RES_006",
+      "numero": "08_RES_006",
+      "type": "Résolution",
+      "depose": "2008-05-06",
+      "titre": "Pour une action vigoureuse du Conseil d'Etat en faveur des infrastructures de transports du district de Nyon",
+      "auteurs": [
+        {
+          "nom": "Mario-Charles Pertusio",
+          "parti": "AdC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2020-03-11"
+      },
+      "derniere_etape": "2020-03-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5720,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5723,
+          "origine": "document"
+        },
+        {
+          "ofs": 5717,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5730,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INI_010",
+      "numero": "18_INI_010",
+      "type": "Initiative",
+      "depose": "2018-12-18",
+      "titre": "Pour la gratuité des transports publics en terre vaudoise",
+      "auteurs": [
+        {
+          "nom": "Pierrette Roulet-Grin",
+          "parti": null
+        },
+        {
+          "nom": "Pierrette Roulet-Grin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2020-03-10"
+      },
+      "derniere_etape": "2020-03-10",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_148",
+      "numero": "18_INT_148",
+      "type": "Interpellation",
+      "depose": "2018-04-17",
+      "titre": "Le patient vaudois est-il un patient de 2ème zone ? Qu'en est-il de la contribution du canton de Vaud à la part cantonale (49a LAMal) pour des séjours de ses ressortissants dans les hôpitaux répertoriés situés hors de son territoire (en particulier Genève)",
+      "auteurs": [
+        {
+          "nom": "Thierry Dubois",
+          "parti": null
+        },
+        {
+          "nom": "Thierry Dubois",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-11-05"
+      },
+      "derniere_etape": "2019-11-05",
+      "communes": [
+        {
+          "ofs": 5718,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_165",
+      "numero": "19_LEG_165",
+      "type": "Décret/Loi",
+      "depose": "2019-09-18",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit-cadre de CHF 3'130'000.- pour financer les travaux d'entretien lourd de murs de soutènement du réseau routier cantonal pour la période 2019-2022",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2019-09-18"
+      },
+      "derniere_etape": "2019-09-18",
+      "communes": [
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5704,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_POS_205",
+      "numero": "16_POS_205",
+      "type": "Postulat",
+      "depose": "2016-11-15",
+      "titre": "Chauffage à bois : de l'effet contreproductif de certaines décisions destinées à préserver notre environnement, et de la nécessité d'étudier des mesures correctives",
+      "auteurs": [
+        {
+          "nom": "Fabienne Freymond Cantone",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée à commission",
+        "date": "2019-03-06"
+      },
+      "derniere_etape": "2019-03-06",
+      "communes": [
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5553,
+          "origine": "document"
+        },
+        {
+          "ofs": 5806,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5648,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5429,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_LEG_34",
+      "numero": "13_LEG_34",
+      "type": "Décret/Loi",
+      "depose": "2013-05-14",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 104.9 mios pour financer les transformations lourdes du bloc opératoire principal du CHUV et la création d'une structure préfabriquée pour maintenir l'activité durant les travaux",
+      "auteurs": [
+        {
+          "nom": "Catherine Roulet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Catherine Roulet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-05-21"
+      },
+      "derniere_etape": "2013-05-21",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_526",
+      "numero": "11_INT_526",
+      "type": "Interpellation",
+      "depose": "2011-08-23",
+      "titre": "Objectifs biodiversité 2020",
+      "auteurs": [
+        {
+          "nom": "Raphaël Mahaim",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-01-17"
+      },
+      "derniere_etape": "2012-01-17",
+      "communes": [
+        {
+          "ofs": 5718,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_MOT_119",
+      "numero": "10_MOT_119",
+      "type": "Motion",
+      "depose": "2010-11-30",
+      "titre": "Assainissement du sol des installations de tir",
+      "auteurs": [
+        {
+          "nom": "Philippe Jobin",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2011-08-30"
+      },
+      "derniere_etape": "2011-08-30",
+      "communes": [
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5458,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5523,
+          "origine": "document"
+        },
+        {
+          "ofs": 5765,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_328",
+      "numero": "11_LEG_328",
+      "type": "Décret/Loi",
+      "depose": "2011-01-18",
+      "titre": "Exposé des motifs et projets de lois modifiants- la loi sur la planification et le financement des établissements sanitaires (LPFES)- la loi sur la santé publique (LSP)- la loi d'aide aux personnes recourant à l'action médico-socaile (LAPRAMS)etRapport du Conseil d'Etat sur le postulat François Payot au nom du groupe libéral intitulé \"LPFES, bilan et rapport prospectif : une démarche essentielle\"",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Non entrée en matière",
+        "date": "2011-01-25"
+      },
+      "derniere_etape": "2011-01-25",
+      "communes": [
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_POS_149",
+      "numero": "09_POS_149",
+      "type": "Postulat",
+      "depose": "2009-09-08",
+      "titre": "Visant à réduire les accidents dus à la présence de gibier sur les routes vaudoises",
+      "auteurs": [
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2010-03-16"
+      },
+      "derniere_etape": "2010-03-16",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5708,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_204",
+      "numero": "10_LEG_204",
+      "type": "Décret/Loi",
+      "depose": "2010-01-26",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 1'800'000.- pour la réhabilitation de la RC 29 entre La Condémine et Le Martinet, sur le territoire des communes de Coinsins et de Genolier",
+      "auteurs": [
+        {
+          "nom": "Bertrand Clot",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Bertrand Clot",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-02-02"
+      },
+      "derniere_etape": "2010-02-02",
+      "communes": [
+        {
+          "ofs": 5710,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5718,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_204",
+      "numero": "9_LEG_204",
+      "type": "Décret/Loi",
+      "depose": "2009-12-15",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 1'800'000.- pour la réhabilitation de la RC 29 entre La Condémine et Le Martinet, sur le territoire des communes de Coinsins et de Genolier",
+      "auteurs": [
+        {
+          "nom": "Bertrand Clot",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Bertrand Clot",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2009-12-15"
+      },
+      "derniere_etape": "2009-12-15",
+      "communes": [
+        {
+          "ofs": 5710,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5718,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5715,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

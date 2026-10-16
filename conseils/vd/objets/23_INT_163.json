@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227012,
+  "numero": "23_INT_163",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2024-03-13"
+  },
+  "depose": "2023-10-31",
+  "titre": "Dans les PIG, tout est-il vraiment bon ?",
+  "contributeurs": [
+    {
+      "nom": "Yolanda Müller Chabloz",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-10-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-11-07",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-03-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.unil.ch/files/live/sites/statistiques/files/annuaire%20statistique/UNIL_Annuaire_Statistique_2021_2022.pdf",
+      "date": "2023-11-07",
+      "lien": "https://www.unil.ch/files/live/sites/statistiques/files/annuaire%20statistique/UNIL_Annuaire_Statistique_2021_2022.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-11-07",
+      "lien": "https://www.sonomix.ch/live/gcvd/2628#685"
+    },
+    {
+      "titre": "https://www.vd.ch/toutes-les-actualites/actualite/news/17151i-rapport-n-80-commande-de-prestations-dinteret-general-pig-aux-hopitaux-vaudois",
+      "date": "2023-11-07",
+      "lien": "https://www.vd.ch/toutes-les-actualites/actualite/news/17151i-rapport-n-80-commande-de-prestations-dinteret-general-pig-aux-hopitaux-vaudois"
+    },
+    {
+      "titre": "Partenariat entre l’UNIL et le CHUV",
+      "date": "2024-03-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2227667"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-08-27",
+      "lien": "http://www.sonomix.ch/live/gcvd/2894#5558"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/20dc19ef-0a9b-488f-a8b0-799e3125ffa2/meeting/1026895",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

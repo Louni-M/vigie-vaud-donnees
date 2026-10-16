@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226175,
+  "numero": "22_HQU_44",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2022-05-10"
+  },
+  "depose": "2022-05-03",
+  "titre": "Fermeture de l'Office d'impôts d'Aigle - quelles solutions pour pallier aux inconvénients pour la population ?",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Montangero",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-05-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-05-10",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4790e271-c7ca-4329-939a-77a248963761/meeting/1004435",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "titre"
+    }
+  ]
+}

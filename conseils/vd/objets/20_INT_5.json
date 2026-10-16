@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225215,
+  "numero": "20_INT_5",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2020-12-02"
+  },
+  "depose": "2020-09-01",
+  "titre": "Avenir du domaine agricole de Grange-Verney",
+  "contributeurs": [
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-09-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-12-02",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-01-26",
+      "lien": "https://www.sonomix.ch/live/gcvd/1707#10005"
+    },
+    {
+      "titre": "Avenir du domaine agricole de Grange-Verney",
+      "date": "2020-12-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2023216"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6e6c66eb-d696-4f15-8b1e-51d18f716097/meeting/1000546",
+  "communes": [
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

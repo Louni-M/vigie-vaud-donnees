@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221627,
+  "numero": "09_INT_314",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-04-20"
+  },
+  "depose": "2009-12-15",
+  "titre": "Apocalypse now",
+  "contributeurs": [
+    {
+      "nom": "Claude Schwab",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Claude Schwab",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-12-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-12-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-04-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_314_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_314_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-20-avril-2010/reponse-du-conseil-detat-a-linterpellation-claude-schwab",
+  "communes": []
+}

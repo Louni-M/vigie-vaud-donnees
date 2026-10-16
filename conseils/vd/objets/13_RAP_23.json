@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223080,
+  "numero": "13_RAP_23",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-01-29"
+  },
+  "depose": "2013-01-29",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Denis-Olivier Maillefer et consorts au sujet de l'état des lieux sur le Service des routes et sa division entretien",
+  "contributeurs": [
+    {
+      "nom": "Philippe Modoux",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Modoux",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-01-29",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/23_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/23_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-5-fevrier-2013/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-denis-olivier-maillefer-et-consorts-au-sujet-de-letat-des-lieux-sur-le-service-des-routes-et-sa-division-entretien",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

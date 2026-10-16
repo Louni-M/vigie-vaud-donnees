@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221903,
+  "numero": "10_INT_419",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-01-25"
+  },
+  "depose": "2010-09-07",
+  "titre": "Rives publiques : A quel jeu les services et départements concernés jouent-ils et quelle aide les communes peuvent-elles attendre de l'Etat pour réaliser les objectifs du Plan Directeur des Rives du Lac Léman au service de la collectivité publique plutôt qu'à celui de quelques particuliers ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Michel Favez",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-09-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-09-07",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-01-25",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-01-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_419_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-09-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_419_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-25-janvier-2011/reponse-du-conseil-detat-a-linterpellation-jean-michel-favez-plan-directeur-des-rives-du-lac-leman",
+  "communes": [
+    {
+      "ofs": 5721,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224000,
+  "numero": "16_POS_170",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2017-01-10"
+  },
+  "depose": "2016-05-10",
+  "titre": "Pour un renforcement rapide de l'enseignement du français et de l'histoire au secondaire !",
+  "contributeurs": [
+    {
+      "nom": "José Durussel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "José Durussel",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-05-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-05-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2017-01-10",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-12-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_170_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-12-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_170_Obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-05-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_170_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2017/seance-du-mardi-10-janvier-2017/postulat-sylvie-podio-et-consorts-pour-un-renforcement-rapide-de-lenseignement-du-francais-et-de-lhistoire-au-secondaire",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

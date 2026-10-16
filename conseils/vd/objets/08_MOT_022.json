@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221442,
+  "numero": "08_MOT_022",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2008-10-07"
+  },
+  "depose": "2008-09-30",
+  "titre": "Demandant l'interdiction de la mendicité dans le canton de Vaud",
+  "contributeurs": [
+    {
+      "nom": "Rémy Pache",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Rémy Pache",
+      "parti": "LIB",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-09-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-10-07",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet et développement",
+      "date": "2008-09-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_30_septembre_2008/08_MOT_022_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-09-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_30_septembre_2008/08_MOT_022_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-7-octobre-2008/motion-olivier-feller",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5584,
+      "origine": "document"
+    }
+  ]
+}

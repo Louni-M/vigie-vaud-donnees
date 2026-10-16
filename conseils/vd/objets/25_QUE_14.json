@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228330,
+  "numero": "25_QUE_14",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Eingereicht",
+    "date": "2025-02-25"
+  },
+  "depose": "2025-02-25",
+  "titre": "Club des 100 - Qui a peur des médias ?",
+  "contributeurs": [
+    {
+      "nom": "Romain Pilloud",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-02-25",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "dans le communiqué de presse",
+      "date": "2025-02-25",
+      "lien": "https://www.vd.ch/actualites/communiques-de-presse-de-letat-de-vaud/detail/communique/le-sport-sinvite-a-la-19e-edition-du-club-des-100"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f7164822-e469-4d26-9cdf-74023c495f03/meeting/1026879",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

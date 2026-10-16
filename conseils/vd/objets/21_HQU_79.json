@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225552,
+  "numero": "21_HQU_79",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2021-09-14"
+  },
+  "depose": "2021-09-07",
+  "titre": "Le Canton obtient-il sans droit des listes des membres de communautés religieuses sur son territoire?",
+  "contributeurs": [
+    {
+      "nom": "David Raedler",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-09-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-09-14",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-09-14",
+      "lien": "http://www.sonomix.ch/live/gcvd/1915#647"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d787a2d1-78f3-44b3-a462-135c9ec902d1/meeting/1004401",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222332,
+  "numero": "11_INT_602",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-09-11"
+  },
+  "depose": "2012-02-14",
+  "titre": "A Chevroux, les canards s'envolent et ce n'est pas forcément à cause de la bise et du froid de canard !",
+  "contributeurs": [
+    {
+      "nom": "Olivier Epars",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-02-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-02-14",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-09-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_602_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-02-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_602_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-11-septembre-2012/reponse-du-conseil-detat-a-linterpellation-olivier-epars-a-chevroux-les-canards-senvolent-et-ce-nest-pas-forcement-a-cause-de-la-bise-et-du-froid",
+  "communes": [
+    {
+      "ofs": 5813,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5939,
+      "origine": "document"
+    }
+  ]
+}

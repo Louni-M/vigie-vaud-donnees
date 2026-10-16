@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5798,
+  "objets": [
+    {
+      "cle": "vd/20_LEG_160",
+      "numero": "20_LEG_160",
+      "type": "Décret/Loi",
+      "depose": "2020-02-04",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit additionnel de CHF 3'400'000.- au décret de CHF 13'700'000.- du 10 janvier 2012 pour financer le renforcement et l'assainissement du solde des ouvrages non conformes au trafic 40 t du réseau routier cantonal",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-02-04"
+      },
+      "derniere_etape": "2020-02-04",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5914,
+          "origine": "document"
+        },
+        {
+          "ofs": 5930,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5798,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_160",
+      "numero": "19_LEG_160",
+      "type": "Décret/Loi",
+      "depose": "2019-08-21",
+      "titre": "EMPD accordant au CE un crédit additionnel de CHF 3'400'000.- pour financer le renforcement du solde des ouvrages non conformes au trafic 40 t",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2019-08-21"
+      },
+      "derniere_etape": "2019-08-21",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5919,
+          "origine": "document"
+        },
+        {
+          "ofs": 5930,
+          "origine": "document"
+        },
+        {
+          "ofs": 5914,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5798,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_572",
+      "numero": "16_INT_572",
+      "type": "Interpellation",
+      "depose": "2016-09-20",
+      "titre": "Les cochons se cachent pour mourir",
+      "auteurs": [
+        {
+          "nom": "Yves Ferrari",
+          "parti": null
+        },
+        {
+          "nom": "Yves Ferrari",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-01-16"
+      },
+      "derniere_etape": "2018-01-16",
+      "communes": [
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5798,
+          "origine": "document"
+        },
+        {
+          "ofs": 5754,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5497,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_LEG_21",
+      "numero": "13_LEG_21",
+      "type": "Décret/Loi",
+      "depose": "2013-03-19",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 9'530'000.- pour financer la réhabilitation de la RC 559 entre La Marjolatte et Chêne de Gland, sur le territoire des Communes de Lausanne et du Mont-sur-Lausanne",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-03-19"
+      },
+      "derniere_etape": "2013-03-19",
+      "communes": [
+        {
+          "ofs": 5721,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5587,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5798,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

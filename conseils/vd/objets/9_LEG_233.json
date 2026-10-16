@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228812,
+  "numero": "9_LEG_233",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-12-08"
+  },
+  "depose": "2009-12-01",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit-cadre de CHF 30'000'000.- pour les transformations et la rénovation des laboratoires de la Cité hospitalière et du Centre des laboratoires d'Epalinges, nécessitées par le regroupement des activités de recherche biomédicale par thématiques ainsi que pour l'amélioration de la prise en charge des patients au CHUV",
+  "contributeurs": [
+    {
+      "nom": "Philippe Martinet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Martinet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-12-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-12-08",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-12-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/233_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-12-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/233_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 08.12.09",
+      "date": "2009-12-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/233_Decret_adopte_le_08.12.09.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seances-des-8-et-9-decembre-2009/expose-des-motifs-et-projet-de-decret-renovation-des-laboratoires-de-la-cite-hospitaliere-et-du-centre-des-laboratoires-depalinges",
+  "communes": [
+    {
+      "ofs": 5584,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5412,
+      "origine": "document"
+    }
+  ]
+}

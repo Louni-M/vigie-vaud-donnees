@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225553,
+  "numero": "21_HQU_8",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2021-01-19"
+  },
+  "depose": "2021-01-12",
+  "titre": "DCPE 698/694",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Bolay",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-01-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-01-19",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/3974c19f-de79-4697-9bd8-e675ccc11ae2/meeting/1000545",
+  "communes": []
+}

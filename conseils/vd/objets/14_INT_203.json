@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223116,
+  "numero": "14_INT_203",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-10-28"
+  },
+  "depose": "2014-01-14",
+  "titre": "Cela pourrait être un poisson d'avril, mais cela n'en est pas un !",
+  "contributeurs": [
+    {
+      "nom": "François Brélaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "François Brélaz",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-01-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-01-21",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-10-28",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-09-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_203_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-01-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_203_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-28-octobre-2014/reponse-du-conseil-detat-a-linterpellation-francois-brelaz-cela-pourrait-etre-un-poisson-davril-mais-cela-nen-est-pas-un",
+  "communes": []
+}

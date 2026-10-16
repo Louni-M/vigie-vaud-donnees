@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224584,
+  "numero": "19_INI_013",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Non pris en considération",
+    "date": "2019-02-19"
+  },
+  "depose": "2019-02-05",
+  "titre": "Initiative constitutionnelle visant à introduire la motion populaire comme un nouveau droit politique dans la Constitution vaudoise",
+  "contributeurs": [
+    {
+      "nom": "Jean-Michel Dolivo",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Julien Cuérel",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-02-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-02-19",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2019-02-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INI_013_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e46faed6-604c-4594-b217-d5545877dcba/meeting/1000566",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

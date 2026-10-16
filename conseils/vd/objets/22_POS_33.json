@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226652,
+  "numero": "22_POS_33",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2024-06-26"
+  },
+  "depose": "2022-06-21",
+  "titre": "Une table-ronde sur les plateformes de livraison de repas",
+  "contributeurs": [
+    {
+      "nom": "Arnaud Bouverat",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Stéphane Jordan",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-06-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-08-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-06-26",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-02-07",
+      "lien": "https://www.sonomix.ch/live/gcvd/2306#8578"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-08-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/2161#997"
+    },
+    {
+      "titre": "Plateformes de livraison de repas et statut des livreurs",
+      "date": "2024-06-26",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2249365"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/2be8bd70-f780-4427-b72d-f5c45573d02a/meeting/1013633",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

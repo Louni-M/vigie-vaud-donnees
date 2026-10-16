@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226696,
+  "numero": "22_POS_72",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Transformée en postulat",
+    "date": "2023-06-21"
+  },
+  "depose": "2021-11-16",
+  "titre": "Actes de naissance, actes de décès, reconnaissances de paternité, cérémonies de mariage civil : pourquoi tant de retards ? Il est temps d’agir !",
+  "contributeurs": [
+    {
+      "nom": "Denis Corboz",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Florence Bettschart-Narbel",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-11-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-06-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-11-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/1966#1336"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-12-21",
+      "lien": "http://www.sonomix.ch/live/gcvd/2285#7973"
+    },
+    {
+      "titre": "La réorganisation de l’état civil porte ses fruits",
+      "date": "2023-06-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2185165"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/55f2bb79-d489-4fe8-8fa5-4f94d3812b98/meeting/1012647",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

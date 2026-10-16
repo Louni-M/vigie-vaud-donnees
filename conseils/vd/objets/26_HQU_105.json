@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 331300,
+  "numero": "26_HQU_105",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2026-06-09"
+  },
+  "depose": "2026-06-02",
+  "titre": "A quelle date devrons-nous sauver le canton ?",
+  "contributeurs": [
+    {
+      "nom": "Céline Misiego",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-06-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-06-02",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-06-09",
+      "libelle": "Erledigt"
+    },
+    {
+      "date": "2026-06-09",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/92638c8c-28b1-49ec-bcc4-ec94d976aa8c/meeting/1029672",
+  "communes": []
+}

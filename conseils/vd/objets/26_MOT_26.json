@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 329643,
+  "numero": "26_MOT_26",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée à commission",
+    "date": "2026-05-26"
+  },
+  "depose": "2026-05-19",
+  "titre": "Une LInfo à l’ère numérique : simplifier l’accès aux documents officiels",
+  "contributeurs": [
+    {
+      "nom": "Yannick Maury",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Suter",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-05-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-05-19",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-05-26",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d4746905-135c-4189-8344-2d3ef624282c/meeting/1029670",
+  "communes": []
+}

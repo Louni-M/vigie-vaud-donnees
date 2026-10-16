@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223544,
+  "numero": "15_LEG_162",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2015-03-03"
+  },
+  "depose": "2015-02-03",
+  "titre": "Exposé des motifs et projets de lois- modifiant la loi du 4 juillet 2006 sur l'exécution des condamnations pénales (LEP) – Suites du rapport d'enquête administrative sur le drame de Payerne- modifiant la loi du 7 novembre 2006 sur l'exécution de la détention avant jugement- modifiant la loi du 29 mai 1985 sur la santé publique et Rapport du Conseil d'Etat au Grand Conseil sur le postulat Jacques-André Haury et consorts au nom de la Commission de haute surveillance du Tribunal cantonal demandant deux modifications rapides de la LEP à la suite du drame de Payerne",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Mattenberger",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Mattenberger",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-02-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-02-17",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2015-03-03",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Tableau miroir à l'issue du 1er débat",
+      "date": "2015-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/162_Tableau_avant_2eme_dbat.PDF"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/162_Texte_CE.pdf"
+    },
+    {
+      "titre": "Tableau miroir à l'issue des travaux de la commission",
+      "date": "2015-02-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/162_Tableau_comparatif_avant_le_1er_d%C3%A9bat.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/162_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-3-mars-2015/expose-des-motifs-et-projet-de-loi-modifiant-la-loi-du-4-juillet-2006-sur-lexecution-des-condamnations-penales-lep",
+  "communes": [
+    {
+      "ofs": 5822,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

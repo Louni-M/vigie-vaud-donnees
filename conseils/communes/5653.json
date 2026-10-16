@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5653,
+  "objets": [
+    {
+      "cle": "vd/21_LEG_77",
+      "numero": "21_LEG_77",
+      "type": "Décret/Loi",
+      "depose": "2021-12-07",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 5'979'000.- pour financer les travaux de rénovation de 5 cures propriété de l’Etat de Vaud",
+      "auteurs": [
+        {
+          "nom": "Céline Baux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-12-07"
+      },
+      "derniere_etape": "2021-12-07",
+      "communes": [
+        {
+          "ofs": 5425,
+          "origine": "document"
+        },
+        {
+          "ofs": 5540,
+          "origine": "document"
+        },
+        {
+          "ofs": 5761,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        },
+        {
+          "ofs": 5653,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_344",
+      "numero": "11_LEG_344",
+      "type": "Décret/Loi",
+      "depose": "2011-02-15",
+      "titre": "Préavis du Conseil d'Etat au Grand Conseil sur l'initiative populaire cantonale \"Vivre et voter ici ? Droits politiques des étrangères et des étrangers sur le plan cantonal\" et sur sa validitéetProjet de décret constatant la validité de cette initiative et ordonnant la convocation des électeurs pour se prononcer sur cette initiative",
+      "auteurs": [
+        {
+          "nom": "Pierre Grandjean",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-03-22"
+      },
+      "derniere_etape": "2011-03-22",
+      "communes": [
+        {
+          "ofs": 5653,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

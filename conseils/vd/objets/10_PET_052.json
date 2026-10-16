@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222093,
+  "numero": "10_PET_052",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2011-01-18"
+  },
+  "depose": "2011-01-11",
+  "titre": "Pétition de soutien à la famille Kamishi-Uksmajmli",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2011-01-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-01-18",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-01-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_PET_052_RC.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2011-01-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_PET_052_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-18-janvier-2011/petition-de-soutien-a-la-famille-kamishi-uksmajmli",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

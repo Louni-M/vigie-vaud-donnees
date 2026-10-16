@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222926,
+  "numero": "13_INT_180",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-05-20"
+  },
+  "depose": "2013-11-12",
+  "titre": "Energie éolienne : pas de précipitation et de prise de risques inconsidérées !",
+  "contributeurs": [
+    {
+      "nom": "Claude-Alain Voiblet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claude-Alain Voiblet",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-11-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-11-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-05-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-04-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_180_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-11-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_180_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-20-mai-2014/reponse-du-conseil-detat-a-linterpellation-claude-alain-voiblet-energie-eolienne-pas-de-precipitation-et-de-prise-de-risques-inconsiderees",
+  "communes": [
+    {
+      "ofs": 5568,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5566,
+      "origine": "document"
+    }
+  ]
+}

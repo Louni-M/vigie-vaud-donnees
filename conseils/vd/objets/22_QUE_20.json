@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226714,
+  "numero": "22_QUE_20",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-06-15"
+  },
+  "depose": "2022-05-03",
+  "titre": "Une production écologique aux EPO",
+  "contributeurs": [
+    {
+      "nom": "Sabine Glauser Krug",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-05-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-06-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Développement du domaine agricole des Etablissements de la plaine de l’Orbe",
+      "date": "2022-06-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2121913"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/fbbbce90-2210-48d9-add2-88902d73d7b3/meeting/1004439",
+  "communes": []
+}

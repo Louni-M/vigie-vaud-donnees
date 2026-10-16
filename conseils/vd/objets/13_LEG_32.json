@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222969,
+  "numero": "13_LEG_32",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2013-02-05"
+  },
+  "depose": "2013-01-29",
+  "titre": "Exposé des motifs et projet de décret fixant la contribution-socle des communes au budget annuel de la Fondation pour l'accueil de jour des enfants (2013 et 2014).",
+  "contributeurs": [
+    {
+      "nom": "Florence Golaz",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Florence Golaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-01-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-02-05",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/32_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/32_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 05.02.13",
+      "date": "2013-02-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/32_D%C3%A9cret_FAO.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-5-fevrier-2013/expose-des-motifs-et-projet-de-decret-fixant-la-contribution-socle-des-communes-au-budget-annuel-de-la-fondation-pour-laccueil-de-jour-des-enfants-2013-et-2014",
+  "communes": []
+}

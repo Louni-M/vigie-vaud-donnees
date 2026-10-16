@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221579,
+  "numero": "09_INT_195",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2009-09-08"
+  },
+  "depose": "2009-03-03",
+  "titre": "L'avenir des subventions versées par l'Etat de Vaud aux organisations affiliées à la CPCL",
+  "contributeurs": [
+    {
+      "nom": "Olivier Feller",
+      "parti": "RAD",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-03-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-03-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2009-09-08",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2009-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/09.02.26_Envoi_deputes/09_INT_195_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_195_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-8-septembre-2009/reponse-du-conseil-detat-a-linterpellation-olivier-feller",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

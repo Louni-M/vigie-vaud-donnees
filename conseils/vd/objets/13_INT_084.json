@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222830,
+  "numero": "13_INT_084",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-06-18"
+  },
+  "depose": "2013-01-15",
+  "titre": "Des glissières de sécurité sécurisées",
+  "contributeurs": [
+    {
+      "nom": "Dominique-Richard Bonny",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Dominique-Richard Bonny",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-01-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-01-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-06-18",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-05-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_084_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-01-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_084_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-18-juin-2013/reponse-du-conseil-detat-a-linterpellation-dominique-bonny-des-glissieres-de-securite-securisees",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5727,
+      "origine": "document"
+    }
+  ]
+}

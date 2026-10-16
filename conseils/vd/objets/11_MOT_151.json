@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222473,
+  "numero": "11_MOT_151",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2013-01-22"
+  },
+  "depose": "2011-11-22",
+  "titre": "Pour un concept énergétique communal et régional ayant valeur légale",
+  "contributeurs": [
+    {
+      "nom": "Alexis Bally",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alexis Bally",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-11-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-01-22",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-01-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_151_RC_maj.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2013-01-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_151_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-11-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_MOT_151_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-22-janvier-2013/motion-fabienne-freymond-cantone-pour-un-concept-energetique-communal-et-regional-ayant-valeur-legale",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5422,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

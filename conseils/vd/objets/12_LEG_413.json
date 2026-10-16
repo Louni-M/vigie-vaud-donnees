@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222697,
+  "numero": "12_LEG_413",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-02-07"
+  },
+  "depose": "2012-01-17",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi du 10 décembre 1991 sur les routes",
+  "contributeurs": [
+    {
+      "nom": "Philippe Grobéty",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Grobéty",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-01-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-01-17",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2012-02-07",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Loi adoptée par le Grand Conseil le 07.02.12",
+      "date": "2012-02-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/413_Texte_FAO.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/413_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/413_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-7-fevrier-2012/expose-des-motifs-et-projet-de-la-loi-modifiant-du-10-decembre-1991-sur-les-routes",
+  "communes": [
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5503,
+      "origine": "document"
+    },
+    {
+      "ofs": 5496,
+      "origine": "document"
+    },
+    {
+      "ofs": 5621,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

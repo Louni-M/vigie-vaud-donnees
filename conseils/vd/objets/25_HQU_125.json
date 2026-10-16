@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 280138,
+  "numero": "25_HQU_125",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2025-11-11"
+  },
+  "depose": "2025-11-04",
+  "titre": "Problèmes liés aux précipitations et à la gestion d’un cours d’eau à Chavornay",
+  "contributeurs": [
+    {
+      "nom": "Olivier Agassis",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-11-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-11-04",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-11-11",
+      "libelle": "Erledigt"
+    },
+    {
+      "date": "2025-11-11",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/3ea6bbd6-40fc-41fb-bfbb-5e7bf10e6c64/meeting/1029642",
+  "communes": [
+    {
+      "ofs": 5749,
+      "origine": "titre"
+    }
+  ]
+}

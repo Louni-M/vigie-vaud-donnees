@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 327326,
+  "numero": "26_LEG_15",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2026-05-12"
+  },
+  "depose": "2026-04-28",
+  "titre": "EMPD",
+  "contributeurs": [
+    {
+      "nom": "Marion Wahlen",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-04-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-04-28",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-05-05",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d28996f3-d4b7-46a7-90f3-44a7d2e7b634/meeting/1029668",
+  "communes": []
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223410,
+  "numero": "15_INI_014",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2016-05-31"
+  },
+  "depose": "2015-11-10",
+  "titre": "Calcul des majorités dans les commissions d'un conseil communal : plus de clarté SVP !",
+  "contributeurs": [
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-11-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-11-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-05-31",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INI_014_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INI_014_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-11-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INI_014_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-31-mai-2016/initiative-raphael-mahaim-et-consorts-calcul-des-majorites-dans-les-commissions-dun-conseil-communal-plus-de-clarte-svp",
+  "communes": []
+}

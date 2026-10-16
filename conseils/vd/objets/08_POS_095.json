@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221533,
+  "numero": "08_POS_095",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2009-03-17"
+  },
+  "depose": "2008-11-04",
+  "titre": "Les vestiges de la villa romaine d'Orbe et demandant si son propriétaire s'y intéresse encore",
+  "contributeurs": [
+    {
+      "nom": "Pierre Guignard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre Guignard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-11-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-03-17",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet et développement",
+      "date": "2009-03-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/08_POS_095_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2008-11-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_4_novembre_2008/08_POS_095_Objet.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-03-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_17_mars_2009/08_POS_095_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-17-mars-2009/postulat-denis-olivier-maillefer",
+  "communes": [
+    {
+      "ofs": 5757,
+      "origine": "titre"
+    }
+  ]
+}

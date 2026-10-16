@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222547,
+  "numero": "11_POS_277",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2013-03-05"
+  },
+  "depose": "2012-01-24",
+  "titre": "Une stratégie cantonale coordonnée en matière de valorisation des sites et biens archéologiques, en particulier ceux de l'époque pré-romaine et burgonde",
+  "contributeurs": [
+    {
+      "nom": "François Payot",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "François Payot",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-01-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-01-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-03-05",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-01-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/11_POS_277_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2013-01-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/11_POS_277_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-01-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_277_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-5-mars-2013/postulat-philippe-martinet-pour-une-strategie-cantonale-coordonnee-en-matiere-de-valorisation-des-sites-et-biens-archeologiques-en-particulier-ceux-de-lepoque-pre-romaine-et-burgonde",
+  "communes": [
+    {
+      "ofs": 5451,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

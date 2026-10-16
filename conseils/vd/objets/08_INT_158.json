@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221420,
+  "numero": "08_INT_158",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2009-09-08"
+  },
+  "depose": "2008-12-09",
+  "titre": "D'où venait la table ayant servi lors des accords de Lausanne et remise au gouvernement turc récemment par le Président de la Confédération",
+  "contributeurs": [
+    {
+      "nom": "Bernard Borel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Bernard Borel",
+      "parti": "AGT",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-12-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-12-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2009-09-08",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2008-12-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_9_decembre_2008/08_INT_158_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_INT_158_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-8-septembre-2009/reponse-du-conseil-detat-a-linterpellation-bernard-borel",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5675,
+      "origine": "document"
+    }
+  ]
+}

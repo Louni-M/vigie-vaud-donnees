@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227308,
+  "numero": "23_QUE_16",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-08-16"
+  },
+  "depose": "2023-03-28",
+  "titre": "Que se passe-t'il du côté d'Echallens ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Luc Bezençon",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-03-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-08-16",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Travaux sur la route entre Echallens et Goumoens-la-Ville",
+      "date": "2023-08-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2191121"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/602288f2-453b-42d0-8b01-20767fb9d26f/meeting/1013639",
+  "communes": [
+    {
+      "ofs": 5518,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5541,
+      "origine": "document"
+    }
+  ]
+}

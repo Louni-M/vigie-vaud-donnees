@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228743,
+  "numero": "9_LEG_116",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-05-19"
+  },
+  "depose": "2009-05-12",
+  "titre": "Exposé des motifs et projet de lois - d'introduction du CPP (Projet CODEX_2010 « Procédure pénale ») ; - sur le ministère publiC",
+  "contributeurs": [
+    {
+      "nom": "Jacques Haldy",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission N°1",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Mattenberger",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité de la commission (N°2)",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-05-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-05-12",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2009-05-19",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/116_Texte_CE.pdf"
+    },
+    {
+      "titre": "Tableau comparatif après le 1er débat",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/_116__Tableau_comparatif_apres_1er_debat.pdf"
+    },
+    {
+      "titre": "Tableau comparatif après le 2ème débat",
+      "date": "2009-05-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/116_Tableau_comparatif___LMP__apres_2eme_debat.pdf"
+    },
+    {
+      "titre": "Rapport de majorité de la commission",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/116_RCMAJ.PDF"
+    },
+    {
+      "titre": "Rapport de minorité n° 1 de la commission",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/116_RC_min_1.pdf"
+    },
+    {
+      "titre": "Rapport de minorité n° 2 de la commission",
+      "date": "2009-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/116_RC_min2.PDF"
+    },
+    {
+      "titre": "Lois et décrets adoptés par le Grand Conseil le 19 mai 2009",
+      "date": "2009-05-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/116_lois_et_decrets_adoptes_le_19_mai_2009.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-19-mai-2009/expose-des-motifs-et-projet-de-loi-codex-2010",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

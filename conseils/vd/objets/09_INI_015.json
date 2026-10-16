@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221549,
+  "numero": "09_INI_015",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2009-09-29"
+  },
+  "depose": "2009-03-10",
+  "titre": "Demandant au Conseil d'Etat d'intervenir auprès de l'Assemblée fédérale afin d'obtenir une amnistie fiscale au secours de la crise financière",
+  "contributeurs": [
+    {
+      "nom": "Jaqueline Bottlang-Pittet",
+      "parti": "AdC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-03-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-03-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2009-09-29",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet et développement",
+      "date": "2009-09-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_au_8_avril_2009/09_INI_015_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-09-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INI_015_RCbis.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_10_mars_2009/09_INI_015.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-29-septembre-2009/initiative-bertrand-clot",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

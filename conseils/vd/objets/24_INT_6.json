@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227703,
+  "numero": "24_INT_6",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2024-06-19"
+  },
+  "depose": "2024-01-16",
+  "titre": "Les déchets vaudois sont-ils aussi voyageurs que ceux de certains cantons alémaniques?",
+  "contributeurs": [
+    {
+      "nom": "Laurent Balsiger",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-01-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-01-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-06-19",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-04-01",
+      "lien": "https://www.sonomix.ch/live/gcvd/3088#8471"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-01-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/2707#827"
+    },
+    {
+      "titre": "Les déchets vaudois traités en quasi-totalité dans le canton",
+      "date": "2024-06-19",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2246039"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e57b8a67-3ece-44fe-98a9-21d31a2e0626/meeting/1026884",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

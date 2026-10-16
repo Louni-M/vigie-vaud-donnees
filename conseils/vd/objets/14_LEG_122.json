@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223260,
+  "numero": "14_LEG_122",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-06-17"
+  },
+  "depose": "2014-06-17",
+  "titre": "Exposé des motifs et projets de décrets- sur la dissolution de la fraction de commune du Village des Planches- sur la dissolution de la fraction de commune du Village de Sâles, Chêne et Crin",
+  "contributeurs": [
+    {
+      "nom": "Pierre Grandjean",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre Grandjean",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-06-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-06-17",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-06-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/122_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-06-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/122_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-17-juin-2014/expose-des-motifs-et-projets-de-decrets-sur-la-dissolution-de-la-fraction-de-commune-du-village-des-planches-sur-la-dissolution-de-la-fraction-de-commune-du-village-de-sales-chene-et-crin",
+  "communes": [
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

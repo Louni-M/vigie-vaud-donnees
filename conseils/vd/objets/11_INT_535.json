@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222264,
+  "numero": "11_INT_535",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-02-07"
+  },
+  "depose": "2011-09-20",
+  "titre": "Engorgement quotidien du trafic aux abords de la douane du Creux à Vallorbe, le Conseil d'Etat entend-il prendre le taureau par les cornes ?",
+  "contributeurs": [
+    {
+      "nom": "Jacques Nicolet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jacques Nicolet",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-09-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-09-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-02-07",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-02-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_535_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-09-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_535_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-7-fevrier-2012/reponse-du-conseil-detat-a-linterpellation-jacques-nicolet-engorgement-quotidien-du-traffic-aux-abords-de-la-douane-du-creux-a-vallorbe-le-conseil-detat-entend-il-prendre-le-taureau-par-les-cornes",
+  "communes": [
+    {
+      "ofs": 5764,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5749,
+      "origine": "document"
+    },
+    {
+      "ofs": 5750,
+      "origine": "document"
+    }
+  ]
+}

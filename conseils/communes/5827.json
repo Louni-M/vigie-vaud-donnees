@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5827,
+  "objets": [
+    {
+      "cle": "vd/16_RES_032",
+      "numero": "16_RES_032",
+      "type": "Résolution",
+      "depose": "2016-05-03",
+      "titre": "Résolution du Grand Conseil vaudois au Conseil fédéral : Pour la sauvegarde de la recherche agronomique suisse",
+      "auteurs": [
+        {
+          "nom": "Fabienne Freymond Cantone",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-05-03"
+      },
+      "derniere_etape": "2016-05-03",
+      "communes": [
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5827,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5634,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

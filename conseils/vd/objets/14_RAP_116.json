@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223380,
+  "numero": "14_RAP_116",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-07-01"
+  },
+  "depose": "2014-07-01",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Ginette Duvoisin et consorts demandant au Conseil d'Etat de renforcer et d'élargir les missions de l'IST (Institut universitaire romand de Santé au Travail)",
+  "contributeurs": [
+    {
+      "nom": "Catherine Roulet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Catherine Roulet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-07-01",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-07-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/116_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-07-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/116_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-23-septembre-2014/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-ginette-duvoisin-et-consorts-demandant-au-conseil-detat-de-renforcer-et-delargir-les-missions-de-list",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5584,
+      "origine": "document"
+    },
+    {
+      "ofs": 5656,
+      "origine": "document"
+    }
+  ]
+}

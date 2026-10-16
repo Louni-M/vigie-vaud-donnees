@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228332,
+  "numero": "25_QUE_16",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-06-04"
+  },
+  "depose": "2025-03-04",
+  "titre": "Rémunération des magistrats laïcs : où on est-on ?",
+  "contributeurs": [
+    {
+      "nom": "Oleg Gafner",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-03-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-04",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rémunération des magistrats laïcs",
+      "date": "2025-06-04",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2307813"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/389e7191-dea8-4681-8270-955e337a417d/meeting/1026880",
+  "communes": []
+}

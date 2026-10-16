@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225482,
+  "numero": "21_DET_4",
+  "type": "Détermination",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-07-07"
+  },
+  "depose": "2021-04-27",
+  "titre": "Pour un meilleur respect des bassins hydrographiques de l'Orbe supérieure",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Cala",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-04-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-07-07",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Respect des bassins hydrographiques de l’Orbe supérieure",
+      "date": "2021-07-07",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2065833"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/98593d29-9aa3-42f6-ac13-1225774ac5de/meeting/1000557",
+  "communes": []
+}

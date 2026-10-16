@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224621,
+  "numero": "19_INT_305",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-05-29"
+  },
+  "depose": "2019-02-05",
+  "titre": "Fin de parcours pour l'épicerie mobile de Caritas Vaud : les bénéficiaires resteront-ils au bord du chemin ?",
+  "contributeurs": [
+    {
+      "nom": "Vincent Jaques",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Vincent Jaques",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-02-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-02-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-05-29",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_305_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-02-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_305_depot.pdf"
+    },
+    {
+      "titre": "Projet d'épicerie mobile de Caritas Vaud",
+      "date": "2019-05-29",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=373354"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/07bbda80-c6c0-4daa-92cb-b58525138ddf/meeting/1000526",
+  "communes": [
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

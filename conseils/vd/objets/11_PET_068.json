@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222474,
+  "numero": "11_PET_068",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2012-01-31"
+  },
+  "depose": "2012-01-17",
+  "titre": "Pétition pour une rétribution juste dans l'enseignement postobligatoire",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2012-01-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-01-31",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_PET_068_RC.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2012-01-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_PET_068_Depot_01.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_PET_068_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-31-janvier-2012/petition-pour-une-retribution-juste-dans-lenseignement-postobligatoire",
+  "communes": [
+    {
+      "ofs": 5892,
+      "origine": "document"
+    }
+  ]
+}

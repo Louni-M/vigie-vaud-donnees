@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227492,
+  "numero": "24_HQU_46",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2024-05-14"
+  },
+  "depose": "2024-05-07",
+  "titre": "Prévenir vaut mieux que guérir, aussi pour le nouvel hôpital d'Yverdon",
+  "contributeurs": [
+    {
+      "nom": "Blaise Vionnet",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-05-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-05-14",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/3c125ae5-4457-4849-bc33-44d4de81fe3d/meeting/1019569",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "titre"
+    }
+  ]
+}

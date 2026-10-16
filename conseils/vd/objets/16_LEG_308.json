@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223943,
+  "numero": "16_LEG_308",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-12-20"
+  },
+  "depose": "2016-12-20",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit additionnel de CHF 560'000.- au crédit d'investissement de CHF 4'971'000.-, accordé par le Grand Conseil le 29 mai 2007 pour la déconstruction et le transfert, dans un endroit sûr, de 16 maisons, la protection de 2 maisons demeurant habitables, ainsi que la protection de la route cantonale Salavaux-Môtier suite aux glissements de terrain survenus au lieu-dit « les Roches », sur les communes de Vallamand et Mur",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Démétriadès",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alexandre Démétriadès",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Alexandre Démétriadès",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-12-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-12-20",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-12-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/308_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-12-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/308_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-20-decembre-2016/empd-accordant-au-ce-credit-additionnel-de-chf-560000-pour-la-deconstruction-et-le-transfert-dans-un-endroit-sur-de-16-maisons-la-protection-de-2-maisons-demeurant-habitables-ainsi-que-la-protection-de-la-route-cantonale-salavaux-motier",
+  "communes": [
+    {
+      "ofs": 5464,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

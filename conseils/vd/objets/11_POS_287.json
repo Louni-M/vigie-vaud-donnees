@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222553,
+  "numero": "11_POS_287",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2021-06-16"
+  },
+  "depose": "2012-03-13",
+  "titre": "Etre accueillante en milieu familial ne doit pas relever du sacerdoce",
+  "contributeurs": [
+    {
+      "nom": "Valérie Schwaar",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Valérie Schwaar",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": "UDC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-03-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-03-13",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-09-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-06-16",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2012-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_287_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2012-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_287_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2012-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_287_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-03-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_POS_287_D%C3%A9p%C3%B4t.pdf"
+    },
+    {
+      "titre": "Accueil de jour des enfants: revalorisation du travail des accueillantes et accueilants en milieu familial",
+      "date": "2021-06-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2063107"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-11-septembre-2012/postulat-philippe-randin-etre-accueillante-en-milieu-familial-ne-doit-pas-etre-un-sacerdoce",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    }
+  ]
+}

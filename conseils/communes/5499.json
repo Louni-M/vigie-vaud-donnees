@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5499,
+  "objets": [
+    {
+      "cle": "vd/25_INT_52",
+      "numero": "25_INT_52",
+      "type": "Interpellation",
+      "depose": "2025-04-29",
+      "titre": "Quelle prise en charge des enfants avec un trouble du spectre autistique (TSA) ?",
+      "auteurs": [
+        {
+          "nom": "Sébastien Kessler",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-09-09"
+      },
+      "derniere_etape": "2025-09-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5499,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/25_HQU_47",
+      "numero": "25_HQU_47",
+      "type": "Question orale",
+      "depose": "2025-05-06",
+      "titre": "Interventions des secours VS 30 km dans les communes",
+      "auteurs": [
+        {
+          "nom": "Isabelle Freymond",
+          "parti": "IND"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Terminée",
+        "date": "2025-05-13"
+      },
+      "derniere_etape": "2025-05-13",
+      "communes": [
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5499,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_HQU_75",
+      "numero": "24_HQU_75",
+      "type": "Question orale",
+      "depose": "2024-09-03",
+      "titre": "Le retour des cyanobactéries",
+      "auteurs": [
+        {
+          "nom": "Valérie Zonca",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Terminée",
+        "date": "2024-09-10"
+      },
+      "derniere_etape": "2024-09-10",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5499,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_INT_006",
+      "numero": "12_INT_006",
+      "type": "Interpellation",
+      "depose": "2012-08-28",
+      "titre": "Spectre autistique : importance d'un diagnostic et d'une prise en charge précoces et d'une pluralité des approches thérapeutiques",
+      "auteurs": [
+        {
+          "nom": "Florence Golaz",
+          "parti": null
+        },
+        {
+          "nom": "Florence Golaz",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-03-26"
+      },
+      "derniere_etape": "2013-03-26",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5499,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

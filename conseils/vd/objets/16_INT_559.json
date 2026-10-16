@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223810,
+  "numero": "16_INT_559",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-09-04"
+  },
+  "depose": "2016-09-06",
+  "titre": "A quand des taux d'intérêts négatifs pour les épargnants à la BCV ?",
+  "contributeurs": [
+    {
+      "nom": "Manuel Donzé",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Manuel Donzé",
+      "parti": "AdC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-09-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-09-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-09-04",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adotpé par le Conseil d'Etat",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/16_INT_559_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-09-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_559_Depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-4-septembre-2018/reponse-du-conseil-detat-a-linterpellation-manuel-donze-a-quand-des-taux-dinterets-negatifs-pour-les-epargnants-a-la-bcv",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

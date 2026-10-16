@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223847,
+  "numero": "16_INT_595",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-01-16"
+  },
+  "depose": "2016-10-04",
+  "titre": "Politique d'asile : que fait le Conseil d'Etat des accords de Dublin ?",
+  "contributeurs": [
+    {
+      "nom": "Claude-Alain Voiblet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claude-Alain Voiblet",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-10-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-10-11",
+      "libelle": "Behandelt vom Parlament"
+    },
+    {
+      "date": "2018-01-16",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adotpé par le Conseil d'Etat",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_595_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-10-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_595_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-16-janvier-2018/reponse-du-conseil-detat-a-linterpellation-claude-alain-voiblet-politique-dasile-que-fait-le-conseil-detat-des-accords-de-dublin",
+  "communes": [
+    {
+      "ofs": 5764,
+      "origine": "document"
+    }
+  ]
+}

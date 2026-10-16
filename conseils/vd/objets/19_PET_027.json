@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224924,
+  "numero": "19_PET_027",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-06-24"
+  },
+  "depose": "2019-01-29",
+  "titre": "Pétition - Maman je veux vivre",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2019-01-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-02-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-06-24",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_PET_027_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_PET_027_depot.pdf"
+    },
+    {
+      "titre": "Protection du climat: réponse à une pétition",
+      "date": "2020-06-24",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=405036"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-4-fevrier-2020/petition-maman-je-veux-vivre",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

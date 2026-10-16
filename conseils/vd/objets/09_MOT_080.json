@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221699,
+  "numero": "09_MOT_080",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-09-28"
+  },
+  "depose": "2009-09-08",
+  "titre": "Au nom des groupes radical et libéral, au sujet de l'enseignement du français et des mathématiques dans le projet de Plan d'étude romand PER",
+  "contributeurs": [
+    {
+      "nom": "Alberto Cherubini",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alberto Cherubini",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Anne Baehler Bech",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-09-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-09-28",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2009-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_080_depot.pdf"
+    },
+    {
+      "titre": "Rapport de minorité de la commission",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_080_RC_min.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_080_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de majorité de la commission",
+      "date": "2010-04-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_080_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-28-septembre-2010/motion-marc-olivier-buffat-enseignement-du-francais-et-des-mathematiques-dans-le-projet-de-plan-detude-romand-per",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

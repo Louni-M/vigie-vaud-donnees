@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226364,
+  "numero": "22_INT_59",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-04-26"
+  },
+  "depose": "2022-05-03",
+  "titre": "Drame de Montreux, le système mis en place actuellement est-il suffisant ou peut-il être amélioré afin d’éviter qu’un tel drame ne puisse se reproduire ?",
+  "contributeurs": [
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-05-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-05-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-04-26",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-05-10",
+      "lien": "https://www.sonomix.ch/live/gcvd/2105#5262"
+    },
+    {
+      "titre": "Drame de Montreux",
+      "date": "2023-04-26",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2172832"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/25638f0a-1b24-4554-98b8-98bf51f8bd9b/meeting/1013648",
+  "communes": [
+    {
+      "ofs": 5886,
+      "origine": "titre"
+    }
+  ]
+}

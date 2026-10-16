@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221775,
+  "numero": "09_POS_161",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-12-21"
+  },
+  "depose": "2009-11-03",
+  "titre": "Au nom des groupes radical et libéral pour que l'accueil parascolaire ne subisse pas le même sort que les écoles de musique et demandant de donner le lead aux communes vaudoises",
+  "contributeurs": [
+    {
+      "nom": "Olivier Mayor",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Olivier Mayor",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Olivier Mayor",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-11-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-11-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-12-21",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Test",
+      "date": "2009-11-03",
+      "lien": "http://www.publidoc.vd.ch/guestDownload/direct/workspace/SpacesStore/28dfb25b-c71a-11df-81d1-917f576e6310/128819_Rapport%20de%20la%20commission%20-%20P.-A.%20Mercier_20100727_805802.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_158_161_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-11-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_161_Depot.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_161_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-21-decembre-2010/postulat-claudine-wyssa-accueil-parascolaire",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

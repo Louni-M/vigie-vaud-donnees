@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226738,
+  "numero": "22_QUE_40",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-11-02"
+  },
+  "depose": "2022-09-20",
+  "titre": "CARA : quand le public subventionne le public",
+  "contributeurs": [
+    {
+      "nom": "Florence Gross",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-09-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-11-02",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Promotion du Dossier électronique du patient",
+      "date": "2022-11-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2143044"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c1287d3e-47ed-4e91-8738-049b5fdf74d4/meeting/1012633",
+  "communes": [
+    {
+      "ofs": 5584,
+      "origine": "document"
+    }
+  ]
+}

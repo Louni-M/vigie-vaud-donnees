@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223657,
+  "numero": "15_POS_119",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2015-09-08"
+  },
+  "depose": "2015-04-28",
+  "titre": "Stop aux exportations des déchets de bois usagés",
+  "contributeurs": [
+    {
+      "nom": "Albert Chapalay",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Albert Chapalay",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-04-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-04-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-09-08",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-09-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_119_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-04-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_119_Depot.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2015-09-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_119_D%C3%A9p%C3%B4t.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-8-septembre-2015/postulat-michel-mieville-et-consorts-stop-aux-exportations-des-dechets-de-bois-usages",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5872,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    }
+  ]
+}

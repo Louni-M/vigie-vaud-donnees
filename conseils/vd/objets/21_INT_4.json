@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225669,
+  "numero": "21_INT_4",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-11-17"
+  },
+  "depose": "2021-01-12",
+  "titre": "Quel soutien aux bureaux des Conseils communaux ?",
+  "contributeurs": [
+    {
+      "nom": "Julien Eggenberger",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-01-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-01-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-11-17",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-12-21",
+      "lien": "https://www.sonomix.ch/live/gcvd/2002#6390"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-01-19",
+      "lien": "https://www.sonomix.ch/live/gcvd/1703#7481"
+    },
+    {
+      "titre": "Soutien aux bureaux des conseils communaux",
+      "date": "2021-11-17",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2086585"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/b83401d7-e172-4777-8997-4c652f811d97/meeting/1004423",
+  "communes": [
+    {
+      "ofs": 5590,
+      "origine": "document"
+    }
+  ]
+}

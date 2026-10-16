@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226337,
+  "numero": "22_INT_33",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-04-13"
+  },
+  "depose": "2022-03-01",
+  "titre": "Les impôts des entreprises sont-ils correctement perçus partout, en particulier à Lausanne ?",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Berthoud",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-03-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-03-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-04-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-03-08",
+      "lien": "https://www.sonomix.ch/live/gcvd/2066#1123"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-06-21",
+      "lien": "http://www.sonomix.ch/live/gcvd/2142#6564"
+    },
+    {
+      "titre": "Les réformes fiscales de l’imposition des entreprises ont globalement eu un impact positif",
+      "date": "2022-04-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2111457"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d405a7c3-b8c3-4d4b-afbc-80bdb9ee7572/meeting/1004444",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5909,
+      "origine": "document"
+    }
+  ]
+}

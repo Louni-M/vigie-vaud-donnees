@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228440,
+  "numero": "8_LEG_90",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2008-12-16"
+  },
+  "depose": "2008-12-09",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi du 10 décembre 1969 sur la protection de la nature, des monuments et des sites (LPNMS)",
+  "contributeurs": [
+    {
+      "nom": "Alessandra Silauri",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-12-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-12-09",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2008-12-16",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-12-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_25_novembre_2008/90_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-12-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_25_novembre_2008/90_et_100_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-des-16-et-17-decembre-2008/expose-des-motifs-et-projet-de-loi-lpnms",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

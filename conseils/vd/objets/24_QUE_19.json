@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227926,
+  "numero": "24_QUE_19",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-04-17"
+  },
+  "depose": "2024-02-27",
+  "titre": "Quel est le calendrier des PIG-DGS ?",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-02-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-04-17",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Transmission d’information sur les prestations d’intérêt général (PiG)",
+      "date": "2024-04-17",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2233321"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5af089ef-72b8-4c17-ad50-4a6120f0c69e/meeting/1019560",
+  "communes": []
+}

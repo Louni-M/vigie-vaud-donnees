@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224540,
+  "numero": "18_RAP_23",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2018-06-05"
+  },
+  "depose": "2018-06-05",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Dominique Richard Bonny et consorts - Eau lac des Rousses Haut",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Rochat Fernandez",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-06-05",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-06-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/23_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-06-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/23_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-12-juin-2018/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-dominique-richard-bonny-et-consorts-eau-lac-des-rousses-haut",
+  "communes": [
+    {
+      "ofs": 5872,
+      "origine": "document"
+    },
+    {
+      "ofs": 5873,
+      "origine": "document"
+    },
+    {
+      "ofs": 5871,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

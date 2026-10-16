@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221766,
+  "numero": "09_POS_148",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2010-11-16"
+  },
+  "depose": "2009-09-08",
+  "titre": "Intitulé Evitons de faire un hôpital pour les automobilistes",
+  "contributeurs": [
+    {
+      "nom": "Pierre Grandjean",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierre Grandjean",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-09-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-11-16",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2009-09-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_148_Depot.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-04-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_148_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-04-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_148_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-16-novembre-2010/postulat-jerome-christen-evitons-de-faire-un-hopital-pour-les-automobilistes",
+  "communes": [
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5889,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    }
+  ]
+}

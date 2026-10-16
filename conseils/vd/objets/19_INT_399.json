@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224716,
+  "numero": "19_INT_399",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2020-01-22"
+  },
+  "depose": "2019-10-01",
+  "titre": "Et si on arrêtait les frais face aux voyous qui défigurent nos communes ?",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-10-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-10-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-01-22",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_399_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-10-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_399_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-01-19",
+      "lien": "https://www.sonomix.ch/live/gcvd/1703#8230"
+    },
+    {
+      "titre": "Permis de construire et financement des projets de construction",
+      "date": "2020-01-22",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=395992"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a863d0ce-62d1-4e75-8b6d-76b4b2e6e6c3/meeting/1000545",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5859,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

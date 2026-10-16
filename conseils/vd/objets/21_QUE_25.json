@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 176282,
+  "numero": "21_QUE_25",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-11-03"
+  },
+  "depose": "2021-06-01",
+  "titre": "Que contiennent nos marquages ?",
+  "contributeurs": [
+    {
+      "nom": "Alice Genoud",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-06-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-11-03",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Les marquages routiers répondent à des normes strictes",
+      "date": "2021-11-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2083656"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a1d0a760-03ff-47e9-8f90-73b8d35738f5/meeting/1000562",
+  "communes": []
+}

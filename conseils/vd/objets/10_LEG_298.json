@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222027,
+  "numero": "10_LEG_298",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2010-09-14"
+  },
+  "depose": "2010-08-31",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit de CHF 24'906'000 destiné à financer la mise en oeuvre du nouveau système d'information financier de l'Etat de Vaud (SIF) (2ème débat, majorité abolue des membres du grand Conseil requise)",
+  "contributeurs": [
+    {
+      "nom": "Jacques Ansermet",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-08-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-08-31",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2010-09-14",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/298_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-08-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/298_RC.pdf"
+    },
+    {
+      "titre": "Décret adopté par le Grand Conseil le 14.09.10",
+      "date": "2010-09-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/298_Decret_adopte.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-14-septembre-2010/expose-des-motifs-et-projet-de-decret-mise-en-oeuvre-du-nouveau-systeme-dinformation-financier-de-letat-de-vaud-sif",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223515,
+  "numero": "15_INT_437",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-03-01"
+  },
+  "depose": "2015-10-27",
+  "titre": "Electrosanne, la mort trop silencieuse d'un festival. Quelle place veut accorder le Conseil d'Etat aux musiques actuelles ?",
+  "contributeurs": [
+    {
+      "nom": "Manuel Donzé",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Manuel Donzé",
+      "parti": "AdC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-10-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-11-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-03-01",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-03-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_437_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-11-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_437_depot.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-11-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_437_d%C3%A9p%C3%B4t_nouveau.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-1er-mars-2016/reponse-du-conseil-detat-a-linterpellation-manuel-donze-et-consorts-electrosanne-la-mort-trop-silencieuse-dun-festival-quelle-place-veut-accorder-le-conseil-detat-aux-musiques-actuelles",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    },
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224681,
+  "numero": "19_INT_364",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-01-21"
+  },
+  "depose": "2019-06-04",
+  "titre": "Le commandement de payer est-il le nouveau moyen de stimuler des vocations politiques ?",
+  "contributeurs": [
+    {
+      "nom": "Serge Melly",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Serge Melly",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-06-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-06-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-01-21",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-10-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_364_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-06-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_364_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-21-janvier-2020/reponse-du-conseil-detat-a-linterpellation-serge-melly-le-commandement-de-payer-est-il-le-nouveau-moyen-de-stimuler-des-vocations-politiques",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

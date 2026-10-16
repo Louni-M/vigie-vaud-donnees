@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224926,
+  "numero": "19_PET_029",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2021-02-16"
+  },
+  "depose": "2019-04-09",
+  "titre": "Pétition pour une liberté cantonale en matière d'organisation de l'assurance maladie",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2019-04-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-02-16",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-02-16",
+      "lien": "https://www.sonomix.ch/live/gcvd/1737#5563"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2021-02-02",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=377190"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4795716b-acbf-4f31-92c1-5299c8c65efa/meeting/1000549",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

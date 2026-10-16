@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227417,
+  "numero": "24_HQU_105",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2024-10-08"
+  },
+  "depose": "2024-10-01",
+  "titre": "Aide à la presse : qu'en est-il de la mise en oeuvre du plan d'aide au médias et de la subvention à l'information à destination des jeunes ?",
+  "contributeurs": [
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-10-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-10-08",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-10-08",
+      "lien": "https://www.sonomix.ch/live/gcvd/2932#494"
+    },
+    {
+      "titre": "On apprenait en effet encore le 17 septembre",
+      "date": "2024-10-08",
+      "lien": "https://www.rts.ch/info/regions/2024/article/tamedia-annonce-la-fusion-de-trois-redactions-romandes-25-postes-supprimes-en-suisse-romande-28633553.html"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/9659fe62-acc7-48b0-8ffc-4e14a4bf3c5b/meeting/1026862",
+  "communes": [
+    {
+      "ofs": 5624,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

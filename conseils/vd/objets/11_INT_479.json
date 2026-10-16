@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222157,
+  "numero": "11_INT_479",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-08-30"
+  },
+  "depose": "2011-01-25",
+  "titre": "Les contribuables vont-il devoir renflouer une nouvelle fois la caisse de pensions de la Ville de Lausanne?",
+  "contributeurs": [
+    {
+      "nom": "Olivier Feller",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Olivier Feller",
+      "parti": "RAD",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-01-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-01-25",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-08-30",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-08-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_479_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-01-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_479_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-30-aout-2011/reponse-du-conseil-detat-a-linterpellation-olivier-feller-les-contribuables-vont-il-devoir-renflouer-une-nouvelle-fois-la-caisse-de-pensions-de-la-ville-de-lausanne",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

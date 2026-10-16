@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225718,
+  "numero": "21_INT_83",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-03-23"
+  },
+  "depose": "2021-06-15",
+  "titre": "Y-Parc dans la tourmente : le Canton peut-il siffler la fin de la recréation ?",
+  "contributeurs": [
+    {
+      "nom": "Vincent Keller",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-06-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-06-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-03-23",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-06-21",
+      "lien": "http://www.sonomix.ch/live/gcvd/2142#7284"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-22",
+      "lien": "https://www.sonomix.ch/live/gcvd/1873#185"
+    },
+    {
+      "titre": "Gouvernance et direction d'Y-Parc",
+      "date": "2022-02-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2107811"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/946b7edb-2a21-4780-a310-f9965f928dbd/meeting/1004444",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5909,
+      "origine": "document"
+    }
+  ]
+}

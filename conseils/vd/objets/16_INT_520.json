@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223772,
+  "numero": "16_INT_520",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2016-05-31"
+  },
+  "depose": "2016-05-31",
+  "titre": "WWF International et sa presque complète restructuration : mais que fait donc le Canton?",
+  "contributeurs": [
+    {
+      "nom": "Fabienne Freymond Cantone",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Fabienne Freymond Cantone",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-05-31",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-05-31",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-12-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_520_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_520_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-20-decembre-2016/reponse-du-conseil-detat-a-linterpellation-fabienne-freymond-cantone-et-consorts-wwf-international-et-sa-presque-complete-restructuration-mais-que-fait-donc-le-canton",
+  "communes": [
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

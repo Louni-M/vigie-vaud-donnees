@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227250,
+  "numero": "23_POS_4",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2023-01-31"
+  },
+  "depose": "2023-01-24",
+  "titre": "Pour une formation romande en chiropratique à Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Blaise Vionnet",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Sylvie Podio",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-01-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-01-31",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-01-31",
+      "lien": "https://www.sonomix.ch/live/gcvd/2300"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4aa61ee7-fcff-4241-a474-c59c5ce79524/meeting/1026895",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    }
+  ]
+}

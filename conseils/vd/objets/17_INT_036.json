@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228607,
+  "numero": "17_INT_036",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-12-14"
+  },
+  "depose": "2021-12-14",
+  "titre": "Qu'en est-il du projet d'agrandissement gymnasial à La Tour-de-Peilz ?",
+  "contributeurs": [
+    {
+      "nom": "Taraneh Aminian",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-07-07",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2021-12-14",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-12-15",
+      "lien": "https://www.sonomix.ch/live/gcvd/1996#7820"
+    },
+    {
+      "titre": "Projet d'agrandissement gymnasial à La Tour-de-Peilz",
+      "date": "2021-07-07",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2065818"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/879a1ffe-7ae1-47e6-b07c-e8e26a703372/meeting/1004422",
+  "communes": [
+    {
+      "ofs": 5889,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    }
+  ]
+}

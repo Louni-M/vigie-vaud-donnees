@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5479,
+  "objets": [
+    {
+      "cle": "vd/11_LEG_347",
+      "numero": "11_LEG_347",
+      "type": "Décret/Loi",
+      "depose": "2011-01-11",
+      "titre": "Exposé des motifs et projet de décret autorisant l'institution \"Orphelinat Desponds-Montagnon\" à vendre son domaine principalement à un agriculteur ainsi qu'à l'Etat de Vaud, et prononçant la dissolution de l'institution dont la fortune sera intégralement versée au Fonds pour la protection de la jeunesse et en faveur de l'enfance malheureuse et abandonnée",
+      "auteurs": [
+        {
+          "nom": "Jean-Luc Chollet",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Jean-Luc Chollet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-01-18"
+      },
+      "derniere_etape": "2011-01-18",
+      "communes": [
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5479,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

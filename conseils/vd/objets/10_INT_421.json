@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221905,
+  "numero": "10_INT_421",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-02-22"
+  },
+  "depose": "2010-09-21",
+  "titre": "Le radar est-il en phase de devenir un nouvel indicateur des finances publiques ?",
+  "contributeurs": [
+    {
+      "nom": "Philippe Ducommun",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-09-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-09-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-02-22",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2010-09-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_421_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-02-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_421_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-22-fevrier-2011/reponse-du-conseil-detat-a-linterpellation-philippe-ducommun-le-radar-est-il-en-phase-de-devenir-un-nouvel-indicateur-des-finances-publiques",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5581,
+  "objets": [
+    {
+      "cle": "vd/20_RES_043",
+      "numero": "20_RES_043",
+      "type": "Résolution",
+      "depose": "2020-05-26",
+      "titre": "De l'exemplarité et de la solidarité de l'Etat de Vaud avec le travailleuses et travailleurs indigènes, ainsi que les PME vaudoises, face à la récession économique",
+      "auteurs": [
+        {
+          "nom": "Yann Glayre",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2020-06-30"
+      },
+      "derniere_etape": "2020-06-30",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5407,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5790,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5581,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_211",
+      "numero": "20_LEG_211",
+      "type": "Décret/Loi",
+      "depose": "2020-06-30",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 6'400'000.- pour financer l'aménagement de la route cantonale RC 773 entre les localités de Belmont-sur-Lausanne et La Croix-sur Lutry",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": null
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-06-30"
+      },
+      "derniere_etape": "2020-06-30",
+      "communes": [
+        {
+          "ofs": 5581,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5606,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_575",
+      "numero": "16_INT_575",
+      "type": "Interpellation",
+      "depose": "2016-09-20",
+      "titre": "Charbon végétal, gaz et huile de pyrolyse, quelles mesures le Conseil d'Etat entend-il prendre pour favoriser leur développement ?",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-09-20"
+      },
+      "derniere_etape": "2016-09-20",
+      "communes": [
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5581,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_RAP_180",
+      "numero": "15_RAP_180",
+      "type": "Rapport",
+      "depose": "2015-05-05",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Philippe Martinet et consorts au nom du groupe des Verts pour une politique de relève dans le secteur des ingénieurs",
+      "auteurs": [
+        {
+          "nom": "Michel Miéville",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Michel Miéville",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2015-05-05"
+      },
+      "derniere_etape": "2015-05-05",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5581,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_RAP_157",
+      "numero": "14_RAP_157",
+      "type": "Rapport",
+      "depose": "2014-10-07",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur les opérations effectuées du 1er janvier 2012 au 31 décembre 2013 par le \"Fonds pour l'acquisition de droits réels et d'immeubles de réserve\" (FAIR), selon décret du 12 septembre 1994, modifié le 4 septembre 2007",
+      "auteurs": [
+        {
+          "nom": "Michaël Buffat",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Michaël Buffat",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-11-11"
+      },
+      "derniere_etape": "2014-11-11",
+      "communes": [
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5581,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_226",
+      "numero": "14_INT_226",
+      "type": "Interpellation",
+      "depose": "2014-02-11",
+      "titre": "Réponse du Conseil d'Etat aux interpellations :- Denis Rubattel – Suppression d'offices cantonaux : jusqu'où le démembrement des districts ira-t-il ?",
+      "auteurs": [
+        {
+          "nom": "Jacques Nicolet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-10-07"
+      },
+      "derniere_etape": "2014-10-07",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5581,
+          "origine": "document"
+        },
+        {
+          "ofs": 5588,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_LEG_107",
+      "numero": "14_LEG_107",
+      "type": "Décret/Loi",
+      "depose": "2014-05-06",
+      "titre": "Exposé des motifs et projet de loi modifiant la loi sur la gestion des déchets et Rapport du Conseil d'Etat au Grand Conseil sur la motion Régis Courdesse et consorts demandant de prolonger le délai pour l'octroi de la participation de l'Etat pour les installations de compostage et de méthanisation des déchets et pour les centres de collecte des déchets valorisables",
+      "auteurs": [
+        {
+          "nom": "Jean-Marc Chollet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Jean-Marc Chollet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2014-05-13"
+      },
+      "derniere_etape": "2014-05-13",
+      "communes": [
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5581,
+          "origine": "document"
+        },
+        {
+          "ofs": 5592,
+          "origine": "document"
+        },
+        {
+          "ofs": 5692,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_364",
+      "numero": "10_INT_364",
+      "type": "Interpellation",
+      "depose": "2011-01-25",
+      "titre": "L'avenir de la filière de la biométhanisation",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-01-25"
+      },
+      "derniere_etape": "2011-01-25",
+      "communes": [
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5581,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

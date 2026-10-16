@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221704,
+  "numero": "09_MOT_085",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-09-28"
+  },
+  "depose": "2010-09-28",
+  "titre": "L'histoire biblique",
+  "contributeurs": [
+    {
+      "nom": "Maximilien Bernhard",
+      "parti": "AdC",
+      "role": "Rapporteur de la minorité de la commission N°1",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Maystre T.",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Maximilien Bernhard",
+      "parti": "AdC",
+      "role": "Rapporteur de la minorité de la commission N°1",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pascale Manzini",
+      "parti": "SOC",
+      "role": "Rapporteur de la minorité 2de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-09-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-09-28",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité 1 de la commission",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_085_RC_min1.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_085_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_085_Objets_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité 2 de la commission",
+      "date": "2010-09-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_085_RC_min2.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-28-septembre-2010/motion-claude-schwab-revision-de-la-loi-scolaire-histoire-biblique",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5892,
+      "origine": "document"
+    }
+  ]
+}

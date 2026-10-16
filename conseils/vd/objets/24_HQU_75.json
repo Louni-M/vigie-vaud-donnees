@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 86357,
+  "numero": "24_HQU_75",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2024-09-10"
+  },
+  "depose": "2024-09-03",
+  "titre": "Le retour des cyanobactéries",
+  "contributeurs": [
+    {
+      "nom": "Valérie Zonca",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-09-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-09-10",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.24heures.ch/leman-que-savons-nous-des-cyanobacteries-309439825075",
+      "date": "2024-09-10",
+      "lien": "https://www.24heures.ch/leman-que-savons-nous-des-cyanobacteries-309439825075"
+    },
+    {
+      "titre": "24_HQU_75-Texte déposé",
+      "date": "2024-09-10",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2256954"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/b42dc052-73e9-4df4-8f61-e15d7dfa9353/meeting/1026859",
+  "communes": [
+    {
+      "ofs": 5414,
+      "origine": "document"
+    },
+    {
+      "ofs": 5499,
+      "origine": "document"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5408,
+      "origine": "document"
+    }
+  ]
+}

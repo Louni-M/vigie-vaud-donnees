@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225417,
+  "numero": "20_POS_8",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2021-12-22"
+  },
+  "depose": "2020-09-15",
+  "titre": "Il « Vaud » la peine de savoir si la convention intercantonale en « Valais » le coup",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Croci Torti",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-09-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-12-22",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Fréquentation des établissements du secondaire II dans le Chablais",
+      "date": "2021-12-22",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2095365"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4ea4792b-bf03-4b1c-9d69-0b0e9ef9b75f/meeting/1000528",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5871,
+      "origine": "document"
+    },
+    {
+      "ofs": 5889,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

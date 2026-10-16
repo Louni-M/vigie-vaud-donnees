@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226633,
+  "numero": "22_POS_16",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Non pris en considération",
+    "date": "2023-08-29"
+  },
+  "depose": "2022-03-22",
+  "titre": "Pour que l’Unil rende honneur au Professeur Jean Wintsch et révoque le doctorat honoris causas à Mussolini",
+  "contributeurs": [
+    {
+      "nom": "Elodie Lopez",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alberto Mocchi",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Suter",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-03-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-03-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-08-29",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-03-29",
+      "lien": "http://www.sonomix.ch/live/gcvd/2086#663"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-08-29",
+      "lien": "https://www.sonomix.ch/live/gcvd/2567#8010"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/60694e17-0f4c-48ea-bb43-3212711b8b22/meeting/1019537",
+  "communes": [
+    {
+      "ofs": 5638,
+      "origine": "document"
+    },
+    {
+      "ofs": 5632,
+      "origine": "document"
+    },
+    {
+      "ofs": 5633,
+      "origine": "document"
+    },
+    {
+      "ofs": 5405,
+      "origine": "document"
+    }
+  ]
+}

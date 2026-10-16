@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223158,
+  "numero": "14_INT_245",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-10-28"
+  },
+  "depose": "2014-04-08",
+  "titre": "Rives du Lac, projets bloqués : l'Etat exige, mais n'en a pas les moyens !",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-04-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-04-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-10-28",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-10-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_245_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-04-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_245_d%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-28-octobre-2014/reponse-du-conseil-detat-a-linterpellation-jerome-christen-rives-du-lac-projets-bloques-letat-exige-mais-nen-a-pas-les-moyens",
+  "communes": [
+    {
+      "ofs": 5883,
+      "origine": "document"
+    },
+    {
+      "ofs": 5889,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5725,
+      "origine": "document"
+    }
+  ]
+}

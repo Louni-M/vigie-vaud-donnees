@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222081,
+  "numero": "10_MOT_118",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2011-09-27"
+  },
+  "depose": "2010-11-30",
+  "titre": "Garantir l'accès à la justice et l'égalité des droits des employé(e)s de l'Etat de Vaud",
+  "contributeurs": [
+    {
+      "nom": "Philippe Deriaz",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre Grandjean",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Pierre Grandjean",
+      "parti": "PLR",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-11-30",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-12-07",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-09-27",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2011-09-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_118_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2011-09-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_118_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-09-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_118_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-12-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_118_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-27-septembre-2011/motion-jean-michel-dolivo-et-consorts-garantir-lacces-a-la-justice-et-legalite-des-droits-des-employes-de-letat-de-vaud",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

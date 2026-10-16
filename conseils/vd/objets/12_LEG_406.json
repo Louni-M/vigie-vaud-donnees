@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222696,
+  "numero": "12_LEG_406",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-01-17"
+  },
+  "depose": "2012-01-10",
+  "titre": "Exposé des motifs et projet de décret autorisant le Conseil d'Etat à vendre le bien-fonds no 1'431 du cadastre de la Commune de Lausanne, dénommé \"Bibliothèque des Pasteurs\", propriété de l'Etat de Vaud, pour un montant deCHF 3'000'000.-",
+  "contributeurs": [
+    {
+      "nom": "Frédéric Grognuz",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Frédéric Grognuz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-01-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-01-10",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2012-01-17",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Décret adopté par le Grand Conseil le 17.01.12",
+      "date": "2012-01-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/406_Texte_FAO.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-01-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/406_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-01-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/406_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-17-janvier-2012/expose-des-motifs-et-projet-de-decret-vente-du-bien-fonds-n-1431-du-cadastre-de-la-commune-de-lausanne-denomme-bibliotheque-des-pasteurs",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5415,
+      "origine": "document"
+    }
+  ]
+}

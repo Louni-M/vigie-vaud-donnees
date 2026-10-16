@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228549,
+  "numero": "09_INT_210",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-03-16"
+  },
+  "depose": "2010-02-23",
+  "titre": "Le réseau Emeraude",
+  "contributeurs": [
+    {
+      "nom": "Jacqueline Rostan",
+      "parti": "LIB",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-02-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-03-16",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-02-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_210_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-16-mars-2010/reponse-du-conseil-detat-a-linterpellation-jacqueline-rostan",
+  "communes": [
+    {
+      "ofs": 5428,
+      "origine": "document"
+    },
+    {
+      "ofs": 5813,
+      "origine": "document"
+    }
+  ]
+}

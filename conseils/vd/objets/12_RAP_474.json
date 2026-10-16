@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222815,
+  "numero": "12_RAP_474",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-12-18"
+  },
+  "depose": "2012-12-18",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Marc-Olivier Buffat et consorts au nom des groupes radical et libéral, au sujet de l'enseignement du français et des mathématiques dans le projet de Plan d'étude romand PER",
+  "contributeurs": [
+    {
+      "nom": "Olivier Mayor",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Olivier Mayor",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-12-18",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-12-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/474_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-12-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/474_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-15-janvier-2013/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-marc-olivier-buffat-et-consorts-au-nom-des-groupes-radical-et-liberal-au-sujet-de-lenseignement-du-francais-et-des-mathematiques-dans-le-projet-de-plan-detude-romand-per",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

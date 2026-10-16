@@ -1,0 +1,212 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5403,
+  "objets": [
+    {
+      "cle": "vd/24_LEG_109",
+      "numero": "24_LEG_109",
+      "type": "Décret/Loi",
+      "depose": "2025-10-28",
+      "titre": "Accordant au Conseil d'Etat des crédits d'investissement pour un total de CHF 14'400'000.- afin de financer la part cantonale pour la renaturation de 5 cours d'eau prioritaires (Bey, Valleyre, Bruet, Grand-Canal, Lutrive)",
+      "auteurs": [
+        {
+          "nom": "Nicolas Suter",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-11-25"
+      },
+      "derniere_etape": "2025-11-25",
+      "communes": [
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5403,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5415,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_RAP_198",
+      "numero": "15_RAP_198",
+      "type": "Rapport",
+      "depose": "2015-05-19",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Yves Ferrari et consorts - Une restauration à base de produits locaux et de saison... un tout premier pas alimentaire vers la société à 2'000 W",
+      "auteurs": [
+        {
+          "nom": "Jean-Marc Sordet",
+          "parti": null
+        },
+        {
+          "nom": "Jean-Marc Sordet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2015-05-19"
+      },
+      "derniere_etape": "2015-05-19",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5403,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_500",
+      "numero": "11_INT_500",
+      "type": "Interpellation",
+      "depose": "2011-03-29",
+      "titre": "Terre végétale et H144 font-elles bon ménage ?",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-11-08"
+      },
+      "derniere_etape": "2011-11-08",
+      "communes": [
+        {
+          "ofs": 5403,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_328",
+      "numero": "10_INT_328",
+      "type": "Interpellation",
+      "depose": "2010-01-26",
+      "titre": "3ème correction du Rhône",
+      "auteurs": [
+        {
+          "nom": "Grégory Devaud",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-12-14"
+      },
+      "derniere_etape": "2010-12-14",
+      "communes": [
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5403,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_281",
+      "numero": "10_LEG_281",
+      "type": "Décret/Loi",
+      "depose": "2010-11-23",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit additionnel de CHF 17'380'000.- au crédit alloué par décret du 9 septembre 2003 pour la construction de la route H144 Villeneuve - Le Bouveret, section Rennaz - Les Evouettes (partie vaudoise) pris en compte dans l'EMPD 114 de septembre 2003",
+      "auteurs": [
+        {
+          "nom": "Frédéric Borloz",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Frédéric Borloz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-11-23"
+      },
+      "derniere_etape": "2010-11-23",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5403,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

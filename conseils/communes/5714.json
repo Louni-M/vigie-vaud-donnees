@@ -1,0 +1,202 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5714,
+  "objets": [
+    {
+      "cle": "vd/25_LEG_26",
+      "numero": "25_LEG_26",
+      "type": "Décret/Loi",
+      "depose": "2026-03-17",
+      "titre": "Exposé des motifs et projet de loi portant reconnaissance de la Fédération des Eglises anglicanes et catholique chrétienne dans le Canton de Vaud",
+      "auteurs": [
+        {
+          "nom": "Claude Nicole Grin",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2026-03-17"
+      },
+      "derniere_etape": "2026-03-17",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5719,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5714,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_LEG_236",
+      "numero": "24_LEG_236",
+      "type": "Décret/Loi",
+      "depose": "2025-01-28",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit d’ouvrage CHF 15’438’000.- pour financer les travaux de réhabilitation des routes cantonales 3-C-S et 7-C-S entre Chavannes-de-Bogis et Chavannes-des-Bois sur le territoire des communes de Chavannes-de-Bogis, Commugny et Chavannes-des-Bois",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-01-28"
+      },
+      "derniere_etape": "2025-01-28",
+      "communes": [
+        {
+          "ofs": 5707,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5708,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5711,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5729,
+          "origine": "document"
+        },
+        {
+          "ofs": 5705,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5714,
+          "origine": "document"
+        },
+        {
+          "ofs": 5706,
+          "origine": "document"
+        },
+        {
+          "ofs": 5726,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_LEG_286",
+      "numero": "22_LEG_286",
+      "type": "Décret/Loi",
+      "depose": "2023-05-23",
+      "titre": "EMPD EXPOSE DES MOTIFS ET PROJET DE DECRET accordant au Conseil d’État un crédit d’investissement de CHF 3'931'800 pour financer la première étape de mise en œuvre de la mesure stratégique « la formation, moteur du changement » du Plan climat vaudois et Rapport du Conseil d’État au Grand Conseil sur le postulat de Nicolas Suter et consorts – Transition de carrière et transition énergétique vont de pair",
+      "auteurs": [
+        {
+          "nom": "Sergei Aschwanden",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Valérie Induni",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-06-13"
+      },
+      "derniere_etape": "2023-06-13",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        },
+        {
+          "ofs": 5714,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5589,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_383",
+      "numero": "10_INT_383",
+      "type": "Interpellation",
+      "depose": "2010-05-11",
+      "titre": "Desmédecins-assistants pour tester les routiers ?- (10_INT_383) Christa Calpini - Les médecins agréés de l'OFAC (office fédéral de l'aviation civile) sont-ils moins compétents que ceux désignés par l'Etat de Vaud ?",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-12-14"
+      },
+      "derniere_etape": "2010-12-14",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5714,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227478,
+  "numero": "24_HQU_30",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2024-03-12"
+  },
+  "depose": "2024-03-05",
+  "titre": "Rentrée repoussée pour le (nouveau) Gymnase de Crissier - quelles conséquences ?",
+  "contributeurs": [
+    {
+      "nom": "Oriane Sarrasin",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-03-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-03-12",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c4692bfc-2534-4295-9955-b22b536b77e0/meeting/1019562",
+  "communes": [
+    {
+      "ofs": 5583,
+      "origine": "titre"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222367,
+  "numero": "11_INT_637",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-11-06"
+  },
+  "depose": "2012-05-22",
+  "titre": "Sanction en matière de construction sans autorisation",
+  "contributeurs": [
+    {
+      "nom": "Régis Courdesse",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Régis Courdesse",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-05-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-05-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-11-06",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-09-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_637_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-05-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_637_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-6-novembre-2012/reponse-du-conseil-detat-a-linterpellation-regis-courdesse-sanction-en-matiere-de-construction-sans-autorisation",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 203030,
+  "numero": "20_QUE_16",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-02-03"
+  },
+  "depose": "2020-12-08",
+  "titre": "Priorisation SDA des sites de gravières et décharges",
+  "contributeurs": [
+    {
+      "nom": "Daniel Ruch",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-12-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-02-03",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Priorisations des projets de gravières et décharges ayant des emprises sur les surfaces d’assolement",
+      "date": "2021-02-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2033912"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/2a224c34-3ca0-45e0-ba0e-8f2f9aa1cbb0/meeting/1000538",
+  "communes": []
+}

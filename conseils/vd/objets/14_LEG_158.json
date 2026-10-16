@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223283,
+  "numero": "14_LEG_158",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-06-10"
+  },
+  "depose": "2014-06-10",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat, pour autant que la candidature de Lausanne aux Jeux olympiques d'hiver de la jeunesse (JOJ) 2020 soit acceptée, une subvention de CHF 8'000'000.- et une garantie de déficit pour l'organisation de cette manifestation dans le canton de Vaud",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Démétriadès",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alexandre Démétriadès",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Alexandre Démétriadès",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-06-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-06-10",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-06-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/158_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-06-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/158_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-10-juin-2014/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-pour-autant-que-la-candidature-de-lausanne-aux-jeux-olympiques-dhiver-de-la-jeunesse-joj-2020",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5627,
+      "origine": "document"
+    },
+    {
+      "ofs": 5407,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    }
+  ]
+}

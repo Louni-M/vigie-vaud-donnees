@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227343,
+  "numero": "23_QUE_5",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-03-22"
+  },
+  "depose": "2023-02-07",
+  "titre": "Concours pour l'admission en deuxième année en médecine",
+  "contributeurs": [
+    {
+      "nom": "Jacques-André Haury",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-02-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-03-22",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Concours pour l'admission en deuxième année en médecine",
+      "date": "2023-03-22",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2167653"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f6548bad-eaae-4c5f-8c0c-528f1c91e775/meeting/1013633",
+  "communes": []
+}

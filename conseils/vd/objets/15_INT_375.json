@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223456,
+  "numero": "15_INT_375",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-09-20"
+  },
+  "depose": "2015-04-28",
+  "titre": "Réponse du Conseil d'Etat à l'interpellation Gérard Mojon, Travailleurs pauvres (working poors) sont-ils vraiment autonomes ?",
+  "contributeurs": [
+    {
+      "nom": "Gérard Mojon",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Gérard Mojon",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-04-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-04-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-09-20",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-09-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_375_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-04-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_375_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-20-septembre-2016/reponse-a-linterpellation-gerard-mojon-travailleurs-pauvres-working-poors-sont-ils-vraiment-autonomes",
+  "communes": []
+}

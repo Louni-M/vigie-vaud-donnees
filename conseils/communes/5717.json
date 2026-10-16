@@ -1,0 +1,195 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5717,
+  "objets": [
+    {
+      "cle": "vd/19_POS_151",
+      "numero": "19_POS_151",
+      "type": "Postulat",
+      "depose": "2019-06-18",
+      "titre": "L'hydrogène fait-il partie des énergies de demain pour le Canton de Vaud ? DES",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2022-04-13"
+      },
+      "derniere_etape": "2022-04-13",
+      "communes": [
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5717,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_RES_006",
+      "numero": "08_RES_006",
+      "type": "Résolution",
+      "depose": "2008-05-06",
+      "titre": "Pour une action vigoureuse du Conseil d'Etat en faveur des infrastructures de transports du district de Nyon",
+      "auteurs": [
+        {
+          "nom": "Mario-Charles Pertusio",
+          "parti": "AdC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2020-03-11"
+      },
+      "derniere_etape": "2020-03-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5720,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5723,
+          "origine": "document"
+        },
+        {
+          "ofs": 5717,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5730,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_LEG_182",
+      "numero": "14_LEG_182",
+      "type": "Décret/Loi",
+      "depose": "2014-12-02",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'étude de CHF 1'030'000.- pour financer les études de la réhabilitation de la RC 1-B-P entre Mies et Founex sur les communes de Coppet, Founex, Mies et Tannay",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2014-12-09"
+      },
+      "derniere_etape": "2014-12-09",
+      "communes": [
+        {
+          "ofs": 5723,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5717,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5712,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5729,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5711,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/8_LEG_72",
+      "numero": "8_LEG_72",
+      "type": "Décret/Loi",
+      "depose": "2008-11-04",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit de CHF 3'170’000.- pour la correction de la RC 2 entre Commugny et les Arrenny, sur le territoire de la commune de Commugny",
+      "auteurs": [
+        {
+          "nom": "Elisabeth Ruey-Ray",
+          "parti": null
+        },
+        {
+          "nom": "Elisabeth Ruey-Ray",
+          "parti": "LIB"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2008-11-11"
+      },
+      "derniere_etape": "2008-11-11",
+      "communes": [
+        {
+          "ofs": 5711,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5717,
+          "origine": "document"
+        },
+        {
+          "ofs": 5723,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

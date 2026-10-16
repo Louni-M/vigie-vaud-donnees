@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227993,
+  "numero": "24_QUE_77",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-01-20"
+  },
+  "depose": "2024-10-29",
+  "titre": "Lien de filiation du Préfet et de la Municipalité",
+  "contributeurs": [
+    {
+      "nom": "Fabien Deillon",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-10-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-01-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Lien de parenté entre le préfet de l'Ouest Lausannois et une municipale de la commune de Renens",
+      "date": "2025-01-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2282566"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/2abd27db-7ba6-4864-b9d5-3b353a98dd99/meeting/1026863",
+  "communes": [
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

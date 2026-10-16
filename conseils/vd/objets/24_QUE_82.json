@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227999,
+  "numero": "24_QUE_82",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-12-18"
+  },
+  "depose": "2024-11-19",
+  "titre": "Les arrêts du TF sur le point TARMED 00 2505 interrogent",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Suter",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-11-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-12-18",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Arrêts du Tribunal fédéral sur le point TARMED",
+      "date": "2024-12-18",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2278751"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/21dcfb46-c8bb-4b6c-a5e1-c24277df1220/meeting/1026866",
+  "communes": []
+}

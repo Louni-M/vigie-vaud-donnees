@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225236,
+  "numero": "20_INT_6",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-01-20"
+  },
+  "depose": "2020-09-01",
+  "titre": "Rationalisation contre écologie, l’exemple Sainte-Croix du géant jaune",
+  "contributeurs": [
+    {
+      "nom": "Yvan Pahud",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-09-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-01-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "La Poste, impacts écologiques du tri du courrier à Vuiteboeuf",
+      "date": "2021-01-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2031120"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/323c515c-3493-4773-bde7-2766a2c9b4c0/meeting/1003922",
+  "communes": [
+    {
+      "ofs": 5568,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5766,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

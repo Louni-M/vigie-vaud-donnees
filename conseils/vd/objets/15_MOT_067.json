@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223612,
+  "numero": "15_MOT_067",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2015-12-15"
+  },
+  "depose": "2015-05-26",
+  "titre": "Glyphosate, le nom scientifique d'un pesticide cancérogène plus couramment appelé Roundup !",
+  "contributeurs": [
+    {
+      "nom": "Michel Miéville",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Michel Miéville",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-05-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-05-26",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-12-15",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_067_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2015-12-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_067_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-05-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_MOT_067_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-15-decembre-2015/motion-yves-ferrari-et-consorts-glyphosate-le-nom-scientifique-dun-pesticide-cancerogene-plus-couramment-appele-roundup",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

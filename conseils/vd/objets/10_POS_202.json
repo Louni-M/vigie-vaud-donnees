@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222134,
+  "numero": "10_POS_202",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2011-01-25"
+  },
+  "depose": "2010-08-24",
+  "titre": "Demandant au Conseil d'Etat une planification du développement des structures d'accueil de l'enfance pour le personnel de l'Etat",
+  "contributeurs": [
+    {
+      "nom": "Valérie Schwaar",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Valérie Schwaar",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Elisabeth Ruey-Ray",
+      "parti": "LIB",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-08-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-08-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-01-25",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2011-01-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_202_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2011-01-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_202_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-01-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_202_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-08-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_202_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-25-janvier-2011/postulat-florence-golaz-planification-du-developpement-des-structures-daccueil-de-lenfance-pour-le-personnel-de-letat",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

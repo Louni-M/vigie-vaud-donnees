@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5429,
+  "objets": [
+    {
+      "cle": "vd/24_INT_43",
+      "numero": "24_INT_43",
+      "type": "Interpellation",
+      "depose": "2024-03-05",
+      "titre": "Relevé pédologique des surfaces de SDA sur le territoire cantonal / Etat des lieux",
+      "auteurs": [
+        {
+          "nom": "Marc-Olivier Buffat",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-09-25"
+      },
+      "derniere_etape": "2024-09-25",
+      "communes": [
+        {
+          "ofs": 5429,
+          "origine": "document"
+        },
+        {
+          "ofs": 5430,
+          "origine": "document"
+        },
+        {
+          "ofs": 5434,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_POS_060",
+      "numero": "08_POS_060",
+      "type": "Postulat",
+      "depose": "2008-04-29",
+      "titre": "Intitulé des bus scolaires pour tous",
+      "auteurs": [
+        {
+          "nom": "Mireille Aubert",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Mireille Aubert",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2021-04-21"
+      },
+      "derniere_etape": "2021-04-21",
+      "communes": [
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5429,
+          "origine": "document"
+        },
+        {
+          "ofs": 5851,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_POS_205",
+      "numero": "16_POS_205",
+      "type": "Postulat",
+      "depose": "2016-11-15",
+      "titre": "Chauffage à bois : de l'effet contreproductif de certaines décisions destinées à préserver notre environnement, et de la nécessité d'étudier des mesures correctives",
+      "auteurs": [
+        {
+          "nom": "Fabienne Freymond Cantone",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée à commission",
+        "date": "2019-03-06"
+      },
+      "derniere_etape": "2019-03-06",
+      "communes": [
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5553,
+          "origine": "document"
+        },
+        {
+          "ofs": 5806,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5648,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5429,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_388",
+      "numero": "10_INT_388",
+      "type": "Interpellation",
+      "depose": "2010-05-11",
+      "titre": "Assez d'obstruction administrative à la pose des panneaux solaires !",
+      "auteurs": [
+        {
+          "nom": "Isabelle Chevalley",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-02-01"
+      },
+      "derniere_etape": "2011-02-01",
+      "communes": [
+        {
+          "ofs": 5429,
+          "origine": "document"
+        },
+        {
+          "ofs": 5415,
+          "origine": "document"
+        },
+        {
+          "ofs": 5426,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

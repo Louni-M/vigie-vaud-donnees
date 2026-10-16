@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224613,
+  "numero": "19_INT_298",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-02-04"
+  },
+  "depose": "2019-01-29",
+  "titre": "Nouvelle catastrophe écologique dans le sud-est du Brésil : peut-on s'en VALE les mains ?",
+  "contributeurs": [
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-01-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-02-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-05-29",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-02-04",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_298_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-02-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_298_depot.pdf"
+    },
+    {
+      "titre": "Le Conseil d'Etat déplore la catastrophe du barrage de Brumadinho au Brésil",
+      "date": "2019-05-29",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=378862"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-4-fevrier-2020/reponse-du-conseil-detat-a-linterpellation-vassilis-venizelos-et-consorts-nouvelle-catastrophe-ecologique-dans-le-sud-est-du-bresil-peut-on-sen-vale-les-mains",
+  "communes": [
+    {
+      "ofs": 5646,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

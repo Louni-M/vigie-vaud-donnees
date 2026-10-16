@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228454,
+  "numero": "8_LEG_92",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2008-11-04"
+  },
+  "depose": "2008-10-28",
+  "titre": "Exposé des motifs et projet de décret autorisant le Conseil d'Etat à transférer les garanties octroyées par décrets du Grand Conseil à des établissements sanitaires d'intérêt public dans le cas de changement de débiteurs pour les emprunts contractés (novation)",
+  "contributeurs": [
+    {
+      "nom": "Philippe Martinet",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Martinet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-10-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-10-28",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2008-11-04",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-10-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_28_octobre_2008/92_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-10-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_28_octobre_2008/92_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-4-novembre-2008/expose-des-motifs-et-projet-de-decret-garanties-octroyees-a-des-etablissements-sanitaires-dinteret-public",
+  "communes": [
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5805,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

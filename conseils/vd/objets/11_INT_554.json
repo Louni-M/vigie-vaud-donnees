@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222285,
+  "numero": "11_INT_554",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-02-21"
+  },
+  "depose": "2011-11-08",
+  "titre": "La Direction des systèmes d'information (DSI) est-elle en mesure de gérer les programmes informatiques qui lui sont confiés ?",
+  "contributeurs": [
+    {
+      "nom": "Jacques Ansermet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jacques Ansermet",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-11-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-11-08",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-02-21",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-02-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_554_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2011-11-08",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_554_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-21-fevrier-2012/reponse-du-conseil-detat-a-linterpellation-jacques-ansermet-la-direction-des-systemes-dinformation-est-elle-en-mesure-de-gerer-les-programmes-informatiques-qui-lui-sont-confies",
+  "communes": [
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

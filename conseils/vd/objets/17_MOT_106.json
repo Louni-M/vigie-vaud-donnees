@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224106,
+  "numero": "17_MOT_106",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2018-01-09"
+  },
+  "depose": "2017-05-23",
+  "titre": "Fiscalité agricole : il faut se résoudre à réviser la loi vaudoise",
+  "contributeurs": [
+    {
+      "nom": "Hugues Gander",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-05-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-01-09",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-01-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_106_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-01-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/17_MOT_106_obj_et_dev.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-9-janvier-2018/motion-raphael-mahaim-et-consorts-fiscalite-agricole-il-faut-se-resoudre-a-reviser-la-loi-vaudoise",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223884,
+  "numero": "16_INT_631",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-07-03"
+  },
+  "depose": "2016-11-22",
+  "titre": "Emplois à Generali à Nyon ; que fait le Conseil d'Etat ?",
+  "contributeurs": [
+    {
+      "nom": "Fabienne Freymond Cantone",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Fabienne Freymond Cantone",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-11-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-12-13",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-07-03",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_631_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-11-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_631_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-3-juillet-2018/reponse-du-conseil-detat-a-linterpellation-fabienne-freymond-cantone-et-consorts-emplois-a-generali-a-nyon-que-fait-le-conseil-detat",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "titre"
+    }
+  ]
+}

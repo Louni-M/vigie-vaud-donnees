@@ -1,0 +1,1651 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5408,
+  "objets": [
+    {
+      "cle": "vd/25_HQU_47",
+      "numero": "25_HQU_47",
+      "type": "Question orale",
+      "depose": "2025-05-06",
+      "titre": "Interventions des secours VS 30 km dans les communes",
+      "auteurs": [
+        {
+          "nom": "Isabelle Freymond",
+          "parti": "IND"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Terminée",
+        "date": "2025-05-13"
+      },
+      "derniere_etape": "2025-05-13",
+      "communes": [
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5499,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_HQU_75",
+      "numero": "24_HQU_75",
+      "type": "Question orale",
+      "depose": "2024-09-03",
+      "titre": "Le retour des cyanobactéries",
+      "auteurs": [
+        {
+          "nom": "Valérie Zonca",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Terminée",
+        "date": "2024-09-10"
+      },
+      "derniere_etape": "2024-09-10",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5499,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_140",
+      "numero": "23_INT_140",
+      "type": "Interpellation",
+      "depose": "2023-08-29",
+      "titre": "Gens du voyage étrangers, afflux massif",
+      "auteurs": [
+        {
+          "nom": "Stéphane Jordan",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-05-29"
+      },
+      "derniere_etape": "2024-05-29",
+      "communes": [
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5495,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INI_6",
+      "numero": "21_INI_6",
+      "type": "Initiative",
+      "depose": "2021-09-28",
+      "titre": "Pour un accès public aux rives des lacs vaudois",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        },
+        {
+          "nom": "Jessica Jaccoud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Non pris en considération",
+        "date": "2021-09-28"
+      },
+      "derniere_etape": "2021-09-28",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5723,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5649,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_509",
+      "numero": "20_INT_509",
+      "type": "Interpellation",
+      "depose": "2020-07-01",
+      "titre": "Noville : Plein gaz pour la géothermie ? Ou géothermie pour faire le plein de gaz ?",
+      "auteurs": [
+        {
+          "nom": "Raphaël Mahaim",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-12-16"
+      },
+      "derniere_etape": "2020-12-16",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_POS_072",
+      "numero": "18_POS_072",
+      "type": "Postulat",
+      "depose": "2018-09-18",
+      "titre": "Mourir dans la pénombre des abattoirs",
+      "auteurs": [
+        {
+          "nom": "Jean-Luc Chollet",
+          "parti": null
+        },
+        {
+          "nom": "Jean-Luc Chollet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2020-10-28"
+      },
+      "derniere_etape": "2020-10-28",
+      "communes": [
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_RES_035",
+      "numero": "19_RES_035",
+      "type": "Résolution",
+      "depose": "2019-11-26",
+      "titre": "Gestion des sangliers",
+      "auteurs": [
+        {
+          "nom": "José Durussel",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2020-08-19"
+      },
+      "derniere_etape": "2020-08-19",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_242",
+      "numero": "20_LEG_242",
+      "type": "Décret/Loi",
+      "depose": "2020-06-24",
+      "titre": "Exposé des motifs EMPD ECF Canal du Haut-Lac, financer la part cantonale aux travaux de protection contre les crues à réaliser sur les Communes de Roche, Rennaz et Noville (242)",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2020-06-24"
+      },
+      "derniere_etape": "2020-06-24",
+      "communes": [
+        {
+          "ofs": 5413,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5408,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5415,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_394",
+      "numero": "19_INT_394",
+      "type": "Interpellation",
+      "depose": "2019-09-24",
+      "titre": "Forage à Noville : histoire sans fin ?",
+      "auteurs": [
+        {
+          "nom": "Raphaël Mahaim",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-05-20"
+      },
+      "derniere_etape": "2020-05-20",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_POS_137",
+      "numero": "19_POS_137",
+      "type": "Postulat",
+      "depose": "2019-04-02",
+      "titre": "Instaurons une journée cantonale pour le climat !",
+      "auteurs": [
+        {
+          "nom": "Anne Baehler Bech",
+          "parti": "VER"
+        },
+        {
+          "nom": "Anne Baehler Bech",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2020-02-04"
+      },
+      "derniere_etape": "2020-02-04",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5485,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_239",
+      "numero": "18_INT_239",
+      "type": "Interpellation",
+      "depose": "2018-09-18",
+      "titre": "Pourquoi le Département du territoire et de l'environnement autorise-t-il un forage coûteux, anti-écologique et sans avenir à Noville ?",
+      "auteurs": [
+        {
+          "nom": "Hadrien Buclin",
+          "parti": "EP"
+        },
+        {
+          "nom": "Hadrien Buclin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2020-02-04"
+      },
+      "derniere_etape": "2020-02-04",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_412",
+      "numero": "19_INT_412",
+      "type": "Interpellation",
+      "depose": "2019-10-29",
+      "titre": "L'Etat de Vaud commande une ligne de transports publics et les communes paient !",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-11-05"
+      },
+      "derniere_etape": "2019-11-05",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_MOT_099",
+      "numero": "19_MOT_099",
+      "type": "Motion",
+      "depose": "2019-06-25",
+      "titre": "Acceptation de cadeaux par les élus : clarifier les règles du jeu pour les député-e-s du Grand Conseil",
+      "auteurs": [
+        {
+          "nom": "Jean Tschopp",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée à commission",
+        "date": "2019-10-01"
+      },
+      "derniere_etape": "2019-10-01",
+      "communes": [
+        {
+          "ofs": 5516,
+          "origine": "document"
+        },
+        {
+          "ofs": 5514,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INI_007",
+      "numero": "18_INI_007",
+      "type": "Initiative",
+      "depose": "2018-09-04",
+      "titre": "Lutte contre les néophytes envahissantes : Agir à la source !",
+      "auteurs": [
+        {
+          "nom": "Daniel Trolliet",
+          "parti": null
+        },
+        {
+          "nom": "Daniel Trolliet",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2019-05-28"
+      },
+      "derniere_etape": "2019-05-28",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_76",
+      "numero": "19_LEG_76",
+      "type": "Décret/Loi",
+      "depose": "2019-04-30",
+      "titre": "Exposé des motifs et projet de décret portant modification du Plan directeur des carrières (PDCar)",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Yvan Pahud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-05-07"
+      },
+      "derniere_etape": "2019-05-07",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_RAP_61",
+      "numero": "19_RAP_61",
+      "type": "Rapport",
+      "depose": "2019-01-08",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur les opérations effectuées du 1er janvier 2016 au 31 décembre 2017 sur le Fonds pour l'acquisition de droits réels et d'immeubles de réserve (FAIR), selon décret du 12 septembre 1994, modifié le 4 septembre 2007",
+      "auteurs": [
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-01-08"
+      },
+      "derniere_etape": "2019-01-08",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_695",
+      "numero": "17_INT_695",
+      "type": "Interpellation",
+      "depose": "2017-03-28",
+      "titre": "Desserte de l'hôpital Riviera Chablais et prolongement de la ligne VMCV 201",
+      "auteurs": [
+        {
+          "nom": "Susanne Jungclaus Delarze",
+          "parti": null
+        },
+        {
+          "nom": "Susanne Jungclaus Delarze",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-12-18"
+      },
+      "derniere_etape": "2018-12-18",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_LEG_53",
+      "numero": "18_LEG_53",
+      "type": "Décret/Loi",
+      "depose": "2018-11-06",
+      "titre": "Exposé des motifs et projet de loi sur les ressources naturelles du sous-sol (LRNSS) et Rapport du Conseil d'Etat au Grand Conseil sur la motion Raphaël Mahaim et consorts \"Motion du groupe des verts en faveur de la géothermie : pour voir loin, il faut creuser profond !\"",
+      "auteurs": [
+        {
+          "nom": "Jean-François Chapuisat",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Jean-François Chapuisat",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2018-12-11"
+      },
+      "derniere_etape": "2018-12-11",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5501,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5540,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_003",
+      "numero": "17_INT_003",
+      "type": "Interpellation",
+      "depose": "2017-08-22",
+      "titre": "Petrosvibri SA à Noville, de l'eau dans le gaz ?",
+      "auteurs": [
+        {
+          "nom": "Jean-Michel Dolivo",
+          "parti": "EP"
+        },
+        {
+          "nom": "Conseil d'État",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-11-27"
+      },
+      "derniere_etape": "2018-11-27",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_579",
+      "numero": "16_INT_579",
+      "type": "Interpellation",
+      "depose": "2016-09-27",
+      "titre": "Mesures de contrainte et intimidation à l'encontre de requérant-e-s d'asile et depersonnes solidaires : le gouvernement sort-il ses griffes ?",
+      "auteurs": [
+        {
+          "nom": "Jean-Michel Dolivo",
+          "parti": "EP"
+        },
+        {
+          "nom": "Jean-Michel Dolivo",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-11-20"
+      },
+      "derniere_etape": "2018-11-20",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_RES_016",
+      "numero": "18_RES_016",
+      "type": "Résolution",
+      "depose": "2018-10-30",
+      "titre": "L'Aquarius doit pouvoir naviguer",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Retiré",
+        "date": "2018-11-13"
+      },
+      "derniere_etape": "2018-11-13",
+      "communes": [
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5487,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_LEG_54",
+      "numero": "18_LEG_54",
+      "type": "Décret/Loi",
+      "depose": "2018-11-06",
+      "titre": "Exposé des motifs et projet de décret ordonnant la convocation des électeurs pour se prononcer sur l'initiative populaire « Pour un canton sans extraction d'hydrocarbures »",
+      "auteurs": [
+        {
+          "nom": "Jean-François Chapuisat",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Jean-François Chapuisat",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Transmise au CE",
+        "date": "2018-11-13"
+      },
+      "derniere_etape": "2018-11-13",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5863,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5636,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_514",
+      "numero": "16_INT_514",
+      "type": "Interpellation",
+      "depose": "2016-05-10",
+      "titre": "Reviens Obelix !!!",
+      "auteurs": [
+        {
+          "nom": "Dominique-Richard Bonny",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Dominique-Richard Bonny",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-10-11"
+      },
+      "derniere_etape": "2016-10-11",
+      "communes": [
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5939,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5415,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_551",
+      "numero": "16_INT_551",
+      "type": "Interpellation",
+      "depose": "2016-09-06",
+      "titre": "A l'ouest du Pecos, Noville et Villeneuve ? Le droit constitutionnel de manifester en question dans le canton de Vaud?",
+      "auteurs": [
+        {
+          "nom": "Jean-Michel Dolivo",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-09-06"
+      },
+      "derniere_etape": "2016-09-06",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5414,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_LEG_275",
+      "numero": "16_LEG_275",
+      "type": "Décret/Loi",
+      "depose": "2016-06-14",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 1'700'000.- destiné à financer l'assainissement de la décharge de l'Arsat sur la Commune d'Ormont-Dessous",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2016-06-21"
+      },
+      "derniere_etape": "2016-06-21",
+      "communes": [
+        {
+          "ofs": 5410,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_506",
+      "numero": "16_INT_506",
+      "type": "Interpellation",
+      "depose": "2016-05-24",
+      "titre": "Ça ne marche pas à Noville !",
+      "auteurs": [
+        {
+          "nom": "Martial De Montmollin",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-05-24"
+      },
+      "derniere_etape": "2016-05-24",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_PET_042",
+      "numero": "15_PET_042",
+      "type": "Pétition",
+      "depose": "2015-09-29",
+      "titre": "Pétition NON aux explorations et exploitations d'hydrocarbures dans le Canton de Vaud !",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-02-09"
+      },
+      "derniere_etape": "2016-02-09",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_MOT_071",
+      "numero": "15_MOT_071",
+      "type": "Motion",
+      "depose": "2015-09-01",
+      "titre": "Stop aux recherches d'hydrocarbures",
+      "auteurs": [
+        {
+          "nom": "Fabienne Despot",
+          "parti": null
+        },
+        {
+          "nom": "Fabienne Despot",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-02-09"
+      },
+      "derniere_etape": "2016-02-09",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5501,
+          "origine": "document"
+        },
+        {
+          "ofs": 5540,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5539,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_417",
+      "numero": "15_INT_417",
+      "type": "Interpellation",
+      "depose": "2015-08-25",
+      "titre": "Un préfet préside un congrès d'un parti politique ? Quid d'un Juge cantonal tant qu'à faire ?",
+      "auteurs": [
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": null
+        },
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-01-19"
+      },
+      "derniere_etape": "2016-01-19",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5425,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_366",
+      "numero": "15_INT_366",
+      "type": "Interpellation",
+      "depose": "2015-04-21",
+      "titre": "Perte de souveraineté des communes",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-09-01"
+      },
+      "derniere_etape": "2015-09-01",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5785,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_303",
+      "numero": "14_INT_303",
+      "type": "Interpellation",
+      "depose": "2014-10-28",
+      "titre": "Gaz, moratoire ou passoire ?",
+      "auteurs": [
+        {
+          "nom": "Michel Collet",
+          "parti": null
+        },
+        {
+          "nom": "Michel Collet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-04-21"
+      },
+      "derniere_etape": "2015-04-21",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5540,
+          "origine": "document"
+        },
+        {
+          "ofs": 5501,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_299",
+      "numero": "14_INT_299",
+      "type": "Interpellation",
+      "depose": "2014-10-28",
+      "titre": "Cela sent de plus en plus le gaz dans ce canton !",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": null
+        },
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-04-21"
+      },
+      "derniere_etape": "2015-04-21",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_122",
+      "numero": "13_INT_122",
+      "type": "Interpellation",
+      "depose": "2013-04-30",
+      "titre": "L'avenir des Carrières d'Arvel est-il en mains du Conseil d'Etat ?",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-10-07"
+      },
+      "derniere_etape": "2014-10-07",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5655,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_200",
+      "numero": "13_INT_200",
+      "type": "Interpellation",
+      "depose": "2013-12-17",
+      "titre": "Gaz non conventionnel aux Grangettes, deux poids, deux mesures ?",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": null
+        },
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-05-06"
+      },
+      "derniere_etape": "2014-05-06",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_INT_014",
+      "numero": "12_INT_014",
+      "type": "Interpellation",
+      "depose": "2012-09-04",
+      "titre": "L'essai fait pour l'assainissement de la décharge des Saviez, suites... et fin ?",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-03-05"
+      },
+      "derniere_etape": "2013-03-05",
+      "communes": [
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_INT_010",
+      "numero": "12_INT_010",
+      "type": "Interpellation",
+      "depose": "2012-09-04",
+      "titre": "Décharge des Saviez à Villeneuve : un épandage de jus toxiques risqué pour la faune et la flore",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-03-05"
+      },
+      "derniere_etape": "2013-03-05",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_620",
+      "numero": "11_INT_620",
+      "type": "Interpellation",
+      "depose": "2012-03-20",
+      "titre": "Gaz de schiste trans-lémanique",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-09-11"
+      },
+      "derniere_etape": "2012-09-11",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_433",
+      "numero": "12_LEG_433",
+      "type": "Décret/Loi",
+      "depose": "2012-03-06",
+      "titre": "Exposé des motifs et projets de décrets accordant au Conseil d'Etat :- un crédit-cadre de CHF 2'517'700.- destiné à financer l'assainissement d'anciennes décharges communales, de sites contaminés orphelins, de sites contaminés du canton ou dont la responsabilité lui incombe, et les opérations destinées à prévenir, limiter ou supprimer une pollution ;- un crédit de CHF 1'419'000.- destiné à financer la deuxième phase d'assainissement de la décharge des Saviez sur le territoire de la Commune de Noville",
+      "auteurs": [
+        {
+          "nom": "Claude Schwab",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-03-13"
+      },
+      "derniere_etape": "2012-03-13",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_358",
+      "numero": "11_LEG_358",
+      "type": "Décret/Loi",
+      "depose": "2011-05-31",
+      "titre": "EMPDs accordant au CE un crédit de CHF 4'200'000.--, destiné à l'Entrep de correct. fluviale de la Thielle, pr financer la part cant. aux travaux de protection contre les crues à réaliser sur la Cmne d'Yverdon-les-Bains, accordant au CE un crédit de CHF 3'000'000.--, destiné à l'Entrep. de correct. fluviale de la Grande Eau, pr financer la part cant. aux travaux de protection contre les crues à réaliser sur les Cmnes d'Aigle et Yvorne et accordant au CE un crédit de CHF 3'000'000.--, destiné àl'Entrep. de correct. fluviale de la Tinière, pr financer la part cant. aux travaux de protection contre les crues à réaliser sur la Cmne de Villeneuve, accordant au CE un crédit de CHF 3'000'000.--, destiné à l'Entrep. de correct. fluviale de la Baye de Clarens, pr financer la part cant. aux travaux de protection contre les crues à réaliser sur la Cmne de Montreux, accordant au CE un crédit de CHF 2'100'000.--, destiné à l'Entrep. de correct. fluviale du Famolens, pr financer la part cant. aux travaux de protection contre les cures à réaliser sur la Cmne de Rolle, accordant au CE de CHF 2'100'000.--, destiné à l'Entrep. de correct. fluviale du Nozon, pr financer la part cant. aux travaux de protection contre les crues à réaliser sur la Cmne d'Orbe, accordant au CE un crédit de CHF 4'130'000.--, destiné à l'Entrep. de correct. fluviale de la Brinaz, pr financer la part cant. aux travaux de protection contre les crues à réaliser sur les Cmnes de Grandson et Montagny, accordant au CE un crédit de CHF 4'200'000.--, destiné à l'Entrep. de correct. fluviale du Canal du Haut-Lac, pr financer la part cant. aux travaux de protection contre les crues à réaliser sur les Cmnesde Roche, Rennaz et Noville, accordant au CE un crédit de CHF 2'190'000.-- pour l'établiss. des projets prioritaires de la 3ème correct. du Rhône, accordant au CE un crédit de CHF 3'500'000.- destiné à l'Entrep. de correct. fluviale pr les aménagements piscioles sur divers cours d'eau et à la gestion informatisée",
+      "auteurs": [
+        {
+          "nom": "André Marendaz",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-05-31"
+      },
+      "derniere_etape": "2011-05-31",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5401,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5415,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5414,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5886,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5861,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5757,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5561,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5413,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5408,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_438",
+      "numero": "10_INT_438",
+      "type": "Interpellation",
+      "depose": "2010-11-02",
+      "titre": "Correction du Rhône, vers quels méandres ?",
+      "auteurs": [
+        {
+          "nom": "Alessandra Silauri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-05-31"
+      },
+      "derniere_etape": "2011-05-31",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5406,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5409,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_281",
+      "numero": "10_LEG_281",
+      "type": "Décret/Loi",
+      "depose": "2010-11-23",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit additionnel de CHF 17'380'000.- au crédit alloué par décret du 9 septembre 2003 pour la construction de la route H144 Villeneuve - Le Bouveret, section Rennaz - Les Evouettes (partie vaudoise) pris en compte dans l'EMPD 114 de septembre 2003",
+      "auteurs": [
+        {
+          "nom": "Frédéric Borloz",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Frédéric Borloz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-11-23"
+      },
+      "derniere_etape": "2010-11-23",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5403,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_259",
+      "numero": "10_LEG_259",
+      "type": "Décret/Loi",
+      "depose": "2010-06-22",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit de CHF 5'160'000.-, destiné à l'Entreprise de correction fluviale de l'Eau Froide, pour financer la part cantonale aux travaux de protection contre les crues à réaliser sur les Communes de Villeneuve, Roche et Rennaz",
+      "auteurs": [
+        {
+          "nom": "Michel Renaud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-06-22"
+      },
+      "derniere_etape": "2010-06-22",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5413,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5404,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5607,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

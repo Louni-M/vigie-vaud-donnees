@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227724,
+  "numero": "24_INT_78",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2025-09-16"
+  },
+  "depose": "2024-04-23",
+  "titre": "Centre EVAM de Bussigny, quelle cohabitation avec les riverains ?",
+  "contributeurs": [
+    {
+      "nom": "Cédric Weissert",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-04-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-04-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-08-28",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-16",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-04-30",
+      "lien": "https://www.sonomix.ch/live/gcvd/2815#469"
+    },
+    {
+      "titre": "https://www.20min.ch/fr/story/bussigny-vd-le-cri-du-coeur-des-habitants-pour-en-finir-avec-les-depredations-103071300",
+      "date": "2024-04-30",
+      "lien": "https://www.20min.ch/fr/story/bussigny-vd-le-cri-du-coeur-des-habitants-pour-en-finir-avec-les-depredations-103071300"
+    },
+    {
+      "titre": "Centre de l’Établissement vaudois d’accueil des migrants à Bussigny",
+      "date": "2024-08-28",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2256097"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e498b0e0-112e-4c2a-bbd1-f62e81006fd9/meeting/1029636",
+  "communes": [
+    {
+      "ofs": 5624,
+      "origine": "titre"
+    }
+  ]
+}

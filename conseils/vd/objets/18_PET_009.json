@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224462,
+  "numero": "18_PET_009",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2020-03-03"
+  },
+  "depose": "2018-02-13",
+  "titre": "Pétition suite à refus d'accès à un document officiel (Règlement de la Commission des visiteurs/euses du Grand Conseil)",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2018-02-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-03-03",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_009_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_009_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-3-mars-2020/petition-suite-a-refus-dacces-a-un-document-officiel-reglement-de-la-commission-des-visiteurs/euses-du-grand-conseil",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

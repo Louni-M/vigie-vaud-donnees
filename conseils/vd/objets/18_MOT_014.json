@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224395,
+  "numero": "18_MOT_014",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2018-11-27"
+  },
+  "depose": "2018-01-09",
+  "titre": "Le peuple suisse a accepté la nouvelle loi sur l'énergie, et après ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Claude Glardon",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Claude Glardon",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-01-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-01-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-11-27",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_014_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-11-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_014_obj_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-01-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_MOT_014_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-27-novembre-2018/motion-maurice-mischler-et-consorts-le-peuple-suisse-a-accepte-la-nouvelle-loi-sur-lenergie-et-apres",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5939,
+      "origine": "document"
+    }
+  ]
+}

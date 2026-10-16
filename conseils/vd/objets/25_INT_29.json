@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228150,
+  "numero": "25_INT_29",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2026-05-12"
+  },
+  "depose": "2025-02-25",
+  "titre": "Non-renouvellement d’un contrat de travail à l’UNIL – des pratiques qui interrogent",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Démétriadès",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-02-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-03-04",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2026-05-12",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-03-04",
+      "lien": "https://www.sonomix.ch/live/gcvd/3055#875"
+    },
+    {
+      "titre": "https://www.vd.ch/gc/depute-e-s/detail-objet/objet/24_RES_8/membre/280230",
+      "date": "2025-03-04",
+      "lien": "https://www.vd.ch/gc/depute-e-s/detail-objet/objet/24_RES_8/membre/280230"
+    },
+    {
+      "titre": "https://vaud.ssp-vpod.ch/news/2025/contrat-de-professeur-non-renouvele-lunil-invente-des-procedures-pour-se-debarrasser-dun-employe/",
+      "date": "2025-03-04",
+      "lien": "https://vaud.ssp-vpod.ch/news/2025/contrat-de-professeur-non-renouvele-lunil-invente-des-procedures-pour-se-debarrasser-dun-employe/"
+    },
+    {
+      "titre": "https://www.rts.ch/info/regions/vaud/2025/article/licenciement-a-l-unil-tensions-autour-d-un-professeur-pro-palestinien-28793795.html",
+      "date": "2025-03-04",
+      "lien": "https://www.rts.ch/info/regions/vaud/2025/article/licenciement-a-l-unil-tensions-autour-d-un-professeur-pro-palestinien-28793795.html"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6d3ca303-c938-454f-997b-0519bcef0e5f/meeting/1029668",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5627,
+      "origine": "document"
+    }
+  ]
+}

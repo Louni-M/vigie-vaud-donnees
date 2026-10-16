@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 296093,
+  "numero": "25_HQU_135",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2025-12-09"
+  },
+  "depose": "2025-12-02",
+  "titre": "Problème des formations utilisant Konvink",
+  "contributeurs": [
+    {
+      "nom": "Isabelle Freymond",
+      "parti": "IND",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-12-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-12-09",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-12-09",
+      "lien": "https://www.sonomix.ch/live/gcvd/3296#177"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/121bd7bc-04ba-4511-be43-2d872586ef16/meeting/1029648",
+  "communes": []
+}

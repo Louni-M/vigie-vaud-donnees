@@ -1,0 +1,2227 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5764,
+  "objets": [
+    {
+      "cle": "vd/26_QUE_87",
+      "numero": "26_QUE_87",
+      "type": "Simple question",
+      "depose": "2026-10-06",
+      "titre": "Recours à des consultants externes et statut de la directive DRUIDE 1.5.2 question 9",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traktandiert",
+        "date": "2026-10-06"
+      },
+      "derniere_etape": "2026-10-06",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/26_INT_88",
+      "numero": "26_INT_88",
+      "type": "Interpellation",
+      "depose": "2026-06-16",
+      "titre": "Vers une réouverture de la ligne de chemin de fer Vallorbe – Pontarlier via Jougne ?",
+      "auteurs": [
+        {
+          "nom": "Vincent Keller",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Transmise au CE",
+        "date": "2026-06-23"
+      },
+      "derniere_etape": "2026-06-23",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/26_POS_21",
+      "numero": "26_POS_21",
+      "type": "Postulat",
+      "depose": "2026-05-19",
+      "titre": "Victimes de violences liées au genre sans statut légal et risque d’expulsion : une contradiction institutionnelle préoccupante",
+      "auteurs": [
+        {
+          "nom": "Laure Jaton",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Felix Stürner",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée à commission",
+        "date": "2026-05-26"
+      },
+      "derniere_etape": "2026-05-26",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/26_HQU_51",
+      "numero": "26_HQU_51",
+      "type": "Question orale",
+      "depose": "2026-04-21",
+      "titre": "Question orale : Centres fédéraux d’asile (CFA) de Vallorbe et des Rochat: étude de [particulier] et après ?",
+      "auteurs": [
+        {
+          "nom": "Laure Jaton",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Terminée",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/25_LEG_74",
+      "numero": "25_LEG_74",
+      "type": "Décret/Loi",
+      "depose": "2026-02-10",
+      "titre": "Accordant au Conseil d'Etat un crédit d'étude de CHF 1'000'000 destiné à financer les études pour la mise en valeur des mosaïques sur le site archéologique de Boscéaz à Orbe et répondant à la motion Denis-Olivier Maillefer et consorts demandant la mise en valeur de la villa romaine et au postulat Patrick Simonin et consorts – Faudra-t-il que le ciel tombe sur la tête du Conseil d'Etat pour entrevoir des actes dans la protection et la mise en valeur de la villa romaine d'Orbe ?",
+      "auteurs": [
+        {
+          "nom": "Cendrine Cachemaille",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2026-02-10"
+      },
+      "derniere_etape": "2026-02-10",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5761,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_LEG_91",
+      "numero": "24_LEG_91",
+      "type": "Décret/Loi",
+      "depose": "2025-08-27",
+      "titre": "EMPD accordant au Conseil d'État un crédit d’investissement de CHF 8'000’000.- pour financer les études, la démolition du bâtiment et du dépôt existant (ECA 3593a et 3593b) ainsi que la construction d'un centre de région Nord de la DGE sur le site de «Champ-Lovats», parcelle n°1605, à Yverdon-les-Bains",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2025-08-27"
+      },
+      "derniere_etape": "2025-08-27",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5935,
+          "origine": "document"
+        },
+        {
+          "ofs": 5555,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_INT_45",
+      "numero": "24_INT_45",
+      "type": "Interpellation",
+      "depose": "2024-03-05",
+      "titre": "Suisse romande ? Ici Londres !",
+      "auteurs": [
+        {
+          "nom": "David Vogel",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-08-21"
+      },
+      "derniere_etape": "2024-08-21",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_68",
+      "numero": "23_INT_68",
+      "type": "Interpellation",
+      "depose": "2023-04-25",
+      "titre": "‘Big Brother is watching you’, ou quand les communes vous surveillent hors du cadre légal",
+      "auteurs": [
+        {
+          "nom": "Oriane Sarrasin",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-09-27"
+      },
+      "derniere_etape": "2023-09-27",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_POS_16",
+      "numero": "21_POS_16",
+      "type": "Postulat",
+      "depose": "2021-03-09",
+      "titre": "Simplifier les responsabilités des bergers utilisant des chiens de protection des troupeaux officiels (CPT)",
+      "auteurs": [
+        {
+          "nom": "Grégory Devaud",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2022-03-23"
+      },
+      "derniere_etape": "2022-03-23",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_LEG_170",
+      "numero": "21_LEG_170",
+      "type": "Décret/Loi",
+      "depose": "2021-12-21",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit-cadre de CHF 8'200'000.- pour financer les travaux de consolidation et de protection de neuf objets répertoriés dans le cadre des dégâts des forces de la nature (DFN)",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-12-21"
+      },
+      "derniere_etape": "2021-12-21",
+      "communes": [
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5804,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5750,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_13",
+      "numero": "20_LEG_13",
+      "type": "Décret/Loi",
+      "depose": "2021-12-15",
+      "titre": "EMPL modifiant la loi du 29 mai 1985 sur la santé publique (LSP) - Réforme de l'organisation des soins préhospitaliers et du transport des patients (réforme du DisCUP)",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2021-12-15"
+      },
+      "derniere_etape": "2021-12-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5407,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_018",
+      "numero": "17_POS_018",
+      "type": "Postulat",
+      "depose": "2017-10-31",
+      "titre": "Soutenir l'Agenda 21 en favorisant l'utilisation et la production de gravier indigène, ceci en maintenant des postes de travail dans le canton",
+      "auteurs": [
+        {
+          "nom": "Jessica Jaccoud",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Jessica Jaccoud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2021-10-13"
+      },
+      "derniere_etape": "2021-10-13",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_487",
+      "numero": "11_INT_487",
+      "type": "Interpellation",
+      "depose": "2011-02-22",
+      "titre": "Trains de nuit franco-italiens au travers de la Suisse. Trains fantômes !",
+      "auteurs": [
+        {
+          "nom": "André Marendaz",
+          "parti": null
+        },
+        {
+          "nom": "André Marendaz",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2021-04-21"
+      },
+      "derniere_etape": "2021-04-21",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_QUE_17",
+      "numero": "20_QUE_17",
+      "type": "Simple question",
+      "depose": "2020-12-16",
+      "titre": "Forêt vaudoise : enjeux émotionnels et/ou objet scientifique ?",
+      "auteurs": [
+        {
+          "nom": "Yves Ferrari",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2021-02-17"
+      },
+      "derniere_etape": "2021-02-17",
+      "communes": [
+        {
+          "ofs": 5523,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_QUE_12",
+      "numero": "20_QUE_12",
+      "type": "Simple question",
+      "depose": "2020-11-17",
+      "titre": "Nouvelle gare du Day, où en sommes-nous ?",
+      "auteurs": [
+        {
+          "nom": "Sébastien Cala",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2021-01-13"
+      },
+      "derniere_etape": "2021-01-13",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_POS_051",
+      "numero": "18_POS_051",
+      "type": "Postulat",
+      "depose": "2018-04-17",
+      "titre": "Faudra-t-il que le ciel tombe sur la tête du Conseil d'Etat pour entrevoir des actes dans la protection et la mise en valeur de la Villa romaine d'Orbe ?",
+      "auteurs": [
+        {
+          "nom": "Pierrette Roulet-Grin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2019-09-10"
+      },
+      "derniere_etape": "2019-09-10",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5761,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_PET_016",
+      "numero": "18_PET_016",
+      "type": "Pétition",
+      "depose": "2018-05-15",
+      "titre": "Pétition - La famille U. ne doit pas être renvoyée",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2019-01-29"
+      },
+      "derniere_etape": "2019-01-29",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_71",
+      "numero": "19_LEG_71",
+      "type": "Décret/Loi",
+      "depose": "2019-01-15",
+      "titre": "Exposé des motifs et projet de décret autorisant le Conseil d'État à adhérer à la Convention intercantonale sur le service intercantonal d'entretien du réseau autoroutier",
+      "auteurs": [
+        {
+          "nom": "Etienne Räss",
+          "parti": null
+        },
+        {
+          "nom": "Etienne Räss",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5731,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_681",
+      "numero": "17_INT_681",
+      "type": "Interpellation",
+      "depose": "2017-03-07",
+      "titre": "Transfert du rail à la route avec l'abandon du trafic marchandises sur les lignes Travys. Quelles conséquences économiques et surtout écologiques pour le Nord-Vaudois ?",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": null
+        },
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-06-12"
+      },
+      "derniere_etape": "2018-06-12",
+      "communes": [
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5766,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_PET_008",
+      "numero": "18_PET_008",
+      "type": "Pétition",
+      "depose": "2018-01-09",
+      "titre": "Pétition pour le droit de rester en Suisse de la famille O. et A., leurs filles G. 7 ans + G. 4 ans et contre la décision d'expulsion du SEM (Secrétariat d'Etat aux Migrations), Berne",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2018-06-05"
+      },
+      "derniere_etape": "2018-06-05",
+      "communes": [
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_595",
+      "numero": "16_INT_595",
+      "type": "Interpellation",
+      "depose": "2016-10-04",
+      "titre": "Politique d'asile : que fait le Conseil d'Etat des accords de Dublin ?",
+      "auteurs": [
+        {
+          "nom": "Claude-Alain Voiblet",
+          "parti": null
+        },
+        {
+          "nom": "Claude-Alain Voiblet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-01-16"
+      },
+      "derniere_etape": "2018-01-16",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_PET_050",
+      "numero": "16_PET_050",
+      "type": "Pétition",
+      "depose": "2016-09-27",
+      "titre": "Pétition en faveur de [particulier]",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-10-04"
+      },
+      "derniere_etape": "2016-10-04",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_525",
+      "numero": "16_INT_525",
+      "type": "Interpellation",
+      "depose": "2016-06-14",
+      "titre": "Fermeture de la douane des Verrières : quelles conséquences économiques et environnementales pour le Nord vaudois ?",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": null
+        },
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2016-06-21"
+      },
+      "derniere_etape": "2016-06-21",
+      "communes": [
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_430",
+      "numero": "15_INT_430",
+      "type": "Interpellation",
+      "depose": "2015-09-22",
+      "titre": "Manque d'infrastructure sur le site de marchandise douanier de Chavornay",
+      "auteurs": [
+        {
+          "nom": "Pierre Guignard",
+          "parti": null
+        },
+        {
+          "nom": "Pierre Guignard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-06-07"
+      },
+      "derniere_etape": "2016-06-07",
+      "communes": [
+        {
+          "ofs": 5749,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_476",
+      "numero": "16_INT_476",
+      "type": "Interpellation",
+      "depose": "2016-02-02",
+      "titre": "Vallorbe et son centre de requérents d'asile : de l'accueil au renvoi ?",
+      "auteurs": [
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": null
+        },
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-05-31"
+      },
+      "derniere_etape": "2016-05-31",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_392",
+      "numero": "15_INT_392",
+      "type": "Interpellation",
+      "depose": "2015-06-09",
+      "titre": "Solidarité oui, mais dans le respect des lois",
+      "auteurs": [
+        {
+          "nom": "Véronique Hurni",
+          "parti": null
+        },
+        {
+          "nom": "Véronique Hurni",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2015-11-24"
+      },
+      "derniere_etape": "2015-11-24",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_304",
+      "numero": "14_INT_304",
+      "type": "Interpellation",
+      "depose": "2014-10-28",
+      "titre": "Arrivée de requérants d'asile en provenance de l'Union Européenne : ne pas créer de précédent !",
+      "auteurs": [
+        {
+          "nom": "Claude-Alain Voiblet",
+          "parti": null
+        },
+        {
+          "nom": "Claude-Alain Voiblet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-04-21"
+      },
+      "derniere_etape": "2015-04-21",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_PET_028",
+      "numero": "14_PET_028",
+      "type": "Pétition",
+      "depose": "2015-02-03",
+      "titre": "Pétition du groupe Socialiste, Verts et Sympathisants pour une amélioration à court terme du confort des voyageurs à la gare de Cossonay Penthalaz",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2015-03-10"
+      },
+      "derniere_etape": "2015-03-10",
+      "communes": [
+        {
+          "ofs": 5477,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5495,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_183",
+      "numero": "13_INT_183",
+      "type": "Interpellation",
+      "depose": "2013-11-19",
+      "titre": "A9b : l'OFROU se moque du Nord vaudois !",
+      "auteurs": [
+        {
+          "nom": "Dominique-Richard Bonny",
+          "parti": null
+        },
+        {
+          "nom": "Dominique-Richard Bonny",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-04-29"
+      },
+      "derniere_etape": "2014-04-29",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5744,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_124",
+      "numero": "13_INT_124",
+      "type": "Interpellation",
+      "depose": "2013-04-30",
+      "titre": "Le Conseil d'Etat a-t-il des projets pour rendre plus fluide le trafic entre Cossonay-Gare et Cossonay-Ville ?",
+      "auteurs": [
+        {
+          "nom": "François Brélaz",
+          "parti": null
+        },
+        {
+          "nom": "François Brélaz",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-10-08"
+      },
+      "derniere_etape": "2013-10-08",
+      "communes": [
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5486,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_PET_011",
+      "numero": "13_PET_011",
+      "type": "Pétition",
+      "depose": "2013-09-24",
+      "titre": "Pétition contre l'agrandissement du CEP de Vallorbe",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2013-09-24"
+      },
+      "derniere_etape": "2013-09-24",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_POS_020",
+      "numero": "13_POS_020",
+      "type": "Postulat",
+      "depose": "2013-02-26",
+      "titre": "Encourager le covoiturage",
+      "auteurs": [
+        {
+          "nom": "Isabelle Chevalley",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Isabelle Chevalley",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2013-08-27"
+      },
+      "derniere_etape": "2013-08-27",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_INT_073",
+      "numero": "12_INT_073",
+      "type": "Interpellation",
+      "depose": "2013-04-16",
+      "titre": "Transmission d'informations entre l'EVAM et les polices",
+      "auteurs": [
+        {
+          "nom": "Pierre-Yves Rapaz",
+          "parti": null
+        },
+        {
+          "nom": "Pierre-Yves Rapaz",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-04-30"
+      },
+      "derniere_etape": "2013-04-30",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_INT_053",
+      "numero": "12_INT_053",
+      "type": "Interpellation",
+      "depose": "2012-11-13",
+      "titre": "Lignes TGV de l'Arc jurassien : nouvelles menaces ?",
+      "auteurs": [
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": null
+        },
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-04-23"
+      },
+      "derniere_etape": "2013-04-23",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_PET_002",
+      "numero": "12_PET_002",
+      "type": "Pétition",
+      "depose": "2012-12-11",
+      "titre": "Pétition en faveur de la famille Sardaryan",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2012-12-11"
+      },
+      "derniere_etape": "2012-12-11",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_486",
+      "numero": "12_LEG_486",
+      "type": "Décret/Loi",
+      "depose": "2012-11-06",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 13'200'000.- pour financer la maintenance des ouvrages d'art du réseau routier cantonal pour la période de 2012 à 2015",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-11-06"
+      },
+      "derniere_etape": "2012-11-06",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_RES_051",
+      "numero": "11_RES_051",
+      "type": "Résolution",
+      "depose": "2012-01-31",
+      "titre": "Pour des solutions face à l'engorgement quotidien du trafic aux abords de la douane du Creux à Vallorbe",
+      "auteurs": [
+        {
+          "nom": "Jacques Nicolet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2012-02-07"
+      },
+      "derniere_etape": "2012-02-07",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_535",
+      "numero": "11_INT_535",
+      "type": "Interpellation",
+      "depose": "2011-09-20",
+      "titre": "Engorgement quotidien du trafic aux abords de la douane du Creux à Vallorbe, le Conseil d'Etat entend-il prendre le taureau par les cornes ?",
+      "auteurs": [
+        {
+          "nom": "Jacques Nicolet",
+          "parti": null
+        },
+        {
+          "nom": "Jacques Nicolet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-02-07"
+      },
+      "derniere_etape": "2012-02-07",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        },
+        {
+          "ofs": 5750,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_488",
+      "numero": "11_INT_488",
+      "type": "Interpellation",
+      "depose": "2011-02-22",
+      "titre": "Liaison Lausanne-Paris via Vallorbe/Genève : optimisation du parcours vs rentabilité quelle stratégie pour le long terme ?",
+      "auteurs": [
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-11-08"
+      },
+      "derniere_etape": "2011-11-08",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_RAP_390",
+      "numero": "11_RAP_390",
+      "type": "Rapport",
+      "depose": "2011-09-27",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Dominique-Richard Bonny et consorts intitulé \"Des médecins pour nos campagnes\"",
+      "auteurs": [
+        {
+          "nom": "Catherine Roulet",
+          "parti": null
+        },
+        {
+          "nom": "Catherine Roulet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-09-27"
+      },
+      "derniere_etape": "2011-09-27",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5678,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_466",
+      "numero": "10_INT_466",
+      "type": "Interpellation",
+      "depose": "2010-12-14",
+      "titre": "La télé, les Retraites Populaires et l'ECA, mariage réussi ?",
+      "auteurs": [
+        {
+          "nom": "Béatrice Métraux",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-09-27"
+      },
+      "derniere_etape": "2011-09-27",
+      "communes": [
+        {
+          "ofs": 5607,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_RES_048",
+      "numero": "11_RES_048",
+      "type": "Résolution",
+      "depose": "2011-06-28",
+      "titre": "Lausanne (via Vallorbe) - Milan",
+      "auteurs": [
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2011-06-28"
+      },
+      "derniere_etape": "2011-06-28",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5764,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_477",
+      "numero": "11_INT_477",
+      "type": "Interpellation",
+      "depose": "2011-01-18",
+      "titre": "Semi-autoroute A9B Orbe - Ballaigues : combien de morts faudra-t-il encore?",
+      "auteurs": [
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": null
+        },
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-06-21"
+      },
+      "derniere_etape": "2011-06-21",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5744,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_327",
+      "numero": "10_INT_327",
+      "type": "Interpellation",
+      "depose": "2010-01-19",
+      "titre": "Les usagers vont passer à la caisse",
+      "auteurs": [
+        {
+          "nom": "Grégoire Junod",
+          "parti": null
+        },
+        {
+          "nom": "Grégoire Junod",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-02-01"
+      },
+      "derniere_etape": "2011-02-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_373",
+      "numero": "10_INT_373",
+      "type": "Interpellation",
+      "depose": "2010-04-20",
+      "titre": "Que sont devenus les 25 Roms pris en charge par le Centre de requérants à Vallorbe, le 28 octobre 2009 ?",
+      "auteurs": [
+        {
+          "nom": "Philippe Ducommun",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Ducommun",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-01-18"
+      },
+      "derniere_etape": "2011-01-18",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_297",
+      "numero": "09_INT_297",
+      "type": "Interpellation",
+      "depose": "2009-11-10",
+      "titre": "Si les énergies renouvellables sont aussi vertes qu'on nous le dit- Béatrice Métraux demandant si Mülhleberg est aussi propre et sans danger qu'on nous le dit",
+      "auteurs": [
+        {
+          "nom": "Michel Miéville",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-12-14"
+      },
+      "derniere_etape": "2010-12-14",
+      "communes": [
+        {
+          "ofs": 5464,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5456,
+          "origine": "document"
+        },
+        {
+          "ofs": 5458,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_288",
+      "numero": "09_INT_288",
+      "type": "Interpellation",
+      "depose": "2009-10-06",
+      "titre": "Relative à l'évasion du lynx Aisha du Juraparc à Vallorbe",
+      "auteurs": [
+        {
+          "nom": "Jacqueline Rostan",
+          "parti": "LIB"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-12-14"
+      },
+      "derniere_etape": "2010-12-14",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_POS_144",
+      "numero": "09_POS_144",
+      "type": "Postulat",
+      "depose": "2009-09-08",
+      "titre": "Pour une politique d'action sociale gérontologique favorisant la participation et l'autodétermination des personnes âgées",
+      "auteurs": [
+        {
+          "nom": "François Payot",
+          "parti": "PLR"
+        },
+        {
+          "nom": "François Payot",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2010-11-23"
+      },
+      "derniere_etape": "2010-11-23",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_RAP_264",
+      "numero": "10_RAP_264",
+      "type": "Rapport",
+      "depose": "2010-10-05",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Dominique Bonny et consorts demandant quelles mesures le Conseil d'Etat entend prendre pour réguler le débit minimum et la qualité sanitaire de l'Orbe supérieure",
+      "auteurs": [
+        {
+          "nom": "Anne Décosterd",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-05"
+      },
+      "derniere_etape": "2010-10-05",
+      "communes": [
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_RAP_276",
+      "numero": "10_RAP_276",
+      "type": "Rapport",
+      "depose": "2010-06-08",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Daniel Mange et consorts pour la création d'une quatrième piste sur la bretelle semi-autoroute Ballaigues-Orbe",
+      "auteurs": [
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-06-08"
+      },
+      "derniere_etape": "2010-06-08",
+      "communes": [
+        {
+          "ofs": 5744,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5755,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/06_INT_347",
+      "numero": "06_INT_347",
+      "type": "Interpellation",
+      "depose": "2010-04-20",
+      "titre": "Le respect des standards fixé par l'administration passe-t-il avant une réflexion politique autour du soutien à l'économe régionale et aux emplois ?",
+      "auteurs": [
+        {
+          "nom": "Josiane Aubert-Honsberger",
+          "parti": null
+        },
+        {
+          "nom": "Josiane Aubert-Honsberger",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-05-18"
+      },
+      "derniere_etape": "2010-05-18",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5752,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_227",
+      "numero": "10_LEG_227",
+      "type": "Décret/Loi",
+      "depose": "2010-04-13",
+      "titre": "Exposé des motifs et projet de loi modifiant la loi sur la protection des mineurs du 4 mai 2004",
+      "auteurs": [
+        {
+          "nom": "Gloria Capt",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Gloria Capt",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-04-20"
+      },
+      "derniere_etape": "2010-04-20",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_197",
+      "numero": "09_INT_197",
+      "type": "Interpellation",
+      "depose": "2009-03-10",
+      "titre": "Un Français comme surveillant permanent de la faune",
+      "auteurs": [
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-03-02"
+      },
+      "derniere_etape": "2010-03-02",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5492,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_RAP_184",
+      "numero": "10_RAP_184",
+      "type": "Rapport",
+      "depose": "2010-01-12",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Michel Miéville et consorts concernant la régulation des harles bièvres, des hérons cendrés et des grands cormorans",
+      "auteurs": [
+        {
+          "nom": "Stéphane Montangero",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-01-12"
+      },
+      "derniere_etape": "2010-01-12",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_RAP_169",
+      "numero": "9_RAP_169",
+      "type": "Rapport",
+      "depose": "2009-11-10",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Roger Saugy demandant au Conseil d'Etat de donner un coup de pouce à la population de Vallorbe",
+      "auteurs": [
+        {
+          "nom": "Jacques Nicolet",
+          "parti": null
+        },
+        {
+          "nom": "Jacques Nicolet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-11-10"
+      },
+      "derniere_etape": "2009-11-10",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_207",
+      "numero": "09_INT_207",
+      "type": "Interpellation",
+      "depose": "2009-09-15",
+      "titre": "Si, pour le secours routier, une sécurité à deux vitesses est acceptable",
+      "auteurs": [
+        {
+          "nom": "Jacques Nicolet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-11-03"
+      },
+      "derniere_etape": "2009-11-03",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_INT_166",
+      "numero": "08_INT_166",
+      "type": "Interpellation",
+      "depose": "2008-12-16",
+      "titre": "La route cantonale RC 251 Vallorbe-Lausanne",
+      "auteurs": [
+        {
+          "nom": "Jacques Nicolet",
+          "parti": null
+        },
+        {
+          "nom": "Jacques Nicolet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-05-12"
+      },
+      "derniere_etape": "2009-05-12",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5752,
+          "origine": "document"
+        },
+        {
+          "ofs": 5750,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_142",
+      "numero": "9_LEG_142",
+      "type": "Décret/Loi",
+      "depose": "2009-03-17",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 2'760'000.- destiné à financer l'achèvement du réseau des routes nationales, période 2009-2012 (vingt-troisième tranche)",
+      "auteurs": [
+        {
+          "nom": "Jean-Jacques Truffer",
+          "parti": null
+        },
+        {
+          "nom": "Jean-Jacques Truffer",
+          "parti": "LIB"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2009-03-17"
+      },
+      "derniere_etape": "2009-03-17",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5939,
+          "origine": "document"
+        },
+        {
+          "ofs": 5554,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_POS_067",
+      "numero": "08_POS_067",
+      "type": "Postulat",
+      "depose": "2008-05-27",
+      "titre": "Demandant quelles mesures le Conseil d'Etat entend prendre pour réguler le débit minimum et la qualité sanitaire de l'Orbe supérieure",
+      "auteurs": [
+        {
+          "nom": "Maximilien Bernhard",
+          "parti": "AdC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2008-12-16"
+      },
+      "derniere_etape": "2008-12-16",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_POS_046",
+      "numero": "08_POS_046",
+      "type": "Postulat",
+      "depose": "2008-07-01",
+      "titre": "Postulat Roger Saugy demandant au Conseil d'Etat de donner un coup de pouce à la population de Vallorbe",
+      "auteurs": [
+        {
+          "nom": "Jacqueline Rostan",
+          "parti": null
+        },
+        {
+          "nom": "Jacqueline Rostan",
+          "parti": "LIB"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2008-07-01"
+      },
+      "derniere_etape": "2008-07-01",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

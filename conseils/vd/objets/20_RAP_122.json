@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225435,
+  "numero": "20_RAP_122",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2020-02-04"
+  },
+  "depose": "2020-02-04",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Denis Olivier Maillefer et consorts au nom de la commission 15_191 suite au retrait du 15_POS_101 - Suivi de la nouvelle loi sur les auberges et les débits de boissons (LADB)",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Montangero",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Stéphane Montangero",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Stéphane Montangero",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-02-04",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/122_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/122_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-16-juin-2020/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-denis-olivier-maillefer-et-consorts-au-nom-de-la-commission-15-191-suite-au-retrait-du-15-pos-101-suivi-de-la-nouvelle-loi-sur-les-auberges-et-les-debits-de-boissons-ladb",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

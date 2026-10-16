@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 29259,
+  "numero": "CA23/001",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2023-02-28"
+  },
+  "depose": "2023-01-03",
+  "titre": "Requalification du Pôle Flon, études des interfaces m3",
+  "contributeurs": [
+    {
+      "nom": "Veronica Ecuyer",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-01-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-02-28",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/c1/11b757d421b1454b93067c46e70d45c1.htm",
+  "communes": []
+}

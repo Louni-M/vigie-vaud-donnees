@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224610,
+  "numero": "19_INT_295",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2019-10-01"
+  },
+  "depose": "2019-01-29",
+  "titre": "Le Service de l'emploi est-il resté passif face à une infraction à la procédure sur les licenciements collectifs par Elis SA ?",
+  "contributeurs": [
+    {
+      "nom": "Hadrien Buclin",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Hadrien Buclin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-01-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-02-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-05-15",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2019-10-01",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_295_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-02-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_295_depot.pdf"
+    },
+    {
+      "titre": "Infraction à la procédure sur les licenciements collectifs",
+      "date": "2019-05-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=372958"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-1er-octobre-2019/reponse-du-conseil-detat-a-linterpellation-hadrien-buclin-le-service-de-lemploi-est-il-reste-passif-face-a-une-infraction-a-la-procedure-sur-les-licenciements-collectifs-par-elis-sa",
+  "communes": [
+    {
+      "ofs": 5498,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

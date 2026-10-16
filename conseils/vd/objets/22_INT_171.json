@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226312,
+  "numero": "22_INT_171",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-03-15"
+  },
+  "depose": "2022-12-13",
+  "titre": "La convocation des actionnaires de la CGN occasionne des vagues",
+  "contributeurs": [
+    {
+      "nom": "Nicola Di Giulio",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-12-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-12-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-03-15",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-12-20",
+      "lien": "https://www.sonomix.ch/live/gcvd/2283#309"
+    },
+    {
+      "titre": "Convocation à l'assemblée générale 2022 de la CGN",
+      "date": "2023-03-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2166136"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-05-09",
+      "lien": "http://www.sonomix.ch/live/gcvd/2379#6003"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/30cceb43-104d-4356-9996-439670a06eb5/meeting/1013643",
+  "communes": [
+    {
+      "ofs": 5725,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5855,
+      "origine": "document"
+    },
+    {
+      "ofs": 5721,
+      "origine": "document"
+    },
+    {
+      "ofs": 5561,
+      "origine": "document"
+    }
+  ]
+}

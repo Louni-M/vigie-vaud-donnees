@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222776,
+  "numero": "12_POS_004",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2013-04-23"
+  },
+  "depose": "2012-10-09",
+  "titre": "Pour alléger et faciliter les procédures de construction",
+  "contributeurs": [
+    {
+      "nom": "Florence Golaz",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Florence Golaz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-10-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-10-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-04-23",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-04-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_POS_004_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2013-04-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_POS_004_Objet_et_d%C3%A9veloppement.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-10-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_POS_004_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-23-avril-2013/postulat-jacques-haldy-et-consorts-pour-alleger-et-faciliter-les-procedures-de-construction",
+  "communes": [
+    {
+      "ofs": 5412,
+      "origine": "document"
+    }
+  ]
+}

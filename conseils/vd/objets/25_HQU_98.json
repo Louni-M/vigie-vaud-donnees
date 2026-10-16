@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 250340,
+  "numero": "25_HQU_98",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2025-09-09"
+  },
+  "depose": "2025-09-02",
+  "titre": "La disparition du journal La Région : une opportunité pour repenser les aides à la presse ?",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Balet",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-09-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-09-02",
+      "libelle": "Traktandiert"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Erledigt"
+    },
+    {
+      "date": "2025-09-09",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/362d4946-5fe8-415a-b0b0-034ddb2d9cfe/meeting/1029635",
+  "communes": []
+}

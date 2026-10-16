@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222641,
+  "numero": "12_INT_031",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-03-12"
+  },
+  "depose": "2012-10-02",
+  "titre": "L'errance du projet Métamorphose, un risque pour le PALM ?",
+  "contributeurs": [
+    {
+      "nom": "Axel Marion",
+      "parti": "AdC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Axel Marion",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-10-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-10-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-03-12",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-03-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_031_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-10-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/12_INT_031_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-12-mars-2013/reponse-du-conseil-detat-a-linterpellation-axel-marion-lerrance-du-projet-metamorphose-un-risque-pour-le-palm",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

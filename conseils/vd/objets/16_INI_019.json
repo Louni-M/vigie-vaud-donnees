@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223720,
+  "numero": "16_INI_019",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2016-12-13"
+  },
+  "depose": "2016-06-14",
+  "titre": "Circulation routière, signe de la main",
+  "contributeurs": [
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": "UDC",
+      "role": null,
+      "sorte": "personne"
+    },
+    {
+      "nom": "Clivaz P.",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-06-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-06-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-12-13",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-11-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INI_019_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-11-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INI_019_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-06-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INI_019_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-13-et-mercredi-14-decembre-2016/initiative-aliette-rey-marion-et-consorts-circulation-routiere-signe-de-la-main",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5675,
+      "origine": "document"
+    }
+  ]
+}

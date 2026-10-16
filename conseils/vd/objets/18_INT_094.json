@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224180,
+  "numero": "18_INT_094",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-09-25"
+  },
+  "depose": "2018-01-16",
+  "titre": "Le secret médical devient-il la propriété de tout un chacun ?",
+  "contributeurs": [
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Vuillemin",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-01-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-01-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-09-25",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_094_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-01-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_INT_094_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-25-septembre-2018/reponse-du-conseil-detat-a-linterpellation-philippe-vuillemin-le-secret-medical-devient-il-la-propriete-de-tout-un-chacun",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223267,
+  "numero": "14_LEG_128",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2014-03-25"
+  },
+  "depose": "2014-03-11",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit additionnel de CHF 3'890'000.- au crédit de CHF 44'200'000.- destiné à l'acquisition de trois bâtiments, et la réhabilitation de deux d'entre eux, pour la localisation d'activités pérennes de l'Etat, sur les sites de Lausanne, Morges et Payerne, à titre d'alternative à la location de surfaces auprès de tiers octroyé par décret du 14 décembre 2010",
+  "contributeurs": [
+    {
+      "nom": "Guy-Philippe Bolay",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Guy-Philippe Bolay",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-03-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-03-25",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-03-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/128_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2014-03-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/128_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-25-mars-2014/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-additionnel-de-chf-3890000-au-credit-de-chf-44200000-destine-a-lacquisition-de-trois-batiments-et-la-rehabilitation-de-deux-dentre-eux-pour-la-localisation-dactivites",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5822,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5889,
+      "origine": "document"
+    }
+  ]
+}

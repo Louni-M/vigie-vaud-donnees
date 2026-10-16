@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227177,
+  "numero": "23_MOT_5",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2024-01-23"
+  },
+  "depose": "2023-03-28",
+  "titre": "Pour une liaison piétonne entre la Gare de Lausanne et le Flon",
+  "contributeurs": [
+    {
+      "nom": "Graziella Schaller",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Pierre-Alain Favrod",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-03-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-01-23",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2023-04-04",
+      "lien": "https://www.sonomix.ch/live/gcvd/2359#1021"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-01-23",
+      "lien": "https://www.sonomix.ch/live/gcvd/2707#2571"
+    },
+    {
+      "titre": "https://www.rts.ch/info/regions/vaud/8966583-les-cff-envisagent-une-gare-souterraine-a-lausanne-en-2050-2060.html",
+      "date": "2023-03-28",
+      "lien": "https://www.rts.ch/info/regions/vaud/8966583-les-cff-envisagent-une-gare-souterraine-a-lausanne-en-2050-2060.html"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/699efa79-a9dc-410f-b9da-d38169d69019/meeting/1019556",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

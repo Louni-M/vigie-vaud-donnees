@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222929,
+  "numero": "13_INT_183",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-04-29"
+  },
+  "depose": "2013-11-19",
+  "titre": "A9b : l'OFROU se moque du Nord vaudois !",
+  "contributeurs": [
+    {
+      "nom": "Dominique-Richard Bonny",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Dominique-Richard Bonny",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-11-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-11-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-04-29",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-04-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_183_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-11-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_183_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-29-avril-2014/reponse-du-conseil-detat-a-linterpellation-dominique-richard-bonny-et-consorts-a9b-lofrou-se-moque-du-nord-vaudois",
+  "communes": [
+    {
+      "ofs": 5764,
+      "origine": "document"
+    },
+    {
+      "ofs": 5744,
+      "origine": "document"
+    },
+    {
+      "ofs": 5757,
+      "origine": "document"
+    },
+    {
+      "ofs": 5749,
+      "origine": "document"
+    }
+  ]
+}

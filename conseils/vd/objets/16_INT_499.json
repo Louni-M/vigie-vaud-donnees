@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223574,
+  "numero": "16_INT_499",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-10-04"
+  },
+  "depose": "2016-04-26",
+  "titre": "Voter, ce n'est pas toujours si simple",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-04-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-04-26",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-10-04",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-10-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_499_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-04-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_499_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-4-octobre-2016/reponse-du-conseil-detat-a-linterpellation-jerome-christen-et-consorts-voter-ce-nest-pas-toujours-si-simple",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5883,
+      "origine": "document"
+    },
+    {
+      "ofs": 5885,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

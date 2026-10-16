@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222998,
+  "numero": "13_MOT_017",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2013-12-17"
+  },
+  "depose": "2013-01-15",
+  "titre": "Justice fiscale pour l'imposition à la source",
+  "contributeurs": [
+    {
+      "nom": "Daniel Brélaz",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-01-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-01-15",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-12-17",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-11-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_017_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2013-11-26",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_017_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-01-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_MOT_017_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-mardi-17-decembre-2013/motion-jacques-neirynck-justice-fiscale-pour-limposition-a-la-source",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

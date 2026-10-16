@@ -1,0 +1,204 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5852,
+  "objets": [
+    {
+      "cle": "vd/19_INT_430",
+      "numero": "19_INT_430",
+      "type": "Interpellation",
+      "depose": "2019-12-18",
+      "titre": "Le Grand Conseil va-t-il pouvoir déterminer si le principe de \"qui commande paie\" s'applique à la facture sociale et décider si à l'avenir les communes vaudoises continueront à participer aux dépenses sociales cantonales ?",
+      "auteurs": [
+        {
+          "nom": "Dominique-Ella Christin",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2020-01-07"
+      },
+      "derniere_etape": "2020-01-07",
+      "communes": [
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5713,
+          "origine": "document"
+        },
+        {
+          "ofs": 5852,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_48",
+      "numero": "19_LEG_48",
+      "type": "Décret/Loi",
+      "depose": "2019-01-29",
+      "titre": "Exposé des motifs et projets de loi modifiant la loi du 31 mai 2005 sur l'exercice des activités économiques (LEAE) et la loi du 25 novembre 1974 sur la circulation routière (LVCR) et Rapport du Conseil d'Etat au Grand Conseil sur le postulat Mathieu Blanc et consorts - pour une loi/réglementation cantonale du service de transport de personnes",
+      "auteurs": [
+        {
+          "nom": "Sonya Butera",
+          "parti": null
+        },
+        {
+          "nom": "Sonya Butera",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-03-12"
+      },
+      "derniere_etape": "2019-03-12",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5855,
+          "origine": "document"
+        },
+        {
+          "ofs": 5852,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_439",
+      "numero": "10_INT_439",
+      "type": "Interpellation",
+      "depose": "2010-11-02",
+      "titre": "A quelle sauce démocratique notre canton veut-il être mangé dans la thématique des agglomérations ?",
+      "auteurs": [
+        {
+          "nom": "Fabienne Freymond Cantone",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Fabienne Freymond Cantone",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-08-30"
+      },
+      "derniere_etape": "2011-08-30",
+      "communes": [
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5852,
+          "origine": "document"
+        },
+        {
+          "ofs": 5713,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_POS_171",
+      "numero": "09_POS_171",
+      "type": "Postulat",
+      "depose": "2010-01-12",
+      "titre": "Postulat Jean-Michel Favez au nom du Groupe socialiste visant à la réalisation d'installations solaires-thermiques sur les bâtiments publics",
+      "auteurs": [
+        {
+          "nom": "Susanne Jungclaus Delarze",
+          "parti": "VER"
+        },
+        {
+          "nom": "Susanne Jungclaus Delarze",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2010-09-28"
+      },
+      "derniere_etape": "2010-09-28",
+      "communes": [
+        {
+          "ofs": 5852,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_POS_106",
+      "numero": "09_POS_106",
+      "type": "Postulat",
+      "depose": "2009-10-06",
+      "titre": "Postulat Jean-Michel Favez au nom du groupe socialiste visant à identifier et corriger les effets pervers de la promotion économique",
+      "auteurs": [
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Guy-Philippe Bolay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2009-10-06"
+      },
+      "derniere_etape": "2009-10-06",
+      "communes": [
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5852,
+          "origine": "document"
+        },
+        {
+          "ofs": 5872,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

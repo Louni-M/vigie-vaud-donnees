@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222113,
+  "numero": "10_POS_182",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2010-10-12"
+  },
+  "depose": "2010-03-16",
+  "titre": "Postulat Philippe Martinet au nom du groupe des Verts, intitulé parce que les Conseils communaux ou généraux ne sont pas des salons de thé",
+  "contributeurs": [
+    {
+      "nom": "Gloria Capt",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Gloria Capt",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-03-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-03-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-10-12",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2010-10-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_182_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-10-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_182_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-03-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_182_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-12-octobre-2010/postulat-philippe-martinet-parce-que-les-conseils-communaux-ou-generaux-ne-sont-pas-des-salons-de-the",
+  "communes": [
+    {
+      "ofs": 5656,
+      "origine": "document"
+    }
+  ]
+}

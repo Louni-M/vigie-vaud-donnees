@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223940,
+  "numero": "16_LEG_301",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-06-07"
+  },
+  "depose": "2016-06-07",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'État un crédit d'investissement de CHF 8'000'000.- pour financer la réalisation de la passerelle piétonne et routière destinée à raccorder le terrain de La Pala à Chavannes-près-Renens qui accueillera les logements pour étudiants/village olympique au site de l'Université de Lausanne comprenant les études du projet d'exécution et la réalisation de la Passerelle de la Sorge enjambant la voie du métro M1, la route de la Sorge ainsi que la rivière La Sorge",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Berthoud",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alexandre Berthoud",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-06-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-06-07",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-06-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/301_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-06-07",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/301_R_C.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-7-juin-2016/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-dinvestissement-de-chf-8000000-pour-financer-la-realisation-de-la-passerelle-pietonne-et-routiere-destinee-a-raccorder-le-terrain-de-la-pala",
+  "communes": [
+    {
+      "ofs": 5627,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

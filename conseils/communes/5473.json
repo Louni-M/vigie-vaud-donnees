@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5473,
+  "objets": [
+    {
+      "cle": "vd/18_LEG_81",
+      "numero": "18_LEG_81",
+      "type": "Décret/Loi",
+      "depose": "2018-12-18",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit additionnel de CHF 1'013'881.- pour le bouclement du crédit de CHF 48'500'000.- accordé par le Grand Conseil le 25 septembre 1989 pour la réalisation de l'évitement de Cheseaux par la nouvelle route cantonale N° 401b",
+      "auteurs": [
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2018-12-18"
+      },
+      "derniere_etape": "2018-12-18",
+      "communes": [
+        {
+          "ofs": 5582,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5521,
+          "origine": "document"
+        },
+        {
+          "ofs": 5527,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5511,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5473,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_INT_143",
+      "numero": "08_INT_143",
+      "type": "Interpellation",
+      "depose": "2008-11-11",
+      "titre": "De l'assurance-maladie et demandant à quel jeu se prête le",
+      "auteurs": [
+        {
+          "nom": "Philippe Ducommun",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Ducommun au sujet de l'assurance-maladie et",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-05-11"
+      },
+      "derniere_etape": "2010-05-11",
+      "communes": [
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5473,
+          "origine": "document"
+        },
+        {
+          "ofs": 5521,
+          "origine": "document"
+        },
+        {
+          "ofs": 5527,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

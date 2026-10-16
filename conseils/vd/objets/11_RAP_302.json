@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222576,
+  "numero": "11_RAP_302",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-02-15"
+  },
+  "depose": "2011-02-15",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Valérie Schwaar et consorts au sujet des zones à faibles émissions polluantes contre les particules fines",
+  "contributeurs": [
+    {
+      "nom": "Susanne Jungclaus Delarze",
+      "parti": "VER",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-02-15",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-02-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/302_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-02-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/302_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-15-fevrier-2011/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-valerie-schwaar-zones-a-faibles-emissions-polluantes-contre-les-particules-fines",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    }
+  ]
+}

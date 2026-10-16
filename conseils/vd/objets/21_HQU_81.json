@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225555,
+  "numero": "21_HQU_81",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2021-09-14"
+  },
+  "depose": "2021-09-07",
+  "titre": "Quelles sont les intentions du canton quant à l’application du Plan cantonal d’affectation (PCA) de la ville haute de Moudon",
+  "contributeurs": [
+    {
+      "nom": "Felix Stürner",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-09-07",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-09-14",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/9d839260-e35a-46cb-aa10-56123cd3033b/meeting/1004401",
+  "communes": [
+    {
+      "ofs": 5678,
+      "origine": "titre"
+    }
+  ]
+}

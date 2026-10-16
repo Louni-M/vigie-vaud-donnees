@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 203005,
+  "numero": "20_INT_49",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-06-09"
+  },
+  "depose": "2020-11-17",
+  "titre": "Que se passe-t-il au Home-chez-Nous ?",
+  "contributeurs": [
+    {
+      "nom": "Céline Misiego",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-11-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-11-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-06-09",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2020-11-24",
+      "lien": "https://www.sonomix.ch/live/gcvd/1642#225"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-30",
+      "lien": "https://www.sonomix.ch/live/gcvd/1890#8518"
+    },
+    {
+      "titre": "Fonctionnement du Home Chez-Nous",
+      "date": "2021-06-09",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2059318"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/bedf539e-3623-498a-afea-12b0768e9b5f/meeting/1003922",
+  "communes": [
+    {
+      "ofs": 5587,
+      "origine": "document"
+    }
+  ]
+}

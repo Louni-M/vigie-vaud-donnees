@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 120082,
+  "numero": "CA24/008",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2024-10-01"
+  },
+  "depose": "2024-06-20",
+  "titre": "Mobilité durable II",
+  "contributeurs": [
+    {
+      "nom": "Nicolas Deig",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-06-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-10-01",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Communication au CC signée",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/09/095fb1cdaaff4a13a40db60748f08bf4.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/ad/2b2556cf022f498095de1b9b5d25e3ad.htm",
+  "communes": []
+}

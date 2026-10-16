@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223243,
+  "numero": "14_INT_328",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-05-12"
+  },
+  "depose": "2015-01-06",
+  "titre": "Quelle maîtrise de nos ressources énergétiques ?",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-01-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-01-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-05-12",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-05-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_328_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-01-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_328_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-12-mai-2015/reponse-du-conseil-detat-a-linterpellation-jean-tschopp-et-consorts-quelle-maitrise-de-nos-ressources-energetiques",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

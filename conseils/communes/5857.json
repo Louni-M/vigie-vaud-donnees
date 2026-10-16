@@ -1,0 +1,126 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5857,
+  "objets": [
+    {
+      "cle": "vd/21_INT_84",
+      "numero": "21_INT_84",
+      "type": "Interpellation",
+      "depose": "2021-06-16",
+      "titre": "La direction des écoles de Rolle et environs a-t-elle perdu la tête",
+      "auteurs": [
+        {
+          "nom": "Josephine Byrne Garelli",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-05-25"
+      },
+      "derniere_etape": "2022-05-25",
+      "communes": [
+        {
+          "ofs": 5861,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5858,
+          "origine": "document"
+        },
+        {
+          "ofs": 5857,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_MOT_100",
+      "numero": "19_MOT_100",
+      "type": "Motion",
+      "depose": "2019-06-25",
+      "titre": "Pour pacifier les conflits entre rénovation énergétique et protection des monuments, il est temps d'édicter une directive !",
+      "auteurs": [
+        {
+          "nom": "Guy Gaudard",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Guy Gaudard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2020-02-04"
+      },
+      "derniere_etape": "2020-02-04",
+      "communes": [
+        {
+          "ofs": 5857,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_405",
+      "numero": "10_INT_405",
+      "type": "Interpellation",
+      "depose": "2010-08-24",
+      "titre": "Résoudre le \"Rubik's Cube\" de la carte hospitalière vaudoise ?",
+      "auteurs": [
+        {
+          "nom": "Conseil d'État",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-01-24"
+      },
+      "derniere_etape": "2012-01-24",
+      "communes": [
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5857,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

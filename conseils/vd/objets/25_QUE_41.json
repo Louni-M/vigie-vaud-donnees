@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228361,
+  "numero": "25_QUE_41",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-06-25"
+  },
+  "depose": "2025-05-13",
+  "titre": "Quelles aides en cas d'attaques de loups sur un troupeau?",
+  "contributeurs": [
+    {
+      "nom": "Denis Corboz",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-05-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-25",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Aides en cas d'attaques de loups sur un troupeau",
+      "date": "2025-06-25",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2312798"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/109c1106-2a05-4258-a47f-d3faafdbff13/meeting/1026889",
+  "communes": [
+    {
+      "ofs": 5763,
+      "origine": "document"
+    }
+  ]
+}

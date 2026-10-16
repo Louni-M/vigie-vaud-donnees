@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223779,
+  "numero": "16_INT_528",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyé par manque de temps",
+    "date": "2025-09-16"
+  },
+  "depose": "2016-06-14",
+  "titre": "Application des mesures de renvoi : mais que fait la police ?",
+  "contributeurs": [
+    {
+      "nom": "Philippe Jobin",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-06-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-06-21",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-06-19",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-09-16",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2016-06-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_528_depot.pdf"
+    },
+    {
+      "titre": "Application des mesures de renvois",
+      "date": "2024-06-19",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2246050"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f7edafc3-0920-400e-a66f-ba3dd3c54bee/meeting/1029636",
+  "communes": [
+    {
+      "ofs": 5591,
+      "origine": "document"
+    }
+  ]
+}

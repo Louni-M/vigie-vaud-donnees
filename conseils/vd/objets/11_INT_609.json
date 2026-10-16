@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222340,
+  "numero": "11_INT_609",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2012-11-06"
+  },
+  "depose": "2012-03-06",
+  "titre": "Après le bug informatique et de l'information, voici venu le temps du bug graphique et de la transmission",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-03-06",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-03-06",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2012-11-06",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-10-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_609_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-03-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_609_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-6-novembre-2012/reponse-du-conseil-detat-a-linterpellation-jean-marie-surer-apres-le-bug-informatique-et-de-linformation-voici-venu-le-temps-du-bug-graphique-et-de-la-transmission",
+  "communes": [
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5648,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

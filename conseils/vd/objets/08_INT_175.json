@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221437,
+  "numero": "08_INT_175",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-03-02"
+  },
+  "depose": "2009-01-13",
+  "titre": "La nouvelle définition de la réglementation de la vérification des AOC viticoles",
+  "contributeurs": [
+    {
+      "nom": "Jean-Marie Surer",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-01-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-01-13",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-03-02",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-08-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/08_INT_175_texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-01-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/08_INT_175_Objet.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-2-mars-2010/reponse-du-conseil-detat-a-linterpellation-jean-marie-surer-aoc-viticoles",
+  "communes": [
+    {
+      "ofs": 5427,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5553,
+      "origine": "document"
+    },
+    {
+      "ofs": 5828,
+      "origine": "document"
+    },
+    {
+      "ofs": 5422,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225610,
+  "numero": "21_INT_121",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-12-22"
+  },
+  "depose": "2021-09-21",
+  "titre": "Au nom Les Libres relative aux excès de zèle du Service du développement territorial au travers l’exemple du cabanon de Villeneuve",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-09-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-09-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-12-22",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-02-08",
+      "lien": "http://www.sonomix.ch/live/gcvd/2054#2111"
+    },
+    {
+      "titre": "21_INT_121-Texte déposé",
+      "date": "2021-09-28",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2076145"
+    },
+    {
+      "titre": "Constructions hors de la zone à bâtir",
+      "date": "2021-12-22",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2094079"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/afab4244-41c9-4ce4-bb27-597407a727bd/meeting/1004429",
+  "communes": [
+    {
+      "ofs": 5414,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5407,
+      "origine": "document"
+    }
+  ]
+}

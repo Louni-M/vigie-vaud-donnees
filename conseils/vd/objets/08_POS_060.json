@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221507,
+  "numero": "08_POS_060",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2021-04-21"
+  },
+  "depose": "2008-04-29",
+  "titre": "Intitulé des bus scolaires pour tous",
+  "contributeurs": [
+    {
+      "nom": "Mireille Aubert",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Mireille Aubert",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-04-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-09-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-04-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2008-04-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_29_avril08/08_POS_060_objet.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-09-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_16_septembre_2008/08_POS_060_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2008-09-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_16_septembre_2008/08_POS_060_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Ouverture des bus scolaires à d'autres usagers",
+      "date": "2021-04-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2050748"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-16-septembre-2008/postulat-olivier-feller",
+  "communes": [
+    {
+      "ofs": 5422,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5429,
+      "origine": "document"
+    },
+    {
+      "ofs": 5851,
+      "origine": "document"
+    },
+    {
+      "ofs": 5561,
+      "origine": "document"
+    }
+  ]
+}

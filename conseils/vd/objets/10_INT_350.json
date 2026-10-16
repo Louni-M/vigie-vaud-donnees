@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221837,
+  "numero": "10_INT_350",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2011-01-11"
+  },
+  "depose": "2010-03-02",
+  "titre": "Réponse du Conseil d'Etat à l'interpellation Aliette Rey-Marion au nom du groupe UDC : Haras national d'Avenches, soixante places de travail et la responsabilité de la génétique de la dernière race chevaline indigène menacées !",
+  "contributeurs": [
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-03-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-03-09",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-01-11",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2010-03-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_350_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-01-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_350_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-11-janvier-2011/reponse-du-conseil-detat-a-linterpellation-aliette-rey-marion-haras-national-davenches",
+  "communes": [
+    {
+      "ofs": 5451,
+      "origine": "titre"
+    }
+  ]
+}

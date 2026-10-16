@@ -1,0 +1,630 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5872,
+  "objets": [
+    {
+      "cle": "vd/26_INT_111",
+      "numero": "26_INT_111",
+      "type": "Interpellation",
+      "depose": "2026-08-25",
+      "titre": "Tourisme 4 saisons dans les Préalpes vaudoises : conflits d’usage et questions de droit",
+      "auteurs": [
+        {
+          "nom": "Mathilde Marendaz",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Transmise au CE",
+        "date": "2026-09-01"
+      },
+      "derniere_etape": "2026-09-01",
+      "communes": [
+        {
+          "ofs": 5407,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5410,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5415,
+          "origine": "document"
+        },
+        {
+          "ofs": 5842,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_LEG_213",
+      "numero": "24_LEG_213",
+      "type": "Décret/Loi",
+      "depose": "2025-11-25",
+      "titre": "Et projet de décret sur la fusion des communes de L’Abbaye, Le Chenit et Le Lieu et projet de loi modifiant la loi du 30 mai 2006 sur le découpage territorial",
+      "auteurs": [
+        {
+          "nom": "Sébastien Cala",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-11-25"
+      },
+      "derniere_etape": "2025-11-25",
+      "communes": [
+        {
+          "ofs": 5871,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5872,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5873,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_LEG_151",
+      "numero": "24_LEG_151",
+      "type": "Décret/Loi",
+      "depose": "2025-05-27",
+      "titre": "EMPD accordant au Conseil d'État un crédit d’investissement de CHF 4'400'000.- pour financer des salles provisoires pour l’école technique de la vallée de Joux (ETVJ) au Sentier (Le Chenit)",
+      "auteurs": [
+        {
+          "nom": "Michael Wyssa",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-06-03"
+      },
+      "derniere_etape": "2025-06-03",
+      "communes": [
+        {
+          "ofs": 5872,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_QUE_53",
+      "numero": "22_QUE_53",
+      "type": "Simple question",
+      "depose": "2022-12-21",
+      "titre": "Gestion de l'Orbe supérieure : point de situation",
+      "auteurs": [
+        {
+          "nom": "Sébastien Cala",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2023-02-22"
+      },
+      "derniere_etape": "2023-02-22",
+      "communes": [
+        {
+          "ofs": 5872,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_QUE_34",
+      "numero": "21_QUE_34",
+      "type": "Simple question",
+      "depose": "2021-09-14",
+      "titre": "Pollution des cours d'eau à proximité de grands chantiers, quels outils pour l'Etat?",
+      "auteurs": [
+        {
+          "nom": "Sébastien Cala",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2021-12-15"
+      },
+      "derniere_etape": "2021-12-15",
+      "communes": [
+        {
+          "ofs": 5872,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_506",
+      "numero": "20_INT_506",
+      "type": "Interpellation",
+      "depose": "2020-08-25",
+      "titre": "Gestion intégrée de l'Orbe : quel bilan sept ans après la signature de la convention intercommunale ?",
+      "auteurs": [
+        {
+          "nom": "Sébastien Cala",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2021-04-27"
+      },
+      "derniere_etape": "2021-04-27",
+      "communes": [
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_150",
+      "numero": "18_INT_150",
+      "type": "Interpellation",
+      "depose": "2018-04-17",
+      "titre": "JO de la jeunesse 2020 : Champion(s) de l'organisation ?",
+      "auteurs": [
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": null
+        },
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-02-12"
+      },
+      "derniere_etape": "2019-02-12",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5407,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_120",
+      "numero": "18_INT_120",
+      "type": "Interpellation",
+      "depose": "2018-02-13",
+      "titre": "JOJ 2020 ; combien de sites seront-ils encore menacés ?",
+      "auteurs": [
+        {
+          "nom": "José Durussel",
+          "parti": "UDC"
+        },
+        {
+          "nom": "José Durussel",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-02-12"
+      },
+      "derniere_etape": "2019-02-12",
+      "communes": [
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5407,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_224",
+      "numero": "18_INT_224",
+      "type": "Interpellation",
+      "depose": "2018-08-28",
+      "titre": "JOJ et installations sportives : pour des procédures transparentes et démocratiques !",
+      "auteurs": [
+        {
+          "nom": "Raphaël Mahaim",
+          "parti": null
+        },
+        {
+          "nom": "Raphaël Mahaim",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2018-09-04"
+      },
+      "derniere_etape": "2018-09-04",
+      "communes": [
+        {
+          "ofs": 5872,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_RAP_23",
+      "numero": "18_RAP_23",
+      "type": "Rapport",
+      "depose": "2018-06-05",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Dominique Richard Bonny et consorts - Eau lac des Rousses Haut",
+      "auteurs": [
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": null
+        },
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2018-06-05"
+      },
+      "derniere_etape": "2018-06-05",
+      "communes": [
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_LEG_34",
+      "numero": "18_LEG_34",
+      "type": "Décret/Loi",
+      "depose": "2018-04-17",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 22'057'500 pour financer, au moyen d'aides à fonds perdus et de prêts, les subventionscantonales en faveur de la construction ou de la rénovation d'infrastructures sportives d'importance au minimum régionale pour 2018 et 2019.",
+      "auteurs": [
+        {
+          "nom": "Hugues Gander",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Hugues Gander",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2018-05-08"
+      },
+      "derniere_etape": "2018-05-08",
+      "communes": [
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_POS_119",
+      "numero": "15_POS_119",
+      "type": "Postulat",
+      "depose": "2015-04-28",
+      "titre": "Stop aux exportations des déchets de bois usagés",
+      "auteurs": [
+        {
+          "nom": "Albert Chapalay",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Albert Chapalay",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2015-09-08"
+      },
+      "derniere_etape": "2015-09-08",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_192",
+      "numero": "13_INT_192",
+      "type": "Interpellation",
+      "depose": "2013-12-10",
+      "titre": "Quel soutien pour les communes qui attendent le versement de l'impôt sur les frontaliers ?",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-12-10"
+      },
+      "derniere_etape": "2013-12-10",
+      "communes": [
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_322",
+      "numero": "10_LEG_322",
+      "type": "Décret/Loi",
+      "depose": "2010-11-09",
+      "titre": "Exposé des motifs et projet de décret sur la dissolution de la fraction de commune du village des Charbonnières",
+      "auteurs": [
+        {
+          "nom": "Jean-François Cachin",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Jean-François Cachin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-11-09"
+      },
+      "derniere_etape": "2010-11-09",
+      "communes": [
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5871,
+          "origine": "document"
+        },
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5486,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_RAP_264",
+      "numero": "10_RAP_264",
+      "type": "Rapport",
+      "depose": "2010-10-05",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Dominique Bonny et consorts demandant quelles mesures le Conseil d'Etat entend prendre pour réguler le débit minimum et la qualité sanitaire de l'Orbe supérieure",
+      "auteurs": [
+        {
+          "nom": "Anne Décosterd",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-10-05"
+      },
+      "derniere_etape": "2010-10-05",
+      "communes": [
+        {
+          "ofs": 5872,
+          "origine": "document"
+        },
+        {
+          "ofs": 5873,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_POS_106",
+      "numero": "09_POS_106",
+      "type": "Postulat",
+      "depose": "2009-10-06",
+      "titre": "Postulat Jean-Michel Favez au nom du groupe socialiste visant à identifier et corriger les effets pervers de la promotion économique",
+      "auteurs": [
+        {
+          "nom": "Nicolas Rochat Fernandez",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Guy-Philippe Bolay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2009-10-06"
+      },
+      "derniere_etape": "2009-10-06",
+      "communes": [
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5852,
+          "origine": "document"
+        },
+        {
+          "ofs": 5872,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

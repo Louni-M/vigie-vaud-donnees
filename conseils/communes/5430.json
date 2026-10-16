@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5430,
+  "objets": [
+    {
+      "cle": "vd/24_INT_43",
+      "numero": "24_INT_43",
+      "type": "Interpellation",
+      "depose": "2024-03-05",
+      "titre": "Relevé pédologique des surfaces de SDA sur le territoire cantonal / Etat des lieux",
+      "auteurs": [
+        {
+          "nom": "Marc-Olivier Buffat",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-09-25"
+      },
+      "derniere_etape": "2024-09-25",
+      "communes": [
+        {
+          "ofs": 5429,
+          "origine": "document"
+        },
+        {
+          "ofs": 5430,
+          "origine": "document"
+        },
+        {
+          "ofs": 5434,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_61",
+      "numero": "23_INT_61",
+      "type": "Interpellation",
+      "depose": "2023-04-04",
+      "titre": "L’attaque du loup sur l’homme en terre vaudoise n’est-elle plus qu’une question de temps ?",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-09-20"
+      },
+      "derniere_etape": "2023-09-20",
+      "communes": [
+        {
+          "ofs": 5430,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_260",
+      "numero": "18_INT_260",
+      "type": "Interpellation",
+      "depose": "2018-11-06",
+      "titre": "Promenons-nous dans les bois pendant que loup n'y est pas",
+      "auteurs": [
+        {
+          "nom": "Pierre-François Mottier",
+          "parti": null
+        },
+        {
+          "nom": "Pierre-François Mottier",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-02-13"
+      },
+      "derniere_etape": "2019-02-13",
+      "communes": [
+        {
+          "ofs": 5430,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

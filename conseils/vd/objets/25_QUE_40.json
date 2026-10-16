@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228360,
+  "numero": "25_QUE_40",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-08-13"
+  },
+  "depose": "2025-05-13",
+  "titre": "Durée des amortissements comptables au sein de MCH 2",
+  "contributeurs": [
+    {
+      "nom": "Blaise Vionnet",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-05-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-08-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Durée des amortissements comptables au sein de MCH2",
+      "date": "2025-08-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2320330"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/bd882acb-490b-411b-83bf-7858c89c69ba/meeting/1026889",
+  "communes": []
+}

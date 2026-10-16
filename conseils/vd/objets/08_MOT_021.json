@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221441,
+  "numero": "08_MOT_021",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Eingereicht",
+    "date": "2008-06-10"
+  },
+  "depose": "2008-06-10",
+  "titre": "Répartissons équitablement les charges et prestations sociales",
+  "contributeurs": [
+    {
+      "nom": "Jacques Haldy",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jacques Haldy",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-06-10",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet et développement",
+      "date": "2008-06-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_10_juin_2008/08_MOT_021_objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-06-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_10_juin_2008/08_MOT_021_Rapport_com.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-10-juin-2008/motion-jacques-haldy",
+  "communes": [
+    {
+      "ofs": 5410,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

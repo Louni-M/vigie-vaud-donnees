@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223363,
+  "numero": "14_POS_080",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2015-03-17"
+  },
+  "depose": "2014-08-26",
+  "titre": "Des mini-caméras pour protéger les citoyens, la police et pour aider à l'identification des délinquants",
+  "contributeurs": [
+    {
+      "nom": "Olivier Kernen",
+      "parti": "SOC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Philippe Ducommun",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Ducommun",
+      "parti": "UDC",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-08-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-09-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-03-17",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2015-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_080_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2015-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_080_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2015-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_080_Objet_et_d%C3%A9v.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-09-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_POS_080_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-17-mars-2015/postulat-mathieu-blanc-et-consorts-des-mini-cameras-pour-proteger-les-citoyens-la-police-et-pour-aider-a-lidentification-des-delinquants",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

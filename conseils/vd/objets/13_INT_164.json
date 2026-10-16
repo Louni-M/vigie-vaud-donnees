@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222909,
+  "numero": "13_INT_164",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-05-27"
+  },
+  "depose": "2013-09-24",
+  "titre": "A l'aide sociale et en possession d'un ou plusieurs chiens !?",
+  "contributeurs": [
+    {
+      "nom": "Véronique Hurni",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Véronique Hurni",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-09-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-10-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-05-27",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-03-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_164_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-10-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_164_D%C3%A9p%C3%B4t.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-27-mai-2014/reponse-du-conseil-detat-a-linterpellation-veronique-hurni-et-consorts-a-laide-sociale-et-en-possession-dun-ou-plusieurs-chiens",
+  "communes": [
+    {
+      "ofs": 5721,
+      "origine": "document"
+    }
+  ]
+}

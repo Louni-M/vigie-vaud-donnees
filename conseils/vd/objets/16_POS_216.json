@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224044,
+  "numero": "16_POS_216",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2018-06-12"
+  },
+  "depose": "2016-11-22",
+  "titre": "Des employés de l'administration cantonale ont-ils été licenciés en raison de leurs opinions politiques en contexte de guerre froide ?",
+  "contributeurs": [
+    {
+      "nom": "Mathieu Blanc",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Mathieu Blanc",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Mathieu Blanc",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-11-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-12-13",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-06-12",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/16_POS_216_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2018-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_216_Obj_et_dev.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-11-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_POS_216_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-12-juin-2018/postulat-julien-sansonnens-et-consorts-des-employes-de-ladministration-cantonale-ont-ils-ete-licencies-en-raison-de-leurs-opinions-politiques-en-contexte-de-guerre-froide",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

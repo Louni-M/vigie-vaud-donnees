@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221702,
+  "numero": "09_MOT_083",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2010-05-18"
+  },
+  "depose": "2009-09-22",
+  "titre": "Pour une aide individuelle au logement dans tout le canton",
+  "contributeurs": [
+    {
+      "nom": "Guy-Philippe Bolay",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alessandra Silauri",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-09-22",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-05-18",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2010-05-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_083_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2010-05-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_083_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2010-05-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_083_RC_min.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-09-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_MOT_083_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-18-mai-2010/motion-valerie-schwaar",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

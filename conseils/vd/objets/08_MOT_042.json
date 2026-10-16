@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221460,
+  "numero": "08_MOT_042",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2009-02-03"
+  },
+  "depose": "2008-06-17",
+  "titre": "Le financement de la gestion des déchets par les communes",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2008-06-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2008-06-17",
+      "libelle": "Zurückgewiesen"
+    },
+    {
+      "date": "2009-02-03",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2008-06-17",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_17_juin_2008/08_MOT_042_Objet.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2009-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_3_fevrier_2009/08_MOT_042_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2009-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Objets_en_suspens_periode_16/08_MOT_042_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-3-fevrier-2009/motion-alexis-bally",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5588,
+      "origine": "document"
+    },
+    {
+      "ofs": 5858,
+      "origine": "document"
+    },
+    {
+      "ofs": 5693,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    }
+  ]
+}

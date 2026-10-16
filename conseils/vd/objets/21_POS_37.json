@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225985,
+  "numero": "21_POS_37",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Transformée en postulat",
+    "date": "2023-03-29"
+  },
+  "depose": "2021-01-12",
+  "titre": "Etudier ou courir, faut-il choisir ?!",
+  "contributeurs": [
+    {
+      "nom": "Sergei Aschwanden",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nathalie Jaccard",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-01-12",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-03-29",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Vers une amélioration des conditions d’études pour les élèves des classes sport/art-études du postobligatoire",
+      "date": "2023-03-29",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2169654"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a8450b3d-d8c5-49bb-a473-c40b3ffaa2fb/meeting/1003920",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5566,
+      "origine": "document"
+    }
+  ]
+}

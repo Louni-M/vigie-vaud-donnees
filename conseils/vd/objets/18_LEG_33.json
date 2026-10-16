@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224374,
+  "numero": "18_LEG_33",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2018-03-13"
+  },
+  "depose": "2018-03-13",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 17'700'000.- pour financer les travaux de requalification de la RC 601 entre le carrefour des Croisettes et le Chalet-à-Gobet, sur les communes d'Epalinges et de Lausanne",
+  "contributeurs": [
+    {
+      "nom": "Muriel Thalmann",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Muriel Thalmann",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-03-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-03-13",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-03-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/33_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-03-13",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/33_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-13-mars-2018/empd-de-chf-17700000-pour-financer-les-travaux-de-requalification-de-la-rc-601-entre-le-carrefour-des-croisettes-et-le-chalet-a-gobet-sur-les-communes-depalinges-et-de-lausanne",
+  "communes": [
+    {
+      "ofs": 5584,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    },
+    {
+      "ofs": 5451,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5611,
+      "origine": "document"
+    },
+    {
+      "ofs": 5604,
+      "origine": "document"
+    }
+  ]
+}

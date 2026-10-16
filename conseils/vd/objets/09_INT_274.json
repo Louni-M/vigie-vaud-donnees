@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221632,
+  "numero": "09_INT_274",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-03-16"
+  },
+  "depose": "2009-09-01",
+  "titre": "Comment l'Etat peut mieux épauler les membres de l'autorité communale qui s'élèvent contre des dysfonctionnements et/ou violations de lois",
+  "contributeurs": [
+    {
+      "nom": "Philippe Martinet",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Philippe Martinet",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-09-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-03-16",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-01-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_274_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-09-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_274_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-16-mars-2010/reponse-du-conseil-detat-a-linterpellation-philippe-martinet",
+  "communes": [
+    {
+      "ofs": 5656,
+      "origine": "document"
+    }
+  ]
+}

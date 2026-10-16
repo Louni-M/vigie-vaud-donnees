@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225176,
+  "numero": "20_INT_462",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-01-27"
+  },
+  "depose": "2020-03-03",
+  "titre": "Les deniers publics réchauffent le climat !",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-03-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-03-10",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-01-27",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2020-03-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_462_depot.pdf"
+    },
+    {
+      "titre": "Mise sur pied de l’événement \"Smile for Future\"",
+      "date": "2021-01-27",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2032475"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-06-16",
+      "lien": "https://www.sonomix.ch/live/gcvd/1870#3050"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/958f55bb-4c5f-4813-909e-5c3805695142/meeting/1003920",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

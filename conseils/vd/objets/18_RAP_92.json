@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224565,
+  "numero": "18_RAP_92",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2018-11-20"
+  },
+  "depose": "2018-11-20",
+  "titre": "Rapport du Procureur général sur l'activité du Ministère public pour l'année 2017 et déterminations du Conseil d'Etat",
+  "contributeurs": [
+    {
+      "nom": "Hugues Gander",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Hugues Gander",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Hugues Gander",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-11-20",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-11-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/92_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-11-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/92_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-20-novembre-2018/rapport-du-procureur-general-sur-lactivite-du-ministere-public-pour-lannee-2017-et-determinations-du-conseil-detat",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5759,
+      "origine": "document"
+    }
+  ]
+}

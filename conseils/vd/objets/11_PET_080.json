@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222500,
+  "numero": "11_PET_080",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2012-09-11"
+  },
+  "depose": "2012-05-29",
+  "titre": "Pétition contre des estimations fiscales : arrêts du Tribunal administratif",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2012-05-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-09-11",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_PET_080_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-09-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_PET_080_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-11-septembre-2012/petition-contre-des-estimations-fiscales-arrets-du-tribunal-administratif",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

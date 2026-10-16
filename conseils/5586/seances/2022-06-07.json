@@ -1,0 +1,787 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 2385,
+  "date": "2022-06-07",
+  "nom": "Séance - Mardi 07 juin 2022 2022 à 18:00 & 20:30",
+  "lien": "https://www.lausanne.ch/apps/agir/seance/S_66a9efcaddfb49858d64817113744014.html",
+  "ordre_du_jour": [
+    {
+      "numero": "1",
+      "titre": "Prestation de serment de M. Nicolas Hurni (PLR) remplaçant de M. Guy Gaudard, démissionnaire",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Traité",
+      "objet": null
+    },
+    {
+      "numero": "2",
+      "titre": "Prestation de serment de [particulier] (EàG) remplaçante de Mme Laura Manzoni, démissionnaire",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Traité",
+      "objet": null
+    },
+    {
+      "numero": "3",
+      "titre": "Election du Bureau 2022 - 2023",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Traité",
+      "objet": null
+    },
+    {
+      "numero": "4",
+      "titre": "Pétition déposée le 2 juin 2022 de [particulier] et crts \"Le métro M3 jusqu'à Maillefer, maintenant ! Ensuite étude d'une liaison vers Epalinges / Croisettes (M2)\"",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Renvoi en COPET",
+      "objet": "5586/PE22-008"
+    },
+    {
+      "numero": "5",
+      "titre": "Communication au Conseil communal : réponse à la question écrite n° 11 déposée le 8 mars 2022 de Mme Marlène BERARD «Covid et subventions : quelles institutions ont dû restituer une partie des subventions perçues ?» (CD)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Prend acte",
+      "objet": "5586/Q22-011"
+    },
+    {
+      "numero": "6",
+      "titre": "Communication au CC - Réponse à la question écrite n° 15 déposée le 23 novembre 2021 de M. Henri KLUNGE et consorts « Conséquence d'une assurance fusée grêle» (LEA)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Prend acte",
+      "objet": "5586/Q21-015"
+    },
+    {
+      "numero": "7",
+      "titre": "Communication au CC - Réponse aux résolutions à l'interpellation déposée le 19 mai 2020 de M. Xavier COMPANY : «Prostitution de rue : et si on arrêtait de fermer les yeux ?» (SE/FIM/SCS)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Prend acte",
+      "objet": "5586/INT20-043"
+    },
+    {
+      "numero": "8",
+      "titre": "Communication au CC - Réponse à la résolution de [particulier] suite à l'interpellation déposée le 3 mars 2020 de M. Xavier COMPANY et crts : «Que fait-on pour garder nos policières et policiers, et les encourager ?» (SE)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Prend acte",
+      "objet": "5586/INT20-049"
+    },
+    {
+      "numero": "9",
+      "titre": "Communication au  CC - Réponse à la question écrite n° 12 déposés le 8 mars 2022 de M. Benoît GAILLARD « Dispositifs et aménagements anti-chaleur sur la place de la Riponne» (FIM/CD)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Prend acte",
+      "objet": "5586/Q22-012"
+    },
+    {
+      "numero": "10",
+      "titre": "Postulat du 7 juin 2022 de Mme Romane BENVENUTI : «Postulat de Benvenuti Romane et crts - Un toit pour touxtes, toute l'année»",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Renvoi en Municipalité",
+      "objet": "5586/POS22-057"
+    },
+    {
+      "numero": "11",
+      "titre": "Postulat du 7 juin 2022 de M. Samson YEMANE : «Postulat de Yemane Samson et crts - Histoire coloniale - Lausanne : pour une ville inclusive et non discriminante»",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Renvoi en Municipalité",
+      "objet": "5586/POS22-058"
+    },
+    {
+      "numero": "12",
+      "titre": "Postulat du 7 juin 2022 de Mme Françoise PIRON : «Postulat de Piron Françoise - Journaux locaux, préservons ce lien local précieux !»",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Renvoi en Municipalité",
+      "objet": "5586/POS22-059"
+    },
+    {
+      "numero": "13",
+      "titre": "Postulat du 30 mai 2022 de Mme Maimouna MAYORAZ : «Postulat de Mayoraz Maimouna - Eviter des morts inutiles - interdisons le plaquage ventral»",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Renvoi en Municipalité",
+      "objet": "5586/POS22-060"
+    },
+    {
+      "numero": "14",
+      "titre": "Postulat du 7 juin 2022 de Mme Christine GOUMAZ : «Postulat de Goumaz Christine et crts - Vote par procuration»",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Renvoi en Municipalité",
+      "objet": "5586/POS22-061"
+    },
+    {
+      "numero": "15",
+      "titre": "Postulat du 7 juin 2022 de Mme Céline MISIEGO : «Postulat de Misiego Céline - Pour des  nouvelles places profondément lausannoises ?»",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Renvoi en Municipalité",
+      "objet": "5586/POS22-062"
+    },
+    {
+      "numero": "16",
+      "titre": "Interpellation du 7 juin 2022 de Mme Françoise PIRON : « En marche pour rénover les immeubles insalubres de la Ville ! »",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Renvoi en Municipalité",
+      "objet": "5586/INT22-041"
+    },
+    {
+      "numero": "17",
+      "titre": "Interpellation du 7 juin 2022 de M. Yohan ZIEHLI et crts : « Nombre de vélos et part modale en ville de Lausanne »",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Renvoi en Municipalité",
+      "objet": "5586/INT22-042"
+    },
+    {
+      "numero": "18",
+      "titre": "Interpellation du 7 juin 2022 de M. Ngoc Huy HO : «Pour une durabilité des événements soutenus par la Ville de Lausanne.»",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Renvoi en Municipalité",
+      "objet": "5586/INT22-044"
+    },
+    {
+      "numero": "19",
+      "titre": "Préavis N° 2022/11 : « Comptes de l'exercice 2021». Unification des pratiques liées aux validations des changements de statuts des fondations municipales (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Adoptée",
+      "objet": "5586/PREA22-011"
+    },
+    {
+      "numero": "20",
+      "titre": "Préavis N° 2022/12 - Crédits supplémentaires pour 2022 (1re série)». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Adoptée",
+      "objet": "5586/PREA22-010"
+    },
+    {
+      "numero": "21",
+      "titre": "Préavis N° 2022/07 : «Rues Vivantes II». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Adoptée",
+      "objet": "5586/PREA22-006"
+    },
+    {
+      "numero": "22",
+      "titre": "Préavis N° 2022/05 - Lausanne Jardin 2024». (LEA)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Adoptée",
+      "objet": "5586/PREA22-003"
+    },
+    {
+      "numero": "23",
+      "titre": "Rapport-préavis 2020/46 - Réponse au Postulat de M. Hadrien BUCLIN : «Pour contribuer à la lutte contre le réchauffement climatique, la Caisse de pensions du personnel communal de Lausanne doit désinvestir les énergies fossiles». (CD)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS15-007"
+    },
+    {
+      "numero": "24",
+      "titre": "Rapport-préavis 2020/46 - Réponse au Postulat de M. Ilias PANCHARD : «Pour que la caisse de pensions du personnel communal désinvestisse de l'armement» .(CD)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS18-003"
+    },
+    {
+      "numero": "25",
+      "titre": "Rapport-préavis 2020/51 - Réponse au Postulat de Mme Sara SOTO : «Art urbain : pour une géographie de sites dédiés» .(EJQ)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS18-035"
+    },
+    {
+      "numero": "26",
+      "titre": "Postulat de M. Pierre CONSCIENCE : «Pour donner un vrai tournant écologique et social à la politique lausannoise en matière de logement» .(LEA)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-017"
+    },
+    {
+      "numero": "27",
+      "titre": "Rapport-préavis N° 2020/33 - FIM - Réponse à trois postulats relatifs à l'intégration de la publicité et des grands chantiers dans l'espace public - - Réponse au Postulat de Mme Céline MISIEGO : «Pages blanches pour Lausanne». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS17-059"
+    },
+    {
+      "numero": "28",
+      "titre": "Rapport-préavis N° 2020/33 - Réponse au Postulat de M. Vincent ROSSI : «Des pauses dans l'affichage publicitaire à Lausanne». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS17-060"
+    },
+    {
+      "numero": "29",
+      "titre": "Rapport-préavis N° 2020/33 - Réponse au Postulat de M. Valéry BEAUD : «Grands chantiers : de l'art, de la couleur et une ouverture sur l'espace public». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS17-021"
+    },
+    {
+      "numero": "30",
+      "titre": "Postulat de M. Vincent ROSSI : «Arrête ton char ! Confinons les tanks urbains aux oubliettes de l'Histoire lausannoise» .(FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-044"
+    },
+    {
+      "numero": "31",
+      "titre": "Postulat de M. Denis CORBOZ : «Augmentation de la subvention pour les vélos électriques» .(SIL)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-011"
+    },
+    {
+      "numero": "32",
+      "titre": "Postulat de M. Denis CORBOZ : «30km/heure de jour comme de nuit maintenant !» .(FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-025"
+    },
+    {
+      "numero": "33",
+      "titre": "Postulat de M. Valéry BEAUD : «Pour des rentes de droit distinct et permanent de superficie (DDP) dépendantes de la qualité sociale, écologique et économique des projets développés» .(CD)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-011"
+    },
+    {
+      "numero": "34",
+      "titre": "Postulat de Mme Graziella SCHALLER : «Pour un Conseil des Seniors Lausannois» .(SCS)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-046"
+    },
+    {
+      "numero": "35",
+      "titre": "Postulat de Mme Céline MISIEGO : «Pas de financement sans égalité 2» .(FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-067"
+    },
+    {
+      "numero": "36",
+      "titre": "Postulat de Mme Muriel CHENAUX MESNIER : «Police Municipale visons la parité...» .(SE)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-006"
+    },
+    {
+      "numero": "37",
+      "titre": "Postulat de Mme Paola RICHARD-DE PAOLIS : «Ecoliers : en route pour l'école à vos risques et périls ?» .(FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-056"
+    },
+    {
+      "numero": "38",
+      "titre": "Postulat de M. Matthieu CARREL : «Sauvons le Théâtre du Vide-Poche» .(CD)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-002"
+    },
+    {
+      "numero": "39",
+      "titre": "Postulat de M. Valéry BEAUD : «Pour un renforcement de la politique communale en faveur des coopératives d'habitants» .(LEA)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-015"
+    },
+    {
+      "numero": "40",
+      "titre": "Rapport-préavis 2020/21 - Réponse au Postulat de M. Fabrice MOSCHENI : «Ouvrons le Journal de la Ville de Lausanne à la pluralité des opinions» .(CD)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS19-050"
+    },
+    {
+      "numero": "41",
+      "titre": "Postulat de M. Louis DANA : «La rue Centrale rendue aux piétons, à un tram et à une voie verte !» .(FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-068"
+    },
+    {
+      "numero": "42",
+      "titre": "Postulat de [particulier] de HALLER : «Rue centrale - centre ville apaisé : agissons». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-024"
+    },
+    {
+      "numero": "43",
+      "titre": "Rapport-préavis 2020/34 - Manifestations responsables : plan d'actions communales  - Réponse au Postulat de Mme Thanh-My TRAN-NHU : «Pour des manifestations sportives écologiques et durables» .(LEA)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS17-001"
+    },
+    {
+      "numero": "44",
+      "titre": "Rapport-préavis 2020/52 - Réponse au Postulat de M. Arnaud THIÈRY : «Primes d'assurances maladies pour recrues et civilistes : et si on évitait les primes inutiles ?». (SCS)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-057"
+    },
+    {
+      "numero": "45",
+      "titre": "Postulat de M. Musa KAMENICA : «Favoriser les cours de langue et de culture d'origine». (SCS)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-025"
+    },
+    {
+      "numero": "46",
+      "titre": "Postulat de M. Arnaud THIÈRY : «La gestion des taxis doit-elle rester du domaine de l'intercommunal ?». (SE)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS20-009"
+    },
+    {
+      "numero": "47",
+      "titre": "Rapport-préavis 2021/09 - Réponse au Postulat de M. Henri KLUNGE : «Un drone, mais pour quoi faire ?». (SE)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS17-063"
+    },
+    {
+      "numero": "48",
+      "titre": "Rapport-préavis 2020/50 - Réponse à 5 postulats relatifs à la gestion de la régulation du trafic - Réponse au Postulat de Mr Mathieu MAILLARD : «Moins de feux rouges pour plus de fluidité ?». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS17-025"
+    },
+    {
+      "numero": "49",
+      "titre": "Rapport-préavis 2020/50 - Réponse au Postulat de M. Nicola DI GIULIO : «Fluidifier le trafic en ville tout en diminuant l'impact sonore et celui des polluants». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS18-020"
+    },
+    {
+      "numero": "50",
+      "titre": "Rapport-préavis 2020/50 -Réponse au Postulat de Mme Sara GNONI : «Pour une journée des piétons dans certaines zones de la Ville à intervalles réguliers». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS18-023"
+    },
+    {
+      "numero": "51",
+      "titre": "Rapport-préavis 2020/50 - Réponse au Postulat de M. Johan PAIN : «Moins d'attente aux feux rouges pour les piétons pour faciliter leurs déplacements». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS18-015"
+    },
+    {
+      "numero": "52",
+      "titre": "Rapport-préavis 2020/50 - Réponse au Postulat de Mme Françoise LONGCHAMP : «Demande à la Municipalité d'étudier la possibilité de prolonger la phase verte pour les piétons». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS17-014"
+    },
+    {
+      "numero": "53",
+      "titre": "Rapport-préavis 2021/13 - Stratégie de requalification des espaces publics et réponse à 4 postulats relatifs au réaménagement des espaces publics - de M. Valéry Beaud - « Pour une véritable stratégie de requalification de l'espace public » (POS16/023). (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS16-023"
+    },
+    {
+      "numero": "54",
+      "titre": "Rapport-préavis 2021/13 - Stratégie de requalification des espaces publics et réponse à 4 postulats relatifs au réaménagement des espaces publics - Réponse au postulat de [particulier] - « Pour une place Centrale conviviale et accueillante » (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS14-029"
+    },
+    {
+      "numero": "55",
+      "titre": "Rapport-préavis 2021/13 - Stratégie de requalification des espaces publics et réponse à 4 postulats relatifs au réaménagement des espaces publics - Réponse au postulat de M. Guy GAUDARD : «La Place de la Sallaz aux piétons». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS17-051"
+    },
+    {
+      "numero": "56",
+      "titre": "Rapport-préavis 2021/13 - Stratégie de requalification des espaces publics et réponse à 4 postulats relatifs au réaménagement des espaces publics - Réponse au postulat de Mme Sarah NEUMANN : «Femmes en marche : un autre regard sur l'espace urbain». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS16-017"
+    },
+    {
+      "numero": "57",
+      "titre": "Rapport-préavis 2021/28 - Piscine de Bellerive et rives du lac - Réponse au Postulat de M. David Raedler : «Un accès libre à nos 'belles rives' pour toutes et tous» :  (SCS)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS19-010"
+    },
+    {
+      "numero": "58",
+      "titre": "Rapport-préavis 2021/28 - Piscine de Bellerive et rives du lac - Réponse à la pétition de [particulier] : «Bellerive Lausanne lac et piscine en harmonie de mai à septembre» (SCS)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/PE20-009"
+    },
+    {
+      "numero": "59",
+      "titre": "Postulat de M. Benoît GAILLARD : «Robotisation de la vente et de la restauration : taxer les caisses automatiques, assurer l'égalité de traitement». (SE)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-002"
+    },
+    {
+      "numero": "60",
+      "titre": "Rapport-préavis 2021/33 - Réponse au Postulat de M. Manuel DONZÉ : «Créer du lien intergénérationnel à travers les cantines scolaires». (EJQ)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS17-027"
+    },
+    {
+      "numero": "61",
+      "titre": "Pétition déposée le 4 juin 2021 de Tamara Embaló : « Pour une meilleure protection des habitant·e·s face aux nuisances de chantiers»",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/PE21-009"
+    },
+    {
+      "numero": "62",
+      "titre": "Pétition déposée le 27 avril 2021 de Taillefert Tatiana : « Pour la suppression de la taxe d'occupation du domaine public pour les artistes de rue»",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/PE21-004"
+    },
+    {
+      "numero": "63",
+      "titre": "Postulat de M. Ilias PANCHARD : «Pour une utilisation accrue des \"nudges\" dans l'espace public\"». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-005"
+    },
+    {
+      "numero": "64",
+      "titre": "Pétition déposée le 25 mai 2021 del'Association AQUBE : « Pour la ré-ouverture des WC publics d'Entre-Bois à Bellevaux»",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/PE21-003"
+    },
+    {
+      "numero": "65",
+      "titre": "Postulat de M. Louis DANA et crts : « Vote dès 16 ans : Lausanne doit prendre les devants !». (CD)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-040"
+    },
+    {
+      "numero": "66",
+      "titre": "Projet de règlement de M. Fabrice MOSCHENI : «Création d'une commission permanente des communs et de l'énergie». (CD)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/PR21-001"
+    },
+    {
+      "numero": "67",
+      "titre": "Postulat de M. Benjamin RUDAZ et crts : « Pour une démocratie vivante, crédible, citoyenne, militante et transparente »». (SE)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-033"
+    },
+    {
+      "numero": "68",
+      "titre": "Postulat de M. Camille-Angelo AGLIONE et crts : « Il faut assainir les giratoires de la Maladière, Malley et Monchoisi». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-041"
+    },
+    {
+      "numero": "69",
+      "titre": "Rapport-préavis 2021/21 : Réponse au Postulat de Mme Thérèse DE MEURON : «Demande à la Municipalité d'établir l'inventaire des missions que Lausanne doit, pour des raisons légales, exécuter ou décide, parce qu'elle les juge indispensables pour le bien de ses administrés, de se les donner». (CD)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS17-057"
+    },
+    {
+      "numero": "70",
+      "titre": "Postulat de Mme Céline MISIEGO : «Accès Internet et Télé réseau à des prix avantageux». (SIL)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-046"
+    },
+    {
+      "numero": "71",
+      "titre": "Postulat de Mme Pauline BLANC et consorts : «Pour des poubelles publiques adaptées au tri sélectif !». (FIM) R",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-062"
+    },
+    {
+      "numero": "72",
+      "titre": "Postulat de M. Yohan ZIEHLI : « Pour une analyse du potentiel d'amélioration de l'équipement des forces de police par l'acquisition de pistolets à impulsions électriques». (SE)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-047"
+    },
+    {
+      "numero": "73",
+      "titre": "Postulat de Mme Françoise PIRON : «Stop à la guerre des trottoirs, rendons ces espaces aux piétons !». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-065"
+    },
+    {
+      "numero": "74",
+      "titre": "Postulat de M. Oleg GAFNER et consorts : « Employeur responsable : pour un meilleur accompagnement des victimes de harcèlement sexuel et psychologique». (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-063"
+    },
+    {
+      "numero": "75",
+      "titre": "Postulat de M. Mathias PAQUIER et consorts : « Un laboratoire d'innovation collaborative pour créer la ville de demain». (LEA)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-052"
+    },
+    {
+      "numero": "76",
+      "titre": "Postulat de Mme Laura MANZONI : « Pour la reconnaissance des plus précaires, pour la solidité de notre société : favorisons l'intégration des personnes sans titre de séjour par une City Card». (SCS)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-056"
+    },
+    {
+      "numero": "77",
+      "titre": "Postulat de M. Ilias PANCHARD : « S'abriter, se reposer et s'organiser : pour un local au centre-ville à disposition des livreurs et livreuses de repas !». (SCS)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-085"
+    },
+    {
+      "numero": "78",
+      "titre": "Pétition déposée le 8 mars 2022 de Montelly vit ! par [particulier] : « Non à l'APEMS en sous-sol pour les enfants des écoles de Montoie et Figuiers» (EJQ)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/PE22-004"
+    },
+    {
+      "numero": "79",
+      "titre": "Postulat de M. Fabrice MOSCHENI : «Aidons les jeunes à accéder au marché du travail grâce au permis de conduire». (SCS)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-057"
+    },
+    {
+      "numero": "80",
+      "titre": "Postulat de M. Roland PHILIPPOZ : « Pour une Bourdonnette intégrée à la Ville et dans laquelle il fait bon vivre». (LEA)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS21-068"
+    },
+    {
+      "numero": "81",
+      "titre": "Rapport-préavis 2021/12 - Réponse au Postulat de M. Arnaud THIÈRY : «Changer la ville pour préserver le climat : penser en réseau la fourniture de froid». (SIL)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS19-019"
+    },
+    {
+      "numero": "82",
+      "titre": "Rapport-préavis 2021/12 - Réponse au Postulat de Mme Aude BILLARD : «Changer la ville pour préserver le climat : développer le solaire sur des infrastructures du territoire communal». (SIL)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/POS19-026"
+    },
+    {
+      "numero": "83",
+      "titre": "Pétition déposée le 11 janvier 2022 de : «Pétition au CC de Meier Maxime et consorts - Oui aux 50 km/h la nuit en Ville de Lausanne»",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/PE22-002"
+    },
+    {
+      "numero": "84",
+      "titre": "Postulat du 24 mai 2022 de M. Oleg GAFNER : «Postulat de Gafner Oleg et crts - En route pour la gratuité» (SCS/EJQ/FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Renvoi en commission",
+      "objet": "5586/POS22-052"
+    },
+    {
+      "numero": "85",
+      "titre": "Postulat du 24 mai 2022 de M. Mathias PAQUIER : «Postulat de Paquier Mathias et crts - Généralisation du télétravail : donnons-nous les moyens» (LEA/FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Renvoi direct en Municipalité",
+      "objet": "5586/POS22-053"
+    },
+    {
+      "numero": "86",
+      "titre": "Postulat du 24 mai 2022 de Mme Alexandra GERBER : «Postulat de Gerber Alexandra et crts - Postulat pour réduire l'impact énergétique et écologique de la construction» (LEA/CD)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Renvoi direct en Municipalité",
+      "objet": "5586/POS22-055"
+    },
+    {
+      "numero": "87",
+      "titre": "Postulat du 24 mai 2022 de Mme Sara GNONI : «Postulat de Gnoni Sara et crts - Accélération du remplacement des chaudières fossiles : Pour un renforcement de la dynamique de remplacement des chaudières fossiles par des chaudières à énergies renouvelables.» (SIL)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Renvoi direct en Municipalité",
+      "objet": "5586/POS22-056"
+    },
+    {
+      "numero": "88",
+      "titre": "Interpellation déposée le 4 décembre 2018 de Mme Céline MISIEGO : «Payer ses poursuites devrait suffire !» (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT18-067"
+    },
+    {
+      "numero": "89",
+      "titre": "Interpellation déposée le 11 juin 2021 de Mme Christiane SCHAFFER : « La Ville achète une exploitation agricole à la barbe de deux agriculteurs. Que veut-elle en faire ? Un manège pour les chevaux ?» (CD/LEA)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT21-025"
+    },
+    {
+      "numero": "90",
+      "titre": "Interpellation déposée le 22 juin 2021 de Mme Christiane SCHAFFER : « Déchets sur la voie publique, le littering à Lausanne» (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT21-026"
+    },
+    {
+      "numero": "91",
+      "titre": "Interpellation déposée le 9 mars 2021 de M. Arnaud THIÈRY : «Un an après, il est temps d'agir contre les crimes LGBTIQ-phobes !» (SE)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT21-003"
+    },
+    {
+      "numero": "92",
+      "titre": "Interpellation urgente (urgence refusée) déposée le 5 novembre 2021 de Mme Françoise PIRON : « Deux ans sans piscine c'est trop !» (SCS)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT21-044"
+    },
+    {
+      "numero": "93",
+      "titre": "Interpellation urgente (urgence refusée) déposée le 23 novembre 2021 de Mme Anaïs TIMOFTE : « Pollution de l'eau dans 6 communes raccordées au réseau d'approvisionnement lausannois : doit-on laisser couler ?» (SE)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT21-055"
+    },
+    {
+      "numero": "94",
+      "titre": "Interpellation déposée le 8 septembre 2021 de M. Ilias PANCHARD : «Vers des itinéraires de manifs réellement accessibles à toutes et tous !» (SE)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT21-030"
+    },
+    {
+      "numero": "95",
+      "titre": "Interpellation urgente (urgence refusée) déposée le 22 novembre 2021 de Mme Franziska MEINHERZ : « L'espace Blécherette vs Porno Diesel : mettre 20 personnes à la rue pour greenwasher le voisinage du Stade de la Tuilière ?» (LEA)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT21-052"
+    },
+    {
+      "numero": "96",
+      "titre": "Interpellation déposée le 29 septembre 2021 de M. Matthieu CARREL : «Guettons l'heure de l'égalité au sein de l'administration communale» (EJQ)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT21-036"
+    },
+    {
+      "numero": "97",
+      "titre": "Interpellation déposée le 9 novembre 2021 de M. Benoît GAILLARD et crts : « Electricité : continuer à éclairer le débat» (SIL)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT21-047"
+    },
+    {
+      "numero": "98",
+      "titre": "Interpellation déposée le 19 janvier 2022 de M. Benoît GAILLARD : « Rue Pichard : Vitrines opaques et calendrier trouble» (SE)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT22-004"
+    },
+    {
+      "numero": "99",
+      "titre": "Interpellation (urgence refusée) déposée le 25 janvier 2022 de M. Antoine Gösta PIGUET et crts : « Interdiction de tourner à gauche : quand la Municipalité préfère tourner en rond» (FIM)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT22-009"
+    },
+    {
+      "numero": "100",
+      "titre": "Interpellation déposée le 8 février 2022 de Mme Françoise PIRON et crts : « Pour plus de transparence dans la gouvernance de la Vaudoise Arena» (SCS)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT22-014"
+    },
+    {
+      "numero": "101",
+      "titre": "Interpellation déposée le 8 février 2022 de Mme Aude BILLARD et crts : « Sécurité des écoliers aux abords et dans les enceintes des écoles» (EJQ)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT22-012"
+    },
+    {
+      "numero": "102",
+      "titre": "Interpellation urgente (refusée) déposée le 8 mars 2022 de M. Fabrice MOSCHENI et crts : « Dioxine à Lausanne : La Municipalité procrastine-t-elle ?» (LEA)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT22-029"
+    },
+    {
+      "numero": "103",
+      "titre": "Interpellation urgente (refusée) déposée le 4 mars 2022 de M. Samuel DE VARGAS et crts : « Un exercice juste des droits démocratiques, maintenant !» (SE)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT22-023"
+    },
+    {
+      "numero": "104",
+      "titre": "Interpellation déposée le 12 octobre 2021 de Mme Alexandra GERBER : « Comment préserver le patrimoine naturel lausannois en attendant le Plan d'affectation communal (PACom) ?» (CD/LEA)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT21-037"
+    },
+    {
+      "numero": "105",
+      "titre": "Interpellation urgente déposé le 10 mai 2022 de Mme Anaïs TIMOFTE «Ecole de Musique Lausanne (EML) : encore une institution culturelle lausannoise dans la tourmente ?» (CD)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT22-037"
+    },
+    {
+      "numero": "106",
+      "titre": "Interpellation urgente déposé le 10 mai 2022 de M. Matthieu CARREL «Souffrances au travail à l'opéra de Lausanne» (CD)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT22-034"
+    },
+    {
+      "numero": "107",
+      "titre": "Interpellation urgente déposé le 24 mai 2022 de Mme Manon ZECCA et crts «BDFil : place à la transparence !» (CD)",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Reporté",
+      "objet": "5586/INT22-040"
+    },
+    {
+      "numero": "108",
+      "titre": "Interpellation urgente du 7 juin 2022 de M. Johann DUPUIS : «Interpellation urgente de Dupuis Johann et crts - Stop à la municipalisation rampante de l'animation socioculturelle lausannoise et à la maltraitance de son personnel»",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Non-traîté, renvoi en Municipalité",
+      "objet": "5586/INT22-047"
+    },
+    {
+      "numero": "109",
+      "titre": "Interpellation urgente du 7 juin 2022 de M. Benoît GAILLARD : «Interpellation urgente de Gaillard Benoît et crts - Faire cesser le scandale Uber au plus vite à Lausanne !»",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Non-traîté, renvoi en Municipalité",
+      "objet": "5586/INT22-045"
+    },
+    {
+      "numero": "110",
+      "titre": "Interpellation urgente du 7 juin 2022 de M. Mountazar JAFFAR : «Interpellation urgente de Jaffar Mountazar et crts - Inflation : quelles aides pour les lausannois.es modestes ?»",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Non-traîté, renvoi en Municipalité",
+      "objet": "5586/INT22-043"
+    },
+    {
+      "numero": "111",
+      "titre": "Interpellation urgente du 7 juin 2022 de M. Henri KLUNGE et consorts : «Conséquence de la fermeture du chemin de Bellevue»",
+      "categorie": "OPÉRATIONS PRÉLIMINAIRES",
+      "resultat": "Réponse immédiate",
+      "objet": "5586/INT22-046"
+    }
+  ]
+}

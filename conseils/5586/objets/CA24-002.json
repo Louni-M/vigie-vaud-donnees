@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 120079,
+  "numero": "CA24/002",
+  "type": "Compte d’attente",
+  "statut": {
+    "libelle": "Décision : Prend acte",
+    "date": "2024-08-27"
+  },
+  "depose": "2024-05-27",
+  "titre": "Requalification de la route des Plaines-du-Loup",
+  "contributeurs": [
+    {
+      "nom": "Anja Borgeaud",
+      "parti": null,
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-05-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-08-27",
+      "libelle": "Décision : Prend acte"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "24_04_juillet_requalification_de_la_route_des_plaines_du_loup_cc_communication.pdf v1.0",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/9f/9f818029e14f4e599d09f87cd66aac8f.pdf"
+    }
+  ],
+  "lien": "https://www.lausanne.ch/apps/agir/affaire/91/72624e53303b425abc1d9c95fb366191.htm",
+  "communes": []
+}

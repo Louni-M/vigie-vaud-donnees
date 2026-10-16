@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223144,
+  "numero": "14_INT_231",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-09-23"
+  },
+  "depose": "2014-02-18",
+  "titre": "Quel est le bilan de l'expérience de domotique - santé auprès de personnes suivies par les CMS ?",
+  "contributeurs": [
+    {
+      "nom": "Christiane Jaquet-Berger",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Christiane Jaquet-Berger",
+      "parti": "LGa",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-02-18",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-09-23",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-09-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_231_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-03-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_231_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-23-septembre-2014/reponse-du-conseil-detat-a-linterpellation-christiane-jaquet-berger-et-consorts-quel-est-le-bilan-de-lexperience-de-domotique-sante-aupres-de-personnes-suivies-par-les-cms",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5939,
+      "origine": "document"
+    }
+  ]
+}

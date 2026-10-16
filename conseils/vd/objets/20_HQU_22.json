@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221348,
+  "numero": "20_HQU_22",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2020-11-17"
+  },
+  "depose": "2020-11-03",
+  "titre": "Une solution pour les sans-abris ?",
+  "contributeurs": [
+    {
+      "nom": "Vincent Keller",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-11-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-11-17",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/18f81753-08f2-4daf-b102-da9483771bb6/meeting/1000535",
+  "communes": []
+}

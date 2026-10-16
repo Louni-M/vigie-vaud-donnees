@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 203055,
+  "numero": "20_QUE_3",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2020-10-28"
+  },
+  "depose": "2020-09-08",
+  "titre": "Engorgement des centres de dépistage du Covid-19",
+  "contributeurs": [
+    {
+      "nom": "Hadrien Buclin",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-09-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-10-28",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Fonctionnement des centres de dépistage du Covid-19",
+      "date": "2020-10-28",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2014609"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/61c1abce-c90a-43eb-8ec0-8212d193803e/meeting/1000526",
+  "communes": [
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

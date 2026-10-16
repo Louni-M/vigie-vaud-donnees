@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222357,
+  "numero": "11_INT_626",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-02-12"
+  },
+  "depose": "2012-04-03",
+  "titre": "Pour que la pluie de crapauds - ducs tombe enfin!",
+  "contributeurs": [
+    {
+      "nom": "Olivier Epars",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-04-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-04-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-02-12",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-12-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/11_INT_626_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-04-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_626_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-12-fevrier-2013/reponse-du-conseil-detat-a-linterpellation-olivier-epars-pour-que-la-pluie-de-crapauds-ducs-tombe-enfin",
+  "communes": [
+    {
+      "ofs": 5790,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5582,
+      "origine": "document"
+    },
+    {
+      "ofs": 5746,
+      "origine": "document"
+    },
+    {
+      "ofs": 5464,
+      "origine": "document"
+    },
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5428,
+      "origine": "document"
+    }
+  ]
+}

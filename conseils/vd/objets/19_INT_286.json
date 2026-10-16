@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224574,
+  "numero": "19_INT_286",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-05-08"
+  },
+  "depose": "2019-01-22",
+  "titre": "Renoncement genevois au E-vote : et après ?",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Montangero",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Stéphane Montangero",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-01-22",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-01-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-05-08",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-02-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_286_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-01-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_286_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-05-04",
+      "lien": "https://www.sonomix.ch/live/gcvd/1814#1050"
+    },
+    {
+      "titre": "Vote électronique",
+      "date": "2019-05-08",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=377410"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/40ba7d02-b55b-4c20-9935-d3938cd3c2eb/meeting/1000558",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

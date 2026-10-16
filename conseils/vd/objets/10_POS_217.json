@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222149,
+  "numero": "10_POS_217",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2011-09-13"
+  },
+  "depose": "2010-11-02",
+  "titre": "Pour la création d'une coopérative solaire permettant d'encourager la pose de capteurs photovoltaïques",
+  "contributeurs": [
+    {
+      "nom": "Michel Renaud",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Michel Renaud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-11-02",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-11-02",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2011-09-13",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-05-31",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_217_RC.PDF"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2011-03-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_217_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2011-03-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_MOT_115_10_POS_217_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2010-11-02",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_POS_217_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-13-septembre-2011/postulat-jacques-perrin-pour-la-creation-dune-cooperative-solaire-permettant-dencourager-la-pose-de-capteurs-photovoltaiques",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

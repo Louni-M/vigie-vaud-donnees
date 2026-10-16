@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225426,
+  "numero": "20_QUE_14",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-02-03"
+  },
+  "depose": "2020-11-17",
+  "titre": "Pourrait-on permettre aux candidat.e.x de ne pas faire genre ?",
+  "contributeurs": [
+    {
+      "nom": "Céline Misiego",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-11-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-02-03",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Mention du sexe des personnes candidates à des élections sur le document officiel de candidature",
+      "date": "2021-01-27",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2033945"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/9ae2bc48-061e-4c6b-9cb7-0e491d3e49d3/meeting/1000535",
+  "communes": []
+}

@@ -1,0 +1,446 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5554,
+  "objets": [
+    {
+      "cle": "vd/22_LEG_116",
+      "numero": "22_LEG_116",
+      "type": "Décret/Loi",
+      "depose": "2023-03-14",
+      "titre": "EMPD EMPD accordant au Conseil d'Etat un crédit d’ouvrage de CHF 10'900'000.- pour financer des travaux d’aménagement et la création de bandes cyclables sur la RC 401-B-P entre Grandson et Vaumarcus",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-03-14"
+      },
+      "derniere_etape": "2023-03-14",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5554,
+          "origine": "document"
+        },
+        {
+          "ofs": 5555,
+          "origine": "document"
+        },
+        {
+          "ofs": 5565,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        },
+        {
+          "ofs": 5855,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_51",
+      "numero": "22_INT_51",
+      "type": "Interpellation",
+      "depose": "2022-03-29",
+      "titre": "Démolira ? démolira pas ? ou la saga de la Prise Zacharie",
+      "auteurs": [
+        {
+          "nom": "Jean-Luc Chollet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-06-29"
+      },
+      "derniere_etape": "2022-06-29",
+      "communes": [
+        {
+          "ofs": 5554,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_PET_023",
+      "numero": "18_PET_023",
+      "type": "Pétition",
+      "depose": "2018-10-02",
+      "titre": "Pétition Sauvez Chasseron - Creux-du-Van",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2019-06-04"
+      },
+      "derniere_etape": "2019-06-04",
+      "communes": [
+        {
+          "ofs": 5560,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        },
+        {
+          "ofs": 5556,
+          "origine": "document"
+        },
+        {
+          "ofs": 5552,
+          "origine": "document"
+        },
+        {
+          "ofs": 5557,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        },
+        {
+          "ofs": 5554,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_POS_105",
+      "numero": "15_POS_105",
+      "type": "Postulat",
+      "depose": "2015-02-10",
+      "titre": "Pour une réalisation d'une aire de repos - restoroute sur l'A5 à Concise",
+      "auteurs": [
+        {
+          "nom": "Hugues Gander",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Hugues Gander",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2015-05-26"
+      },
+      "derniere_etape": "2015-05-26",
+      "communes": [
+        {
+          "ofs": 5554,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5746,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5565,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_264",
+      "numero": "14_INT_264",
+      "type": "Interpellation",
+      "depose": "2014-06-24",
+      "titre": "Croisières à Yverdon : trois p'tits tours et puis s'en vont ?",
+      "auteurs": [
+        {
+          "nom": "Pierrette Roulet-Grin",
+          "parti": null
+        },
+        {
+          "nom": "Pierrette Roulet-Grin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-01-20"
+      },
+      "derniere_etape": "2015-01-20",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        },
+        {
+          "ofs": 5554,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_PET_018",
+      "numero": "13_PET_018",
+      "type": "Pétition",
+      "depose": "2014-02-04",
+      "titre": "Pétition pour la protection d'un chalet menacé de destruction par une décision du SDT",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2014-03-18"
+      },
+      "derniere_etape": "2014-03-18",
+      "communes": [
+        {
+          "ofs": 5410,
+          "origine": "document"
+        },
+        {
+          "ofs": 5554,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_167",
+      "numero": "13_INT_167",
+      "type": "Interpellation",
+      "depose": "2013-10-08",
+      "titre": "Pourquoi vouloir raser le chalet au 17, chemin de Cergnat, à Ormont Dessous ?",
+      "auteurs": [
+        {
+          "nom": "François Brélaz",
+          "parti": null
+        },
+        {
+          "nom": "François Brélaz",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-03-18"
+      },
+      "derniere_etape": "2014-03-18",
+      "communes": [
+        {
+          "ofs": 5410,
+          "origine": "document"
+        },
+        {
+          "ofs": 5554,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_LEG_54",
+      "numero": "13_LEG_54",
+      "type": "Décret/Loi",
+      "depose": "2013-05-28",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'investissement de CHF 1'940'000.- pour financer l'entretien lourd de trois giratoires Poissine, Mottey et Champ-Courbe sur la route RC 401-B-P entre la jonction autoroutière de Corcelettes près de Grandson et Concise, sur le territoire des communes de Grandson, Bonvillars, Onnens et de Corcelles-près-Concise",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-06-18"
+      },
+      "derniere_etape": "2013-06-18",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5554,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5551,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5565,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5555,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        },
+        {
+          "ofs": 5553,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_PET_053",
+      "numero": "10_PET_053",
+      "type": "Pétition",
+      "depose": "2010-12-14",
+      "titre": "Pétition pour le sauvetage de la Ferme de la Prise Zacharie, à Concise",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2010-12-14"
+      },
+      "derniere_etape": "2010-12-14",
+      "communes": [
+        {
+          "ofs": 5554,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_142",
+      "numero": "9_LEG_142",
+      "type": "Décret/Loi",
+      "depose": "2009-03-17",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 2'760'000.- destiné à financer l'achèvement du réseau des routes nationales, période 2009-2012 (vingt-troisième tranche)",
+      "auteurs": [
+        {
+          "nom": "Jean-Jacques Truffer",
+          "parti": null
+        },
+        {
+          "nom": "Jean-Jacques Truffer",
+          "parti": "LIB"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2009-03-17"
+      },
+      "derniere_etape": "2009-03-17",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5939,
+          "origine": "document"
+        },
+        {
+          "ofs": 5554,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

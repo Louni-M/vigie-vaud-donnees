@@ -1,0 +1,90 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228470,
+  "numero": "9_LEG_104",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2009-10-06"
+  },
+  "depose": "2009-09-15",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi sur l'action sociale vaudoise du 2 décembre 2003 (LASV) et Rapport du Conseil d'Etat au Grand Conseil sur le postulat Cornut et consorts demandant au Conseil d'Etat d'étudier l'opportunité de modifier la Loi sur l'action sociale vaudoise, voire d'autres lois, pour confier au Autorités d'application de l'aide sociale la responsabilité de contrôler l'indigence et pour octroyer à ces mêmes autorités toutes les compétences nécessaires à cet effet",
+  "contributeurs": [
+    {
+      "nom": "Olivier Mayor",
+      "parti": "VER",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Olivier Mayor",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Michel Dolivo",
+      "parti": "EP",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-09-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-09-15",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2009-10-06",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/104_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/104_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/104_RC_maj.pdf"
+    },
+    {
+      "titre": "Rapport complémentaire de la majorité de la commission",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/104_RC_compl_maj.pdf"
+    },
+    {
+      "titre": "Loi adoptée par le Grand Conseil le 06.10.09",
+      "date": "2009-10-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/104_loi_adoptee_le_06oct09.pdf"
+    },
+    {
+      "titre": "Tableau miroir après le 1er débat",
+      "date": "2009-09-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/104_LASV_tableau-miroir_apres_1er_debat.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-6-octobre-2009/expose-des-motifs-et-projet-de-loi-lasv",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223577,
+  "numero": "15_LEG_218",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2015-06-30"
+  },
+  "depose": "2015-06-09",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi du 7 décembre 2004 sur les fusions de communes et Rapport du Conseil d'Etat au Grand Conseil sur le postulat Maurice Neyroud et consorts « Gardons nos origines »",
+  "contributeurs": [
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Aliette Rey-Marion",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-06-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-06-16",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2015-06-23",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2015-06-30",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/218_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-06-09",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/218_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-30-juin-2015/expose-des-motifs-et-projet-de-loi-modifiant-la-loi-du-7-decembre-2004-sur-les-fusions-de-communes-et-rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-maurice-neyroud-et-consorts-gardons-nos-origines",
+  "communes": [
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5790,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5891,
+      "origine": "document"
+    }
+  ]
+}

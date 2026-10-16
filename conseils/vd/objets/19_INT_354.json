@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224671,
+  "numero": "19_INT_354",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2020-02-25"
+  },
+  "depose": "2019-05-28",
+  "titre": "Ça va enfin gazer pour le dégazage de nos bovins, ou bien ?",
+  "contributeurs": [
+    {
+      "nom": "Olivier Epars",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Olivier Epars",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-05-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-05-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2019-12-18",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2020-02-25",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_354_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-05-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_354_depot.pdf"
+    },
+    {
+      "titre": "Diminution du méthane produit par les bovins",
+      "date": "2019-12-18",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=381587"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-25-fevrier-2020/reponse-du-conseil-detat-a-linterpellation-olivier-epars-ca-va-enfin-gazer-pour-le-degazage-de-nos-bovins-ou-bien",
+  "communes": []
+}

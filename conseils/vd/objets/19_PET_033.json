@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224930,
+  "numero": "19_PET_033",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2020-03-03"
+  },
+  "depose": "2019-08-27",
+  "titre": "Pétition pour une fermeture raisonnée et raisonnable de la RC 501 entre Bottens et Cugy",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2019-08-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-03-03",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_PET_033_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2020-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_PET_033_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-3-mars-2020/petition-pour-une-fermeture-raisonnee-et-raisonnable-de-la-rc-501-entre-bottens-et-cugy",
+  "communes": [
+    {
+      "ofs": 5514,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5516,
+      "origine": "titre"
+    }
+  ]
+}

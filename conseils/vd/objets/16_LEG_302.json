@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223941,
+  "numero": "16_LEG_302",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-08-23"
+  },
+  "depose": "2013-11-19",
+  "titre": "Exposé des motifs et projet de loi modifiant la loi du 25 novembre 1974 sur la circulation routière (LVCR)",
+  "contributeurs": [
+    {
+      "nom": "Fabienne Despot",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Fabienne Despot",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-11-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-11-19",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2013-11-26",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2016-08-23",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/302_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/302_RC.PDF"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2013-11-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/74_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2013-11-19",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/74_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-23-aout-2016/expose-des-motifs-et-projet-de-loi-modifiant-la-loi-du-25-novembre-1974-sur-la-circulation-routiere-lvcr",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

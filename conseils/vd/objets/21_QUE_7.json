@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226001,
+  "numero": "21_QUE_7",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-03-24"
+  },
+  "depose": "2021-02-09",
+  "titre": "Récolte de signatures - Procédure simplifiée",
+  "contributeurs": [
+    {
+      "nom": "Cédric Weissert",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2021-02-09",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-03-24",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Procédure de récolte de signatures simplifiée lors de référendums",
+      "date": "2021-03-24",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2045468"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4db9dd0c-c18d-4fa7-91ce-7c2dac3eb84b/meeting/1000548",
+  "communes": []
+}

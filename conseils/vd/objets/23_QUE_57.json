@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227349,
+  "numero": "23_QUE_57",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-12-20"
+  },
+  "depose": "2023-11-21",
+  "titre": "Nouvelle planification hospitalière cantonale : des critères pas si économiques",
+  "contributeurs": [
+    {
+      "nom": "Fabrice Moscheni",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-11-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-12-20",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.spitaltarife.preisueberwacher.ch/fr",
+      "date": "2023-11-21",
+      "lien": "https://www.spitaltarife.preisueberwacher.ch/fr"
+    },
+    {
+      "titre": "Nouvelle planification hospitalière cantonale",
+      "date": "2023-12-20",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2213933"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a9ef196a-0355-4b91-b6f8-25a923ec09f2/meeting/1019547",
+  "communes": []
+}

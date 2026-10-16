@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228337,
+  "numero": "25_QUE_2",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2025-03-05"
+  },
+  "depose": "2025-01-14",
+  "titre": "Quel bilan carbone des déplacements privés en jets et hélicoptères dans le Canton ?",
+  "contributeurs": [
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-01-14",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-03-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-03-05",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Dans la réponse à mon interpellation sur les jets privés dans le Canton de Vaud",
+      "date": "2025-01-14",
+      "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/detail-seance/seance-gc/1026873"
+    },
+    {
+      "titre": "Bilan carbone des déplacements privés en jets et hélicoptères",
+      "date": "2025-03-05",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2290839"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6e8f70a4-a1fa-42d2-a7fb-7543f979a115/meeting/1026874",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5860,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5822,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

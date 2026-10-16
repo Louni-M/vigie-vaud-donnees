@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226907,
+  "numero": "23_HQU_77",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2023-10-10"
+  },
+  "depose": "2023-10-03",
+  "titre": "Le retrait de la prestation \"SeMo Coaching\" des SEMO vaudois",
+  "contributeurs": [
+    {
+      "nom": "Cédric Roten",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-10-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-10-10",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://www.zefix.ch/fr/search/entity/list/firm/1193323",
+      "date": "2023-10-10",
+      "lien": "https://www.zefix.ch/fr/search/entity/list/firm/1193323"
+    },
+    {
+      "titre": "https://www.vd.ch/fileadmin/user_upload/themes/formation/orientation/fichiers_pdf/filieres_infos/Fil_Info_Semo_Coaching.pdf",
+      "date": "2023-10-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/themes/formation/orientation/fichiers_pdf/filieres_infos/Fil_Info_Semo_Coaching.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/27ef9a6c-34ad-4b10-a545-ee3ae16f61e7/meeting/1019543",
+  "communes": []
+}

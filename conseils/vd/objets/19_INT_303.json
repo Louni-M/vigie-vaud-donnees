@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224619,
+  "numero": "19_INT_303",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-11-18"
+  },
+  "depose": "2019-02-05",
+  "titre": "Nouvelle ligne CFF entre Lausanne et Genève, pourquoi ne pas étudier l'aménagement d'une gare souterraine au niveau de l'EPFL ?",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Masson",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-02-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-02-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-11-18",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2019-02-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_303_depot.pdf"
+    },
+    {
+      "titre": "Pertinence de la création d’une gare souterraine à l’EPFL",
+      "date": "2020-11-18",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2019574"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-12-fevrier-2019/interpellation-stephane-masson-et-consorts-nouvelle-ligne-cff-entre-lausanne-et-geneve-pourquoi-ne-pas-etudier-lamenagement-dune-gare-souterraine-au-niveau-de-lepfl",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5635,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5648,
+      "origine": "document"
+    },
+    {
+      "ofs": 5851,
+      "origine": "document"
+    }
+  ]
+}

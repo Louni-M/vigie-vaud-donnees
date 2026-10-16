@@ -1,0 +1,649 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5703,
+  "objets": [
+    {
+      "cle": "vd/26_INT_135",
+      "numero": "26_INT_135",
+      "type": "Interpellation",
+      "depose": "2026-09-29",
+      "titre": "Installation d’une chaudière à mazout de 400 kW à Bassins, le silence de la DGTL et la responsabilité des délégués cantonaux chez Romande Energie",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": null
+        },
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Transmise au CE",
+        "date": "2026-10-06"
+      },
+      "derniere_etape": "2026-10-06",
+      "communes": [
+        {
+          "ofs": 5703,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_INT_157",
+      "numero": "24_INT_157",
+      "type": "Interpellation",
+      "depose": "2024-11-05",
+      "titre": "Le mystère des déductions fiscales pour le petit peuple vaudois continue depuis février 23",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-09-16"
+      },
+      "derniere_etape": "2025-09-16",
+      "communes": [
+        {
+          "ofs": 5703,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_LEG_147",
+      "numero": "22_LEG_147",
+      "type": "Décret/Loi",
+      "depose": "2023-06-13",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit d’ouvrage de CHF 55'260'000.- pour la construction d'une centrale de chauffe utilisant l’eau du lac pour alimenter les bâtiments de l'Université de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-06-13"
+      },
+      "derniere_etape": "2023-06-13",
+      "communes": [
+        {
+          "ofs": 5703,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_POS_22",
+      "numero": "22_POS_22",
+      "type": "Postulat",
+      "depose": "2022-05-17",
+      "titre": "Pour ne pas regretter plus tard de s'être mis au service d'une collectivité : affiliation au deuxième pilier pour les municipales, municipaux, députées et députés",
+      "auteurs": [
+        {
+          "nom": "Yannick Maury",
+          "parti": "VER"
+        },
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2022-05-24"
+      },
+      "derniere_etape": "2022-05-24",
+      "communes": [
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5931,
+          "origine": "document"
+        },
+        {
+          "ofs": 5680,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5648,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_POS_070",
+      "numero": "18_POS_070",
+      "type": "Postulat",
+      "depose": "2018-08-28",
+      "titre": "Approvisionnement d'eau sur les pâturages vaudois, des solutions naturelles pour l'avenir",
+      "auteurs": [
+        {
+          "nom": "Patrick Simonin",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Patrick Simonin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2020-10-28"
+      },
+      "derniere_etape": "2020-10-28",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_688968",
+      "numero": "20_LEG_688968",
+      "type": "Décret/Loi",
+      "depose": "2020-08-19",
+      "titre": "EMPD accordant au CE un crédit cadre de CHF 10'000'000.- pour des travaux d'entretien de 4 routes cantonales : RC 32 La Cézille – Bassins, RC 260 Fontaines-sur-Grandson – Villars-Burquin, RC 267 Vuiteboeuf – Orges et RC 543 Peyres-Possens - Sottens - ExMot Texte adopté par CE",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2020-08-19"
+      },
+      "derniere_etape": "2020-08-19",
+      "communes": [
+        {
+          "ofs": 5703,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_407",
+      "numero": "19_INT_407",
+      "type": "Interpellation",
+      "depose": "2019-10-08",
+      "titre": "Faites ce que je dis, pas ce que je fais !",
+      "auteurs": [
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-03-04"
+      },
+      "derniere_etape": "2020-03-04",
+      "communes": [
+        {
+          "ofs": 5703,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_362",
+      "numero": "19_INT_362",
+      "type": "Interpellation",
+      "depose": "2019-06-04",
+      "titre": "Cachez ce-tte municipal-e que je ne saurais voir !",
+      "auteurs": [
+        {
+          "nom": "Taraneh Aminian",
+          "parti": null
+        },
+        {
+          "nom": "Taraneh Aminian",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2020-01-28"
+      },
+      "derniere_etape": "2020-01-28",
+      "communes": [
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_MOT_068",
+      "numero": "19_MOT_068",
+      "type": "Motion",
+      "depose": "2019-01-08",
+      "titre": "Plus de démocratie citoyenne dans la gestion des situations de crises où la Municipalité est défaillante",
+      "auteurs": [
+        {
+          "nom": "Jean Tschopp",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Jean Tschopp",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2020-01-21"
+      },
+      "derniere_etape": "2020-01-21",
+      "communes": [
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_165",
+      "numero": "19_LEG_165",
+      "type": "Décret/Loi",
+      "depose": "2019-09-18",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit-cadre de CHF 3'130'000.- pour financer les travaux d'entretien lourd de murs de soutènement du réseau routier cantonal pour la période 2019-2022",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2019-09-18"
+      },
+      "derniere_etape": "2019-09-18",
+      "communes": [
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5843,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5727,
+          "origine": "document"
+        },
+        {
+          "ofs": 5841,
+          "origine": "document"
+        },
+        {
+          "ofs": 5704,
+          "origine": "document"
+        },
+        {
+          "ofs": 5721,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_LEG_22",
+      "numero": "18_LEG_22",
+      "type": "Décret/Loi",
+      "depose": "2018-03-13",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit-cadre de CHF 20 millions pour financer les subventions cantonales en faveur d'entreprises d'améliorations foncières agricoles pour les années 2017 à 2019",
+      "auteurs": [
+        {
+          "nom": "Alexandre Démétriadès",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Alexandre Démétriadès",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2018-03-13"
+      },
+      "derniere_etape": "2018-03-13",
+      "communes": [
+        {
+          "ofs": 5492,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_439",
+      "numero": "10_INT_439",
+      "type": "Interpellation",
+      "depose": "2010-11-02",
+      "titre": "A quelle sauce démocratique notre canton veut-il être mangé dans la thématique des agglomérations ?",
+      "auteurs": [
+        {
+          "nom": "Fabienne Freymond Cantone",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Fabienne Freymond Cantone",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-08-30"
+      },
+      "derniere_etape": "2011-08-30",
+      "communes": [
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5852,
+          "origine": "document"
+        },
+        {
+          "ofs": 5713,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_RAP_313",
+      "numero": "11_RAP_313",
+      "type": "Rapport",
+      "depose": "2011-08-23",
+      "titre": "Des clarifications concernant l'implantation de parcs industriels éoliens dans l'Arc jurassien",
+      "auteurs": [
+        {
+          "nom": "Fabienne Despot",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2011-08-23"
+      },
+      "derniere_etape": "2011-08-23",
+      "communes": [
+        {
+          "ofs": 5511,
+          "origine": "document"
+        },
+        {
+          "ofs": 5537,
+          "origine": "document"
+        },
+        {
+          "ofs": 5539,
+          "origine": "document"
+        },
+        {
+          "ofs": 5530,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5854,
+          "origine": "document"
+        },
+        {
+          "ofs": 5744,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_303",
+      "numero": "10_LEG_303",
+      "type": "Décret/Loi",
+      "depose": "2010-06-22",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'étude de CHF 13'870'000.- pour le concours, les études préliminaires, le projet et la mise en soumission de la construction du nouveau Musée cantonal des Beaux-Arts, ainsi que le concours d'idées pour le pôle muséal et culturel sur le site «Halle CFF aux locomotives » à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": null
+        },
+        {
+          "nom": "Jean-Marie Surer",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-06-29"
+      },
+      "derniere_etape": "2010-06-29",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5464,
+          "origine": "document"
+        },
+        {
+          "ofs": 5675,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5710,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5609,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_179",
+      "numero": "9_LEG_179",
+      "type": "Décret/Loi",
+      "depose": "2009-10-06",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit-cadre de CHF 3'205'000.- pour la réhabilitation de la RC 34, de la RC 67 et de la RC 632",
+      "auteurs": [
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Philippe Cornamusaz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-11-17"
+      },
+      "derniere_etape": "2009-11-17",
+      "communes": [
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5425,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_RAP_161",
+      "numero": "9_RAP_161",
+      "type": "Rapport",
+      "depose": "2008-05-20",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Olivier Epars et consorts pour que des mesures soient prises à la source pour diminuer les micropolluants dans l'eau",
+      "auteurs": [
+        {
+          "nom": "Florence Golaz",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2008-05-20"
+      },
+      "derniere_etape": "2008-05-20",
+      "communes": [
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5590,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5553,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5482,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

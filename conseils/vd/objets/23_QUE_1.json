@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227300,
+  "numero": "23_QUE_1",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2023-03-01"
+  },
+  "depose": "2023-01-17",
+  "titre": "La signature électronique des dossiers CAMAC est-elle possible ?",
+  "contributeurs": [
+    {
+      "nom": "Blaise Vionnet",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-01-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-03-01",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Signature électronique des dossiers CAMAC",
+      "date": "2023-03-01",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2163809"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/31d802c4-d14f-4355-9f36-f740443c1643/meeting/1013630",
+  "communes": []
+}

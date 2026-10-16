@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 203056,
+  "numero": "20_QUE_4",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2021-02-03"
+  },
+  "depose": "2020-09-15",
+  "titre": "Petites communes désabusées",
+  "contributeurs": [
+    {
+      "nom": "Jean-Rémy Chevalley",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-09-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2021-02-03",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Financement de la part communale à une infrastructure de transports",
+      "date": "2021-02-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2033907"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/86880268-8813-4739-bb0c-29b11eede02a/meeting/1000527",
+  "communes": [
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5588,
+      "origine": "document"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    }
+  ]
+}

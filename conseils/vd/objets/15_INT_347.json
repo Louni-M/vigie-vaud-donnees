@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223431,
+  "numero": "15_INT_347",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2015-09-01"
+  },
+  "depose": "2015-03-03",
+  "titre": "Politique et école vaudoise : deux poids, deux mesures ?",
+  "contributeurs": [
+    {
+      "nom": "Frédéric Borloz",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Frédéric Borloz",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-03-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-03-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2015-09-01",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2015-08-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_347_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-03-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_347_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-1er-septembre-2015/reponse-du-conseil-detat-a-linterpellation-frederic-borloz-politique-et-ecole-vaudoise-deux-poids-deux-mesures",
+  "communes": [
+    {
+      "ofs": 5861,
+      "origine": "document"
+    }
+  ]
+}

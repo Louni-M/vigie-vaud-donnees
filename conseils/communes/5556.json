@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5556,
+  "objets": [
+    {
+      "cle": "vd/25_POS_24",
+      "numero": "25_POS_24",
+      "type": "Postulat",
+      "depose": "2025-03-25",
+      "titre": "Davantage de places d’accueil pour les victimes de violence dans le couple dans tous les districts du canton",
+      "auteurs": [
+        {
+          "nom": "Laure Jaton",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Laure Jaton",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée à commission",
+        "date": "2025-04-01"
+      },
+      "derniere_etape": "2025-04-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5730,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5556,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_PET_023",
+      "numero": "18_PET_023",
+      "type": "Pétition",
+      "depose": "2018-10-02",
+      "titre": "Pétition Sauvez Chasseron - Creux-du-Van",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2019-06-04"
+      },
+      "derniere_etape": "2019-06-04",
+      "communes": [
+        {
+          "ofs": 5560,
+          "origine": "document"
+        },
+        {
+          "ofs": 5566,
+          "origine": "document"
+        },
+        {
+          "ofs": 5556,
+          "origine": "document"
+        },
+        {
+          "ofs": 5552,
+          "origine": "document"
+        },
+        {
+          "ofs": 5557,
+          "origine": "document"
+        },
+        {
+          "ofs": 5562,
+          "origine": "document"
+        },
+        {
+          "ofs": 5571,
+          "origine": "document"
+        },
+        {
+          "ofs": 5551,
+          "origine": "document"
+        },
+        {
+          "ofs": 5554,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

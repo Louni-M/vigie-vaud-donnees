@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228543,
+  "numero": "09_INT_192",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2009-10-06"
+  },
+  "depose": "2009-08-25",
+  "titre": "Quel plan de relance le Conseil d'Etat entend-il proposer pour le canton de Vaud",
+  "contributeurs": [
+    {
+      "nom": "Béatrice Métraux",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-08-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-10-06",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2009-08-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_INT_192_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-6-octobre-2009/reponse-du-conseil-detat-a-linterpellation-beatrice-metraux",
+  "communes": [
+    {
+      "ofs": 5723,
+      "origine": "document"
+    },
+    {
+      "ofs": 5842,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

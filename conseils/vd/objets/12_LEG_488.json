@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222741,
+  "numero": "12_LEG_488",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2012-12-11"
+  },
+  "depose": "2012-11-27",
+  "titre": "Exposé des motifs et projet de lois modifiant- la loi du 20 septembre 2005 sur les finances (LFin)- la loi du 27 avril 2010 sur l'assainissement financier au sens de l'article 165 de la Constitution du Canton de Vaud du 14 avril 2003 (LAFin)",
+  "contributeurs": [
+    {
+      "nom": "Michaël Buffat",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Michaël Buffat",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-11-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-11-27",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2012-12-11",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "LFin adoptée par le Grand Conseil le 11.12.12",
+      "date": "2012-12-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/488_FAO_LFin.pdf"
+    },
+    {
+      "titre": "LAFin adoptée par le Grand Conseil le 11.12.12",
+      "date": "2012-12-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/488_FAO_LAFin.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/488_Texte_CE_new.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2012-11-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/488_RC.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seances-des-11-et-12-decembre-2012/empl-modifiant-la-loi-du-20-septembre-2005-sur-les-finances-et-la-loi-du-27-avril-2010-sur-lassainissement-financier-au-sens-de-lart-165-cst-vd-du-14-avril-2003",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

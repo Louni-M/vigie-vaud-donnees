@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222370,
+  "numero": "11_INT_640",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2013-02-12"
+  },
+  "depose": "2012-05-29",
+  "titre": "L'exploitation de la raffinerie de Collombey (VS)",
+  "contributeurs": [
+    {
+      "nom": "Susanne Jungclaus Delarze",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-05-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-05-29",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2013-02-12",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-12-18",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/11_INT_640_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2012-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_INT_640_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2013/seance-du-12-fevrier-2013/reponse-du-conseil-detat-a-linterpellation-susanne-jungclaus-delarze-position-vaudoise-concernant-lexploitation-de-la-raffinerie-de-collombey-vs",
+  "communes": [
+    {
+      "ofs": 5401,
+      "origine": "document"
+    }
+  ]
+}

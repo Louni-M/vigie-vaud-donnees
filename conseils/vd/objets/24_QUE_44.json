@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227955,
+  "numero": "24_QUE_44",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-08-21"
+  },
+  "depose": "2024-06-04",
+  "titre": "Parcelles en zone à bâtir exploitées",
+  "contributeurs": [
+    {
+      "nom": "Mathieu Balsiger",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-06-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-08-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Impact de la protection du patrimoine arboré sur les terrains exploités par des agriculteurs",
+      "date": "2024-08-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2254743"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/713ccade-9f83-4bfa-9d8a-e4e1eeaea5ff/meeting/1019572",
+  "communes": []
+}

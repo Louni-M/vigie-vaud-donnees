@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223209,
+  "numero": "14_INT_295",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-04-12"
+  },
+  "depose": "2014-10-28",
+  "titre": "La prison de Palézieux : trop grande ?",
+  "contributeurs": [
+    {
+      "nom": "Claude Matter",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Claude Matter",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2014-10-28",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2014-10-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-04-12",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-04-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_295_TexteCE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2014-10-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_INT_295_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-12-avril-2016/reponse-du-conseil-detat-a-linterpellation-claude-matter-et-consorts-la-prison-de-palezieux-trop-grande",
+  "communes": [
+    {
+      "ofs": 5805,
+      "origine": "titre"
+    }
+  ]
+}

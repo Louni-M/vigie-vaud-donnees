@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221340,
+  "numero": "07_POS_035",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Eingereicht",
+    "date": "2008-06-10"
+  },
+  "depose": "2008-06-10",
+  "titre": "Pour une adaptation rapide du tronçon autoroutier St-Prex - Rolle - Nyon - frontière cantonale genevoise, défendons nos intérêts à Berne. DINF",
+  "contributeurs": [
+    {
+      "nom": "Claude-Eric Dufour",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Claude-Eric Dufour",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-06-10",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2008-06-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_10_juin_2008/07_POS_035_Rapport_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2008-06-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_10_juin_2008/07_POS_035_Rapport_maj.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2008-06-10",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_10_juin_2008/07_POS_035_Objet_et_dev.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-10-juin-2008/postulat-claude-eric-dufour",
+  "communes": [
+    {
+      "ofs": 5646,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5861,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5724,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5851,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

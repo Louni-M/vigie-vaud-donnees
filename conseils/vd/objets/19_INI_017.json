@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224561,
+  "numero": "19_INI_017",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2021-02-09"
+  },
+  "depose": "2019-06-04",
+  "titre": "Un signe pour les personnes sourdes",
+  "contributeurs": [
+    {
+      "nom": "Léonore Porchet",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Carine Carvalho",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-06-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-06-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-02-09",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2019-06-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INI_017_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-02-09",
+      "lien": "http://www.sonomix.ch/live/gcvd/1726#1581"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/27013ad7-1c39-4df0-b514-5638e37b076d/meeting/1000548",
+  "communes": []
+}

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225147,
+  "numero": "20_INT_437",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2020-09-23"
+  },
+  "depose": "2020-01-21",
+  "titre": "Vevey-Montreux-Chillon-Villeneuve (VMCV) : ça va vraiment mieux ?",
+  "contributeurs": [
+    {
+      "nom": "Arnaud Bouverat",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-01-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-01-28",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-09-23",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2020-01-28",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_437_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-04-20",
+      "lien": "https://www.sonomix.ch/live/gcvd/1803#10102"
+    },
+    {
+      "titre": "Contrôle de l’entreprise de transports publics VMCV",
+      "date": "2020-09-23",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2007946"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/0521363b-d3ea-4bb6-94f7-cbfcad20e38c/meeting/1000556",
+  "communes": [
+    {
+      "ofs": 5412,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    }
+  ]
+}

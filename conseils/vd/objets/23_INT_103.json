@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226945,
+  "numero": "23_INT_103",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2023-12-13"
+  },
+  "depose": "2023-06-13",
+  "titre": "Développer les coopératives de logements",
+  "contributeurs": [
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-06-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-06-20",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-12-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-12-18",
+      "lien": "https://www.sonomix.ch/live/gcvd/3001#6335"
+    },
+    {
+      "titre": "Développement des coopératives de logements",
+      "date": "2023-12-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2212637"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f2c3cfab-a928-4f40-865d-e112890d6014/meeting/1026873",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225218,
+  "numero": "20_INT_501",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2020-11-04"
+  },
+  "depose": "2020-06-23",
+  "titre": "Day Medical SA, le coronavirus a-t-il bon dos ?",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Pedroli",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-06-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-06-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-11-04",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2020-06-30",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_501_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2020-12-15",
+      "lien": "https://www.sonomix.ch/live/gcvd/1684#1541"
+    },
+    {
+      "titre": "Dépôt de bilan de la société Day Medical SA et dénonciations pénales",
+      "date": "2020-11-04",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2016761"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1f58c12d-775b-487c-828e-1465b0742c70/meeting/1000539",
+  "communes": [
+    {
+      "ofs": 5451,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

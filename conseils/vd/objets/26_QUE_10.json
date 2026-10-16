@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 296160,
+  "numero": "26_QUE_10",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Traktandiert",
+    "date": "2026-02-24"
+  },
+  "depose": "2026-02-24",
+  "titre": "Lucens : des économies (radio)actives?",
+  "contributeurs": [
+    {
+      "nom": "Alberto Mocchi",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-02-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2026-02-24",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5e7fdb19-cb57-46be-b232-3f2d9530812f/meeting/1029658",
+  "communes": [
+    {
+      "ofs": 5675,
+      "origine": "titre"
+    }
+  ]
+}

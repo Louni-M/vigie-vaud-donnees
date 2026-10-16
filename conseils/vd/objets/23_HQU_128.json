@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226836,
+  "numero": "23_HQU_128",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2023-12-12"
+  },
+  "depose": "2023-12-05",
+  "titre": "Roger Nzoy tué à Morges : le droit à un procès équitable et à une enquête sérieuse",
+  "contributeurs": [
+    {
+      "nom": "Mathilde Marendaz",
+      "parti": "EP",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2023-12-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2023-12-12",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/073b2728-e47e-4aa3-9e60-bfa00526a542/meeting/1019550",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "titre"
+    }
+  ]
+}

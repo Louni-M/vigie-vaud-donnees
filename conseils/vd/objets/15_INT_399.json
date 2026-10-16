@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223476,
+  "numero": "15_INT_399",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2016-03-01"
+  },
+  "depose": "2015-06-16",
+  "titre": "Le Tripac : entre un cheminement administratif long et des procédures complexes, quid de l'efficacité ?",
+  "contributeurs": [
+    {
+      "nom": "Philippe Cornamusaz",
+      "parti": "PLR",
+      "role": null,
+      "sorte": "personne"
+    },
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-06-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-06-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-03-01",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-03-01",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_399_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-06-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_INT_399_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-1er-mars-2016/reponse-du-conseil-detat-a-linterpellation-philippe-cornamusaz-le-tripac-entre-un-cheminement-administratif-long-et-des-procedures-complexes-quid-de-lefficacite",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

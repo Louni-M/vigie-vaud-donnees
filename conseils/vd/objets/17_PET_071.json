@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224119,
+  "numero": "17_PET_071",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2020-02-04"
+  },
+  "depose": "2017-06-20",
+  "titre": "Pétition : Un écoquartier à Malley OUI, mais pas sur un site pollué !",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2017-06-20",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-02-04",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_PET_071_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2020-02-04",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/17_PET_071_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2020/seance-du-mardi-4-fevrier-2020/petition-un-ecoquartier-a-malley-oui-mais-pas-sur-un-site-pollue",
+  "communes": [
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5589,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5624,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,3463 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5412,
+  "objets": [
+    {
+      "cle": "vd/26_INT_85",
+      "numero": "26_INT_85",
+      "type": "Interpellation",
+      "depose": "2026-06-09",
+      "titre": "Réduction de la desserte entre Villeneuve et Rennaz: quelles conséquences pour l'accès aux soins et pour le personnel hospitalier?",
+      "auteurs": [
+        {
+          "nom": "Valérie Zonca",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Transmise au CE",
+        "date": "2026-06-16"
+      },
+      "derniere_etape": "2026-06-16",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_POS_50",
+      "numero": "22_POS_50",
+      "type": "Postulat",
+      "depose": "2022-09-13",
+      "titre": "La région Lausannoise n'aurait-elle pas besoin d'un hôpital de ville?",
+      "auteurs": [
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Sylvie Podio",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2025-04-09"
+      },
+      "derniere_etape": "2025-04-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5601,
+          "origine": "document"
+        },
+        {
+          "ofs": 5520,
+          "origine": "document"
+        },
+        {
+          "ofs": 5633,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_190",
+      "numero": "23_INT_190",
+      "type": "Interpellation",
+      "depose": "2023-12-19",
+      "titre": "Valorisation du bois bostryché dans les bâtiments publics vaudois",
+      "auteurs": [
+        {
+          "nom": "Yvan Pahud",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-06-12"
+      },
+      "derniere_etape": "2024-06-12",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5484,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_LEG_108",
+      "numero": "23_LEG_108",
+      "type": "Décret/Loi",
+      "depose": "2024-05-07",
+      "titre": "EMPD Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d’ouvrage de CHF 4'127'000.- pour financer un centre de compétences sécuritaire (CCS) en gare de Lausanne permettant de regrouper la Police Cantonale Vaudoise (PolCant), la Police des Transports (STP) et l’Office fédéral de la douane et de la sécurité des frontières (OFDF) dans un seul bâtiment",
+      "auteurs": [
+        {
+          "nom": "Fabrice Tanner",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Hadrien Buclin",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2024-05-07"
+      },
+      "derniere_etape": "2024-05-07",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_LEG_157",
+      "numero": "22_LEG_157",
+      "type": "Décret/Loi",
+      "depose": "2023-11-14",
+      "titre": "EMPD EMPD accordant un crédit d’ouvrage de CHF 19'019'000.- pour financer la transformation et la construction des nouveaux bâtiments pour le Centre de Rennaz et un crédit d’ouvrage de CHF 2'200'000.- pour financer le réaménagement de l’aire de transit des Gens du voyage de Rennaz",
+      "auteurs": [
+        {
+          "nom": "Romain Pilloud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-11-14"
+      },
+      "derniere_etape": "2023-11-14",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/23_INT_20",
+      "numero": "23_INT_20",
+      "type": "Interpellation",
+      "depose": "2023-02-21",
+      "titre": "Abus des gens du voyage, ça suffit !",
+      "auteurs": [
+        {
+          "nom": "Nicola Di Giulio",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-06-28"
+      },
+      "derniere_etape": "2023-06-28",
+      "communes": [
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_INT_106",
+      "numero": "22_INT_106",
+      "type": "Interpellation",
+      "depose": "2022-08-30",
+      "titre": "Gens du voyage, que peut faire le canton ?",
+      "auteurs": [
+        {
+          "nom": "Michael Wyssa",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2023-01-18"
+      },
+      "derniere_etape": "2023-01-18",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_POS_150",
+      "numero": "19_POS_150",
+      "type": "Postulat",
+      "depose": "2019-06-04",
+      "titre": "Femmes incarcérées dans le canton de Vaud : être dans une prison pensée par et pour les hommes",
+      "auteurs": [
+        {
+          "nom": "Grégory Devaud",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Grégory Devaud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2022-06-15"
+      },
+      "derniere_etape": "2022-06-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/22_POS_20",
+      "numero": "22_POS_20",
+      "type": "Postulat",
+      "depose": "2022-05-03",
+      "titre": "Agissons pour favoriser la participation aux élections cantonales et assurer la représentativité de nos institutions!",
+      "auteurs": [
+        {
+          "nom": "David Raedler",
+          "parti": "VER"
+        },
+        {
+          "nom": "Alexandre Démétriadès",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2022-05-10"
+      },
+      "derniere_etape": "2022-05-10",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5760,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_107",
+      "numero": "21_INT_107",
+      "type": "Interpellation",
+      "depose": "2021-08-31",
+      "titre": "Identification numérique VaudID-Santé: une procédure invraisemblable et inadaptée malgré l'importance primordiale du dossier électronique du patient",
+      "auteurs": [
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-05-04"
+      },
+      "derniere_etape": "2022-05-04",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5922,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5909,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5646,
+          "origine": "document"
+        },
+        {
+          "ofs": 5552,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_61",
+      "numero": "21_INT_61",
+      "type": "Interpellation",
+      "depose": "2021-05-04",
+      "titre": "Les caravanes restent, mais la police du commerce aboie-t-elle?",
+      "auteurs": [
+        {
+          "nom": "Nicolas Croci Torti",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2022-03-02"
+      },
+      "derniere_etape": "2022-03-02",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_444",
+      "numero": "20_INT_444",
+      "type": "Interpellation",
+      "depose": "2020-02-11",
+      "titre": "Accès à l'Hôpital Riviera-Chablais (HRC) de Rennaz : une signalisation « de sorte » ou de vagues sparadraps ?",
+      "auteurs": [
+        {
+          "nom": "Jean-Marc Nicolet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-06-16"
+      },
+      "derniere_etape": "2021-06-16",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_QUE_13",
+      "numero": "21_QUE_13",
+      "type": "Simple question",
+      "depose": "2021-03-30",
+      "titre": "Interception de convois de gitans : pourquoi une telle différence de pratique entre Vaud et Valais ?",
+      "auteurs": [
+        {
+          "nom": "Dylan Karlen",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Beantwortet",
+        "date": "2021-05-12"
+      },
+      "derniere_etape": "2021-05-12",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_INT_16",
+      "numero": "21_INT_16",
+      "type": "Interpellation",
+      "depose": "2021-01-26",
+      "titre": "« Hôpital intercantonal Riviera-Chablais Vaud Valais : Vevey et la Riviera ont besoin d’un « bon Samaritain »",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-05-05"
+      },
+      "derniere_etape": "2021-05-05",
+      "communes": [
+        {
+          "ofs": 5890,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/21_QUE_9",
+      "numero": "21_QUE_9",
+      "type": "Simple question",
+      "depose": "2021-03-02",
+      "titre": "Les gens du voyage de Rennaz font-ils l'objet de tests de dépistage COVID-19 ?",
+      "auteurs": [
+        {
+          "nom": "Dylan Karlen",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2021-03-02"
+      },
+      "derniere_etape": "2021-03-02",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_8",
+      "numero": "20_INT_8",
+      "type": "Interpellation",
+      "depose": "2020-09-08",
+      "titre": "Quel profil pour le nouveau Conseil d’établissement de l’Hôpital Riviera-Chablais ?",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2021-02-10"
+      },
+      "derniere_etape": "2021-02-10",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_POS_18",
+      "numero": "20_POS_18",
+      "type": "Postulat",
+      "depose": "2020-11-24",
+      "titre": "Le report modal requiert de favoriser la multimodalité : offrons à celle-ci les outils multiples nécessaires !",
+      "auteurs": [
+        {
+          "nom": "David Raedler",
+          "parti": "VER"
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2020-12-01"
+      },
+      "derniere_etape": "2020-12-01",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5723,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        },
+        {
+          "ofs": 5712,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5561,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_477",
+      "numero": "20_INT_477",
+      "type": "Interpellation",
+      "depose": "2020-05-12",
+      "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Jessica Jaccoud – Constructions de l'Etat : le Département de la santé et de l'action sociale (DSAS) prend-il vraiment peu soin de ses chantiers ?",
+      "auteurs": [
+        {
+          "nom": "Jessica Jaccoud",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Conseil d'État",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-11-18"
+      },
+      "derniere_etape": "2020-11-18",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_437",
+      "numero": "20_INT_437",
+      "type": "Interpellation",
+      "depose": "2020-01-21",
+      "titre": "Vevey-Montreux-Chillon-Villeneuve (VMCV) : ça va vraiment mieux ?",
+      "auteurs": [
+        {
+          "nom": "Arnaud Bouverat",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-09-23"
+      },
+      "derniere_etape": "2020-09-23",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_426",
+      "numero": "19_INT_426",
+      "type": "Interpellation",
+      "depose": "2019-12-04",
+      "titre": "VMCV Véritablement des Montants Communaux Vertigineux",
+      "auteurs": [
+        {
+          "nom": "Christine Chevalley",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-09-02"
+      },
+      "derniere_etape": "2020-09-02",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5891,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_242",
+      "numero": "20_LEG_242",
+      "type": "Décret/Loi",
+      "depose": "2020-06-24",
+      "titre": "Exposé des motifs EMPD ECF Canal du Haut-Lac, financer la part cantonale aux travaux de protection contre les crues à réaliser sur les Communes de Roche, Rennaz et Noville (242)",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2020-06-24"
+      },
+      "derniere_etape": "2020-06-24",
+      "communes": [
+        {
+          "ofs": 5413,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5408,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5415,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_180",
+      "numero": "20_LEG_180",
+      "type": "Décret/Loi",
+      "depose": "2020-06-09",
+      "titre": "Exposé des motifs et projet de décret : - accordant au Conseil d'Etat un crédit d'investissement de CHF 18'100'000.- pour la modernisation des infrastructures stationnaires de la Cité hospitalière (réalisation de chambres doubles dans le bâtiment hospitalier principal)- accordant au Conseil d'Etat un crédit d'études de CHF 5'960'000.- pour la réhabilitation de l'Hôpital de Beaumont- accordant au Conseil d'Etat un crédit d'investissement de CHF 24'240'000.- pour agrandir et transformer le garage à ambulances (transports internes et inter-hospitaliers)- accordant au Conseil d'Etat un crédit d'études de CHF 3'890'000.- pour la reconstruction du garage des ambulances (urgences)",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-06-09"
+      },
+      "derniere_etape": "2020-06-09",
+      "communes": [
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_INT_459",
+      "numero": "20_INT_459",
+      "type": "Interpellation",
+      "depose": "2020-03-03",
+      "titre": "Hôpital Riviera-Chablais : en cas d'urgence vitale, chaque minute compte !",
+      "auteurs": [
+        {
+          "nom": "Taraneh Aminian",
+          "parti": null
+        },
+        {
+          "nom": "Taraneh Aminian",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2020-06-09"
+      },
+      "derniere_etape": "2020-06-09",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/20_LEG_229",
+      "numero": "20_LEG_229",
+      "type": "Décret/Loi",
+      "depose": "2020-05-12",
+      "titre": "Exposé des motifs et projet de décret autorisant le Conseil d'Etat à accorder, jusqu'à un maximum de 60 millions de francs, une garantie temporaire complémentaire de l'Etat de Vaud à l'Hôpital Riviera-Chablais Vaud-Valais pour les emprunts bancaires contractés par ce dernier, ainsi qu'à prolonger au-delà du 30 septembre 2020 la garantie temporaire de 45 millions de francs accordée à l'Hôpital Riviera-Chablais Vaud-Valais pour son fonds de roulement",
+      "auteurs": [
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Alexandre Berthoud",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2020-05-12"
+      },
+      "derniere_etape": "2020-05-12",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_MOT_070",
+      "numero": "19_MOT_070",
+      "type": "Motion",
+      "depose": "2019-01-08",
+      "titre": "Pour une accessibilité à pied et en transports publics du Centre Blécherette de la Police cantonale au Mont-sur-Lausanne",
+      "auteurs": [
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Jean-François Thuillard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2020-03-10"
+      },
+      "derniere_etape": "2020-03-10",
+      "communes": [
+        {
+          "ofs": 5587,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5648,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_321",
+      "numero": "19_INT_321",
+      "type": "Interpellation",
+      "depose": "2019-03-05",
+      "titre": "Quels soins psychiatriques pour le Chablais ?",
+      "auteurs": [
+        {
+          "nom": "Circé Fuchs",
+          "parti": "V'L"
+        },
+        {
+          "nom": "Circé Fuchs",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2020-03-03"
+      },
+      "derniere_etape": "2020-03-03",
+      "communes": [
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5514,
+          "origine": "document"
+        },
+        {
+          "ofs": 5516,
+          "origine": "document"
+        },
+        {
+          "ofs": 5613,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5882,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_180",
+      "numero": "19_LEG_180",
+      "type": "Décret/Loi",
+      "depose": "2019-11-20",
+      "titre": "Exposé des motifs EMPD pour 4 infrastructures stationnaires",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2019-11-20"
+      },
+      "derniere_etape": "2019-11-20",
+      "communes": [
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_412",
+      "numero": "19_INT_412",
+      "type": "Interpellation",
+      "depose": "2019-10-29",
+      "titre": "L'Etat de Vaud commande une ligne de transports publics et les communes paient !",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-11-05"
+      },
+      "derniere_etape": "2019-11-05",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_POS_012",
+      "numero": "17_POS_012",
+      "type": "Postulat",
+      "depose": "2017-10-24",
+      "titre": "En savoir un peu plus sur les PIG (prestations d'intérêt général)",
+      "auteurs": [
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": null
+        },
+        {
+          "nom": "Vassilis Venizelos",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2019-04-10"
+      },
+      "derniere_etape": "2019-04-10",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_90",
+      "numero": "19_LEG_90",
+      "type": "Décret/Loi",
+      "depose": "2019-03-12",
+      "titre": "Exposé des motifs et projet de décret sur le plan stratégique pluriannuel 2017-2022 de la Haute école pédagogique du Canton de Vaud",
+      "auteurs": [
+        {
+          "nom": "Catherine Labouchère",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Catherine Labouchère",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-03-26"
+      },
+      "derniere_etape": "2019-03-26",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_113",
+      "numero": "19_LEG_113",
+      "type": "Décret/Loi",
+      "depose": "2019-03-26",
+      "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'étude de CHF 1'656'000.- pour financer le développement d'un projet de transformation et agrandissement du Centre d'entretien des routes nationales et cantonales de Rennaz et Centre de gendarmerie mobile de l'Est vaudois.  R",
+      "auteurs": [
+        {
+          "nom": "Christine Chevalley",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Christine Chevalley",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-03-26"
+      },
+      "derniere_etape": "2019-03-26",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_INT_299",
+      "numero": "19_INT_299",
+      "type": "Interpellation",
+      "depose": "2019-01-29",
+      "titre": "Hôpital Riviera-Chablais : fête d'inauguration ou fête de départ ?",
+      "auteurs": [
+        {
+          "nom": "Florence Bettschart-Narbel",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2019-02-13"
+      },
+      "derniere_etape": "2019-02-13",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_POS_103",
+      "numero": "19_POS_103",
+      "type": "Postulat",
+      "depose": "2019-01-08",
+      "titre": "Etendre l'Aide Individuelle au Logement (AIL) à l'ensemble du canton de Vaud",
+      "auteurs": [
+        {
+          "nom": "Christine Chevalley",
+          "parti": null
+        },
+        {
+          "nom": "Christine Chevalley",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Pris en considération",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5587,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_71",
+      "numero": "19_LEG_71",
+      "type": "Décret/Loi",
+      "depose": "2019-01-15",
+      "titre": "Exposé des motifs et projet de décret autorisant le Conseil d'État à adhérer à la Convention intercantonale sur le service intercantonal d'entretien du réseau autoroutier",
+      "auteurs": [
+        {
+          "nom": "Etienne Räss",
+          "parti": null
+        },
+        {
+          "nom": "Etienne Räss",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-01-15"
+      },
+      "derniere_etape": "2019-01-15",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5402,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5731,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_RAP_55",
+      "numero": "19_RAP_55",
+      "type": "Rapport",
+      "depose": "2019-01-08",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Valérie Schwaar au nom de la COGES - Modernisation des infrastructures à charge de l'Etat à Rennaz (Centre d'entretien des routes nationales et cantonales de Rennaz et Centre de gendarmerie mobile de l'Est vaudois) : 15 ans de tergiversation, c'est trop !",
+      "auteurs": [
+        {
+          "nom": "Christine Chevalley",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-01-08"
+      },
+      "derniere_etape": "2019-01-08",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_96",
+      "numero": "19_LEG_96",
+      "type": "Décret/Loi",
+      "depose": "2019-01-08",
+      "titre": "Exposé des motifs et projets de décrets accordant au Conseil d'Etat un crédit d'investissement de CHF 7'964'000.- destiné à financer les impératifs législatifs et stratégiques de la Direction générale de la fiscalité, et un crédit d'études de CHF 1'245'000.- pour financer les études liées à «Perspectives 2025» de la Direction générale de la fiscalité",
+      "auteurs": [
+        {
+          "nom": "Maurice Neyroud",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Maurice Neyroud",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-01-08"
+      },
+      "derniere_etape": "2019-01-08",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_274",
+      "numero": "18_INT_274",
+      "type": "Interpellation",
+      "depose": "2018-12-18",
+      "titre": "Séismes, se préparer sans trembler",
+      "auteurs": [
+        {
+          "nom": "Sonya Butera",
+          "parti": null
+        },
+        {
+          "nom": "Sonya Butera",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-01-08"
+      },
+      "derniere_etape": "2019-01-08",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_695",
+      "numero": "17_INT_695",
+      "type": "Interpellation",
+      "depose": "2017-03-28",
+      "titre": "Desserte de l'hôpital Riviera Chablais et prolongement de la ligne VMCV 201",
+      "auteurs": [
+        {
+          "nom": "Susanne Jungclaus Delarze",
+          "parti": null
+        },
+        {
+          "nom": "Susanne Jungclaus Delarze",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-12-18"
+      },
+      "derniere_etape": "2018-12-18",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_048",
+      "numero": "17_INT_048",
+      "type": "Interpellation",
+      "depose": "2017-10-24",
+      "titre": "Tergiversations au sein de l'Hôpital Riviera Chablais : la politique de la direction est-elle compatible avec les objectifs du Conseil d'Etat en matière de santé publique ?",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-12-18"
+      },
+      "derniere_etape": "2018-12-18",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/17_INT_009",
+      "numero": "17_INT_009",
+      "type": "Interpellation",
+      "depose": "2017-08-22",
+      "titre": "Quel contenu pour la future policlinique de la Riviera ?",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2018-12-18"
+      },
+      "derniere_etape": "2018-12-18",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_MOT_018",
+      "numero": "18_MOT_018",
+      "type": "Motion",
+      "depose": "2018-02-06",
+      "titre": "Surpopulation carcérale et manque de places de détention : il y a urgence !",
+      "auteurs": [
+        {
+          "nom": "Claude Schwab",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Claude Schwab",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2018-12-11"
+      },
+      "derniere_etape": "2018-12-11",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5638,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5892,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_459",
+      "numero": "15_INT_459",
+      "type": "Interpellation",
+      "depose": "2015-12-15",
+      "titre": "Record d'insécurité catastrophique dans le canton de Vaud",
+      "auteurs": [
+        {
+          "nom": "Philippe Ducommun",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Philippe Ducommun",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-06-21"
+      },
+      "derniere_etape": "2016-06-21",
+      "communes": [
+        {
+          "ofs": 5851,
+          "origine": "document"
+        },
+        {
+          "ofs": 5922,
+          "origine": "document"
+        },
+        {
+          "ofs": 5707,
+          "origine": "document"
+        },
+        {
+          "ofs": 5728,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/16_INT_506",
+      "numero": "16_INT_506",
+      "type": "Interpellation",
+      "depose": "2016-05-24",
+      "titre": "Ça ne marche pas à Noville !",
+      "auteurs": [
+        {
+          "nom": "Martial De Montmollin",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-05-24"
+      },
+      "derniere_etape": "2016-05-24",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_400",
+      "numero": "15_INT_400",
+      "type": "Interpellation",
+      "depose": "2015-06-16",
+      "titre": "Hôpital Riviera Chablais Vaud Valais France ?",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-01-19"
+      },
+      "derniere_etape": "2016-01-19",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_LEG_213",
+      "numero": "15_LEG_213",
+      "type": "Décret/Loi",
+      "depose": "2015-04-28",
+      "titre": "Exposé des motifs et projets de décrets :- accordant la garantie de l'Etat de Vaud à Edipresse SA pour l'emprunt bancaire de CHF 15'820'350.- contracté pour financer une partie de l'investissement nécessaire à la construction des bâtiments gris de l'Unité centralisée de production (UCP) et de la Plateforme logistique CHUV-HUG- accordant au Conseil d'Etat un crédit d'investissement de CHF 15'970'000.- destiné à financer les travaux d'aménagements intérieurs de la nouvelle Unité centralisée de production (UCP) du Service de la restauration du Centre hospitalier universitaire vaudois (CHUV)",
+      "auteurs": [
+        {
+          "nom": "Catherine Roulet",
+          "parti": null
+        },
+        {
+          "nom": "Catherine Roulet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2015-05-05"
+      },
+      "derniere_etape": "2015-05-05",
+      "communes": [
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_283",
+      "numero": "14_INT_283",
+      "type": "Interpellation",
+      "depose": "2014-09-16",
+      "titre": "Marchés publics : le remède législatif n'est-il pas devenu pire que le mal ?",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-05-05"
+      },
+      "derniere_etape": "2015-05-05",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_285",
+      "numero": "14_INT_285",
+      "type": "Interpellation",
+      "depose": "2014-09-30",
+      "titre": "Marchés publics - les limites d'un système sont-elles atteintes ?",
+      "auteurs": [
+        {
+          "nom": "Frédéric Borloz",
+          "parti": null
+        },
+        {
+          "nom": "Frédéric Borloz",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2015-04-28"
+      },
+      "derniere_etape": "2015-04-28",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_311",
+      "numero": "14_INT_311",
+      "type": "Interpellation",
+      "depose": "2014-11-18",
+      "titre": "Le Conseil d'Etat a-t-il assuré un suivi suffisamment rigoureux de la procédure d'adjudication des travaux de construction de l'Hôpital Riviera-Chablais afin d'éviter les retards subis actuellement par le projet ?",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-11-25"
+      },
+      "derniere_etape": "2014-11-25",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_122",
+      "numero": "13_INT_122",
+      "type": "Interpellation",
+      "depose": "2013-04-30",
+      "titre": "L'avenir des Carrières d'Arvel est-il en mains du Conseil d'Etat ?",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        },
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-10-07"
+      },
+      "derniere_etape": "2014-10-07",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5423,
+          "origine": "document"
+        },
+        {
+          "ofs": 5655,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_168",
+      "numero": "13_INT_168",
+      "type": "Interpellation",
+      "depose": "2013-10-29",
+      "titre": "Prisons vaudoises : chaque jour sa peine, chaque jour sa surprise !",
+      "auteurs": [
+        {
+          "nom": "Denis Rubattel",
+          "parti": null
+        },
+        {
+          "nom": "Denis Rubattel",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-09-09"
+      },
+      "derniere_etape": "2014-09-09",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_INT_205",
+      "numero": "14_INT_205",
+      "type": "Interpellation",
+      "depose": "2014-01-21",
+      "titre": "La guerre hospitalière Vaud-Valais est-elle ouverte ?",
+      "auteurs": [
+        {
+          "nom": "Philippe Vuillemin",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Philippe Vuillemin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-05-27"
+      },
+      "derniere_etape": "2014-05-27",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_129",
+      "numero": "13_INT_129",
+      "type": "Interpellation",
+      "depose": "2013-06-04",
+      "titre": "La prise en charge pédopsychiatrique dépendra-t-elle, à l'Hôpital intercantonal Riviera-Chablais, d'une logique de santé publique ou d'une logique de territoires cantonaux ?",
+      "auteurs": [
+        {
+          "nom": "Christiane Jaquet-Berger",
+          "parti": null
+        },
+        {
+          "nom": "Christiane Jaquet-Berger",
+          "parti": "LGa"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-11-05"
+      },
+      "derniere_etape": "2013-11-05",
+      "communes": [
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_PET_003",
+      "numero": "12_PET_003",
+      "type": "Pétition",
+      "depose": "2013-04-23",
+      "titre": "Pétition pour l'aménagement par le canton de Vaud de terrains de stationnement pour les gens du voyage indigènes, en vertu de la reconnaissance par la Confédération de leur communauté au titre de minorité ethnique nationale",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2013-04-30"
+      },
+      "derniere_etape": "2013-04-30",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_INT_075",
+      "numero": "12_INT_075",
+      "type": "Interpellation",
+      "depose": "2012-12-04",
+      "titre": "Gitans étrangers : A propos de réponses du Conseil fédéral qui concernent aussi le canton",
+      "auteurs": [
+        {
+          "nom": "François Brélaz",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-04-30"
+      },
+      "derniere_etape": "2013-04-30",
+      "communes": [
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_LEG_11",
+      "numero": "13_LEG_11",
+      "type": "Décret/Loi",
+      "depose": "2013-04-16",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 170 mios destiné à financer la construction d'un hôpital des enfants au coeur de la Cité hospitalière",
+      "auteurs": [
+        {
+          "nom": "Catherine Roulet",
+          "parti": null
+        },
+        {
+          "nom": "Catherine Roulet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-04-23"
+      },
+      "derniere_etape": "2013-04-23",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_POS_004",
+      "numero": "12_POS_004",
+      "type": "Postulat",
+      "depose": "2012-10-09",
+      "titre": "Pour alléger et faciliter les procédures de construction",
+      "auteurs": [
+        {
+          "nom": "Florence Golaz",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Florence Golaz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2013-04-23"
+      },
+      "derniere_etape": "2013-04-23",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_INT_007",
+      "numero": "12_INT_007",
+      "type": "Interpellation",
+      "depose": "2012-09-04",
+      "titre": "Travail au noir ; une politique d'information déficiente",
+      "auteurs": [
+        {
+          "nom": "Claude-Alain Voiblet",
+          "parti": null
+        },
+        {
+          "nom": "Claude-Alain Voiblet",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-03-26"
+      },
+      "derniere_etape": "2013-03-26",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_INT_018",
+      "numero": "12_INT_018",
+      "type": "Interpellation",
+      "depose": "2012-09-04",
+      "titre": "Gens du voyage : Nécessité d'une solution globale et coordonnée",
+      "auteurs": [
+        {
+          "nom": "Christelle Luisier Brodard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-03-12"
+      },
+      "derniere_etape": "2013-03-12",
+      "communes": [
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5627,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_INT_009",
+      "numero": "12_INT_009",
+      "type": "Interpellation",
+      "depose": "2012-09-04",
+      "titre": "Le Conseil d'Etat est-il prêt à adopter une attitude ferme et dissuasive à l'égard des gitans étrangers, ces visiteurs indésirables",
+      "auteurs": [
+        {
+          "nom": "François Brélaz",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-03-12"
+      },
+      "derniere_etape": "2013-03-12",
+      "communes": [
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5480,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5716,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5750,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_RAP_23",
+      "numero": "13_RAP_23",
+      "type": "Rapport",
+      "depose": "2013-01-29",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Denis-Olivier Maillefer et consorts au sujet de l'état des lieux sur le Service des routes et sa division entretien",
+      "auteurs": [
+        {
+          "nom": "Philippe Modoux",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Modoux",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2013-01-29"
+      },
+      "derniere_etape": "2013-01-29",
+      "communes": [
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_460",
+      "numero": "12_LEG_460",
+      "type": "Décret/Loi",
+      "depose": "2012-05-29",
+      "titre": "Exposé des motifs et projets de décrets- accordant la garantie de l'Etat de Vaud à l'Etablissement intercantonal Riviera-Chablais Vaud-Valais pour l'emprunt bancaire de CHF 220.125 millions contracté pour financer la construction du site de soins aigus de Rennaz et la transformation en Centres de traitement et de réadaptation, antennes médico-chirurgicales et centres de dialyse des bâtiments hospitaliers de Monthey et du Samaritain à Vevey, et- accordant au Conseil d'Etat un crédit d'études de CHF 1.2 million pour financer les études relatives aux aménagements routiers et aux transports publics en relation avec l'Hôpital Riviera-Chablais Vaud-Valais",
+      "auteurs": [
+        {
+          "nom": "Michel Mouquin",
+          "parti": null
+        },
+        {
+          "nom": "Michel Mouquin",
+          "parti": "RAD"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-05-29"
+      },
+      "derniere_etape": "2012-05-29",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5890,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_POS_297",
+      "numero": "11_POS_297",
+      "type": "Postulat",
+      "depose": "2012-05-22",
+      "titre": "Postulat Philippe Martinet sur l'incertitude et la décision partagées, dans le domaine médical",
+      "auteurs": [
+        {
+          "nom": "Catherine Roulet",
+          "parti": null
+        },
+        {
+          "nom": "Catherine Roulet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2012-05-22"
+      },
+      "derniere_etape": "2012-05-22",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_537",
+      "numero": "11_INT_537",
+      "type": "Interpellation",
+      "depose": "2011-09-20",
+      "titre": "La Commission Foncière Rurale fait-elle son travail en toute connaissance de cause ?",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-04-03"
+      },
+      "derniere_etape": "2012-04-03",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_413",
+      "numero": "12_LEG_413",
+      "type": "Décret/Loi",
+      "depose": "2012-01-17",
+      "titre": "Exposé des motifs et projet de loi modifiant la loi du 10 décembre 1991 sur les routes",
+      "auteurs": [
+        {
+          "nom": "Philippe Grobéty",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Philippe Grobéty",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-02-07"
+      },
+      "derniere_etape": "2012-02-07",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5503,
+          "origine": "document"
+        },
+        {
+          "ofs": 5496,
+          "origine": "document"
+        },
+        {
+          "ofs": 5621,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_269",
+      "numero": "09_INT_269",
+      "type": "Interpellation",
+      "depose": "2009-09-01",
+      "titre": "Comment coordonner efficacement les transports publics dans les dossiers de l'hôpital Riviera-Chablais et de l'agglomération Riviera",
+      "auteurs": [
+        {
+          "nom": "Jean-Michel Dolivo",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-01-31"
+      },
+      "derniere_etape": "2012-01-31",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_405",
+      "numero": "10_INT_405",
+      "type": "Interpellation",
+      "depose": "2010-08-24",
+      "titre": "Résoudre le \"Rubik's Cube\" de la carte hospitalière vaudoise ?",
+      "auteurs": [
+        {
+          "nom": "Conseil d'État",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-01-24"
+      },
+      "derniere_etape": "2012-01-24",
+      "communes": [
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5857,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_484",
+      "numero": "11_INT_484",
+      "type": "Interpellation",
+      "depose": "2011-02-15",
+      "titre": "Poursuivre le développement ferroviaire du canton de Vaud au-delà de Lausanne-Genève. Après avoir attendu trop longtemps, soyons pro-actifs avec nos cantons voisins !",
+      "auteurs": [
+        {
+          "nom": "Michele Mossi",
+          "parti": null
+        },
+        {
+          "nom": "Michele Mossi",
+          "parti": "AdC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-09-20"
+      },
+      "derniere_etape": "2011-09-20",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_358",
+      "numero": "11_LEG_358",
+      "type": "Décret/Loi",
+      "depose": "2011-05-31",
+      "titre": "EMPDs accordant au CE un crédit de CHF 4'200'000.--, destiné à l'Entrep de correct. fluviale de la Thielle, pr financer la part cant. aux travaux de protection contre les crues à réaliser sur la Cmne d'Yverdon-les-Bains, accordant au CE un crédit de CHF 3'000'000.--, destiné à l'Entrep. de correct. fluviale de la Grande Eau, pr financer la part cant. aux travaux de protection contre les crues à réaliser sur les Cmnes d'Aigle et Yvorne et accordant au CE un crédit de CHF 3'000'000.--, destiné àl'Entrep. de correct. fluviale de la Tinière, pr financer la part cant. aux travaux de protection contre les crues à réaliser sur la Cmne de Villeneuve, accordant au CE un crédit de CHF 3'000'000.--, destiné à l'Entrep. de correct. fluviale de la Baye de Clarens, pr financer la part cant. aux travaux de protection contre les crues à réaliser sur la Cmne de Montreux, accordant au CE un crédit de CHF 2'100'000.--, destiné à l'Entrep. de correct. fluviale du Famolens, pr financer la part cant. aux travaux de protection contre les cures à réaliser sur la Cmne de Rolle, accordant au CE de CHF 2'100'000.--, destiné à l'Entrep. de correct. fluviale du Nozon, pr financer la part cant. aux travaux de protection contre les crues à réaliser sur la Cmne d'Orbe, accordant au CE un crédit de CHF 4'130'000.--, destiné à l'Entrep. de correct. fluviale de la Brinaz, pr financer la part cant. aux travaux de protection contre les crues à réaliser sur les Cmnes de Grandson et Montagny, accordant au CE un crédit de CHF 4'200'000.--, destiné à l'Entrep. de correct. fluviale du Canal du Haut-Lac, pr financer la part cant. aux travaux de protection contre les crues à réaliser sur les Cmnesde Roche, Rennaz et Noville, accordant au CE un crédit de CHF 2'190'000.-- pour l'établiss. des projets prioritaires de la 3ème correct. du Rhône, accordant au CE un crédit de CHF 3'500'000.- destiné à l'Entrep. de correct. fluviale pr les aménagements piscioles sur divers cours d'eau et à la gestion informatisée",
+      "auteurs": [
+        {
+          "nom": "André Marendaz",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-05-31"
+      },
+      "derniere_etape": "2011-05-31",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5401,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5415,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5414,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5886,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5861,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5757,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5561,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5413,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5408,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_RAP_356",
+      "numero": "11_RAP_356",
+      "type": "Rapport",
+      "depose": "2011-03-29",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Mireille Aubert concernant des analyses médicales faites dans le canton de Vaud qui pourraient être transférées à l'étranger",
+      "auteurs": [
+        {
+          "nom": "Catherine Roulet",
+          "parti": null
+        },
+        {
+          "nom": "Catherine Roulet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-03-29"
+      },
+      "derniere_etape": "2011-03-29",
+      "communes": [
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_328",
+      "numero": "11_LEG_328",
+      "type": "Décret/Loi",
+      "depose": "2011-01-18",
+      "titre": "Exposé des motifs et projets de lois modifiants- la loi sur la planification et le financement des établissements sanitaires (LPFES)- la loi sur la santé publique (LSP)- la loi d'aide aux personnes recourant à l'action médico-socaile (LAPRAMS)etRapport du Conseil d'Etat sur le postulat François Payot au nom du groupe libéral intitulé \"LPFES, bilan et rapport prospectif : une démarche essentielle\"",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Non entrée en matière",
+        "date": "2011-01-25"
+      },
+      "derniere_etape": "2011-01-25",
+      "communes": [
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5718,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_402",
+      "numero": "10_INT_402",
+      "type": "Interpellation",
+      "depose": "2010-06-22",
+      "titre": "Intitulée \"Hôpital Riviera Chablais et Musée des Beaux-Arts : pourquoi le Conseil d'Etat ne veut-il pas stimuler la création architecturale vaudoise ?\"",
+      "auteurs": [
+        {
+          "nom": "Jérôme Christen",
+          "parti": null
+        },
+        {
+          "nom": "Jérôme Christen",
+          "parti": "LIBRE"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-01-25"
+      },
+      "derniere_etape": "2011-01-25",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5606,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_INT_391",
+      "numero": "10_INT_391",
+      "type": "Interpellation",
+      "depose": "2010-05-18",
+      "titre": "Réponse du Conseil d'Etat à l'interpellation Fabienne Despot : Schengen, bénéfice ou désastre ?",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-01-25"
+      },
+      "derniere_etape": "2011-01-25",
+      "communes": [
+        {
+          "ofs": 5723,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_281",
+      "numero": "10_LEG_281",
+      "type": "Décret/Loi",
+      "depose": "2010-11-23",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit additionnel de CHF 17'380'000.- au crédit alloué par décret du 9 septembre 2003 pour la construction de la route H144 Villeneuve - Le Bouveret, section Rennaz - Les Evouettes (partie vaudoise) pris en compte dans l'EMPD 114 de septembre 2003",
+      "auteurs": [
+        {
+          "nom": "Frédéric Borloz",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Frédéric Borloz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-11-23"
+      },
+      "derniere_etape": "2010-11-23",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5403,
+          "origine": "document"
+        },
+        {
+          "ofs": 5413,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5451,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_POS_148",
+      "numero": "09_POS_148",
+      "type": "Postulat",
+      "depose": "2009-09-08",
+      "titre": "Intitulé Evitons de faire un hôpital pour les automobilistes",
+      "auteurs": [
+        {
+          "nom": "Pierre Grandjean",
+          "parti": null
+        },
+        {
+          "nom": "Pierre Grandjean",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2010-11-16"
+      },
+      "derniere_etape": "2010-11-16",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5414,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5889,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_334",
+      "numero": "10_LEG_334",
+      "type": "Décret/Loi",
+      "depose": "2010-11-02",
+      "titre": "Exposé des motifs et projet de decret accordant un crédit d'investissement de CHF 2'330'000 pour financer en 2010 des investissements périodiques extraordinaires dans des hôpitaux privés reconnus d'intérêt public pour l'assainissement des infrastructures et des installations techniques",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-11-02"
+      },
+      "derniere_etape": "2010-11-02",
+      "communes": [
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_333",
+      "numero": "10_LEG_333",
+      "type": "Décret/Loi",
+      "depose": "2010-11-02",
+      "titre": "Exposé des motifs et projet de décret accordant la garantie de l'Etat de Vaud et la prise en charge du service de la dette pour l'emprunt de CHF 10 millions contracté par le Groupement hospitalier de l'Ouest lémanique (GHOL) pour financer les travaux d'extension et de réorganisation des urgences de l'Hôpital de Nyon",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-11-02"
+      },
+      "derniere_etape": "2010-11-02",
+      "communes": [
+        {
+          "ofs": 5724,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_259",
+      "numero": "10_LEG_259",
+      "type": "Décret/Loi",
+      "depose": "2010-06-22",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit de CHF 5'160'000.-, destiné à l'Entreprise de correction fluviale de l'Eau Froide, pour financer la part cantonale aux travaux de protection contre les crues à réaliser sur les Communes de Villeneuve, Roche et Rennaz",
+      "auteurs": [
+        {
+          "nom": "Michel Renaud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-06-22"
+      },
+      "derniere_etape": "2010-06-22",
+      "communes": [
+        {
+          "ofs": 5414,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5413,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5404,
+          "origine": "document"
+        },
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5607,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_266",
+      "numero": "10_LEG_266",
+      "type": "Décret/Loi",
+      "depose": "2010-04-27",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 6'000'000 pour financer en 2010 des investissements périodiques lourds dans des hôpitaux privés reconnus d'intérêt public",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-05-04"
+      },
+      "derniere_etape": "2010-05-04",
+      "communes": [
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_215",
+      "numero": "10_LEG_215",
+      "type": "Décret/Loi",
+      "depose": "2010-01-12",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit-cadre de CHF 3'040'000 pour l'adaptation des locaux décentralisés de la Police cantonale",
+      "auteurs": [
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Roxanne Meyer Keller",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-02-23"
+      },
+      "derniere_etape": "2010-02-23",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5853,
+          "origine": "document"
+        },
+        {
+          "ofs": 5518,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_233",
+      "numero": "9_LEG_233",
+      "type": "Décret/Loi",
+      "depose": "2009-12-01",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit-cadre de CHF 30'000'000.- pour les transformations et la rénovation des laboratoires de la Cité hospitalière et du Centre des laboratoires d'Epalinges, nécessitées par le regroupement des activités de recherche biomédicale par thématiques ainsi que pour l'amélioration de la prise en charge des patients au CHUV",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-12-08"
+      },
+      "derniere_etape": "2009-12-08",
+      "communes": [
+        {
+          "ofs": 5584,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_220",
+      "numero": "9_LEG_220",
+      "type": "Décret/Loi",
+      "depose": "2009-12-01",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit d'investissement de CHF 6'590'000.- pour la transformation et le réaménagement du Centre de Dialyse chronique du CHUV, au Bugnon 17 à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Philippe Martinet",
+          "parti": "VER"
+        },
+        {
+          "nom": "Philippe Martinet",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-12-08"
+      },
+      "derniere_etape": "2009-12-08",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_RAP_192",
+      "numero": "9_RAP_192",
+      "type": "Rapport",
+      "depose": "2009-11-24",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Nicolas Mattenberger et consorts tendant à ce que le délai de prescription de droit public vaudois en matière de responsabilité médicale soit fixé à cinq ans dès la connaissance du dommage et en tout cas dix ans dès l'acte dommageable",
+      "auteurs": [
+        {
+          "nom": "Rémy Jaquier",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Rémy Jaquier",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 3,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2009-11-24"
+      },
+      "derniere_etape": "2009-11-24",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_RAP_147",
+      "numero": "9_RAP_147",
+      "type": "Rapport",
+      "depose": "2009-09-08",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur les affaires extérieures 2008",
+      "auteurs": [
+        {
+          "nom": "Laurent Wehrli",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-09-08"
+      },
+      "derniere_etape": "2009-09-08",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5851,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5724,
+          "origine": "document"
+        },
+        {
+          "ofs": 5886,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5822,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/9_LEG_105",
+      "numero": "9_LEG_105",
+      "type": "Décret/Loi",
+      "depose": "2009-03-03",
+      "titre": "Exposé des motifs et projet de décrets autorisant le Conseil d'Etat a adhérer à la Convention intercantonale sur l’Hôpital Riviera-Chablais Vaud-Valais pour l'emprunt bancaire de CHF 16,125 millions contracté pour financer le concours et les études en vue de la construction de l'hôpital Riviera-Chablais Vaud-Valais sur le site de Rennaz (amendé suite aux travaux de la Commission interparlementaire Vaud-Valais) etRéponse du Conseil d'Etat à l’interpellation Pierre Rochat et consorts concernant l'avenir des établissements sanitaires privés d'intérêt public",
+      "auteurs": [
+        {
+          "nom": "Laurent Wehrli",
+          "parti": null
+        },
+        {
+          "nom": "Laurent Wehrli",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2009-03-10"
+      },
+      "derniere_etape": "2009-03-10",
+      "communes": [
+        {
+          "ofs": 5412,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_INT_088",
+      "numero": "08_INT_088",
+      "type": "Interpellation",
+      "depose": "2008-04-29",
+      "titre": "L'adaptation des établissements sanitaires aux nouvelles normes de l'ECA",
+      "auteurs": [
+        {
+          "nom": "Pierre Rochat",
+          "parti": "LIB"
+        },
+        {
+          "nom": "Pierre Rochat",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2009-01-20"
+      },
+      "derniere_etape": "2009-01-20",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5584,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5401,
+          "origine": "document"
+        },
+        {
+          "ofs": 5412,
+          "origine": "document"
+        },
+        {
+          "ofs": 5498,
+          "origine": "document"
+        },
+        {
+          "ofs": 5637,
+          "origine": "document"
+        },
+        {
+          "ofs": 5568,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5428,
+  "objets": [
+    {
+      "cle": "vd/25_LEG_173",
+      "numero": "25_LEG_173",
+      "type": "Décret/Loi",
+      "depose": "2025-11-25",
+      "titre": "Exposé des motifs et projet de décret sur la fusion des communes de Gimel, Saubraz et Saint-Oyens et projet de loi modifiant la loi du 30 mai 2006 sur le découpage territorial",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-11-25"
+      },
+      "derniere_etape": "2025-11-25",
+      "communes": [
+        {
+          "ofs": 5428,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5437,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5436,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/19_LEG_195",
+      "numero": "19_LEG_195",
+      "type": "Décret/Loi",
+      "depose": "2019-12-18",
+      "titre": "EMPD accordant au Conseil d'Etat un crédit d'ouvrage de CHF 2'120'000 pour financer l'assainissement des RC 751-IL-S et 752-IL-S entre Maracon et La Rogivue et la création d'un passage à batraciens",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Eingereicht",
+        "date": "2019-12-18"
+      },
+      "derniere_etape": "2019-12-18",
+      "communes": [
+        {
+          "ofs": 5790,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        },
+        {
+          "ofs": 5428,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5799,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_626",
+      "numero": "11_INT_626",
+      "type": "Interpellation",
+      "depose": "2012-04-03",
+      "titre": "Pour que la pluie de crapauds - ducs tombe enfin!",
+      "auteurs": [
+        {
+          "nom": "Olivier Epars",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2013-02-12"
+      },
+      "derniere_etape": "2013-02-12",
+      "communes": [
+        {
+          "ofs": 5790,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5746,
+          "origine": "document"
+        },
+        {
+          "ofs": 5464,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        },
+        {
+          "ofs": 5428,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_632",
+      "numero": "11_INT_632",
+      "type": "Interpellation",
+      "depose": "2012-05-01",
+      "titre": "Petites ou grandes infractions à répétition : certains services de l'Etat doivent-ils continuer à subir ?",
+      "auteurs": [
+        {
+          "nom": "Claudine Dind",
+          "parti": null
+        },
+        {
+          "nom": "Claudine Dind",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2012-11-06"
+      },
+      "derniere_etape": "2012-11-06",
+      "communes": [
+        {
+          "ofs": 5634,
+          "origine": "document"
+        },
+        {
+          "ofs": 5428,
+          "origine": "document"
+        },
+        {
+          "ofs": 5422,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/12_LEG_450",
+      "numero": "12_LEG_450",
+      "type": "Décret/Loi",
+      "depose": "2012-04-24",
+      "titre": "Exposé des motifs et projet de décret  autorisant le Conseil d'Etat à vendre à la Fondation EMS Le Marronnier le bien-fonds n°397 du cadastre de la commune de Lutry, propriété de l'Etat de Vaud, d'une surface totale de 4'292 m2, pour le prix de CHF 2'600'000.-",
+      "auteurs": [
+        {
+          "nom": "Frédéric Grognuz",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Frédéric Grognuz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-05-08"
+      },
+      "derniere_etape": "2012-05-08",
+      "communes": [
+        {
+          "ofs": 5606,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5493,
+          "origine": "document"
+        },
+        {
+          "ofs": 5428,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_LEG_418",
+      "numero": "11_LEG_418",
+      "type": "Décret/Loi",
+      "depose": "2011-10-11",
+      "titre": "Exposé des motifs et projet de décret transférant l'entier du patrimoine de l'EMS Soerensen d'un fonds au bilan de l'Etat dans la comptabilité du CHUV",
+      "auteurs": [
+        {
+          "nom": "Frédéric Grognuz",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Frédéric Grognuz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2011-11-01"
+      },
+      "derniere_etape": "2011-11-01",
+      "communes": [
+        {
+          "ofs": 5428,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5725,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/09_INT_210",
+      "numero": "09_INT_210",
+      "type": "Interpellation",
+      "depose": "2010-02-23",
+      "titre": "Le réseau Emeraude",
+      "auteurs": [
+        {
+          "nom": "Jacqueline Rostan",
+          "parti": "LIB"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2010-03-16"
+      },
+      "derniere_etape": "2010-03-16",
+      "communes": [
+        {
+          "ofs": 5428,
+          "origine": "document"
+        },
+        {
+          "ofs": 5813,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_LEG_42",
+      "numero": "10_LEG_42",
+      "type": "Décret/Loi",
+      "depose": "2010-01-26",
+      "titre": "Exposé des motifs et projet de décret accordant un crédit de CHF 3'950'000.- pour la correction de la RC 47 entre Le Pontet et Gimel, sur le territoire des communes d'Essertines-sur-Rolle et de Gimel",
+      "auteurs": [
+        {
+          "nom": "Philippe Reymond",
+          "parti": null
+        },
+        {
+          "nom": "Philippe Reymond",
+          "parti": "RAD"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-02-02"
+      },
+      "derniere_etape": "2010-02-02",
+      "communes": [
+        {
+          "ofs": 5428,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5856,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5436,
+          "origine": "document"
+        },
+        {
+          "ofs": 5861,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

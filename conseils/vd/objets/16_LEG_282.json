@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223930,
+  "numero": "16_LEG_282",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2016-03-15"
+  },
+  "depose": "2016-03-15",
+  "titre": "Exposé des motifs et projet de décret accordant à l'Etablissement vaudois d'accueil des migrants (EVAM) une garantie d'emprunt de 15'850'000.00 CHF pour financer la construction d'un foyer à Ecublens, ainsi que l'acquisition de trois objets immobiliers à Arveyes, Glion et St-Prex",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Berthoud",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Alexandre Berthoud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Alexandre Berthoud",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-03-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-03-15",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2016-03-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/282_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-03-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/282_RC_01.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-15-mars-2016/empd-accordant-a-letablissement-vaudois-daccueil-des-migrants-evam-une-garantie-demprunt-de-1585000000-chf-pour-financer-la-construction-dun-foyer-a-ecublens-ainsi-que-lacquisition-de-trois-objets-immobiliers-a-arveyes-glion-et-st-prex",
+  "communes": [
+    {
+      "ofs": 5635,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5646,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5409,
+      "origine": "document"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5937,
+      "origine": "document"
+    }
+  ]
+}

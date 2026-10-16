@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222790,
+  "numero": "12_RAP_297",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2012-02-21"
+  },
+  "depose": "2012-02-21",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Maximilien Bernhard et consorts pour que la prise de données biométriques se fasse dans les préfectures",
+  "contributeurs": [
+    {
+      "nom": "Gabriel Poncet",
+      "parti": "UDC",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Jacques Truffer",
+      "parti": "LIB",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2012-02-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2012-02-21",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2012-02-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/297_Texte_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2012-02-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/297_compl_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2012-02-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/297_compl_RC_maj.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2012/seance-du-21-fevrier-2012/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-maximilien-bernhard-prise-de-donnees-biometriques-dans-les-prefectures",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}

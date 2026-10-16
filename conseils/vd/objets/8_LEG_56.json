@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228429,
+  "numero": "8_LEG_56",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Eingereicht",
+    "date": "2008-05-06"
+  },
+  "depose": "2008-05-06",
+  "titre": "Exposé des motifs et projet de décret accordant un crédit d’ouvrage de CHF 18'400'000.- pour la 1ère étape (2008-2011) de travaux d'assainissement du Gymnase d'Yverdon à Cheseaux Noréaz, soit les bâtiments A et B, partiellement D, ainsi que les canalisations du site",
+  "contributeurs": [
+    {
+      "nom": "Conseil d'État",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2008-05-06",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2008-05-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_6_mai_2008/56_Texte_adopte_par_CE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2008-05-06",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/Seance_du_6_mai_2008/56_Rapport_com.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2008/seance-du-20-mai-2008/expose-des-motifs-et-projet-de-decret-gymnase-dyverdon-a-cheseaux-noreaz",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5582,
+      "origine": "titre"
+    }
+  ]
+}

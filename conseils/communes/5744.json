@@ -1,0 +1,282 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5744,
+  "objets": [
+    {
+      "cle": "vd/19_INT_419",
+      "numero": "19_INT_419",
+      "type": "Interpellation",
+      "depose": "2019-11-12",
+      "titre": "Eldora : pas un eldorado pour les salarié-e-s ! Quel contrôle des prestataires de services de restauration à l'Etat de Vaud ?",
+      "auteurs": [
+        {
+          "nom": "Arnaud Bouverat",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2019-11-19"
+      },
+      "derniere_etape": "2019-11-19",
+      "communes": [
+        {
+          "ofs": 5744,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_POS_156",
+      "numero": "15_POS_156",
+      "type": "Postulat",
+      "depose": "2015-12-15",
+      "titre": "Hébergement des jeunes migrants",
+      "auteurs": [
+        {
+          "nom": "Manuel Donzé",
+          "parti": null
+        },
+        {
+          "nom": "Manuel Donzé",
+          "parti": "AdC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Refusé",
+        "date": "2016-09-20"
+      },
+      "derniere_etape": "2016-09-20",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5744,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/15_INT_436",
+      "numero": "15_INT_436",
+      "type": "Interpellation",
+      "depose": "2015-10-27",
+      "titre": "Logement des SDF : une solution conjointe canton-communes est-elle envisageable ?",
+      "auteurs": [
+        {
+          "nom": "Céline Ehrwein Nihan",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2016-04-26"
+      },
+      "derniere_etape": "2016-04-26",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5890,
+          "origine": "document"
+        },
+        {
+          "ofs": 5744,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/13_INT_183",
+      "numero": "13_INT_183",
+      "type": "Interpellation",
+      "depose": "2013-11-19",
+      "titre": "A9b : l'OFROU se moque du Nord vaudois !",
+      "auteurs": [
+        {
+          "nom": "Dominique-Richard Bonny",
+          "parti": null
+        },
+        {
+          "nom": "Dominique-Richard Bonny",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2014-04-29"
+      },
+      "derniere_etape": "2014-04-29",
+      "communes": [
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5744,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5749,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_RAP_313",
+      "numero": "11_RAP_313",
+      "type": "Rapport",
+      "depose": "2011-08-23",
+      "titre": "Des clarifications concernant l'implantation de parcs industriels éoliens dans l'Arc jurassien",
+      "auteurs": [
+        {
+          "nom": "Fabienne Despot",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2011-08-23"
+      },
+      "derniere_etape": "2011-08-23",
+      "communes": [
+        {
+          "ofs": 5511,
+          "origine": "document"
+        },
+        {
+          "ofs": 5537,
+          "origine": "document"
+        },
+        {
+          "ofs": 5539,
+          "origine": "document"
+        },
+        {
+          "ofs": 5530,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5854,
+          "origine": "document"
+        },
+        {
+          "ofs": 5744,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_INT_477",
+      "numero": "11_INT_477",
+      "type": "Interpellation",
+      "depose": "2011-01-18",
+      "titre": "Semi-autoroute A9B Orbe - Ballaigues : combien de morts faudra-t-il encore?",
+      "auteurs": [
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": null
+        },
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2011-06-21"
+      },
+      "derniere_etape": "2011-06-21",
+      "communes": [
+        {
+          "ofs": 5757,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5744,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/10_RAP_276",
+      "numero": "10_RAP_276",
+      "type": "Rapport",
+      "depose": "2010-06-08",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Daniel Mange et consorts pour la création d'une quatrième piste sur la bretelle semi-autoroute Ballaigues-Orbe",
+      "auteurs": [
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Denis-Olivier Maillefer",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2010-06-08"
+      },
+      "derniere_etape": "2010-06-08",
+      "communes": [
+        {
+          "ofs": 5744,
+          "origine": "document"
+        },
+        {
+          "ofs": 5757,
+          "origine": "document"
+        },
+        {
+          "ofs": 5764,
+          "origine": "document"
+        },
+        {
+          "ofs": 5755,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

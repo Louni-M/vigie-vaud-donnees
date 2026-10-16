@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227570,
+  "numero": "24_INT_11",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-08-19"
+  },
+  "depose": "2024-01-23",
+  "titre": "Haras national d’Avenches : quelles prestations à l’avenir pour la race franches-montagnes ?",
+  "contributeurs": [
+    {
+      "nom": "Loïc Bardet",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-01-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-01-30",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2024-04-17",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-08-19",
+      "libelle": "Traktandiert"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-08-19",
+      "lien": "https://www.sonomix.ch/live/gcvd/3172#5209"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-01-30",
+      "lien": "https://www.sonomix.ch/live/gcvd/2714#1"
+    },
+    {
+      "titre": "Préservation de la race des Franches-Montagnes au Haras national d’Avenches",
+      "date": "2024-04-17",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2233255"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/58ae1766-5d7b-407b-bf93-d2a442cf5d12/meeting/1029632",
+  "communes": [
+    {
+      "ofs": 5451,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5678,
+      "origine": "document"
+    }
+  ]
+}

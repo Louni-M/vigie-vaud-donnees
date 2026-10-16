@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228125,
+  "numero": "25_HQU_81",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2025-06-10"
+  },
+  "depose": "2025-06-03",
+  "titre": "Impossible de réaliser des aménagements cyclables à Hautemorges ?",
+  "contributeurs": [
+    {
+      "nom": "Yannick Maury",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-06-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-06-10",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-06-10",
+      "lien": "https://www.sonomix.ch/live/gcvd/3142#3856"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c4a5e5da-c54d-49be-a7d0-f0daf17b2223/meeting/1026892",
+  "communes": [
+    {
+      "ofs": 5656,
+      "origine": "titre"
+    }
+  ]
+}

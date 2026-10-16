@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222919,
+  "numero": "13_INT_174",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2014-05-06"
+  },
+  "depose": "2013-10-29",
+  "titre": "Qu'attend le Canton de Vaud pour réduire ses émissions de CO2 grâce à la manne fédérale ?",
+  "contributeurs": [
+    {
+      "nom": "Fabienne Freymond Cantone",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Fabienne Freymond Cantone",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2013-10-29",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2013-11-05",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2014-05-06",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2014-04-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_174_Texte_CE.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2013-11-05",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/13_INT_174_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2014/seance-du-6-mai-2014/reponse-du-conseil-detat-a-linterpellation-fabienne-freymond-cantone-et-consorts-quattend-le-canton-de-vaud-pour-reduire-ses-emissions-de-co2-grace-a-la-manne-federale",
+  "communes": [
+    {
+      "ofs": 5477,
+      "origine": "document"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    }
+  ]
+}

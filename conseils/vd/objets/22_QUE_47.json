@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226746,
+  "numero": "22_QUE_47",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-12-21"
+  },
+  "depose": "2022-11-08",
+  "titre": "La LPECPM s’applique-t-elle également aux communes ?",
+  "contributeurs": [
+    {
+      "nom": "Kilian Duggan",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-11-08",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-12-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Participations des communes à des entités de droit privé",
+      "date": "2022-12-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2153245"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f896ca7c-b185-4911-8e2c-6ea536ddbccb/meeting/1012638",
+  "communes": []
+}

@@ -1,0 +1,85 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5491,
+  "objets": [
+    {
+      "cle": "vd/24_INT_184",
+      "numero": "24_INT_184",
+      "type": "Interpellation",
+      "depose": "2024-12-18",
+      "titre": "Nouveaux horaires 2025 - Le pied du Jura oublié ?",
+      "auteurs": [
+        {
+          "nom": "Cédric Weissert",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2025-04-02"
+      },
+      "derniere_etape": "2025-04-02",
+      "communes": [
+        {
+          "ofs": 5491,
+          "origine": "document"
+        },
+        {
+          "ofs": 5642,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5486,
+          "origine": "document"
+        },
+        {
+          "ofs": 5656,
+          "origine": "document"
+        },
+        {
+          "ofs": 5477,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/8_LEG_100",
+      "numero": "8_LEG_100",
+      "type": "Décret/Loi",
+      "depose": "2008-12-09",
+      "titre": "Exposé des motifs et projet de loi d'application sur les parcs d'importance nationale et Rapport du Conseil d'Etat au Grand Conseil sur la motion Philippe Randin demandant au Conseil d'Etat de soumettre au Grand Conseil son EMPL sur les parcs",
+      "auteurs": [
+        {
+          "nom": "Alessandra Silauri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2008-12-16"
+      },
+      "derniere_etape": "2008-12-16",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5424,
+          "origine": "document"
+        },
+        {
+          "ofs": 5491,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

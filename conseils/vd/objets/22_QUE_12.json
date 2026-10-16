@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226705,
+  "numero": "22_QUE_12",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2022-04-13"
+  },
+  "depose": "2022-03-01",
+  "titre": "Quelles sont les conditions et le suivi qu’applique l’Etat aux fournisseurs qu’il choisit et aux entités qu’il subventionne pour s’assurer que ceux-ci soient en cohérence avec sa stratégie pour la protection du climat ?",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Rydlo",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-03-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-04-13",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Cohérence des subventions et des achats de l’Etat avec les objectifs du Plan climat",
+      "date": "2022-04-13",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2111460"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/2e0a5bb0-4edf-4dd7-be20-9dd3980d9d88/meeting/1004437",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5627,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227586,
+  "numero": "24_INT_123",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2025-02-26"
+  },
+  "depose": "2024-08-27",
+  "titre": "Morges sous l’eau. Quel est le plan pour mieux gérer les eaux pluviales et les fortes précipitations à l’avenir dans le canton ?",
+  "contributeurs": [
+    {
+      "nom": "Anna Perret",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-08-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-09-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2025-02-26",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-02-26",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2024-09-03",
+      "lien": "http://www.sonomix.ch/live/gcvd/2900#635"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-03-25",
+      "lien": "https://www.sonomix.ch/live/gcvd/3078#2610"
+    },
+    {
+      "titre": "Planification et gestion des risques liés aux précipitations diluviennes",
+      "date": "2025-02-26",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2289382"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/8a118910-21f0-4e8c-a0c3-25714f716088/meeting/1026883",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

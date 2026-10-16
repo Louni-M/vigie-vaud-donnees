@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225431,
+  "numero": "20_QUE_9",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2020-12-09"
+  },
+  "depose": "2020-10-27",
+  "titre": "Besoins en traçage des infections COVID19 - les exigences de recrutement sont-elles proportionnées en regard des besoins ?",
+  "contributeurs": [
+    {
+      "nom": "Laurent Miéville",
+      "parti": "V'L",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-10-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-12-09",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "https://jobtic.ch/fr/emplois/offre/202687",
+      "date": "2020-10-27",
+      "lien": "https://jobtic.ch/fr/emplois/offre/202687"
+    },
+    {
+      "titre": "Exigences de recrutement pour le traçage des infections COVID-19",
+      "date": "2020-12-09",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2023792"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d395f26b-8085-45ed-aad6-33d65d7c1f99/meeting/1000532",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5886,
+      "origine": "document"
+    },
+    {
+      "ofs": 5792,
+      "origine": "document"
+    },
+    {
+      "ofs": 5892,
+      "origine": "document"
+    },
+    {
+      "ofs": 5601,
+      "origine": "document"
+    },
+    {
+      "ofs": 5606,
+      "origine": "document"
+    },
+    {
+      "ofs": 5518,
+      "origine": "document"
+    },
+    {
+      "ofs": 5891,
+      "origine": "document"
+    },
+    {
+      "ofs": 5613,
+      "origine": "document"
+    }
+  ]
+}

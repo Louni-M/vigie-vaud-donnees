@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224141,
+  "numero": "17_POS_222",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2021-03-03"
+  },
+  "depose": "2017-01-10",
+  "titre": "Les lois de la nature et celles du marché sont-elles compatibles ?",
+  "contributeurs": [
+    {
+      "nom": "Maurice Neyroud",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Maurice Neyroud",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Andreas Wüthrich",
+      "parti": "V'L",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-01-10",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2017-12-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-03-03",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Viticulture: mise en place d'une réserve climatique",
+      "date": "2021-03-03",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2069529"
+    }
+  ],
+  "lien": "https://www.vd.ch/autorites/grand-conseil/seances-precedentes/annee-2017/seance-du-mardi-19-decembre-2017/postulat-maurice-neyroud-et-consorts-les-lois-de-la-nature-et-celles-du-marche-sont-elles-compatibles",
+  "communes": [
+    {
+      "ofs": 5551,
+      "origine": "document"
+    },
+    {
+      "ofs": 5401,
+      "origine": "document"
+    },
+    {
+      "ofs": 5590,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221867,
+  "numero": "10_INT_384",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-12-14"
+  },
+  "depose": "2010-05-11",
+  "titre": "Réponse du Conseil d'Etat à l'interpellation Claude-André Fardel au nom du groupe radical : Entre deux casquettes d'avocat d'un détenu et d'élu d'un parti, un député doit choisir !",
+  "contributeurs": [
+    {
+      "nom": "Claude-André Fardel",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Claude-André Fardel",
+      "parti": "RAD",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-05-11",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-05-11",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-12-14",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-12-14",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_384_Texte_CE.pdf"
+    },
+    {
+      "titre": "Dépôt",
+      "date": "2010-05-11",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_384_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seances-des-14-et-15-decembre-2010/reponse-du-conseil-detat-a-linterpellation-claude-andre-fardel-entre-deux-casquettes-davocat-dun-detenu-et-delu-dun-parti-un-depute-doit-choisir",
+  "communes": []
+}

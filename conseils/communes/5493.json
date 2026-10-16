@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5493,
+  "objets": [
+    {
+      "cle": "vd/12_LEG_450",
+      "numero": "12_LEG_450",
+      "type": "Décret/Loi",
+      "depose": "2012-04-24",
+      "titre": "Exposé des motifs et projet de décret  autorisant le Conseil d'Etat à vendre à la Fondation EMS Le Marronnier le bien-fonds n°397 du cadastre de la commune de Lutry, propriété de l'Etat de Vaud, d'une surface totale de 4'292 m2, pour le prix de CHF 2'600'000.-",
+      "auteurs": [
+        {
+          "nom": "Frédéric Grognuz",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Frédéric Grognuz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2012-05-08"
+      },
+      "derniere_etape": "2012-05-08",
+      "communes": [
+        {
+          "ofs": 5606,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5493,
+          "origine": "document"
+        },
+        {
+          "ofs": 5428,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5591,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

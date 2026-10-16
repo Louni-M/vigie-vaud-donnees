@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223652,
+  "numero": "15_POS_114",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Retiré",
+    "date": "2016-01-12"
+  },
+  "depose": "2015-04-21",
+  "titre": "Comment vérifier les données issues des communautés religieuses ?",
+  "contributeurs": [
+    {
+      "nom": "Jean-Luc Bezençon",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-Luc Bezençon",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-Luc Bezençon",
+      "parti": "PLR",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2015-04-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-04-21",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2016-01-12",
+      "libelle": "Zurückgezogen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2016-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_114_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2016-01-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_114_D%C3%A9p%C3%B4t_01.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-04-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/15_POS_114_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2016/seance-du-mardi-12-janvier-2016-1/postulat-pierre-guignard-comment-verifier-les-donnees-issues-des-communautes-religieuses",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

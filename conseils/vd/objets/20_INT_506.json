@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225223,
+  "numero": "20_INT_506",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2021-04-27"
+  },
+  "depose": "2020-08-25",
+  "titre": "Gestion intégrée de l'Orbe : quel bilan sept ans après la signature de la convention intercommunale ?",
+  "contributeurs": [
+    {
+      "nom": "Sébastien Cala",
+      "parti": "SOC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-08-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-09-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-12-09",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2021-04-27",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2021-04-27",
+      "lien": "https://www.sonomix.ch/live/gcvd/1809#10301"
+    },
+    {
+      "titre": "Gestion intégrée de l'Orbe",
+      "date": "2020-12-09",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2023782"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/155fd61f-7fae-42f5-8028-a846e8c6606c/meeting/1000557",
+  "communes": [
+    {
+      "ofs": 5872,
+      "origine": "document"
+    },
+    {
+      "ofs": 5873,
+      "origine": "document"
+    },
+    {
+      "ofs": 5871,
+      "origine": "document"
+    },
+    {
+      "ofs": 5727,
+      "origine": "document"
+    }
+  ]
+}

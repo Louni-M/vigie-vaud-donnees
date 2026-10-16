@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226575,
+  "numero": "22_PAR_1",
+  "type": "Recours de compétence",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2022-02-15"
+  },
+  "depose": "2022-02-15",
+  "titre": "Recours de compétence du GC Rapport du Bureau et projet de décision sur le recours formé par [particulier], [particulier] de Sépibus et [particulier] contre le refus du Bureau électoral cantonal de modifier les listes de candidatures « Alliance des Libertés » déposées dans les districts de Morges (liste n°4) et de l’Ouest lausannois (liste n°5), en vue de l’élection au Grand Conseil du Canton de Vaud du 20 mars 2022",
+  "contributeurs": [
+    {
+      "nom": "Séverine Evéquoz",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-02-15",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Recours",
+      "date": "2022-02-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2101091"
+    },
+    {
+      "titre": "Rapport du Bureau et projet de décision",
+      "date": "2022-02-15",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2101186"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/86c51663-ec1c-4afe-b0ad-c8ef7c36d940/meeting/1004430",
+  "communes": [
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5724,
+      "origine": "document"
+    }
+  ]
+}

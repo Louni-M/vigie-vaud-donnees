@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223340,
+  "numero": "14_PET_028",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2015-03-10"
+  },
+  "depose": "2015-02-03",
+  "titre": "Pétition du groupe Socialiste, Verts et Sympathisants pour une amélioration à court terme du confort des voyageurs à la gare de Cossonay Penthalaz",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2015-02-03",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2015-03-10",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2015-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_PET_028_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2015-02-03",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/14_PET_028_D%C3%A9p%C3%B4t.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2015/seance-du-mardi-10-mars-2015/petition-du-groupe-socialiste-verts-et-sympathisants-pour-une-amelioration-a-court-terme-du-confort-des-voyageurs-a-la-gare-de-cossonay-penthalaz",
+  "communes": [
+    {
+      "ofs": 5477,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5495,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5938,
+      "origine": "document"
+    },
+    {
+      "ofs": 5764,
+      "origine": "document"
+    },
+    {
+      "ofs": 5498,
+      "origine": "document"
+    },
+    {
+      "ofs": 5613,
+      "origine": "document"
+    }
+  ]
+}

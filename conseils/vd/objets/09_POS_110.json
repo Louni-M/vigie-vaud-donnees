@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221736,
+  "numero": "09_POS_110",
+  "type": "Postulat",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2009-09-29"
+  },
+  "depose": "2009-01-27",
+  "titre": "Pour une réforme de l'impôt foncier",
+  "contributeurs": [
+    {
+      "nom": "Claudine Wyssa",
+      "parti": "PLR",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Vassilis Venizelos",
+      "parti": "VER",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2009-01-27",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2009-02-03",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2009-09-29",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet et développement",
+      "date": "2009-09-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_110_Objet_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport de la minorité de la commission",
+      "date": "2009-09-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_110_RC_min.pdf"
+    },
+    {
+      "titre": "Rapport de la majorité de la commission",
+      "date": "2009-09-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/09_POS_110_RC_maj.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2009-01-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/09.01.22_Envoi_deputes/09_POS_110_Depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2009/seance-du-29-septembre-2009/postulat-vassilis-venizelos",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

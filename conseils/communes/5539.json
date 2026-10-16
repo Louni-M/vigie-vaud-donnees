@@ -1,0 +1,182 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "commune": 5539,
+  "objets": [
+    {
+      "cle": "vd/15_MOT_071",
+      "numero": "15_MOT_071",
+      "type": "Motion",
+      "depose": "2015-09-01",
+      "titre": "Stop aux recherches d'hydrocarbures",
+      "auteurs": [
+        {
+          "nom": "Fabienne Despot",
+          "parti": null
+        },
+        {
+          "nom": "Fabienne Despot",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2016-02-09"
+      },
+      "derniere_etape": "2016-02-09",
+      "communes": [
+        {
+          "ofs": 5408,
+          "origine": "document"
+        },
+        {
+          "ofs": 5501,
+          "origine": "document"
+        },
+        {
+          "ofs": 5540,
+          "origine": "document"
+        },
+        {
+          "ofs": 5693,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5539,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/14_POS_086",
+      "numero": "14_POS_086",
+      "type": "Postulat",
+      "depose": "2014-09-23",
+      "titre": "Eviter le trou noir des pertes fiscales dans le cadre de la réforme de la fiscalité des entreprises III",
+      "auteurs": [
+        {
+          "nom": "Michaël Buffat",
+          "parti": null
+        },
+        {
+          "nom": "Michaël Buffat",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2015-03-31"
+      },
+      "derniere_etape": "2015-03-31",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5539,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/11_RAP_313",
+      "numero": "11_RAP_313",
+      "type": "Rapport",
+      "depose": "2011-08-23",
+      "titre": "Des clarifications concernant l'implantation de parcs industriels éoliens dans l'Arc jurassien",
+      "auteurs": [
+        {
+          "nom": "Fabienne Despot",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2011-08-23"
+      },
+      "derniere_etape": "2011-08-23",
+      "communes": [
+        {
+          "ofs": 5511,
+          "origine": "document"
+        },
+        {
+          "ofs": 5537,
+          "origine": "document"
+        },
+        {
+          "ofs": 5539,
+          "origine": "document"
+        },
+        {
+          "ofs": 5530,
+          "origine": "document"
+        },
+        {
+          "ofs": 5702,
+          "origine": "document"
+        },
+        {
+          "ofs": 5703,
+          "origine": "document"
+        },
+        {
+          "ofs": 5854,
+          "origine": "document"
+        },
+        {
+          "ofs": 5744,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/08_POS_085",
+      "numero": "08_POS_085",
+      "type": "Postulat",
+      "depose": "2008-09-09",
+      "titre": "Eole dans le Gros de Vaud",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Renvoyée au Conseil d'Etat",
+        "date": "2008-12-16"
+      },
+      "derniere_etape": "2008-12-16",
+      "communes": [
+        {
+          "ofs": 5511,
+          "origine": "document"
+        },
+        {
+          "ofs": 5537,
+          "origine": "document"
+        },
+        {
+          "ofs": 5539,
+          "origine": "document"
+        },
+        {
+          "ofs": 5530,
+          "origine": "document"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    }
+  ]
+}

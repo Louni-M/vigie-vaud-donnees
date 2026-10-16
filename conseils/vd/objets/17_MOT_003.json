@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224095,
+  "numero": "17_MOT_003",
+  "type": "Motion",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2022-03-09"
+  },
+  "depose": "2017-09-19",
+  "titre": "Valorisation et promotion de la formation duale",
+  "contributeurs": [
+    {
+      "nom": "Axel Marion",
+      "parti": "AdC",
+      "role": null,
+      "sorte": "personne"
+    },
+    {
+      "nom": "Axel Marion",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2017-09-19",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-02-19",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-03-09",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-01-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_003_RC.pdf"
+    },
+    {
+      "titre": "Objet et développement",
+      "date": "2019-01-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/17_MOT_003_obj_et_dev.pdf"
+    },
+    {
+      "titre": "Rapport intermédiaire sur la valorisation et la promotion de la formation duale",
+      "date": "2022-03-09",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2106216"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-19-fevrier-2019/motion-aurelien-clerc-et-consorts-valorisation-et-promotion-de-la-formation-duale",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

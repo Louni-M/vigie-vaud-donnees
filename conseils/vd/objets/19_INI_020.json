@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224590,
+  "numero": "19_INI_020",
+  "type": "Initiative",
+  "statut": {
+    "libelle": "Pris en considération",
+    "date": "2021-06-16"
+  },
+  "depose": "2019-09-17",
+  "titre": "Révision partielle de la loi sur le Grand Conseil (LGC) du 8 mai 2007: modification de l'art. 136 al.2 traitant de la procédure relative au dépôt d'une résolution",
+  "contributeurs": [
+    {
+      "nom": "Stéphane Masson",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Grégory Devaud",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean Tschopp",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-09-17",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-09-24",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-06-16",
+      "libelle": "Überwiesen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de majorité de la commission - 19_INI_020 - Grégory Devaud",
+      "date": "2021-06-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2040094"
+    },
+    {
+      "titre": "Objet",
+      "date": "2019-09-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INI_020_depot.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2021-06-16",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=388286"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6a166cb6-e97d-46df-b62f-c6183e1f6e90/meeting/1003920",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

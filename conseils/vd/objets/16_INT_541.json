@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 223793,
+  "numero": "16_INT_541",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2018-10-09"
+  },
+  "depose": "2016-08-23",
+  "titre": "Transition entre l'école et la vie professionnelle : quo vadis ?",
+  "contributeurs": [
+    {
+      "nom": "Jérôme Christen",
+      "parti": "LIBRE",
+      "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jérôme Christen",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2016-08-23",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2016-08-23",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2018-10-09",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-09-25",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_541_Texte_CE.PDF"
+    },
+    {
+      "titre": "Objet",
+      "date": "2016-08-23",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/16_INT_541_depot.PDF"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-9-octobre-2018/reponse-du-conseil-detat-a-linterpellation-jerome-christen-et-consorts-transition-entre-lecole-et-la-vie-professionnelle-quo-vadis",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

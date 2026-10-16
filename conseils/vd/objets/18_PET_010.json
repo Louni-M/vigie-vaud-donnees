@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224371,
+  "numero": "18_PET_010",
+  "type": "Pétition",
+  "statut": {
+    "libelle": "Refusé",
+    "date": "2018-12-11"
+  },
+  "depose": "2018-02-13",
+  "titre": "Pétition pour une dénonciation de cas de racisme et de xénophobie au sein de la justice vaudoise",
+  "contributeurs": [],
+  "etapes": [
+    {
+      "date": "2018-02-13",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2018-12-11",
+      "libelle": "Abgelehnt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-11-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_010_RC.pdf"
+    },
+    {
+      "titre": "Objet",
+      "date": "2018-11-20",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/18_PET_010_depot.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-des-11-et-12-decembre-2018/petition-pour-une-denonciation-de-cas-de-racisme-et-de-xenophobie-au-sein-de-la-justice-vaudoise",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5890,
+      "origine": "document"
+    }
+  ]
+}

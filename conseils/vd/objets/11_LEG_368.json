@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222415,
+  "numero": "11_LEG_368",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2011-02-22"
+  },
+  "depose": "2011-02-15",
+  "titre": "Exposé des motifs et projet de décrets :- ordonnant la convocation des électeurs pour définir les préavis du canton à la demande d'autorisation générale pour le projet de centrale nucléaire de Beznau (AG)- ordonnant la convocation des électeurs pour définir les préavis du canton à la demande d'autorisation générale pour le projet de centrale nucléaire de Mühleberg (BE)- ordonnant la convocation des électeurs pour définir les préavis du canton à la demande d'autorisation générale pour le projet de centrale nucléaire de Niederamt (SO)",
+  "contributeurs": [
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Rapporteur de la majorité de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Guy-Philippe Bolay",
+      "parti": "PLR",
+      "role": "Rapporteur de la minorité de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-02-15",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-02-15",
+      "libelle": "Angenommen"
+    },
+    {
+      "date": "2011-02-22",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2011-02-15",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/368_Texte_CE.pdf"
+    },
+    {
+      "titre": "Décret \"Niederamt\" adopté par le Grand Conseil le 22.02.11",
+      "date": "2011-02-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/368_Decret_Niederamt_new.pdf"
+    },
+    {
+      "titre": "Décret \"Beznau\" adopté par le Grand Conseil le 22.02.11",
+      "date": "2011-02-22",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/368_Decret_Beznau_new.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-22-fevrier-2011/expose-des-motifs-et-projet-de-decrets-objets-nucleaires",
+  "communes": [
+    {
+      "ofs": 5464,
+      "origine": "document"
+    },
+    {
+      "ofs": 5451,
+      "origine": "document"
+    },
+    {
+      "ofs": 5456,
+      "origine": "document"
+    },
+    {
+      "ofs": 5458,
+      "origine": "document"
+    }
+  ]
+}

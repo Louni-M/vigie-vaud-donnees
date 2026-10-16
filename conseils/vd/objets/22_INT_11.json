@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 226247,
+  "numero": "22_INT_11",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2022-02-09"
+  },
+  "depose": "2022-01-25",
+  "titre": "Finances lausannoises : Timbrées ? ou pas ?",
+  "contributeurs": [
+    {
+      "nom": "Alexandre Berthoud",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2022-01-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2022-02-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2022-02-09",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-03-22",
+      "lien": "https://www.sonomix.ch/live/gcvd/2076#6541"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2022-02-01",
+      "lien": "https://www.sonomix.ch/live/gcvd/2046#736"
+    },
+    {
+      "titre": "Suppression du droit de timbre: pas de perte pour le Canton et les communes",
+      "date": "2022-02-09",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2101166"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e0dfdbaf-dda9-47d0-a144-14963568ade1/meeting/1004438",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

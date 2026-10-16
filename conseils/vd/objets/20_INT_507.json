@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 225224,
+  "numero": "20_INT_507",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2021-04-21"
+  },
+  "depose": "2020-08-25",
+  "titre": "Chicha, ça va pas tant que ça……",
+  "contributeurs": [
+    {
+      "nom": "Nathalie Jaccard",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2020-08-25",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2020-09-01",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2021-04-21",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Tabagisme: effets de la chicha sur la santé",
+      "date": "2021-04-21",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2049478"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/0b81983b-12fe-497c-8d3a-e0bb9e8b2ece/meeting/1000559",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

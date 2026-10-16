@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 176333,
+  "numero": "25_HQU_25",
+  "type": "Question orale",
+  "statut": {
+    "libelle": "Terminée",
+    "date": "2025-03-11"
+  },
+  "depose": "2025-03-04",
+  "titre": "Comment à la HEP...?",
+  "contributeurs": [
+    {
+      "nom": "Sergei Aschwanden",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2025-03-04",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2025-03-11",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/17c01a7b-3137-4146-98af-417d503970a5/meeting/1026881",
+  "communes": []
+}

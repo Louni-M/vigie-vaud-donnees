@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 228853,
+  "numero": "19_LEG_138",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2019-09-24"
+  },
+  "depose": "2019-09-24",
+  "titre": "Exposé des motifs et projet de décret accordant au Conseil d'Etat un crédit d'ouvrage de CHF 2'000'000.- pour financer la requalification de la route cantonale RC 69 sur la commune de Tolochenaz",
+  "contributeurs": [
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jean-François Thuillard",
+      "parti": "UDC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-09-24",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-09-24",
+      "libelle": "Angenommen"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2019-09-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/138_TexteCE.pdf"
+    },
+    {
+      "titre": "Rapport de la commission",
+      "date": "2019-09-24",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/138_RC.pdf"
+    },
+    {
+      "titre": "EMPD accordant au Conseil d'Etat un crédit d'ouvrage de CHF 2'000'000.- pour financer la requalification de la route cantonale RC 69 sur la commune de Tolochenaz - Texte adopté par CE - EMPD",
+      "date": "2019-05-01",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=376326"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2019/seance-du-mardi-24-septembre-2019/expose-des-motifs-et-projet-de-decret-accordant-au-conseil-detat-un-credit-douvrage-de-chf-2000000-pour-financer-la-requalification-de-la-route-cantonale-rc-69-sur-la-commune-de-tolochenaz",
+  "communes": [
+    {
+      "ofs": 5649,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "document"
+    },
+    {
+      "ofs": 5639,
+      "origine": "document"
+    }
+  ]
+}

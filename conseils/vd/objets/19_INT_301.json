@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224616,
+  "numero": "19_INT_301",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2025-03-18"
+  },
+  "depose": "2019-02-05",
+  "titre": "Quel est l'avenir du site de Beaulieu ?",
+  "contributeurs": [
+    {
+      "nom": "Eric Sonnay",
+      "parti": "PLR",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2019-02-05",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2019-02-12",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2023-06-14",
+      "libelle": "Beantwortet"
+    },
+    {
+      "date": "2025-03-18",
+      "libelle": "Erledigt"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2019-02-12",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/19_INT_301_depot.pdf"
+    },
+    {
+      "titre": "Visionner le débat de ce point à l'ordre du jour",
+      "date": "2025-03-18",
+      "lien": "https://www.sonomix.ch/live/gcvd/3070#7134"
+    },
+    {
+      "titre": "Avenir du site de Beaulieu",
+      "date": "2023-06-14",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2182577"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ec8c9e0e-4f95-4542-b148-2bb616c160b2/meeting/1026882",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 224556,
+  "numero": "18_RAP_386",
+  "type": "Rapport",
+  "statut": {
+    "libelle": "Adopté",
+    "date": "2018-05-29"
+  },
+  "depose": "2018-05-29",
+  "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le postulat Vassilis Venizelos et consorts au nom du groupe des Verts - Daillens sous acide",
+  "contributeurs": [
+    {
+      "nom": "Muriel Thalmann",
+      "parti": null,
+      "role": null,
+      "sorte": "groupe"
+    },
+    {
+      "nom": "Muriel Thalmann",
+      "parti": "SOC",
+      "role": "Rapporteur de la commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2018-05-29",
+      "libelle": "Eingereicht"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Rapport de la commission",
+      "date": "2018-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/386_rc.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2018-05-29",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2012-2017/386_Texte_CE.pdf"
+    },
+    {
+      "titre": "Retour à l’ordre du jour",
+      "date": "2018-05-29",
+      "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-29-mai-2018"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2018/seance-du-mardi-5-juin-2018/rapport-du-conseil-detat-au-grand-conseil-sur-le-postulat-vassilis-venizelos-et-consorts-au-nom-du-groupe-des-verts-daillens-sous-acide",
+  "communes": [
+    {
+      "ofs": 5480,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5402,
+      "origine": "document"
+    },
+    {
+      "ofs": 5613,
+      "origine": "document"
+    },
+    {
+      "ofs": 5583,
+      "origine": "document"
+    },
+    {
+      "ofs": 5635,
+      "origine": "document"
+    },
+    {
+      "ofs": 5675,
+      "origine": "document"
+    },
+    {
+      "ofs": 5669,
+      "origine": "document"
+    }
+  ]
+}

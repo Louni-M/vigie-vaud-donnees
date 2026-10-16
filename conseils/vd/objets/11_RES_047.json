@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 222601,
+  "numero": "11_RES_047",
+  "type": "Résolution",
+  "statut": {
+    "libelle": "Renvoyée au Conseil d'Etat",
+    "date": "2020-11-18"
+  },
+  "depose": "2011-06-21",
+  "titre": "Le réaménagement des horaires CFF Romandie 2013 et en particulier la desserte des villes de Nyon, Morges et Yverdon",
+  "contributeurs": [
+    {
+      "nom": "Raphaël Mahaim",
+      "parti": "VER",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2011-06-21",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2011-06-21",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2020-11-18",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Objet",
+      "date": "2011-06-21",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/11_RES_047_Depot.pdf"
+    },
+    {
+      "titre": "Desserte des gares de Nyon, Morges et Yverdon",
+      "date": "2020-11-18",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2019564"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2011/seance-du-21-juin-2011/resolution-raphael-mahaim-concernant-le-reamenagement-des-horaires-cff-romandie-2013",
+  "communes": [
+    {
+      "ofs": 5724,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5642,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5938,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5586,
+      "origine": "document"
+    },
+    {
+      "ofs": 5624,
+      "origine": "document"
+    },
+    {
+      "ofs": 5591,
+      "origine": "document"
+    },
+    {
+      "ofs": 5480,
+      "origine": "document"
+    }
+  ]
+}

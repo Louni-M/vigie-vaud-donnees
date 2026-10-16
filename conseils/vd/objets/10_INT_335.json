@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 221822,
+  "numero": "10_INT_335",
+  "type": "Interpellation",
+  "statut": {
+    "libelle": "Traité",
+    "date": "2010-04-27"
+  },
+  "depose": "2010-02-16",
+  "titre": "La disparition programmée d'un Consulat au service d'une communauté de 54'000 personnes",
+  "contributeurs": [
+    {
+      "nom": "Martine Fiora-Guttmann",
+      "parti": "RAD",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2010-02-16",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2010-02-16",
+      "libelle": "Überwiesen"
+    },
+    {
+      "date": "2010-04-27",
+      "libelle": "Behandelt vom Parlament"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Dépôt",
+      "date": "2010-02-16",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_335_Depot.pdf"
+    },
+    {
+      "titre": "Texte adopté par le Conseil d'Etat",
+      "date": "2010-04-27",
+      "lien": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/10_INT_335_Texte_CE.pdf"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-precedentes/annee-2010/seance-du-27-avril-2010/reponse-du-conseil-detat-a-linterpellation-martine-fiora-guttmann",
+  "communes": [
+    {
+      "ofs": 5586,
+      "origine": "document"
+    }
+  ]
+}

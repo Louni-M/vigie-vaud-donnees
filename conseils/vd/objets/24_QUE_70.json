@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "genere": "2026-10-16T16:21:04Z",
+  "id": 227985,
+  "numero": "24_QUE_70",
+  "type": "Simple question",
+  "statut": {
+    "libelle": "Beantwortet",
+    "date": "2024-11-27"
+  },
+  "depose": "2024-10-01",
+  "titre": "Stagiaire de la HEP au Gymnase",
+  "contributeurs": [
+    {
+      "nom": "Fabien Deillon",
+      "parti": "UDC",
+      "role": "Auteur",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2024-10-01",
+      "libelle": "Eingereicht"
+    },
+    {
+      "date": "2024-11-27",
+      "libelle": "Beantwortet"
+    }
+  ],
+  "documents": [
+    {
+      "titre": "Port de symbole religieux par les collaboratrices et collaborateurs de l’État",
+      "date": "2024-11-27",
+      "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2274015"
+    }
+  ],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5a423d8e-b64d-4913-ac38-8e4b634e1bc1/meeting/1026861",
+  "communes": [
+    {
+      "ofs": 5938,
+      "origine": "document"
+    }
+  ]
+}
