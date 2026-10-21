@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-21T10:14:15Z",
   "commune": 5727,
   "objets": [
     {
@@ -13,9 +13,13 @@
         {
           "nom": "Sébastien Cala",
           "parti": "SOC"
+        },
+        {
+          "nom": "Nicolas Suter",
+          "parti": "PLR"
         }
       ],
-      "nombre_auteurs": 1,
+      "nombre_auteurs": 2,
       "statut": {
         "libelle": "Renvoyée à commission",
         "date": "2026-09-29"

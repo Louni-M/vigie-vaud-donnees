@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-21T10:14:15Z",
   "id": 340135,
   "numero": "26_MOT_54",
   "type": "Motion",
@@ -16,12 +16,18 @@
       "parti": "VER",
       "role": "Auteur",
       "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Suter",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
     }
   ],
   "etapes": [
     {
       "date": "2026-09-01",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     }
   ],
   "documents": [],

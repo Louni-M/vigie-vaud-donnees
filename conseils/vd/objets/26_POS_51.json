@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-10-21T10:14:15Z",
   "id": 340165,
   "numero": "26_POS_51",
   "type": "Postulat",
@@ -15,6 +15,12 @@
       "nom": "Sébastien Cala",
       "parti": "SOC",
       "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Suter",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
       "sorte": "personne"
     }
   ],
