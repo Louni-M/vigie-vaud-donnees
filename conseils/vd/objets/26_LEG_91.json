@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-23T10:08:32Z",
   "id": 340507,
   "numero": "26_LEG_91",
   "type": "Décret/Loi",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-10-27"
   },
   "depose": "2026-10-06",
   "titre": "Modification de la loi du 10 octobre 2023 sur la réduction de l’impôt cantonal sur le revenu des personnes physiques (LRIPP)",
@@ -21,14 +21,18 @@
   "etapes": [
     {
       "date": "2026-10-06",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2026-10-06",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-10-27",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c7cba5ff-971f-4f70-bf32-d0620d7416f0/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e487edb2-441a-4f57-bb44-a341f323386e/meeting/1033713",
   "communes": []
 }

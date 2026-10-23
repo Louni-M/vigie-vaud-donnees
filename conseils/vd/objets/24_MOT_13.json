@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-23T10:08:32Z",
   "id": 227765,
   "numero": "24_MOT_13",
   "type": "Motion",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-10-27"
   },
   "depose": "2024-02-20",
   "titre": "LOI sur l'expropriation (LE) agricole sans indemnisation financière mais compensation durable",
@@ -27,11 +27,15 @@
   "etapes": [
     {
       "date": "2024-02-20",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2026-10-06",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-10-27",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -41,6 +45,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/2748#1598"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d6f5f45b-fddc-4131-8a12-0659e21d0dda/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/85188968-831f-4fd8-ae92-8f9041317400/meeting/1033713",
   "communes": []
 }

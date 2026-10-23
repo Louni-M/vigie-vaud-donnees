@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "genere": "2026-10-21T10:14:15Z",
+  "genere": "2026-10-23T10:08:32Z",
   "entrees": [
+    {
+      "cle": "vd/2026-10-27",
+      "conseil": "vd",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-10-27",
+      "titre": "Séance du Grand Conseil du mardi 27 octobre 2026",
+      "communes": [],
+      "points": 25
+    },
+    {
+      "cle": "vd/26_PAR_24",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Recours de compétence",
+      "date": "2026-10-27",
+      "titre": "Rapport/préavis du Bureau du Grand Conseil et prestation de serment de [particulier]",
+      "communes": [],
+      "points": null
+    },
     {
       "cle": "5586/2026-10-06",
       "conseil": "5586",
@@ -62,7 +82,7 @@
       "sorte": "objet",
       "type": "Interpellation",
       "date": "2026-10-06",
-      "titre": "UN ÉLEVAGE POUR LA PROTECTION, UNE PROTECTION POUR L’ÉLEVAGE",
+      "titre": "Un élevage pour la protection, une protection pour l’élevage",
       "communes": [],
       "points": null
     },
@@ -236,30 +256,6 @@
       "date": "2026-10-06",
       "titre": "Pour la sauvegarde de médias locaux de qualité",
       "communes": [],
-      "points": null
-    },
-    {
-      "cle": "5938/2026-10-01",
-      "conseil": "5938",
-      "sorte": "seance",
-      "type": null,
-      "date": "2026-10-01T20:00",
-      "titre": "Séance du Conseil communal du 1er octobre 2026",
-      "communes": [
-        5938
-      ],
-      "points": 20
-    },
-    {
-      "cle": "5586/PE26-008",
-      "conseil": "5586",
-      "sorte": "objet",
-      "type": "Pétition",
-      "date": "2026-10-01",
-      "titre": "stand \"Chrétiens Unis Pour Israël\" dans l'espace public lausannois",
-      "communes": [
-        5586
-      ],
       "points": null
     }
   ]

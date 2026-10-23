@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-21T10:14:15Z",
+  "genere": "2026-10-23T10:08:32Z",
   "conseils": [
     {
       "cle": "vd",
@@ -11,7 +11,7 @@
         "objets",
         "seances"
       ],
-      "objets": 8305,
+      "objets": 8306,
       "objets_par_annee": {
         "1950": 1,
         "2008": 308,
@@ -32,11 +32,32 @@
         "2023": 642,
         "2024": 705,
         "2025": 736,
-        "2026": 565
+        "2026": 566
       },
-      "recents": [],
-      "seances": 661,
-      "prochaine_seance": null,
+      "recents": [
+        {
+          "cle": "vd/26_PAR_24",
+          "numero": "26_PAR_24",
+          "type": "Recours de compétence",
+          "depose": "2026-10-27",
+          "titre": "Rapport/préavis du Bureau du Grand Conseil et prestation de serment de [particulier]",
+          "auteurs": [
+            {
+              "nom": "Céline Misiego",
+              "parti": "EP"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        }
+      ],
+      "seances": 662,
+      "prochaine_seance": "vd/2026-10-27",
       "derniere_seance": "vd/2026-10-06"
     },
     {

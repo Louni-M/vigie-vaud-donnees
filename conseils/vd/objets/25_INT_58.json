@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-10-23T10:08:32Z",
   "id": 228180,
   "numero": "25_INT_58",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-10-27"
   },
   "depose": "2025-04-29",
   "titre": "Combien coûterait la suppression de la valeur locative au Canton de Vaud et aux communes vaudoises ?",
@@ -42,6 +42,10 @@
     {
       "date": "2026-10-06",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-10-27",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -51,6 +55,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3108#504"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/b051c63b-8787-4162-bee6-d66a76743d74/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/8aa8be18-eecc-4ad7-84ab-89d13b2f5526/meeting/1033713",
   "communes": []
 }

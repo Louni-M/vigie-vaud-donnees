@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-23T10:08:32Z",
   "id": 341085,
   "numero": "26_INT_142",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Traktandiert",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-10-27"
   },
   "depose": "2026-10-06",
   "titre": "La galère La Liberté : le démantèlement est-il la seule issue ?",
@@ -21,14 +21,18 @@
   "etapes": [
     {
       "date": "2026-10-06",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2026-10-06",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-10-27",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4cbd8481-a2f3-4931-b88e-a0ef2b509850/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/171e0a94-a914-42bd-aebb-cdc7afac50bd/meeting/1033713",
   "communes": []
 }

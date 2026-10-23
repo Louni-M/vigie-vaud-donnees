@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-10-23T10:08:32Z",
   "id": 227616,
   "numero": "24_INT_15",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-10-27"
   },
   "depose": "2024-01-30",
   "titre": "Deux fois perdant ?",
@@ -42,6 +42,10 @@
     {
       "date": "2026-10-06",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-10-27",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -51,6 +55,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/2725#570"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/fa1687cb-179a-4e37-862f-ace9e86a7ed3/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/bb47f089-76d0-477f-8c97-d922f0e899d7/meeting/1033713",
   "communes": []
 }

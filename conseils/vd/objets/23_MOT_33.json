@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-23T10:08:32Z",
   "id": 227172,
   "numero": "23_MOT_33",
   "type": "Motion",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-06-16"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-10-27"
   },
   "depose": "2023-12-05",
   "titre": "Enfin une solution pour que les plus pauvres ne soient pas les seul.e.s à payer plus d’impôt!",
@@ -33,15 +33,19 @@
   "etapes": [
     {
       "date": "2023-12-05",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2026-06-09",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
     },
     {
       "date": "2026-06-16",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-10-27",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -51,6 +55,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/2687#1089"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/b1d4745f-4b91-4c04-b953-ce14542ead57/meeting/1029673",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/91b2a015-28ae-4114-8c59-ca4005c33272/meeting/1033713",
   "communes": []
 }

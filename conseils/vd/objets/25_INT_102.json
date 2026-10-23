@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-10-23T10:08:32Z",
   "id": 249982,
   "numero": "25_INT_102",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-10-27"
   },
   "depose": "2025-08-19",
   "titre": "Impôts payés d’avance et non-attribués dans les comptes 2024, qu’en est-il ?",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-06",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-10-27",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -47,6 +51,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3173#424"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/498a3b92-c2cb-478c-b19c-e31f73b3291c/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/2d26342a-a62c-4114-b055-46d964cdab8a/meeting/1033713",
   "communes": []
 }

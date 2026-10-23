@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-23T10:08:32Z",
   "id": 280147,
   "numero": "25_MOT_58",
   "type": "Motion",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-06-09"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-10-27"
   },
   "depose": "2025-11-04",
   "titre": "Pour qu’une société immobilière ne soit plus un outil spéculatif et d’optimisation fiscale",
@@ -33,19 +33,23 @@
   "etapes": [
     {
       "date": "2025-11-04",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2025-11-04",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
     },
     {
       "date": "2025-11-11",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
     },
     {
       "date": "2026-06-09",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-10-27",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -55,6 +59,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3259#5050"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/12106c13-1488-4671-98c7-5c151af2e47a/meeting/1029672",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/96068961-174c-43b2-b5b9-3ffa301c12a2/meeting/1033713",
   "communes": []
 }

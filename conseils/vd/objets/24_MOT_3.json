@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-23T10:08:32Z",
   "id": 227784,
   "numero": "24_MOT_3",
   "type": "Motion",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-10-27"
   },
   "depose": "2024-01-30",
   "titre": "Expropriation: Mesquinerie ou juste indemnisation en faveur de l'intérêt commun ?",
@@ -27,11 +27,15 @@
   "etapes": [
     {
       "date": "2024-01-30",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2026-10-06",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-10-27",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -41,6 +45,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/2725#1338"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/81f9b0fa-d3f1-4df9-838f-6d1646cd3957/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/05b3c5ae-2389-4b83-a222-70ecc339188b/meeting/1033713",
   "communes": []
 }

@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-10-23T10:08:32Z",
   "id": 285345,
   "numero": "25_INT_150",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-10-27"
   },
   "depose": "2025-11-25",
   "titre": "Qui paie des impôts dans le canton de Vaud ?",
@@ -42,6 +42,10 @@
     {
       "date": "2026-10-06",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-10-27",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -51,6 +55,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3279#422"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/7f743c6e-d753-47e3-a182-833a821aa5e4/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/63b68f2e-7c02-4eb2-b5c1-f265559ef859/meeting/1033713",
   "communes": []
 }

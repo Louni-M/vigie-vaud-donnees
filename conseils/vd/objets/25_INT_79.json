@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-10-23T10:08:32Z",
   "id": 228204,
   "numero": "25_INT_79",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-10-27"
   },
   "depose": "2025-06-03",
   "titre": "Imposition individuelle - Quels impacts pour notre canton ?",
@@ -34,6 +34,10 @@
     {
       "date": "2026-10-06",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-10-27",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -43,6 +47,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3142#4883"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/06baed09-cb58-4562-adac-a60823373b81/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d38eb264-92b1-4c4e-b3a6-d86aca3cd3a7/meeting/1033713",
   "communes": []
 }

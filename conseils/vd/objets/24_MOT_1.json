@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-23T10:08:32Z",
   "id": 227754,
   "numero": "24_MOT_1",
   "type": "Motion",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-10-27"
   },
   "depose": "2024-01-23",
   "titre": "Pour une égalité de traitement des concubins et concubines avec les couples mariés dans l’impôt sur les successions et les donations",
@@ -33,11 +33,15 @@
   "etapes": [
     {
       "date": "2024-01-23",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2026-10-06",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-10-27",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -47,6 +51,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/2714#1641"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/573e315d-82a5-4375-a127-f381459bfc75/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/7deb24d7-2d41-4967-bbf0-db3841305e37/meeting/1033713",
   "communes": []
 }

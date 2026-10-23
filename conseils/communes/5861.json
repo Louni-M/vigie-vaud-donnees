@@ -1,8 +1,37 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-23T10:08:32Z",
   "commune": 5861,
   "objets": [
+    {
+      "cle": "vd/24_MOT_28",
+      "numero": "24_MOT_28",
+      "type": "Motion",
+      "depose": "2024-04-30",
+      "titre": "Déduction fiscale du permis de chasse en tant que compensation pour des tâches pouvant être considérées comme régaliennes",
+      "auteurs": [
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        },
+        {
+          "nom": "Nicolas Suter",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-10-27"
+      },
+      "derniere_etape": "2026-10-27",
+      "communes": [
+        {
+          "ofs": 5861,
+          "origine": "document"
+        }
+      ]
+    },
     {
       "cle": "vd/25_INT_143",
       "numero": "25_INT_143",
@@ -504,35 +533,6 @@
         },
         {
           "ofs": 5886,
-          "origine": "document"
-        }
-      ]
-    },
-    {
-      "cle": "vd/24_MOT_28",
-      "numero": "24_MOT_28",
-      "type": "Motion",
-      "depose": "2024-04-30",
-      "titre": "Déduction fiscale du permis de chasse en tant que compensation pour des tâches pouvant être considérées comme régaliennes",
-      "auteurs": [
-        {
-          "nom": "Florence Gross",
-          "parti": "PLR"
-        },
-        {
-          "nom": "Nicolas Suter",
-          "parti": "PLR"
-        }
-      ],
-      "nombre_auteurs": 2,
-      "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2024-04-30"
-      },
-      "derniere_etape": "2024-04-30",
-      "communes": [
-        {
-          "ofs": 5861,
           "origine": "document"
         }
       ]

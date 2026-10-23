@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-10-23T10:08:32Z",
   "id": 228226,
   "numero": "25_INT_97",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-10-27"
   },
   "depose": "2025-06-24",
   "titre": "Quelles catégories de contribuables profitetaient-elles le plus des baisses d’impôt sur le revenu et la fortune ?",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-06",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-10-27",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -47,6 +51,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3172#3445"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/9e3b17fc-80c8-475a-9fa8-0f5015df44e5/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4494c68a-ec8a-4a64-a502-980f02a9d7d3/meeting/1033713",
   "communes": []
 }
