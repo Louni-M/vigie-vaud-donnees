@@ -1,6 +1,223 @@
 {
   "version": 1,
-  "genere": "2026-10-24T13:38:37Z",
+  "genere": "2026-10-24T14:37:59Z",
   "conseil": "5749",
-  "seances": []
+  "seances": [
+    {
+      "cle": "5749/2026-12-10",
+      "date": "2026-12-10T20:00",
+      "points": 0
+    },
+    {
+      "cle": "5749/2026-10-29",
+      "date": "2026-10-29T20:00",
+      "points": 0
+    },
+    {
+      "cle": "5749/2026-09-17",
+      "date": "2026-09-17T20:00",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "8-4-26",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7174960"
+        },
+        {
+          "titre": "9-4-26",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7174963"
+        },
+        {
+          "titre": "10-4-26",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7174966"
+        },
+        {
+          "titre": "11-4-26",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7174969"
+        },
+        {
+          "titre": "12-4-26",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7174972"
+        },
+        {
+          "titre": "13-4-26",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7174975"
+        },
+        {
+          "titre": "Rapport commission 8-4-26",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7242232"
+        },
+        {
+          "titre": "Rapport commission 9-4-26",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7242235"
+        },
+        {
+          "titre": "Rapport commission 10-4-26",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7242238"
+        },
+        {
+          "titre": "Rapport finances 11-4-26",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7242241"
+        },
+        {
+          "titre": "Rapport 12-4-26",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7242244"
+        },
+        {
+          "titre": "Rapport finances 13-4-26",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7242247"
+        },
+        {
+          "titre": "Rapport 13-4-26",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7242253"
+        }
+      ]
+    },
+    {
+      "cle": "5749/2026-06-19",
+      "date": "2026-06-19T19:00",
+      "points": 0
+    },
+    {
+      "cle": "5749/2026-06-18",
+      "date": "2026-06-18T19:30",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "5-3-26 1ère partie",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7046695"
+        },
+        {
+          "titre": "5-3-26 2ème partie",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7064440"
+        },
+        {
+          "titre": "5-3-26 Rapport commission des finances",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7063720"
+        },
+        {
+          "titre": "6-3-26 Rapport Commission de gestion",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7063726"
+        },
+        {
+          "titre": "6-3-26 Rapport de gestion 2025",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7017022"
+        },
+        {
+          "titre": "6-3-26 Réponses et remarques Municipalité",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7063729"
+        },
+        {
+          "titre": "7-3-26",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7017025"
+        },
+        {
+          "titre": "7-3-26 Rapport commission",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7063879"
+        },
+        {
+          "titre": "7-3.26 Rapport commission des finances",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7063723"
+        }
+      ]
+    },
+    {
+      "cle": "5749/2026-04-30",
+      "date": "2026-04-30T20:00",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "Réponse à l'interpellation Collaud",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/6908143"
+        },
+        {
+          "titre": "3-2-26 Bâtiment voirie",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/6908146"
+        },
+        {
+          "titre": "4-2-26 PA zone industrielle",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/6908149"
+        },
+        {
+          "titre": "4-2-26 PA zone industrielle - Plan",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/6908152"
+        },
+        {
+          "titre": "4-2-26 PA zone industrielle - Règlement",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/6908155"
+        },
+        {
+          "titre": "4-2-26 PA zone industrielle - 47OAT",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/6908158"
+        },
+        {
+          "titre": "4-2-26 PA zone industrielle - Notice mobilité",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/6908161"
+        },
+        {
+          "titre": "4-2-26 PA zone industrielle - PPDE - Stratégie développement site stratégique",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/6908164"
+        },
+        {
+          "titre": "4-2-26 PA zone industrielle - Plan servitudes passages publics",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/6908167"
+        },
+        {
+          "titre": "4-2-26 PA zone industrielle - Plan cadastration DP",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/6908170"
+        },
+        {
+          "titre": "4-2-26 PA zone industrielle - courriers opposants",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/6908173"
+        },
+        {
+          "titre": "3-2-26 Rapport commission finance",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/6951868"
+        },
+        {
+          "titre": "3-2-26 Rapport commission",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/6951871"
+        },
+        {
+          "titre": "4-2-26 Rapport commission",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/6951874"
+        }
+      ]
+    }
+  ]
 }

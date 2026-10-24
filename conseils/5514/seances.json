@@ -1,6 +1,44 @@
 {
   "version": 1,
-  "genere": "2026-10-24T13:38:37Z",
+  "genere": "2026-10-24T14:37:59Z",
   "conseil": "5514",
-  "seances": []
+  "seances": [
+    {
+      "cle": "5514/2026-12-07",
+      "date": "2026-12-07T20:00",
+      "points": 0
+    },
+    {
+      "cle": "5514/2026-11-02",
+      "date": "2026-11-02T20:00",
+      "points": 0
+    },
+    {
+      "cle": "5514/2026-10-05",
+      "date": "2026-10-05T20:00",
+      "points": 0
+    },
+    {
+      "cle": "5514/2026-06-15",
+      "date": "2026-06-15T19:00",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "Ordre du jour 15.06.2026",
+          "date": null,
+          "lien": "https://www.bottens.ch/_doc/7037344"
+        },
+        {
+          "titre": "Préavis 2026-03 Comptes 2025",
+          "date": null,
+          "lien": "https://www.bottens.ch/_doc/7251391"
+        },
+        {
+          "titre": "Préavis 2026-04 Rapport de gestion 2025",
+          "date": null,
+          "lien": "https://www.bottens.ch/_doc/7251394"
+        }
+      ]
+    }
+  ]
 }

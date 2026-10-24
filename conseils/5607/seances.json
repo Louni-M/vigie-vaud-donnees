@@ -1,6 +1,220 @@
 {
   "version": 1,
-  "genere": "2026-10-24T13:38:37Z",
+  "genere": "2026-10-24T14:37:59Z",
   "conseil": "5607",
-  "seances": []
+  "seances": [
+    {
+      "cle": "5607/2026-12-10",
+      "date": "2026-12-10T20:15",
+      "points": 0
+    },
+    {
+      "cle": "5607/2026-10-01",
+      "date": "2026-10-01T20:15",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "OJ CC 01.10.2026",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7206034"
+        },
+        {
+          "titre": "Préavis 05-2026 - Arrêté d'imposition pour l'année 2027",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7206037"
+        },
+        {
+          "titre": "Extrait de décision - préavis 05-2026 - arrêté imposition 2027",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7266115"
+        },
+        {
+          "titre": "Préavis 06-2026 - Autorisations générales pour la législature 2026-2031",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7206040"
+        },
+        {
+          "titre": "Extrait décision - préavis 06-2026 - autorisations générales",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7287799"
+        },
+        {
+          "titre": "Préavis 07-2026 - Indemnités de la Municipalité - Législature 2026-2031",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7206067"
+        },
+        {
+          "titre": "Extrait de décision - préavis 07-2026 - indemnités Syndic et Municipaux",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7266121"
+        },
+        {
+          "titre": "Indemnités bureau et CC 2026-2031",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7206046"
+        },
+        {
+          "titre": "Indemnités bureau du Conseil et Conseil communal 2026-2031 - amendement",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7266124"
+        },
+        {
+          "titre": "Extrait de décision - Proposition indemnités bureau du Conseil et Conseil communal",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7266127"
+        },
+        {
+          "titre": "PV 21 - 18.06.2026",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7266130"
+        }
+      ]
+    },
+    {
+      "cle": "5607/2026-06-18",
+      "date": "2026-06-18T16:00",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "OJ 18.06.2026",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7014517"
+        },
+        {
+          "titre": "Préavis 03-2026 - Rapport de gestion 2025",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7014520"
+        },
+        {
+          "titre": "Préavis 04-2026 - Comptes 2025",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7014523"
+        },
+        {
+          "titre": "Décision préavis 03-2026 du 19.05.2026",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7078726"
+        },
+        {
+          "titre": "Décision préavis 04-2026 du 12.06.2026",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7078729"
+        },
+        {
+          "titre": "PV 20 - 30.04.2026",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7078732"
+        }
+      ]
+    },
+    {
+      "cle": "5607/2026-06-05",
+      "date": "2026-06-05T13:30",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "PV installation des autorités communales - 05.06.2026 - A",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7109050"
+        },
+        {
+          "titre": "PV installation des autorités communales - 05.06.2026 - B",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7109053"
+        },
+        {
+          "titre": "Assermentation des autorités - convocation",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7109056"
+        },
+        {
+          "titre": "Séance constitutive 05.06.2026 - OJ",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/7109059"
+        }
+      ]
+    },
+    {
+      "cle": "5607/2026-04-30",
+      "date": "2026-04-30T20:15",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "Préavis 01-2026 - Plan directeur intercommunal SRGZA",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/6898339"
+        },
+        {
+          "titre": "2025.12.11 SRGZA_Lavaux-Oron_Plan stratégie_Approbation_FINAL",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/6898342"
+        },
+        {
+          "titre": "01.26-Annexe-3-Rapport-de-consultation-publique",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/6928477"
+        },
+        {
+          "titre": "01.26-Annexe-2-Diagnostic-strategie-et-mise-en-oeuvre-operationnelle",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/6928480"
+        },
+        {
+          "titre": "Préavis 02-2026 - Réaménagement de la zone sportive du Verney",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/6898345"
+        },
+        {
+          "titre": "Football - Argumentaire - Naturel vs Synthé",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/6898348"
+        },
+        {
+          "titre": "Offre 321008445 - 61251718 - 12.12.2025",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/6898351"
+        },
+        {
+          "titre": "Variante 2 pétanque",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/6898354"
+        },
+        {
+          "titre": "146_D01_SITUATION_250213_plan_enquête",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/6898357"
+        },
+        {
+          "titre": "BÂTIMENT foot",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/6898360"
+        },
+        {
+          "titre": "Ordre du jour CC 30.04.2026",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/6898438"
+        },
+        {
+          "titre": "Décisions du 30.04.2026",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/6959113"
+        },
+        {
+          "titre": "Préavis 01-2026 - extrait décision",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/6983527"
+        },
+        {
+          "titre": "Préavis 02-2026 - extrait décision",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/6983530"
+        },
+        {
+          "titre": "PV 19 - 11.12.2025",
+          "date": null,
+          "lien": "https://www.puidoux.ch/_doc/6984166"
+        }
+      ]
+    }
+  ]
 }

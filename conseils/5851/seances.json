@@ -1,6 +1,115 @@
 {
   "version": 1,
-  "genere": "2026-10-24T13:38:37Z",
+  "genere": "2026-10-24T14:37:59Z",
   "conseil": "5851",
-  "seances": []
+  "seances": [
+    {
+      "cle": "5851/2026-12-07",
+      "date": "2026-12-07T19:00",
+      "points": 0
+    },
+    {
+      "cle": "5851/2026-10-26",
+      "date": "2026-10-26T19:00",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "1_Convocation et Ordre du Jour_26 OCT 2026 19h00",
+          "date": null,
+          "lien": "https://www.allaman.ch/_doc/7294063"
+        },
+        {
+          "titre": "Préavis_autorisation_autorisations_generales_v2",
+          "date": null,
+          "lien": "https://www.allaman.ch/_doc/7294069"
+        },
+        {
+          "titre": "préavis_taux_imposition_2027_def",
+          "date": null,
+          "lien": "https://www.allaman.ch/_doc/7294072"
+        },
+        {
+          "titre": "Préavis_plafond_endettement",
+          "date": null,
+          "lien": "https://www.allaman.ch/_doc/7294075"
+        },
+        {
+          "titre": "Préavis_9_2026_Projet_routier_gare",
+          "date": null,
+          "lien": "https://www.allaman.ch/_doc/7294078"
+        },
+        {
+          "titre": "Préavis_10_2026_crédit_étude_préliminaire_extérieur_café_gare",
+          "date": null,
+          "lien": "https://www.allaman.ch/_doc/7294081"
+        }
+      ]
+    },
+    {
+      "cle": "5851/2026-09-10",
+      "date": "2026-09-10T19:00",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "ALLAMAN_CG_Séance du 10 septembre 2026_Ordre du Jour",
+          "date": null,
+          "lien": "https://www.allaman.ch/_doc/7156663"
+        }
+      ]
+    },
+    {
+      "cle": "5851/2026-06-29",
+      "date": "2026-06-29T20:00",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "INVITATION",
+          "date": null,
+          "lien": "https://www.allaman.ch/_doc/7044391"
+        },
+        {
+          "titre": "ordre du jour",
+          "date": null,
+          "lien": "https://www.allaman.ch/_doc/7044394"
+        },
+        {
+          "titre": "Conseil général - Procès-verbal du 29 juin 2026",
+          "date": null,
+          "lien": "https://www.allaman.ch/_doc/7226158"
+        }
+      ]
+    },
+    {
+      "cle": "5851/2026-06-15",
+      "date": "2026-06-15T19:00",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "2026 06 15 convocation",
+          "date": null,
+          "lien": "https://www.allaman.ch/_doc/7044370"
+        },
+        {
+          "titre": "Préavis règlt émoluments taxes AT const. projet_bis",
+          "date": null,
+          "lien": "https://www.allaman.ch/_doc/7044373"
+        },
+        {
+          "titre": "Préavis 4_2026_rapport_gestion_comptes_vfinale",
+          "date": null,
+          "lien": "https://www.allaman.ch/_doc/7044376"
+        },
+        {
+          "titre": "Préavis indemnités_5_2026_def_signé",
+          "date": null,
+          "lien": "https://www.allaman.ch/_doc/7044379"
+        },
+        {
+          "titre": "Procès-verbal du 15 juin 2026",
+          "date": null,
+          "lien": "https://www.allaman.ch/_doc/7226152"
+        }
+      ]
+    }
+  ]
 }

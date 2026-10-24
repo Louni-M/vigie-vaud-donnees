@@ -1,6 +1,43 @@
 {
   "version": 1,
-  "genere": "2026-10-24T13:38:37Z",
+  "genere": "2026-10-24T14:37:59Z",
   "conseil": "5649",
-  "seances": []
+  "seances": [
+    {
+      "cle": "5649/2026-10-05",
+      "date": "2026-10-05T19:30",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "Convocation et ordre du jour",
+          "date": null,
+          "lien": "https://www.tolochenaz.ch/_doc/7249900"
+        }
+      ]
+    },
+    {
+      "cle": "5649/2026-06-22",
+      "date": "2026-06-22T19:30",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "Convocation et ordre du jour",
+          "date": null,
+          "lien": "https://www.tolochenaz.ch/_doc/7048591"
+        }
+      ]
+    },
+    {
+      "cle": "5649/2026-06-11",
+      "date": "2026-06-11T19:30",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "Séance d'installation des autorités communales",
+          "date": null,
+          "lien": "https://www.tolochenaz.ch/_doc/6957907"
+        }
+      ]
+    }
+  ]
 }

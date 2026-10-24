@@ -1,6 +1,92 @@
 {
   "version": 1,
-  "genere": "2026-10-24T13:38:37Z",
+  "genere": "2026-10-24T14:37:59Z",
   "conseil": "5414",
-  "seances": []
+  "seances": [
+    {
+      "cle": "5414/2026-10-08",
+      "date": "2026-10-08T20:00",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "ODJ 08.10.2026",
+          "date": null,
+          "lien": "https://www.villeneuve.ch/_doc/7273528"
+        }
+      ]
+    },
+    {
+      "cle": "5414/2026-09-03",
+      "date": "2026-09-03",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "PV 03.09.2026",
+          "date": null,
+          "lien": "https://www.villeneuve.ch/_doc/7260955"
+        },
+        {
+          "titre": "ODJ 03.09.2026",
+          "date": null,
+          "lien": "https://www.villeneuve.ch/_doc/7179826"
+        }
+      ]
+    },
+    {
+      "cle": "5414/2026-06-19",
+      "date": "2026-06-19",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "PV de la Préfecture - Assermentation des Autorités du 19.06.2026",
+          "date": null,
+          "lien": "https://www.villeneuve.ch/_doc/7179661"
+        },
+        {
+          "titre": "PV CC SEANCE ASSERMENTATION 19.06.26",
+          "date": null,
+          "lien": "https://www.villeneuve.ch/_doc/7179676"
+        },
+        {
+          "titre": "ODJ Assermentation Autorités - 19.06.2026",
+          "date": null,
+          "lien": "https://www.villeneuve.ch/_doc/7048606"
+        }
+      ]
+    },
+    {
+      "cle": "5414/2026-06-18",
+      "date": "2026-06-18",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "PV CC 18.06.2026 - v3",
+          "date": null,
+          "lien": "https://www.villeneuve.ch/_doc/7220872"
+        },
+        {
+          "titre": "ODJ 18.06.2026",
+          "date": null,
+          "lien": "https://www.villeneuve.ch/_doc/7047988"
+        }
+      ]
+    },
+    {
+      "cle": "5414/2026-05-07",
+      "date": "2026-05-07",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "PV 07.05.2026",
+          "date": null,
+          "lien": "https://www.villeneuve.ch/_doc/7047997"
+        },
+        {
+          "titre": "ODJ 07.05.2026",
+          "date": null,
+          "lien": "https://www.villeneuve.ch/_doc/6952936"
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,180 @@
 {
   "version": 1,
-  "genere": "2026-10-24T13:38:37Z",
+  "genere": "2026-10-24T14:37:59Z",
   "conseil": "5764",
-  "seances": []
+  "seances": [
+    {
+      "cle": "5764/2027-06-21",
+      "date": "2027-06-21T18:30",
+      "points": 0
+    },
+    {
+      "cle": "5764/2027-04-26",
+      "date": "2027-04-26T18:30",
+      "points": 0
+    },
+    {
+      "cle": "5764/2027-02-22",
+      "date": "2027-02-22T18:30",
+      "points": 0
+    },
+    {
+      "cle": "5764/2026-12-07",
+      "date": "2026-12-07T18:30",
+      "points": 0
+    },
+    {
+      "cle": "5764/2026-10-26",
+      "date": "2026-10-26T18:30",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "Ordre du jour 26.10.2026",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7290709"
+        }
+      ]
+    },
+    {
+      "cle": "5764/2026-08-31",
+      "date": "2026-08-31T18:30",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "Ordre du jour du 31.08.2026",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7177864"
+        },
+        {
+          "titre": "Rapport 06 bis_26",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7177867"
+        },
+        {
+          "titre": "Rapport de gestion intermediaire",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7177870"
+        },
+        {
+          "titre": "Préavis 07_26",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7177873"
+        },
+        {
+          "titre": "Préavis 08_26",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7177876"
+        },
+        {
+          "titre": "Préavis 09_26",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7177879"
+        },
+        {
+          "titre": "Préavis 10_26",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7177882"
+        },
+        {
+          "titre": "Préavis 11_26",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7177885"
+        },
+        {
+          "titre": "Préavis 12_26",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7177888"
+        },
+        {
+          "titre": "Préavis 13_26",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7177891"
+        },
+        {
+          "titre": "Memento 2026-2027_final",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7177894"
+        },
+        {
+          "titre": "Liste CC 2026-2031",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7177897"
+        }
+      ]
+    },
+    {
+      "cle": "5764/2026-06-15",
+      "date": "2026-06-15T18:30",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "OJ 15.06.2026",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7047886"
+        },
+        {
+          "titre": "Rapport 02_26 bis",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7047889"
+        },
+        {
+          "titre": "Rapport 03_26 bis",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7047892"
+        },
+        {
+          "titre": "Rapport 04_26 bis",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7047895"
+        },
+        {
+          "titre": "Rapport 05_26 bis (Gestion)",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7047898"
+        },
+        {
+          "titre": "Rapport 05_26 ter (Finances)",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7047901"
+        },
+        {
+          "titre": "Rapport de gestion 2025",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7047904"
+        },
+        {
+          "titre": "Préavis 06_26",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/7047907"
+        }
+      ]
+    },
+    {
+      "cle": "5764/2026-04-27",
+      "date": "2026-04-27T18:30",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "OJ 27.04.2026",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/6936775"
+        },
+        {
+          "titre": "Rapport n. 01bis_26",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/6936778"
+        },
+        {
+          "titre": "Préavis 03_26",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/6936781"
+        },
+        {
+          "titre": "Préavis 04_26",
+          "date": null,
+          "lien": "https://www.vallorbe.ch/_doc/6936784"
+        }
+      ]
+    }
+  ]
 }

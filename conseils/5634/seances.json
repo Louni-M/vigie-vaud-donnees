@@ -1,6 +1,91 @@
 {
   "version": 1,
-  "genere": "2026-10-24T13:38:37Z",
+  "genere": "2026-10-24T14:37:59Z",
   "conseil": "5634",
-  "seances": []
+  "seances": [
+    {
+      "cle": "5634/2026-12-03",
+      "date": "2026-12-03T19:30",
+      "points": 0
+    },
+    {
+      "cle": "5634/2026-09-24",
+      "date": "2026-09-24T19:30",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "Ordre du jour",
+          "date": null,
+          "lien": "https://www.echichens.ch/_doc/7219768"
+        },
+        {
+          "titre": "Préavis_2026-08_Acquisition et aliénation d'immeubles 2026-2031",
+          "date": null,
+          "lien": "https://www.echichens.ch/_doc/7219771"
+        },
+        {
+          "titre": "Préavis_2026-09_Autorisation dépenses imprévisibles",
+          "date": null,
+          "lien": "https://www.echichens.ch/_doc/7219774"
+        },
+        {
+          "titre": "Préavis_2026-10_Autorisation de plaider 2026-2031",
+          "date": null,
+          "lien": "https://www.echichens.ch/_doc/7219777"
+        },
+        {
+          "titre": "Préavis_2026-11_Arrêté d'imposition 2027-2028",
+          "date": null,
+          "lien": "https://www.echichens.ch/_doc/7249981"
+        }
+      ]
+    },
+    {
+      "cle": "5634/2026-06-18",
+      "date": "2026-06-18T19:00",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "Ordre du jour",
+          "date": null,
+          "lien": "https://www.echichens.ch/_doc/7048765"
+        },
+        {
+          "titre": "Préavis 2026-03_Règlements patrimoine arboré et annexes",
+          "date": null,
+          "lien": "https://www.echichens.ch/_doc/7048768"
+        },
+        {
+          "titre": "Préavis 2026-04_Comptes 2025",
+          "date": null,
+          "lien": "https://www.echichens.ch/_doc/7048771"
+        },
+        {
+          "titre": "Préavis 2026-04_Comptes 2025_Annexe",
+          "date": null,
+          "lien": "https://www.echichens.ch/_doc/7048774"
+        },
+        {
+          "titre": "Préavis 2026-04_Rapport de Gestion 2025",
+          "date": null,
+          "lien": "https://www.echichens.ch/_doc/7048777"
+        },
+        {
+          "titre": "Préavis 2026-06_Padel et PAC Tennis Club Colombier",
+          "date": null,
+          "lien": "https://www.echichens.ch/_doc/7048780"
+        },
+        {
+          "titre": "Préavis 2026-07_Remplacement chauffage Echichens Village 22",
+          "date": null,
+          "lien": "https://www.echichens.ch/_doc/7048783"
+        },
+        {
+          "titre": "Postulat_Mme Daerendinger_rétablissement des camps scolaires_Rapport de la Municipalité",
+          "date": null,
+          "lien": "https://www.echichens.ch/_doc/7048786"
+        }
+      ]
+    }
+  ]
 }

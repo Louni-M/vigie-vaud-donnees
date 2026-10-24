@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-24T13:38:37Z",
+  "genere": "2026-10-24T14:37:59Z",
   "conseils": [
     {
       "cle": "vd",
@@ -139,9 +139,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
+      "seances": 5,
       "prochaine_seance": null,
-      "derniere_seance": null
+      "derniere_seance": "5414/2026-10-08"
     },
     {
       "cle": "5458",
@@ -154,9 +154,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 3,
+      "prochaine_seance": "5458/2026-12-08",
+      "derniere_seance": "5458/2026-10-06"
     },
     {
       "cle": "5514",
@@ -169,9 +169,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 4,
+      "prochaine_seance": "5514/2026-11-02",
+      "derniere_seance": "5514/2026-10-05"
     },
     {
       "cle": "5523",
@@ -184,9 +184,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 4,
+      "prochaine_seance": "5523/2026-12-08",
+      "derniere_seance": "5523/2026-10-06"
     },
     {
       "cle": "5607",
@@ -197,12 +197,19 @@
         "preavis",
         "seances"
       ],
-      "objets": 0,
-      "objets_par_annee": {},
+      "objets": 48,
+      "objets_par_annee": {
+        "2021": 6,
+        "2022": 7,
+        "2023": 10,
+        "2024": 8,
+        "2025": 10,
+        "2026": 7
+      },
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 5,
+      "prochaine_seance": "5607/2026-12-10",
+      "derniere_seance": "5607/2026-10-01"
     },
     {
       "cle": "5634",
@@ -215,9 +222,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 3,
+      "prochaine_seance": "5634/2026-12-03",
+      "derniere_seance": "5634/2026-09-24"
     },
     {
       "cle": "5643",
@@ -230,9 +237,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 14,
+      "prochaine_seance": "5643/2026-10-29",
+      "derniere_seance": "5643/2026-09-10"
     },
     {
       "cle": "5649",
@@ -245,9 +252,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
+      "seances": 3,
       "prochaine_seance": null,
-      "derniere_seance": null
+      "derniere_seance": "5649/2026-10-05"
     },
     {
       "cle": "5654",
@@ -260,9 +267,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
+      "seances": 2,
       "prochaine_seance": null,
-      "derniere_seance": null
+      "derniere_seance": "5654/2026-10-06"
     },
     {
       "cle": "5656",
@@ -275,9 +282,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 4,
+      "prochaine_seance": "5656/2026-10-26",
+      "derniere_seance": "5656/2026-09-14"
     },
     {
       "cle": "5674",
@@ -290,9 +297,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 2,
+      "prochaine_seance": "5674/2026-12-08",
+      "derniere_seance": "5674/2026-10-20"
     },
     {
       "cle": "5704",
@@ -305,9 +312,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 4,
+      "prochaine_seance": "5704/2026-12-08",
+      "derniere_seance": "5704/2026-10-06"
     },
     {
       "cle": "5712",
@@ -320,9 +327,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 6,
+      "prochaine_seance": "5712/2026-12-14",
+      "derniere_seance": "5712/2026-10-05"
     },
     {
       "cle": "5749",
@@ -335,9 +342,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 6,
+      "prochaine_seance": "5749/2026-10-29",
+      "derniere_seance": "5749/2026-09-17"
     },
     {
       "cle": "5764",
@@ -350,9 +357,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 8,
+      "prochaine_seance": "5764/2026-10-26",
+      "derniere_seance": "5764/2026-08-31"
     },
     {
       "cle": "5841",
@@ -365,9 +372,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 5,
+      "prochaine_seance": "5841/2026-12-05",
+      "derniere_seance": "5841/2026-10-01"
     },
     {
       "cle": "5851",
@@ -380,9 +387,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 5,
+      "prochaine_seance": "5851/2026-10-26",
+      "derniere_seance": "5851/2026-09-10"
     },
     {
       "cle": "5883",
@@ -395,9 +402,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 5,
+      "prochaine_seance": "5883/2026-10-26",
+      "derniere_seance": "5883/2026-09-11"
     },
     {
       "cle": "5892",
@@ -410,9 +417,9 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 0,
-      "prochaine_seance": null,
-      "derniere_seance": null
+      "seances": 17,
+      "prochaine_seance": "5892/2026-10-27",
+      "derniere_seance": "5892/2026-09-29"
     }
   ],
   "communes": {

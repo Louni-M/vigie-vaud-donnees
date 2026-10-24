@@ -1,6 +1,78 @@
 {
   "version": 1,
-  "genere": "2026-10-24T13:38:37Z",
+  "genere": "2026-10-24T14:37:59Z",
   "conseil": "5523",
-  "seances": []
+  "seances": [
+    {
+      "cle": "5523/2026-12-08",
+      "date": "2026-12-08T19:00",
+      "points": 0
+    },
+    {
+      "cle": "5523/2026-10-06",
+      "date": "2026-10-06T20:00",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "ODJ CC 2026 10 06",
+          "date": null,
+          "lien": "https://www.froideville.ch/_doc/7242142"
+        },
+        {
+          "titre": "Extrait PV CC 2026 10 06 Préavis 70-2026",
+          "date": null,
+          "lien": "https://www.froideville.ch/_doc/7273423"
+        },
+        {
+          "titre": "Extrait PV CC 2026 10 06 Préavis 71-2026",
+          "date": null,
+          "lien": "https://www.froideville.ch/_doc/7273426"
+        },
+        {
+          "titre": "Extrait PV CC 2026 10 06 Préavis 72-2026",
+          "date": null,
+          "lien": "https://www.froideville.ch/_doc/7273429"
+        }
+      ]
+    },
+    {
+      "cle": "5523/2026-06-16",
+      "date": "2026-06-16T20:00",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "ODJ CC 2026 06 16",
+          "date": null,
+          "lien": "https://www.froideville.ch/_doc/7040158"
+        },
+        {
+          "titre": "PV CC 2026 06 16",
+          "date": null,
+          "lien": "https://www.froideville.ch/_doc/7273384"
+        }
+      ]
+    },
+    {
+      "cle": "5523/2026-06-09",
+      "date": "2026-06-09T19:30",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "ODJ CC 2026 06 09",
+          "date": null,
+          "lien": "https://www.froideville.ch/_doc/7040164"
+        },
+        {
+          "titre": "PV CC 2026 06 09",
+          "date": null,
+          "lien": "https://www.froideville.ch/_doc/7273363"
+        },
+        {
+          "titre": "Extrait PV CC 2026 06 09 - Assermentations",
+          "date": null,
+          "lien": "https://www.froideville.ch/_doc/7273378"
+        }
+      ]
+    }
+  ]
 }
