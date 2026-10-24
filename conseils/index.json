@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-24T05:57:08Z",
+  "genere": "2026-10-24T13:38:37Z",
   "conseils": [
     {
       "cle": "vd",
@@ -127,6 +127,292 @@
       "seances": 258,
       "prochaine_seance": null,
       "derniere_seance": "5938/2026-10-01"
+    },
+    {
+      "cle": "5414",
+      "source": "site-5414",
+      "nom": "Conseil communal de Villeneuve",
+      "commune": 5414,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5458",
+      "source": "site-5458",
+      "nom": "Conseil communal de Faoug",
+      "commune": 5458,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5514",
+      "source": "site-5514",
+      "nom": "Conseil communal de Bottens",
+      "commune": 5514,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5523",
+      "source": "site-5523",
+      "nom": "Conseil communal de Froideville",
+      "commune": 5523,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5607",
+      "source": "site-5607",
+      "nom": "Conseil communal de Puidoux",
+      "commune": 5607,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5634",
+      "source": "site-5634",
+      "nom": "Conseil communal d’Echichens",
+      "commune": 5634,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5643",
+      "source": "site-5643",
+      "nom": "Conseil communal de Préverenges",
+      "commune": 5643,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5649",
+      "source": "site-5649",
+      "nom": "Conseil communal de Tolochenaz",
+      "commune": 5649,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5654",
+      "source": "site-5654",
+      "nom": "Conseil général de Vullierens",
+      "commune": 5654,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5656",
+      "source": "site-5656",
+      "nom": "Conseil communal de Hautemorges",
+      "commune": 5656,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5674",
+      "source": "site-5674",
+      "nom": "Conseil général de Lovatens",
+      "commune": 5674,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5704",
+      "source": "site-5704",
+      "nom": "Conseil communal de Begnins",
+      "commune": 5704,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5712",
+      "source": "site-5712",
+      "nom": "Conseil communal de Coppet",
+      "commune": 5712,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5749",
+      "source": "site-5749",
+      "nom": "Conseil communal de Chavornay",
+      "commune": 5749,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5764",
+      "source": "site-5764",
+      "nom": "Conseil communal de Vallorbe",
+      "commune": 5764,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5841",
+      "source": "site-5841",
+      "nom": "Conseil communal de Château-d’Oex",
+      "commune": 5841,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5851",
+      "source": "site-5851",
+      "nom": "Conseil général d’Allaman",
+      "commune": 5851,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5883",
+      "source": "site-5883",
+      "nom": "Conseil communal de Corseaux",
+      "commune": 5883,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5892",
+      "source": "site-5892",
+      "nom": "Conseil communal de Blonay - Saint-Légier",
+      "commune": 5892,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
     }
   ],
   "communes": {
