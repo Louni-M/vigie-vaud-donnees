@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-24T05:57:08Z",
   "conseil": "5586",
   "annee": 2021,
   "objets": [
@@ -802,6 +802,26 @@
         "date": "2026-02-10"
       },
       "derniere_etape": "2026-02-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS21-060",
+      "numero": "POS21/060",
+      "type": "Postulat",
+      "depose": "2021-11-09",
+      "titre": "Rapport-préavis N° 2026/17 - Postulat de Jaffar Mountazar et crts - Pour un budget véritablement participatif et démocratique",
+      "auteurs": [
+        {
+          "nom": "Mountazar Jaffar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2021-11-23"
+      },
+      "derniere_etape": "2021-11-23",
       "communes": []
     },
     {

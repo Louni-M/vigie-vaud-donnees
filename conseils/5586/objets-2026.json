@@ -1,9 +1,29 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-24T05:57:08Z",
   "conseil": "5586",
   "annee": 2026,
   "objets": [
+    {
+      "cle": "5586/INT26-058",
+      "numero": "INT26/058",
+      "type": "Interpellation",
+      "depose": "2026-11-03",
+      "titre": "Découvrir un sport à l'APEMS... et après ?",
+      "auteurs": [
+        {
+          "nom": "Diane Wild",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
     {
       "cle": "5586/PE26-009",
       "numero": "PE26/009",
@@ -312,6 +332,26 @@
         "date": "2026-09-29"
       },
       "derniere_etape": "2026-09-29",
+      "communes": []
+    },
+    {
+      "cle": "5586/PR26-001",
+      "numero": "PR26/001",
+      "type": "Projet de règlement",
+      "depose": "2026-09-23",
+      "titre": "Rapport du Bureau pour la fixation du montant des jetons de présence et indemnités des membres du Conseil communal 2026-2031.",
+      "auteurs": [
+        {
+          "nom": "Frédéric Tétaz",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-09-23"
+      },
+      "derniere_etape": "2026-09-23",
       "communes": []
     },
     {
@@ -735,6 +775,26 @@
       "communes": []
     },
     {
+      "cle": "5586/PREA26-156",
+      "numero": "PREA26/156",
+      "type": "Préavis",
+      "depose": "2026-09-01",
+      "titre": "Révision des statuts de la Caisse de pension de la Commune de Lausanne (CPCL)",
+      "auteurs": [
+        {
+          "nom": "Simon Affolter",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-09-01"
+      },
+      "derniere_etape": "2026-09-01",
+      "communes": []
+    },
+    {
       "cle": "5586/POS26-105",
       "numero": "POS26/105",
       "type": "Postulat",
@@ -895,6 +955,26 @@
       "communes": []
     },
     {
+      "cle": "5586/PREA26-159",
+      "numero": "PREA26/159",
+      "type": "Préavis",
+      "depose": "2026-08-28",
+      "titre": "Fixation du plafond d'endettement pour la législature 2026-2031, emprunts et placements de la Ville",
+      "auteurs": [
+        {
+          "nom": "Ariane Morin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-08-28"
+      },
+      "derniere_etape": "2026-08-28",
+      "communes": []
+    },
+    {
       "cle": "5586/PE26-007",
       "numero": "PE26/007",
       "type": "Pétition",
@@ -983,10 +1063,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Décision : Renvoi en Municipalité",
-        "date": "2026-08-25"
+        "libelle": "Répondu",
+        "date": "2026-10-02"
       },
-      "derniere_etape": "2026-08-25",
+      "derniere_etape": "2026-10-02",
       "communes": []
     },
     {
@@ -1262,6 +1342,26 @@
         "date": "2026-09-29"
       },
       "derniere_etape": "2026-09-29",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA26-143",
+      "numero": "PREA26/143",
+      "type": "Préavis",
+      "depose": "2026-07-15",
+      "titre": "Autorisation générale de constituer des associations et des fondations ou d'y adhérer, de constituer des sociétés commerciales ou d'acquérir des participations  dans ces sociétés, en application de l'article 20, lettre g du règlement du Conseil communal de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Simon Affolter",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-07-15"
+      },
+      "derniere_etape": "2026-07-15",
       "communes": []
     },
     {
@@ -1720,6 +1820,46 @@
       "communes": []
     },
     {
+      "cle": "5586/PREA26-123",
+      "numero": "PREA26/123",
+      "type": "Préavis",
+      "depose": "2026-06-16",
+      "titre": "Travaux de rénovation et de réhabilitation des parcs et domaines - Crédit-cadre annuel 2026 : octroi d'un crédit complémentaire de CHF 345'000.-",
+      "auteurs": [
+        {
+          "nom": "Etienne Balestra",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-06-16"
+      },
+      "derniere_etape": "2026-06-16",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA26-122",
+      "numero": "PREA26/122",
+      "type": "Préavis",
+      "depose": "2026-06-15",
+      "titre": "Auberge de Sauvabelin - chemin des Celtes 1 à Lausanne : Octroi d'un Crédit complémentaire de CHF TTC 985'000.-  pour couvrir les imprévus des travaux de rénovation-transformation de l'auberge",
+      "auteurs": [
+        {
+          "nom": "Renaud Jaccard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-06-15"
+      },
+      "derniere_etape": "2026-06-15",
+      "communes": []
+    },
+    {
       "cle": "5586/POS26-066",
       "numero": "POS26/066",
       "type": "Postulat",
@@ -2075,6 +2215,26 @@
       "communes": []
     },
     {
+      "cle": "5586/PREA26-105",
+      "numero": "PREA26/105",
+      "type": "Préavis",
+      "depose": "2026-05-27",
+      "titre": "Fondation de l'Hermitage - Octroi d'un crédit complémentaire",
+      "auteurs": [
+        {
+          "nom": "Catherine Gillard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-05-27"
+      },
+      "derniere_etape": "2026-05-27",
+      "communes": []
+    },
+    {
       "cle": "5586/INT26-024",
       "numero": "INT26/024",
       "type": "Interpellation",
@@ -2230,6 +2390,26 @@
       "communes": []
     },
     {
+      "cle": "5586/PREA26-015",
+      "numero": "PREA26/015",
+      "type": "Préavis",
+      "depose": "2026-05-08",
+      "titre": "Financement des prestations de services énergétiques des SIL",
+      "auteurs": [
+        {
+          "nom": "Nicolas Waelti",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-05-08"
+      },
+      "derniere_etape": "2026-05-08",
+      "communes": []
+    },
+    {
       "cle": "5586/COMC26-002",
       "numero": "COMC26/002",
       "type": "Divers",
@@ -2304,6 +2484,26 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-04-28"
+      },
+      "derniere_etape": "2026-04-28",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA26-013",
+      "numero": "PREA26/013",
+      "type": "Préavis",
+      "depose": "2026-04-28",
+      "titre": "Demande de renouvellement du DDP octroyé à l'Association du centre paroissial de Saint-Matthieu et régularisation foncière du périmètre du DDP",
+      "auteurs": [
+        {
+          "nom": "Veronica Ecuyer",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
         "date": "2026-04-28"
       },
       "derniere_etape": "2026-04-28",
@@ -2507,6 +2707,26 @@
         "date": "2026-06-09"
       },
       "derniere_etape": "2026-06-09",
+      "communes": []
+    },
+    {
+      "cle": "5586/CA26-004",
+      "numero": "CA26/004",
+      "type": "Compte d’attente",
+      "depose": "2026-04-13",
+      "titre": "SPADOM - Reconstruction de la Tour de Sauvabelin",
+      "auteurs": [
+        {
+          "nom": "Etienne Balestra",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-04-13"
+      },
+      "derniere_etape": "2026-04-13",
       "communes": []
     },
     {
@@ -3153,7 +3373,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Eingereicht",
+        "libelle": "Déposé",
         "date": "2026-03-03"
       },
       "derniere_etape": "2026-03-03",

@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-24T05:57:08Z",
   "id": 29403,
   "numero": "INT24/034",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Décision : Adoptée avec résolution",
-    "date": "2025-04-08"
+    "libelle": "Répondu",
+    "date": "2026-10-02"
   },
   "depose": "2024-06-11",
   "titre": "Quelle égalité salariale au sein de l'administration lausannoise ?",
@@ -21,7 +21,7 @@
   "etapes": [
     {
       "date": "2024-06-11",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2024-06-11",
@@ -29,14 +29,23 @@
     },
     {
       "date": "2024-10-04",
-      "libelle": "Beantwortet"
+      "libelle": "Répondu"
     },
     {
       "date": "2025-04-08",
       "libelle": "Décision : Adoptée avec résolution"
+    },
+    {
+      "date": "2026-10-02",
+      "libelle": "Répondu"
     }
   ],
   "documents": [
+    {
+      "titre": "Réponse à la résolution signée",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/43/43d3e85a1a964a4db9ad08733dffde5c.pdf"
+    },
     {
       "titre": "Interpellation de Blanc Pauline - Quelle égalité salariale au sein de l'administration lausannoise ?",
       "date": null,

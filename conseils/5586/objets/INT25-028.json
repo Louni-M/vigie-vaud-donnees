@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-24T05:57:08Z",
   "id": 251852,
   "numero": "INT25/028",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Décision : Renvoi en Municipalité",
-    "date": "2025-05-20"
+    "libelle": "Répondu",
+    "date": "2026-10-09"
   },
   "depose": "2025-05-20",
   "titre": "À quand une nouvelle estimation fiscale des immeubles ?",
@@ -21,14 +21,23 @@
   "etapes": [
     {
       "date": "2025-05-20",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2025-05-20",
       "libelle": "Décision : Renvoi en Municipalité"
+    },
+    {
+      "date": "2026-10-09",
+      "libelle": "Répondu"
     }
   ],
   "documents": [
+    {
+      "titre": "Interpellation signée",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/30/30ca6ffd811048ca8ebda6f91d496f82.pdf"
+    },
     {
       "titre": "Interpellation de Beaud Valéry et crts - À quand une nouvelle estimation fiscale des immeubles ?",
       "date": null,

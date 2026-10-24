@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-24T05:57:08Z",
   "id": 120245,
   "numero": "INT24/023",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Décision : Renvoi en Municipalité",
-    "date": "2024-04-23"
+    "libelle": "Répondu",
+    "date": "2026-10-02"
   },
   "depose": "2024-04-23",
   "titre": "Les enfants et les personnes à risque sont-ils vraiment les bienvenus aux matchs de football à la Tuilière ou à la Pontaise ?",
@@ -21,14 +21,29 @@
   "etapes": [
     {
       "date": "2024-04-23",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2024-04-23",
       "libelle": "Décision : Renvoi en Municipalité"
+    },
+    {
+      "date": "2026-10-02",
+      "libelle": "Répondu"
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "titre": "Interpellation de Beaud Valéry et crts - Les enfants et les personnes à risque sont-ils vraiment les bienvenus aux matchs de football à la Tuilière ou à la Pontaise ?",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/af/afa4351f8057453d887c49c481faef00.pdf"
+    },
+    {
+      "titre": "Réponse interpellation signée",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/63/63b52ec89e024a01b218b30921687177.pdf"
+    }
+  ],
   "lien": "https://www.lausanne.ch/apps/agir/affaire/a5/86a95783ee7e48ba9070f889b8fa52a5.htm",
   "communes": []
 }
