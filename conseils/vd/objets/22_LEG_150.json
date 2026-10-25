@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-25T10:15:08Z",
   "id": 226412,
   "numero": "22_LEG_150",
   "type": "Décret/Loi",
@@ -26,28 +26,28 @@
     {
       "nom": "Julien Eggenberger",
       "parti": "SOC",
-      "role": null,
+      "role": "Rapporteur(s) de commission",
       "sorte": "personne"
     },
     {
       "nom": "Amélie Cherbuin",
       "parti": "SOC",
-      "role": null,
+      "role": "Rapporteur(s) de commission",
       "sorte": "personne"
     }
   ],
   "etapes": [
     {
       "date": "2022-12-06",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2022-12-07",
-      "libelle": "Behandelt vom Parlament"
+      "libelle": "Traiter par le Parlement"
     },
     {
       "date": "2022-12-14",
-      "libelle": "Behandelt vom Parlament"
+      "libelle": "Traiter par le Parlement"
     }
   ],
   "documents": [
