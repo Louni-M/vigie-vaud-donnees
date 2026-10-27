@@ -1,52 +1,52 @@
 {
   "version": 1,
-  "genere": "2026-10-27T10:38:23Z",
+  "genere": "2026-10-27T16:03:02Z",
   "sources": {
     "camac-permis": {
       "etat": "disponible",
       "depuis": "2026-10-15T20:03:59Z",
-      "derniere_sonde": "2026-10-27T10:38:23Z",
-      "dernier_succes": "2026-10-27T10:38:23Z",
+      "derniere_sonde": "2026-10-27T16:03:02Z",
+      "dernier_succes": "2026-10-27T16:03:02Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "dgmr-restrictions": {
       "etat": "disponible",
       "depuis": "2026-10-19T14:43:18Z",
-      "derniere_sonde": "2026-10-27T10:38:24Z",
-      "dernier_succes": "2026-10-27T10:38:24Z",
+      "derniere_sonde": "2026-10-27T16:03:02Z",
+      "dernier_succes": "2026-10-27T16:03:02Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-vd": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:03Z",
-      "derniere_sonde": "2026-10-27T10:38:24Z",
-      "dernier_succes": "2026-10-27T10:38:24Z",
+      "derniere_sonde": "2026-10-27T16:03:03Z",
+      "dernier_succes": "2026-10-27T16:03:03Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-5586": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:04Z",
-      "derniere_sonde": "2026-10-27T10:38:25Z",
-      "dernier_succes": "2026-10-27T10:38:25Z",
+      "derniere_sonde": "2026-10-27T16:03:03Z",
+      "dernier_succes": "2026-10-27T16:03:03Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-5938": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:04Z",
-      "derniere_sonde": "2026-10-27T10:38:25Z",
-      "dernier_succes": "2026-10-27T10:38:25Z",
+      "derniere_sonde": "2026-10-27T16:03:03Z",
+      "dernier_succes": "2026-10-27T16:03:03Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5414": {
       "etat": "disponible",
       "depuis": "2026-10-24T13:35:59Z",
-      "derniere_sonde": "2026-10-27T10:38:33Z",
-      "dernier_succes": "2026-10-27T10:38:33Z",
+      "derniere_sonde": "2026-10-27T16:03:14Z",
+      "dernier_succes": "2026-10-27T16:03:14Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
@@ -165,39 +165,39 @@
     "site-5841": {
       "etat": "disponible",
       "depuis": "2026-10-24T14:37:23Z",
-      "derniere_sonde": "2026-10-27T10:42:07Z",
-      "dernier_succes": "2026-10-26T07:54:37Z",
-      "echecs_consecutifs": 1,
-      "motif": "délai dépassé"
+      "derniere_sonde": "2026-10-27T16:03:49Z",
+      "dernier_succes": "2026-10-27T16:03:49Z",
+      "echecs_consecutifs": 0,
+      "motif": null
     },
     "site-5851": {
       "etat": "disponible",
       "depuis": "2026-10-24T14:37:35Z",
-      "derniere_sonde": "2026-10-27T10:42:07Z",
-      "dernier_succes": "2026-10-26T07:54:48Z",
-      "echecs_consecutifs": 1,
-      "motif": "accès refusé"
+      "derniere_sonde": "2026-10-27T16:04:03Z",
+      "dernier_succes": "2026-10-27T16:04:03Z",
+      "echecs_consecutifs": 0,
+      "motif": null
     },
     "site-5883": {
       "etat": "disponible",
       "depuis": "2026-10-24T14:37:47Z",
-      "derniere_sonde": "2026-10-27T10:42:07Z",
-      "dernier_succes": "2026-10-26T07:54:59Z",
-      "echecs_consecutifs": 1,
-      "motif": "accès refusé"
+      "derniere_sonde": "2026-10-27T16:04:16Z",
+      "dernier_succes": "2026-10-27T16:04:16Z",
+      "echecs_consecutifs": 0,
+      "motif": null
     },
     "site-5892": {
       "etat": "disponible",
       "depuis": "2026-10-24T14:37:58Z",
-      "derniere_sonde": "2026-10-27T10:42:07Z",
-      "dernier_succes": "2026-10-26T07:55:11Z",
-      "echecs_consecutifs": 1,
-      "motif": "accès refusé"
+      "derniere_sonde": "2026-10-27T16:04:28Z",
+      "dernier_succes": "2026-10-27T16:04:28Z",
+      "echecs_consecutifs": 0,
+      "motif": null
     }
   },
   "reseaux": {
     "195.65.10.0/24": {
-      "depuis": "2026-10-27T10:42:07Z",
+      "depuis": "2026-10-27T16:05:09Z",
       "jusqu_a": null,
       "motif": "délai dépassé"
     }
