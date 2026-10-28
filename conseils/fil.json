@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-28T00:05:23Z",
+  "genere": "2026-10-28T13:03:19Z",
   "entrees": [
     {
       "cle": "5643/2027-12-02",
@@ -399,6 +399,18 @@
       "points": 0
     },
     {
+      "cle": "5938/2026-11-05",
+      "conseil": "5938",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-11-05T20:00",
+      "titre": "Séance du Conseil communal du 5 novembre 2026",
+      "communes": [
+        5938
+      ],
+      "points": 14
+    },
+    {
       "cle": "5586/2026-11-03",
       "conseil": "5586",
       "sorte": "seance",
@@ -408,7 +420,7 @@
       "communes": [
         5586
       ],
-      "points": 132
+      "points": 144
     },
     {
       "cle": "5586/INT26-058",
@@ -417,6 +429,30 @@
       "type": "Interpellation",
       "date": "2026-11-03",
       "titre": "Découvrir un sport à l'APEMS... et après ?",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/POS26-118",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-11-03",
+      "titre": "Pour la création d'une commission consultative sur la santé du Conseil communal de Lausanne",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/POS26-126",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-11-03",
+      "titre": "Pour la création d'une « place de la Palestine » et l'édification d'un mémorial pour la paix",
       "communes": [
         5586
       ],
@@ -471,6 +507,66 @@
       "points": 13
     },
     {
+      "cle": "5586/POS26-122",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-10-27",
+      "titre": "Caisse lausannoise de l'alimentation (Calim) : soutenir une alimentation saine et durable pour tous les habitant·es et un avenir pour les paysan·nes",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/POS26-125",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-10-27",
+      "titre": "Pour une action de solidarité pérenne en faveur de l'Ukraine",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/POS26-127",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-10-27",
+      "titre": "Un plan ''Grand chaud'' pour les sans-abris",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/POS26-128",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-10-27",
+      "titre": "Pour une ville qui communique sans IA et qui favorise ses artistes",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/POS26-129",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-10-27",
+      "titre": "Pour une politique publique de refuges climatiques",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
       "cle": "vd/2026-10-27",
       "conseil": "vd",
       "sorte": "seance",
@@ -478,7 +574,157 @@
       "date": "2026-10-27",
       "titre": "Séance du Grand Conseil du mardi 27 octobre 2026",
       "communes": [],
-      "points": 25
+      "points": 26
+    },
+    {
+      "cle": "vd/26_INI_11",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Initiative",
+      "date": "2026-10-27",
+      "titre": "Croissance des directives et contraintes de la part du Canton auprès des communes : Et si elles avaient leur mot à dire ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INI_12",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Initiative",
+      "date": "2026-10-27",
+      "titre": "Droits de mutation : petits achats, petit taux ; grandes transactions, grande contribution !",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INI_13",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Initiative",
+      "date": "2026-10-27",
+      "titre": "Pour une contribution cohérente des très grandes fortunes",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INI_14",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Initiative",
+      "date": "2026-10-27",
+      "titre": "Pour un frein à l'endettement moderne et pragmatique",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_144",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-10-27",
+      "titre": "CHUV : nominations contestées, alertes ignorées ou insuffisamment traitées et utilisation des deniers publics",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_145",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-10-27",
+      "titre": "Fontaine, je ne boirai (toujours) pas de ton eau",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_146",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-10-27",
+      "titre": "2026, Année internationale des agricultrices : comment le Canton de Vaud peut-il favoriser l’accès des femmes aux responsabilités agricoles et encourager les vocations ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_147",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-10-27",
+      "titre": "Centrale nucléaire du Bugey : le Canton de Vaud est-il prêt à protéger sa population en cas d’accident nucléaire majeur ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_148",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-10-27",
+      "titre": "Limiter la hausse des coûts de la santé en réduisant le coût des traitements médicaux",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_149",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-10-27",
+      "titre": "Minimum vital LP : figé depuis 2009, jusqu’à quand ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_150",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-10-27",
+      "titre": "Pour soutenir les créateurs de richesse et d'emploi du canton, le Conseil d'Etat compte-t-il se pencher sur le RETIF?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_151",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-10-27",
+      "titre": "Intelligence artificielle, quelles conséquences pour les recettes fiscales vaudoises ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_152",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-10-27",
+      "titre": "Rénovations : s'en prendre aux sénior-e-s et aux plus faibles ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_MOT_75",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Motion",
+      "date": "2026-10-27",
+      "titre": "Pour une pédagogie spécialisée cohérente et équitable dans tout le canton",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_MOT_76",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Motion",
+      "date": "2026-10-27",
+      "titre": "Lunettes connectées et autres dispositifs similaires d’enregistrement assistés par l’IA : le Canton doit fixer des règles claires, sans attendre",
+      "communes": [],
+      "points": null
     },
     {
       "cle": "vd/26_PAR_24",
@@ -487,6 +733,86 @@
       "type": "Recours de compétence",
       "date": "2026-10-27",
       "titre": "Rapport/préavis du Bureau du Grand Conseil et prestation de serment de [particulier]",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_PET_11",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Pétition",
+      "date": "2026-10-27",
+      "titre": "Pétition Pétition individuelle Prestations complémentaire",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_POS_55",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-10-27",
+      "titre": "T(P)rop de bruit !",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_POS_56",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-10-27",
+      "titre": "Pour un rééquilibrage de la charge fiscale entre le revenu du travail et le revenu du capital",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_POS_57",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-10-27",
+      "titre": "Pour développer la prévention des accidents aquatiques et que la baignade reste un loisir",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_QUE_89",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Simple question",
+      "date": "2026-10-27",
+      "titre": "Evolution du point d'impôts par contribuable 2015-2025",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_QUE_90",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Simple question",
+      "date": "2026-10-27",
+      "titre": "Répartition du contingent tarifaire vin de l’OMC : quelle est la position du Conseil d’Etat ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_QUE_91",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Simple question",
+      "date": "2026-10-27",
+      "titre": "Quel avenir pour le programme Rebooster de la fondation Le Relais ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_QUE_92",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Simple question",
+      "date": "2026-10-27",
+      "titre": "Co-solidarité fiscale : le CE a-t-il tenu sa promesse de ne pas accélérer les taxations",
       "communes": [],
       "points": null
     },
@@ -537,6 +863,18 @@
         5764
       ],
       "points": 0
+    },
+    {
+      "cle": "5586/INT26-059",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-10-25",
+      "titre": "\"Montchoisi : tout un quartier en émoi pour l'avenir de sa piscine\"",
+      "communes": [
+        5586
+      ],
+      "points": null
     },
     {
       "cle": "5674/2026-10-20",

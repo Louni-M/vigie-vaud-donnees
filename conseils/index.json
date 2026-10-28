@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-28T00:05:23Z",
+  "genere": "2026-10-28T13:03:19Z",
   "conseils": [
     {
       "cle": "vd",
@@ -11,7 +11,7 @@
         "objets",
         "seances"
       ],
-      "objets": 8306,
+      "objets": 8329,
       "objets_par_annee": {
         "1950": 1,
         "2008": 308,
@@ -32,9 +32,164 @@
         "2023": 642,
         "2024": 705,
         "2025": 736,
-        "2026": 566
+        "2026": 589
       },
       "recents": [
+        {
+          "cle": "vd/26_QUE_92",
+          "numero": "26_QUE_92",
+          "type": "Simple question",
+          "depose": "2026-10-27",
+          "titre": "Co-solidarité fiscale : le CE a-t-il tenu sa promesse de ne pas accélérer les taxations",
+          "auteurs": [
+            {
+              "nom": "Muriel Thalmann",
+              "parti": "SOC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_QUE_91",
+          "numero": "26_QUE_91",
+          "type": "Simple question",
+          "depose": "2026-10-27",
+          "titre": "Quel avenir pour le programme Rebooster de la fondation Le Relais ?",
+          "auteurs": [
+            {
+              "nom": "Yannick Maury",
+              "parti": "VER"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_QUE_90",
+          "numero": "26_QUE_90",
+          "type": "Simple question",
+          "depose": "2026-10-27",
+          "titre": "Répartition du contingent tarifaire vin de l’OMC : quelle est la position du Conseil d’Etat ?",
+          "auteurs": [
+            {
+              "nom": "Loïc Bardet",
+              "parti": "PLR"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_QUE_89",
+          "numero": "26_QUE_89",
+          "type": "Simple question",
+          "depose": "2026-10-27",
+          "titre": "Evolution du point d'impôts par contribuable 2015-2025",
+          "auteurs": [
+            {
+              "nom": "Marc-Olivier Buffat",
+              "parti": "PLR"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_POS_57",
+          "numero": "26_POS_57",
+          "type": "Postulat",
+          "depose": "2026-10-27",
+          "titre": "Pour développer la prévention des accidents aquatiques et que la baignade reste un loisir",
+          "auteurs": [
+            {
+              "nom": "Claude Nicole Grin",
+              "parti": "VER"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_POS_56",
+          "numero": "26_POS_56",
+          "type": "Postulat",
+          "depose": "2026-10-27",
+          "titre": "Pour un rééquilibrage de la charge fiscale entre le revenu du travail et le revenu du capital",
+          "auteurs": [
+            {
+              "nom": "Kilian Duggan",
+              "parti": "VER"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_POS_55",
+          "numero": "26_POS_55",
+          "type": "Postulat",
+          "depose": "2026-10-27",
+          "titre": "T(P)rop de bruit !",
+          "auteurs": [
+            {
+              "nom": "Alberto Mocchi",
+              "parti": "VER"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_PET_11",
+          "numero": "26_PET_11",
+          "type": "Pétition",
+          "depose": "2026-10-27",
+          "titre": "Pétition Pétition individuelle Prestations complémentaire",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
         {
           "cle": "vd/26_PAR_24",
           "numero": "26_PAR_24",
@@ -45,6 +200,306 @@
             {
               "nom": "Céline Misiego",
               "parti": "EP"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Traité",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_MOT_76",
+          "numero": "26_MOT_76",
+          "type": "Motion",
+          "depose": "2026-10-27",
+          "titre": "Lunettes connectées et autres dispositifs similaires d’enregistrement assistés par l’IA : le Canton doit fixer des règles claires, sans attendre",
+          "auteurs": [
+            {
+              "nom": "David Raedler",
+              "parti": "VER"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_MOT_75",
+          "numero": "26_MOT_75",
+          "type": "Motion",
+          "depose": "2026-10-27",
+          "titre": "Pour une pédagogie spécialisée cohérente et équitable dans tout le canton",
+          "auteurs": [
+            {
+              "nom": "Amélie Cherbuin",
+              "parti": "SOC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INT_152",
+          "numero": "26_INT_152",
+          "type": "Interpellation",
+          "depose": "2026-10-27",
+          "titre": "Rénovations : s'en prendre aux sénior-e-s et aux plus faibles ?",
+          "auteurs": [
+            {
+              "nom": "Pierre Zwahlen",
+              "parti": "VER"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INT_151",
+          "numero": "26_INT_151",
+          "type": "Interpellation",
+          "depose": "2026-10-27",
+          "titre": "Intelligence artificielle, quelles conséquences pour les recettes fiscales vaudoises ?",
+          "auteurs": [
+            {
+              "nom": "Kilian Duggan",
+              "parti": "VER"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INT_150",
+          "numero": "26_INT_150",
+          "type": "Interpellation",
+          "depose": "2026-10-27",
+          "titre": "Pour soutenir les créateurs de richesse et d'emploi du canton, le Conseil d'Etat compte-t-il se pencher sur le RETIF?",
+          "auteurs": [
+            {
+              "nom": "Philippe Miauton",
+              "parti": "PLR"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INT_149",
+          "numero": "26_INT_149",
+          "type": "Interpellation",
+          "depose": "2026-10-27",
+          "titre": "Minimum vital LP : figé depuis 2009, jusqu’à quand ?",
+          "auteurs": [
+            {
+              "nom": "Sébastien Pedroli",
+              "parti": "SOC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INT_148",
+          "numero": "26_INT_148",
+          "type": "Interpellation",
+          "depose": "2026-10-27",
+          "titre": "Limiter la hausse des coûts de la santé en réduisant le coût des traitements médicaux",
+          "auteurs": [
+            {
+              "nom": "Sébastien Cala",
+              "parti": "SOC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INT_147",
+          "numero": "26_INT_147",
+          "type": "Interpellation",
+          "depose": "2026-10-27",
+          "titre": "Centrale nucléaire du Bugey : le Canton de Vaud est-il prêt à protéger sa population en cas d’accident nucléaire majeur ?",
+          "auteurs": [
+            {
+              "nom": "Laurent Balsiger",
+              "parti": "SOC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INT_146",
+          "numero": "26_INT_146",
+          "type": "Interpellation",
+          "depose": "2026-10-27",
+          "titre": "2026, Année internationale des agricultrices : comment le Canton de Vaud peut-il favoriser l’accès des femmes aux responsabilités agricoles et encourager les vocations ?",
+          "auteurs": [
+            {
+              "nom": "Laurent Balsiger",
+              "parti": "SOC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INT_145",
+          "numero": "26_INT_145",
+          "type": "Interpellation",
+          "depose": "2026-10-27",
+          "titre": "Fontaine, je ne boirai (toujours) pas de ton eau",
+          "auteurs": [
+            {
+              "nom": "Alberto Mocchi",
+              "parti": "VER"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INT_144",
+          "numero": "26_INT_144",
+          "type": "Interpellation",
+          "depose": "2026-10-27",
+          "titre": "CHUV : nominations contestées, alertes ignorées ou insuffisamment traitées et utilisation des deniers publics",
+          "auteurs": [
+            {
+              "nom": "Sergei Aschwanden",
+              "parti": "PLR"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INI_14",
+          "numero": "26_INI_14",
+          "type": "Initiative",
+          "depose": "2026-10-27",
+          "titre": "Pour un frein à l'endettement moderne et pragmatique",
+          "auteurs": [
+            {
+              "nom": "Didier Lohri",
+              "parti": "VER"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INI_13",
+          "numero": "26_INI_13",
+          "type": "Initiative",
+          "depose": "2026-10-27",
+          "titre": "Pour une contribution cohérente des très grandes fortunes",
+          "auteurs": [
+            {
+              "nom": "Kilian Duggan",
+              "parti": "VER"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INI_12",
+          "numero": "26_INI_12",
+          "type": "Initiative",
+          "depose": "2026-10-27",
+          "titre": "Droits de mutation : petits achats, petit taux ; grandes transactions, grande contribution !",
+          "auteurs": [
+            {
+              "nom": "Romain Pilloud",
+              "parti": "SOC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INI_11",
+          "numero": "26_INI_11",
+          "type": "Initiative",
+          "depose": "2026-10-27",
+          "titre": "Croissance des directives et contraintes de la part du Canton auprès des communes : Et si elles avaient leur mot à dire ?",
+          "auteurs": [
+            {
+              "nom": "Loïc Bardet",
+              "parti": "PLR"
             }
           ],
           "nombre_auteurs": 1,
@@ -69,7 +524,7 @@
         "objets",
         "seances"
       ],
-      "objets": 1569,
+      "objets": 1581,
       "objets_par_annee": {
         "2010": 1,
         "2013": 1,
@@ -85,9 +540,49 @@
         "2023": 252,
         "2024": 235,
         "2025": 289,
-        "2026": 206
+        "2026": 218
       },
       "recents": [
+        {
+          "cle": "5586/POS26-126",
+          "numero": "POS26/126",
+          "type": "Postulat",
+          "depose": "2026-11-03",
+          "titre": "Pour la création d'une « place de la Palestine » et l'édification d'un mémorial pour la paix",
+          "auteurs": [
+            {
+              "nom": "Khalid Mohamed Ali",
+              "parti": "EàG"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Déposé",
+            "date": "2026-11-03"
+          },
+          "derniere_etape": "2026-11-03",
+          "communes": []
+        },
+        {
+          "cle": "5586/POS26-118",
+          "numero": "POS26/118",
+          "type": "Postulat",
+          "depose": "2026-11-03",
+          "titre": "Pour la création d'une commission consultative sur la santé du Conseil communal de Lausanne",
+          "auteurs": [
+            {
+              "nom": "Jacques Cornuz",
+              "parti": "EàG"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Déposé",
+            "date": "2026-11-03"
+          },
+          "derniere_etape": "2026-11-03",
+          "communes": []
+        },
         {
           "cle": "5586/INT26-058",
           "numero": "INT26/058",
@@ -107,6 +602,126 @@
           },
           "derniere_etape": "2026-11-03",
           "communes": []
+        },
+        {
+          "cle": "5586/POS26-129",
+          "numero": "POS26/129",
+          "type": "Postulat",
+          "depose": "2026-10-27",
+          "titre": "Pour une politique publique de refuges climatiques",
+          "auteurs": [
+            {
+              "nom": "Guillaume Matthey",
+              "parti": "EàG"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Déposé",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "5586/POS26-128",
+          "numero": "POS26/128",
+          "type": "Postulat",
+          "depose": "2026-10-27",
+          "titre": "Pour une ville qui communique sans IA et qui favorise ses artistes",
+          "auteurs": [
+            {
+              "nom": "Gaëlle Kovaliv",
+              "parti": "EàG"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Déposé",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "5586/POS26-127",
+          "numero": "POS26/127",
+          "type": "Postulat",
+          "depose": "2026-10-27",
+          "titre": "Un plan ''Grand chaud'' pour les sans-abris",
+          "auteurs": [
+            {
+              "nom": "Guillaume Matthey",
+              "parti": "EàG"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Déposé",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "5586/POS26-125",
+          "numero": "POS26/125",
+          "type": "Postulat",
+          "depose": "2026-10-27",
+          "titre": "Pour une action de solidarité pérenne en faveur de l'Ukraine",
+          "auteurs": [
+            {
+              "nom": "Hadrien Buclin",
+              "parti": "EàG"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Déposé",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "5586/POS26-122",
+          "numero": "POS26/122",
+          "type": "Postulat",
+          "depose": "2026-10-27",
+          "titre": "Caisse lausannoise de l'alimentation (Calim) : soutenir une alimentation saine et durable pour tous les habitant·es et un avenir pour les paysan·nes",
+          "auteurs": [
+            {
+              "nom": "Valérie D'Acremont",
+              "parti": "V"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Déposé",
+            "date": "2026-10-27"
+          },
+          "derniere_etape": "2026-10-27",
+          "communes": []
+        },
+        {
+          "cle": "5586/INT26-059",
+          "numero": "INT26/059",
+          "type": "Interpellation",
+          "depose": "2026-10-25",
+          "titre": "\"Montchoisi : tout un quartier en émoi pour l'avenir de sa piscine\"",
+          "auteurs": [
+            {
+              "nom": "Françoise Piron",
+              "parti": "PLR"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Déposé",
+            "date": "2026-10-25"
+          },
+          "derniere_etape": "2026-10-25",
+          "communes": []
         }
       ],
       "seances": 376,
@@ -124,8 +739,8 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 258,
-      "prochaine_seance": null,
+      "seances": 259,
+      "prochaine_seance": "5938/2026-11-05",
       "derniere_seance": "5938/2026-10-01"
     },
     {

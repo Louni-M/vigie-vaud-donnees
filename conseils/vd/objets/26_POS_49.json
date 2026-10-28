@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-10-28T13:03:19Z",
   "id": 340163,
   "numero": "26_POS_49",
   "type": "Postulat",
@@ -15,6 +15,12 @@
       "nom": "Géraldine Dubuis",
       "parti": "VER",
       "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Vincent Keller",
+      "parti": "EP",
+      "role": "Rapporteur(s) de commission",
       "sorte": "personne"
     }
   ],

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-10-28T13:03:19Z",
   "id": 340164,
   "numero": "26_POS_50",
   "type": "Postulat",
@@ -15,6 +15,12 @@
       "nom": "Joëlle Minacci",
       "parti": "EP",
       "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Sabine Glauser Krug",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
       "sorte": "personne"
     }
   ],

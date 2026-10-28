@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-28T13:03:19Z",
   "id": 340160,
   "numero": "26_POS_46",
   "type": "Postulat",
@@ -16,16 +16,22 @@
       "parti": "SOC",
       "role": "Auteur",
       "sorte": "personne"
+    },
+    {
+      "nom": "Sébastien Pedroli",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
     }
   ],
   "etapes": [
     {
       "date": "2026-09-08",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2026-09-15",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
     }
   ],
   "documents": [],

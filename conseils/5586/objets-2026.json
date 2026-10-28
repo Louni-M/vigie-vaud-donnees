@@ -1,9 +1,49 @@
 {
   "version": 1,
-  "genere": "2026-10-26T07:55:12Z",
+  "genere": "2026-10-28T13:03:19Z",
   "conseil": "5586",
   "annee": 2026,
   "objets": [
+    {
+      "cle": "5586/POS26-126",
+      "numero": "POS26/126",
+      "type": "Postulat",
+      "depose": "2026-11-03",
+      "titre": "Pour la création d'une « place de la Palestine » et l'édification d'un mémorial pour la paix",
+      "auteurs": [
+        {
+          "nom": "Khalid Mohamed Ali",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS26-118",
+      "numero": "POS26/118",
+      "type": "Postulat",
+      "depose": "2026-11-03",
+      "titre": "Pour la création d'une commission consultative sur la santé du Conseil communal de Lausanne",
+      "auteurs": [
+        {
+          "nom": "Jacques Cornuz",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
     {
       "cle": "5586/INT26-058",
       "numero": "INT26/058",
@@ -22,6 +62,146 @@
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS26-129",
+      "numero": "POS26/129",
+      "type": "Postulat",
+      "depose": "2026-10-27",
+      "titre": "Pour une politique publique de refuges climatiques",
+      "auteurs": [
+        {
+          "nom": "Guillaume Matthey",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-10-27"
+      },
+      "derniere_etape": "2026-10-27",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS26-128",
+      "numero": "POS26/128",
+      "type": "Postulat",
+      "depose": "2026-10-27",
+      "titre": "Pour une ville qui communique sans IA et qui favorise ses artistes",
+      "auteurs": [
+        {
+          "nom": "Gaëlle Kovaliv",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-10-27"
+      },
+      "derniere_etape": "2026-10-27",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS26-127",
+      "numero": "POS26/127",
+      "type": "Postulat",
+      "depose": "2026-10-27",
+      "titre": "Un plan ''Grand chaud'' pour les sans-abris",
+      "auteurs": [
+        {
+          "nom": "Guillaume Matthey",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-10-27"
+      },
+      "derniere_etape": "2026-10-27",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS26-125",
+      "numero": "POS26/125",
+      "type": "Postulat",
+      "depose": "2026-10-27",
+      "titre": "Pour une action de solidarité pérenne en faveur de l'Ukraine",
+      "auteurs": [
+        {
+          "nom": "Hadrien Buclin",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-10-27"
+      },
+      "derniere_etape": "2026-10-27",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS26-122",
+      "numero": "POS26/122",
+      "type": "Postulat",
+      "depose": "2026-10-27",
+      "titre": "Caisse lausannoise de l'alimentation (Calim) : soutenir une alimentation saine et durable pour tous les habitant·es et un avenir pour les paysan·nes",
+      "auteurs": [
+        {
+          "nom": "Valérie D'Acremont",
+          "parti": "V"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-10-27"
+      },
+      "derniere_etape": "2026-10-27",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT26-059",
+      "numero": "INT26/059",
+      "type": "Interpellation",
+      "depose": "2026-10-25",
+      "titre": "\"Montchoisi : tout un quartier en émoi pour l'avenir de sa piscine\"",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-10-25"
+      },
+      "derniere_etape": "2026-10-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS26-123",
+      "numero": "POS26/123",
+      "type": "Postulat",
+      "depose": "2026-10-06",
+      "titre": "Pour les jeunes de Prélaz-Valency, passons des paroles aux actes : Renforçons le centre socioculturel du quartier !",
+      "auteurs": [
+        {
+          "nom": "Franziska Meinherz",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-10-06"
+      },
+      "derniere_etape": "2026-10-06",
       "communes": []
     },
     {
@@ -315,6 +495,26 @@
       "communes": []
     },
     {
+      "cle": "5586/POS26-120",
+      "numero": "POS26/120",
+      "type": "Postulat",
+      "depose": "2026-09-27",
+      "titre": "« Donner à sa ville » : permettre à chacun de soutenir l'action sociale lausannoise",
+      "auteurs": [
+        {
+          "nom": "Paulraj Kanthia",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-09-27"
+      },
+      "derniere_etape": "2026-09-27",
+      "communes": []
+    },
+    {
       "cle": "5586/INT26-054",
       "numero": "INT26/054",
       "type": "Interpellation",
@@ -332,6 +532,26 @@
         "date": "2026-09-29"
       },
       "derniere_etape": "2026-09-29",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS26-119",
+      "numero": "POS26/119",
+      "type": "Postulat",
+      "depose": "2026-09-26",
+      "titre": "Créer plus d'espaces verts, c'est bien, les arroser suffisamment c'est mieux",
+      "auteurs": [
+        {
+          "nom": "Françoise Piron",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-09-26"
+      },
+      "derniere_etape": "2026-09-26",
       "communes": []
     },
     {
@@ -432,6 +652,26 @@
         "date": "2026-09-29"
       },
       "derniere_etape": "2026-09-29",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS26-121",
+      "numero": "POS26/121",
+      "type": "Postulat",
+      "depose": "2026-09-08",
+      "titre": "\"Élargir les critères de la Fondation lausannoise d'aide par le travail (F.L.A.T.) aux personnes\" titulaires d'un permis S, F et aux personnes sans-papiers",
+      "auteurs": [
+        {
+          "nom": "Samson Yemane",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-09-08"
+      },
+      "derniere_etape": "2026-09-08",
       "communes": []
     },
     {
