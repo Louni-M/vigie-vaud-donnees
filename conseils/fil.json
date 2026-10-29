@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "genere": "2026-10-28T13:03:19Z",
+  "genere": "2026-10-29T16:15:48Z",
   "entrees": [
+    {
+      "cle": "5607/2027-12-09",
+      "conseil": "5607",
+      "sorte": "seance",
+      "type": null,
+      "date": "2027-12-09T20:15",
+      "titre": "Séance du Conseil communal",
+      "communes": [
+        5607
+      ],
+      "points": 0
+    },
     {
       "cle": "5643/2027-12-02",
       "conseil": "5643",
@@ -23,6 +35,18 @@
       "titre": "Séance du Conseil communal",
       "communes": [
         5643
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5607/2027-09-30",
+      "conseil": "5607",
+      "sorte": "seance",
+      "type": null,
+      "date": "2027-09-30T20:15",
+      "titre": "Séance du Conseil communal",
+      "communes": [
+        5607
       ],
       "points": 0
     },
@@ -71,6 +95,18 @@
       "titre": "Séance du Conseil communal",
       "communes": [
         5764
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5607/2027-06-17",
+      "conseil": "5607",
+      "sorte": "seance",
+      "type": null,
+      "date": "2027-06-17T20:15",
+      "titre": "Séance du Conseil communal",
+      "communes": [
+        5607
       ],
       "points": 0
     },
@@ -167,6 +203,18 @@
       "titre": "Séance du Conseil communal",
       "communes": [
         5643
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5607/2027-03-11",
+      "conseil": "5607",
+      "sorte": "seance",
+      "type": null,
+      "date": "2027-03-11T20:15",
+      "titre": "Séance du Conseil communal",
+      "communes": [
+        5607
       ],
       "points": 0
     },
@@ -395,6 +443,18 @@
       "titre": "Séance du Conseil communal du 1er décembre 2026",
       "communes": [
         5892
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5414/2026-11-05",
+      "conseil": "5414",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-11-05T20:00",
+      "titre": "Ordre du jour",
+      "communes": [
+        5414
       ],
       "points": 0
     },
@@ -893,8 +953,8 @@
       "conseil": "5414",
       "sorte": "seance",
       "type": null,
-      "date": "2026-10-08T20:00",
-      "titre": "Ordre du jour",
+      "date": "2026-10-08",
+      "titre": "Procès-verbal",
       "communes": [
         5414
       ],

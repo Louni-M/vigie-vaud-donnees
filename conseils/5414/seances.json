@@ -1,13 +1,30 @@
 {
   "version": 1,
-  "genere": "2026-10-24T14:37:59Z",
+  "genere": "2026-10-29T16:15:48Z",
   "conseil": "5414",
   "seances": [
     {
-      "cle": "5414/2026-10-08",
-      "date": "2026-10-08T20:00",
+      "cle": "5414/2026-11-05",
+      "date": "2026-11-05T20:00",
       "points": 0,
       "documents": [
+        {
+          "titre": "ODJ 05.11.2026",
+          "date": null,
+          "lien": "https://www.villeneuve.ch/_doc/7313200"
+        }
+      ]
+    },
+    {
+      "cle": "5414/2026-10-08",
+      "date": "2026-10-08",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "PV 08.10.2026",
+          "date": null,
+          "lien": "https://www.villeneuve.ch/_doc/7313215"
+        },
         {
           "titre": "ODJ 08.10.2026",
           "date": null,
