@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-10-30T07:16:54Z",
   "id": 340219,
   "numero": "26_MOT_68",
   "type": "Motion",
@@ -15,6 +15,12 @@
       "nom": "Pierre Kaelin",
       "parti": "PLR",
       "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Florence Gross",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
       "sorte": "personne"
     }
   ],

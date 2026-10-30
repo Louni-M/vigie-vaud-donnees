@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-10-30T07:16:54Z",
   "id": 228191,
   "numero": "25_INT_67",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-03"
   },
   "depose": "2025-05-06",
   "titre": "Economie circulaire : aussi pour les emballages ?",
@@ -38,6 +38,10 @@
     {
       "date": "2026-10-06",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-03",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -52,6 +56,6 @@
       "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2321861"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/b43fa2eb-8743-471c-be26-effaac3a4a23/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a4691a2d-1c02-427a-ac33-83c9ca1a2604/meeting/1033714",
   "communes": []
 }

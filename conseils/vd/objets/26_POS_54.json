@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-10-30T07:16:54Z",
   "id": 340225,
   "numero": "26_POS_54",
   "type": "Postulat",
@@ -15,6 +15,12 @@
       "nom": "Didier Lohri",
       "parti": "VER",
       "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Maurice Gay",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
       "sorte": "personne"
     }
   ],

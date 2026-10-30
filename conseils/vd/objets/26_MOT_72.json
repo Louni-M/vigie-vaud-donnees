@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-10-30T07:16:54Z",
   "id": 340223,
   "numero": "26_MOT_72",
   "type": "Motion",
@@ -15,6 +15,12 @@
       "nom": "Mathilde Marendaz",
       "parti": "EP",
       "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Géraldine Dubuis",
+      "parti": "VER",
+      "role": "Rapporteur(s) de commission",
       "sorte": "personne"
     }
   ],

@@ -1,9 +1,154 @@
 {
   "version": 1,
-  "genere": "2026-10-28T13:03:19Z",
+  "genere": "2026-10-30T07:16:54Z",
   "conseil": "vd",
   "annee": 2026,
   "objets": [
+    {
+      "cle": "vd/26_REP_186",
+      "numero": "26_REP_186",
+      "type": "Réponse",
+      "depose": "2026-11-03",
+      "titre": "Secondes réponses",
+      "auteurs": [
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_REP_157",
+      "numero": "26_REP_157",
+      "type": "Réponse",
+      "depose": "2026-11-03",
+      "titre": "Secondes réponses",
+      "auteurs": [
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_REP_156",
+      "numero": "26_REP_156",
+      "type": "Réponse",
+      "depose": "2026-11-03",
+      "titre": "Année 2025",
+      "auteurs": [
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/25_LEG_44",
+      "numero": "25_LEG_44",
+      "type": "Décret/Loi",
+      "depose": "2026-11-03",
+      "titre": "Modifiant la loi sur la police cantonale (LPol) du 17 novembre 1975 (enregistrement des appels, vidéosurveillance des lieux de détention et caméras-piétons)",
+      "auteurs": [
+        {
+          "nom": "Jean-François Cachin",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/25_LEG_246",
+      "numero": "25_LEG_246",
+      "type": "Décret/Loi",
+      "depose": "2026-11-03",
+      "titre": "Permettant au Conseil d’Etat d’accorder la garantie de l’Etat de Vaud à l’Hôpital Intercantonal de la Broye (HIB) pour l’emprunt bancaire de CHF 67,2 millions contracté pour financer les coûts liés à la réalisation de la restructuration et l’extension de son bâtiment hospitalier à Payerne",
+      "auteurs": [
+        {
+          "nom": "Bernard Nicod",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": [
+        {
+          "ofs": 5822,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/25_LEG_117",
+      "numero": "25_LEG_117",
+      "type": "Décret/Loi",
+      "depose": "2026-11-03",
+      "titre": "Accordant au Conseil d'Etat un crédit d’investissement de CHF 18'576’000 pour financer la modernisation du système d’information Finance de l’Etat",
+      "auteurs": [
+        {
+          "nom": "Maurice Gay",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/24_LEG_143",
+      "numero": "24_LEG_143",
+      "type": "Décret/Loi",
+      "depose": "2026-11-03",
+      "titre": "Modifiant : \n- la loi du 4 juillet 2006 sur l'exécution des condamnations pénales \n- la loi du 7 novembre 2006 sur l'exécution de la détention avant jugement \n- le code du 12 janvier 2010 de droit privé judiciaire vaudois \n- la loi du 2 décembre 2003 sur l'action sociale vaudoise \n- la loi du 26 septembre 2017 d'organisation de la prévention et de la lutte contre la violence domestique",
+      "auteurs": [
+        {
+          "nom": "Laurence Cretegny",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
     {
       "cle": "vd/26_QUE_92",
       "numero": "26_QUE_92",
@@ -99,9 +244,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -119,9 +264,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -139,9 +284,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -194,9 +339,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -214,9 +359,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -234,9 +379,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -254,9 +399,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -274,9 +419,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -294,9 +439,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -314,9 +459,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -334,9 +479,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -354,9 +499,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -374,9 +519,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -394,9 +539,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -414,9 +559,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -434,9 +579,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -454,9 +599,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -474,9 +619,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-10-27"
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -758,10 +903,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-10-27"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-10-27",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {
@@ -994,9 +1139,13 @@
         {
           "nom": "Didier Lohri",
           "parti": "VER"
+        },
+        {
+          "nom": "Maurice Gay",
+          "parti": "PLR"
         }
       ],
-      "nombre_auteurs": 1,
+      "nombre_auteurs": 2,
       "statut": {
         "libelle": "Renvoyée à commission",
         "date": "2026-10-06"
@@ -1034,9 +1183,13 @@
         {
           "nom": "Mathilde Marendaz",
           "parti": "EP"
+        },
+        {
+          "nom": "Géraldine Dubuis",
+          "parti": "VER"
         }
       ],
-      "nombre_auteurs": 1,
+      "nombre_auteurs": 2,
       "statut": {
         "libelle": "Renvoyée à commission",
         "date": "2026-10-06"
@@ -1074,9 +1227,13 @@
         {
           "nom": "Sébastien Cala",
           "parti": "SOC"
+        },
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
         }
       ],
-      "nombre_auteurs": 1,
+      "nombre_auteurs": 2,
       "statut": {
         "libelle": "Renvoyée à commission",
         "date": "2026-10-06"
@@ -1094,9 +1251,13 @@
         {
           "nom": "Vincent Keller",
           "parti": "EP"
+        },
+        {
+          "nom": "Maurice Gay",
+          "parti": "PLR"
         }
       ],
-      "nombre_auteurs": 1,
+      "nombre_auteurs": 2,
       "statut": {
         "libelle": "Renvoyée à commission",
         "date": "2026-10-06"
@@ -1114,9 +1275,13 @@
         {
           "nom": "Pierre Kaelin",
           "parti": "PLR"
+        },
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
         }
       ],
-      "nombre_auteurs": 1,
+      "nombre_auteurs": 2,
       "statut": {
         "libelle": "Renvoyée à commission",
         "date": "2026-10-06"
@@ -2014,9 +2179,13 @@
         {
           "nom": "Oleg Gafner",
           "parti": "VER"
+        },
+        {
+          "nom": "Nicolas Suter",
+          "parti": "PLR"
         }
       ],
-      "nombre_auteurs": 1,
+      "nombre_auteurs": 2,
       "statut": {
         "libelle": "Renvoyée à commission",
         "date": "2026-09-22"
@@ -3408,10 +3577,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-08-25"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
       },
-      "derniere_etape": "2026-08-25",
+      "derniere_etape": "2026-11-03",
       "communes": []
     },
     {

@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-30T07:16:54Z",
   "id": 228193,
   "numero": "25_INT_69",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-03"
   },
   "depose": "2025-05-06",
   "titre": "PFAS dans les poissons du lac – quelles mesures à prendre pour les consommateurs et pour soutenir la pêche locale ?",
@@ -21,15 +21,19 @@
   "etapes": [
     {
       "date": "2025-05-06",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2025-05-13",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
     },
     {
       "date": "2026-10-06",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-03",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -54,6 +58,6 @@
       "lien": "https://avenue.argusdatainsights.ch/Article/AvenuePDFClip?artikelHash=97dd58e67ab8461ebffcc06be51403f9_3BE4DB0FF3B8F19F2AD24A937F3482BF&artikelDateiId=442703123"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/9f0b3277-6995-4341-b34f-30a04b3ad91f/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d25fd1c3-cd1a-4087-b913-733c31d1da7f/meeting/1033714",
   "communes": []
 }

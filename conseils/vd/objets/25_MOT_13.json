@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-10-30T07:16:54Z",
   "id": 228233,
   "numero": "25_MOT_13",
   "type": "Motion",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-03"
   },
   "depose": "2025-02-25",
   "titre": "Faire la vaisselle plutôt que de la jeter ?",
@@ -36,6 +36,10 @@
     {
       "date": "2026-10-06",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-03",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -45,6 +49,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3055#1925"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6a63ca3c-306c-445a-97fd-4aa16413797c/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/91912c16-661d-4597-8a8b-74812eccd9ee/meeting/1033714",
   "communes": []
 }

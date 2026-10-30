@@ -1,8 +1,33 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-30T07:16:54Z",
   "commune": 5822,
   "objets": [
+    {
+      "cle": "vd/25_LEG_246",
+      "numero": "25_LEG_246",
+      "type": "Décret/Loi",
+      "depose": "2026-11-03",
+      "titre": "Permettant au Conseil d’Etat d’accorder la garantie de l’Etat de Vaud à l’Hôpital Intercantonal de la Broye (HIB) pour l’emprunt bancaire de CHF 67,2 millions contracté pour financer les coûts liés à la réalisation de la restructuration et l’extension de son bâtiment hospitalier à Payerne",
+      "auteurs": [
+        {
+          "nom": "Bernard Nicod",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": [
+        {
+          "ofs": 5822,
+          "origine": "titre"
+        }
+      ]
+    },
     {
       "cle": "vd/26_HQU_78",
       "numero": "26_HQU_78",

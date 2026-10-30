@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-30T07:16:54Z",
   "id": 227889,
   "numero": "24_POS_43",
   "type": "Postulat",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2025-11-11"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-03"
   },
   "depose": "2024-10-01",
   "titre": "Quand l’Etat veut reprendre la Fondation vaudoise de probation sans que les raisons ne soient claires",
@@ -27,27 +27,31 @@
   "etapes": [
     {
       "date": "2024-10-01",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2024-10-08",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
     },
     {
       "date": "2025-06-24",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
     },
     {
       "date": "2025-09-30",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
     },
     {
       "date": "2025-10-07",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
     },
     {
       "date": "2025-11-11",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-03",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -57,6 +61,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/2931#579"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/2ff10ea7-9aef-42e8-9f89-c43cd5a3c08a/meeting/1029642",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5122ce87-b6d7-4e8d-a9f4-bfe39c51ec4c/meeting/1033714",
   "communes": []
 }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-29T16:15:48Z",
+  "genere": "2026-10-30T07:16:54Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -519,6 +519,88 @@
       "points": null
     },
     {
+      "cle": "vd/2026-11-03",
+      "conseil": "vd",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-11-03",
+      "titre": "Séance du Grand Conseil du mardi 3 novembre 2026",
+      "communes": [],
+      "points": 51
+    },
+    {
+      "cle": "vd/24_LEG_143",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-03",
+      "titre": "Modifiant : \n- la loi du 4 juillet 2006 sur l'exécution des condamnations pénales \n- la loi du 7 novembre 2006 sur l'exécution de la détention avant jugement \n- le code du 12 janvier 2010 de droit privé judiciaire vaudois \n- la loi du 2 décembre 2003 sur l'action sociale vaudoise \n- la loi du 26 septembre 2017 d'organisation de la prévention et de la lutte contre la violence domestique",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/25_LEG_117",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-03",
+      "titre": "Accordant au Conseil d'Etat un crédit d’investissement de CHF 18'576’000 pour financer la modernisation du système d’information Finance de l’Etat",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/25_LEG_246",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-03",
+      "titre": "Permettant au Conseil d’Etat d’accorder la garantie de l’Etat de Vaud à l’Hôpital Intercantonal de la Broye (HIB) pour l’emprunt bancaire de CHF 67,2 millions contracté pour financer les coûts liés à la réalisation de la restructuration et l’extension de son bâtiment hospitalier à Payerne",
+      "communes": [
+        5822
+      ],
+      "points": null
+    },
+    {
+      "cle": "vd/25_LEG_44",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-03",
+      "titre": "Modifiant la loi sur la police cantonale (LPol) du 17 novembre 1975 (enregistrement des appels, vidéosurveillance des lieux de détention et caméras-piétons)",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_REP_156",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Réponse",
+      "date": "2026-11-03",
+      "titre": "Année 2025",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_REP_157",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Réponse",
+      "date": "2026-11-03",
+      "titre": "Secondes réponses",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_REP_186",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Réponse",
+      "date": "2026-11-03",
+      "titre": "Secondes réponses",
+      "communes": [],
+      "points": null
+    },
+    {
       "cle": "5514/2026-11-02",
       "conseil": "5514",
       "sorte": "seance",
@@ -945,18 +1027,6 @@
       "titre": "Conseil général",
       "communes": [
         5674
-      ],
-      "points": 0
-    },
-    {
-      "cle": "5414/2026-10-08",
-      "conseil": "5414",
-      "sorte": "seance",
-      "type": null,
-      "date": "2026-10-08",
-      "titre": "Procès-verbal",
-      "communes": [
-        5414
       ],
       "points": 0
     }

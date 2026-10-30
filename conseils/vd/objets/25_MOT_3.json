@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-30T07:16:54Z",
   "id": 228250,
   "numero": "25_MOT_3",
   "type": "Motion",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2025-11-11"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-03"
   },
   "depose": "2025-01-28",
   "titre": "L’autorité de probation est la Fondation vaudoise de probation",
@@ -27,11 +27,15 @@
   "etapes": [
     {
       "date": "2025-01-28",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2025-11-11",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-03",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -41,6 +45,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3017#1187"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1f17b0b0-be9f-4fe9-bef4-30e51b87af8b/meeting/1029642",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/26b8e5bf-2f64-4f56-a738-7bf8209c341e/meeting/1033714",
   "communes": []
 }

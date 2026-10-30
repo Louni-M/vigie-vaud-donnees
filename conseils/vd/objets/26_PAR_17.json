@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-30T07:16:54Z",
   "id": 340148,
   "numero": "26_PAR_17",
   "type": "Recours de compétence",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-08-25"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-03"
   },
   "depose": "2026-08-25",
   "titre": "Rapport annuel 2025 de la commission interparlementaire de contrôle de l’Hôpital intercantonal de la Broye (CIC HIB)",
@@ -21,10 +21,14 @@
   "etapes": [
     {
       "date": "2026-08-25",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
+    },
+    {
+      "date": "2026-11-03",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/0133d14d-f055-4f5e-a4d0-c2fc012aabee/meeting/1033708",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/2f367071-f27d-4715-a038-d7458a8a6fd3/meeting/1033714",
   "communes": []
 }

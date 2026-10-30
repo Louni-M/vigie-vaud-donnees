@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-10-30T07:16:54Z",
   "id": 251378,
   "numero": "25_MOT_46",
   "type": "Motion",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-03"
   },
   "depose": "2025-09-09",
   "titre": "Pour un programme cantonal de passages à faune",
@@ -44,6 +44,10 @@
     {
       "date": "2026-10-06",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-03",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -53,6 +57,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3205#751"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/8e263907-d153-4fdc-9ae2-bab010593d93/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/59e70eef-9ab7-4748-90c3-7aa08f66fbdf/meeting/1033714",
   "communes": []
 }

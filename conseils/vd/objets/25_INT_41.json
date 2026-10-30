@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-10-30T07:16:54Z",
   "id": 228162,
   "numero": "25_INT_41",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-10-06"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-03"
   },
   "depose": "2025-03-25",
   "titre": "Déchets de chantier - de la parole aux actes ?",
@@ -21,15 +21,19 @@
   "etapes": [
     {
       "date": "2025-03-25",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2025-04-01",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
     },
     {
       "date": "2026-10-06",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-03",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -39,6 +43,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3087#549"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ea651ed6-6f4f-416f-a8ec-5edf5bbb9e80/meeting/1033712",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/0a97b8ee-7f7c-40fa-af64-a020cabf84ce/meeting/1033714",
   "communes": []
 }
