@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-30T07:16:54Z",
+  "genere": "2026-10-31T02:31:42Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -51,6 +51,18 @@
       "points": 0
     },
     {
+      "cle": "5883/2027-09-10",
+      "conseil": "5883",
+      "sorte": "seance",
+      "type": null,
+      "date": "2027-09-10T18:30",
+      "titre": "Séance du Conseil communal",
+      "communes": [
+        5883
+      ],
+      "points": 0
+    },
+    {
       "cle": "5643/2027-09-09",
       "conseil": "5643",
       "sorte": "seance",
@@ -83,6 +95,18 @@
       "titre": "Séance du Conseil communal",
       "communes": [
         5643
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5883/2027-06-21",
+      "conseil": "5883",
+      "sorte": "seance",
+      "type": null,
+      "date": "2027-06-21T20:00",
+      "titre": "Séance du Conseil communal",
+      "communes": [
+        5883
       ],
       "points": 0
     },
@@ -171,6 +195,18 @@
       "points": 0
     },
     {
+      "cle": "5883/2027-04-26",
+      "conseil": "5883",
+      "sorte": "seance",
+      "type": null,
+      "date": "2027-04-26T20:00",
+      "titre": "Séance du Conseil communal",
+      "communes": [
+        5883
+      ],
+      "points": 0
+    },
+    {
       "cle": "5764/2027-04-26",
       "conseil": "5764",
       "sorte": "seance",
@@ -215,6 +251,18 @@
       "titre": "Séance du Conseil communal",
       "communes": [
         5607
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5883/2027-03-01",
+      "conseil": "5883",
+      "sorte": "seance",
+      "type": null,
+      "date": "2027-03-01T20:00",
+      "titre": "Séance du Conseil communal",
+      "communes": [
+        5883
       ],
       "points": 0
     },
@@ -275,6 +323,18 @@
       "titre": "Séance ordinaire du Conseil communal",
       "communes": [
         5712
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5883/2026-12-11",
+      "conseil": "5883",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-12-11T18:30",
+      "titre": "Séance du Conseil communal",
+      "communes": [
+        5883
       ],
       "points": 0
     },

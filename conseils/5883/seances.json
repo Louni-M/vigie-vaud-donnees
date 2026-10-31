@@ -1,8 +1,33 @@
 {
   "version": 1,
-  "genere": "2026-10-24T14:37:59Z",
+  "genere": "2026-10-31T02:31:42Z",
   "conseil": "5883",
   "seances": [
+    {
+      "cle": "5883/2027-09-10",
+      "date": "2027-09-10T18:30",
+      "points": 0
+    },
+    {
+      "cle": "5883/2027-06-21",
+      "date": "2027-06-21T20:00",
+      "points": 0
+    },
+    {
+      "cle": "5883/2027-04-26",
+      "date": "2027-04-26T20:00",
+      "points": 0
+    },
+    {
+      "cle": "5883/2027-03-01",
+      "date": "2027-03-01T20:00",
+      "points": 0
+    },
+    {
+      "cle": "5883/2026-12-11",
+      "date": "2026-12-11T18:30",
+      "points": 0
+    },
     {
       "cle": "5883/2026-10-26",
       "date": "2026-10-26T20:00",
@@ -37,6 +62,11 @@
           "titre": "Communication de la Municipalité en réponse à l'interpellation de M. Eric Cornu portant sur le remplacement des énergies fossiles par des énergies renouvelables",
           "date": null,
           "lien": "https://www.corseaux.ch/_doc/7296130"
+        },
+        {
+          "titre": "Communication - Collaboration intercommunales_2026",
+          "date": null,
+          "lien": "https://www.corseaux.ch/_doc/7320223"
         }
       ]
     },
