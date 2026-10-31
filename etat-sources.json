@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-31T14:03:10Z",
+  "genere": "2026-10-31T14:10:29Z",
   "sources": {
     "camac-permis": {
       "etat": "disponible",
@@ -42,14 +42,6 @@
       "echecs_consecutifs": 0,
       "motif": null
     },
-    "site-5607": {
-      "etat": "disponible",
-      "depuis": "2026-10-28T23:16:06Z",
-      "derniere_sonde": "2026-10-31T14:03:18Z",
-      "dernier_succes": "2026-10-31T14:03:18Z",
-      "echecs_consecutifs": 0,
-      "motif": null
-    },
     "site-5414": {
       "etat": "disponible",
       "depuis": "2026-10-24T13:35:59Z",
@@ -79,6 +71,14 @@
       "depuis": "2026-10-28T23:15:53Z",
       "derniere_sonde": "2026-10-31T13:46:49Z",
       "dernier_succes": "2026-10-31T13:46:49Z",
+      "echecs_consecutifs": 0,
+      "motif": null
+    },
+    "site-5607": {
+      "etat": "disponible",
+      "depuis": "2026-10-28T23:16:06Z",
+      "derniere_sonde": "2026-10-31T14:03:18Z",
+      "dernier_succes": "2026-10-31T14:03:18Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
