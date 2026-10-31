@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-31T08:55:24Z",
+  "genere": "2026-10-31T13:25:52Z",
   "sources": {
     "camac-permis": {
       "etat": "disponible",
@@ -193,6 +193,13 @@
       "dernier_succes": "2026-10-31T08:59:14Z",
       "echecs_consecutifs": 0,
       "motif": null
+    }
+  },
+  "reseaux": {
+    "195.65.10.0/24": {
+      "depuis": "2026-10-31T13:39:57Z",
+      "jusqu_a": null,
+      "motif": "délai dépassé"
     }
   }
 }
