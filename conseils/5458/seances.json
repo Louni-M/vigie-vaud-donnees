@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-24T14:37:59Z",
+  "genere": "2026-10-31T13:41:18Z",
   "conseil": "5458",
   "seances": [
     {
@@ -16,6 +16,45 @@
     {
       "cle": "5458/2026-06-23",
       "date": "2026-06-23T19:30",
+      "points": 0
+    },
+    {
+      "cle": "5458/2026-04-21",
+      "date": "2026-04-21T19:30",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "2026-04-21_CC_ExtraitDélibérations",
+          "date": null,
+          "lien": "https://www.faoug.ch/_doc/7007695"
+        }
+      ]
+    },
+    {
+      "cle": "5458/2025-12-09",
+      "date": "2025-12-09T19:30",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "2025-12-09_CC_PV",
+          "date": null,
+          "lien": "https://www.faoug.ch/_doc/6954778"
+        },
+        {
+          "titre": "2025-12-09_CC_ExtraitDélibérations",
+          "date": null,
+          "lien": "https://www.faoug.ch/_doc/6954781"
+        }
+      ]
+    },
+    {
+      "cle": "5458/2025-11-11",
+      "date": "2025-11-11T19:30",
+      "points": 0
+    },
+    {
+      "cle": "5458/2025-10-07",
+      "date": "2025-10-07T19:30",
       "points": 0
     }
   ]
