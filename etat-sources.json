@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-31T15:43:36Z",
+  "genere": "2026-10-31T16:03:36Z",
   "sources": {
     "camac-permis": {
       "etat": "disponible",
@@ -39,14 +39,6 @@
       "depuis": "2026-10-16T16:21:04Z",
       "derniere_sonde": "2026-10-31T08:55:26Z",
       "dernier_succes": "2026-10-31T08:55:26Z",
-      "echecs_consecutifs": 0,
-      "motif": null
-    },
-    "site-5764": {
-      "etat": "disponible",
-      "depuis": "2026-10-28T23:18:33Z",
-      "derniere_sonde": "2026-10-31T15:43:44Z",
-      "dernier_succes": "2026-10-31T15:43:44Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
@@ -162,6 +154,14 @@
       "echecs_consecutifs": 0,
       "motif": null
     },
+    "site-5764": {
+      "etat": "disponible",
+      "depuis": "2026-10-28T23:18:33Z",
+      "derniere_sonde": "2026-10-31T15:43:44Z",
+      "dernier_succes": "2026-10-31T15:43:44Z",
+      "echecs_consecutifs": 0,
+      "motif": null
+    },
     "site-5841": {
       "etat": "disponible",
       "depuis": "2026-10-28T23:18:46Z",
@@ -193,6 +193,13 @@
       "dernier_succes": "2026-10-31T08:59:14Z",
       "echecs_consecutifs": 0,
       "motif": null
+    }
+  },
+  "reseaux": {
+    "195.65.10.0/24": {
+      "depuis": "2026-10-31T16:11:19Z",
+      "jusqu_a": null,
+      "motif": "délai dépassé"
     }
   }
 }
