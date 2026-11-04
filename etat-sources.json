@@ -1,52 +1,52 @@
 {
   "version": 1,
-  "genere": "2026-11-04T08:04:45Z",
+  "genere": "2026-11-04T16:26:16Z",
   "sources": {
     "camac-permis": {
       "etat": "disponible",
       "depuis": "2026-10-15T20:03:59Z",
-      "derniere_sonde": "2026-11-04T08:04:45Z",
-      "dernier_succes": "2026-11-04T08:04:45Z",
+      "derniere_sonde": "2026-11-04T16:26:16Z",
+      "dernier_succes": "2026-11-04T16:26:16Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "dgmr-restrictions": {
       "etat": "disponible",
       "depuis": "2026-10-19T14:43:18Z",
-      "derniere_sonde": "2026-11-04T08:04:46Z",
-      "dernier_succes": "2026-11-04T08:04:46Z",
+      "derniere_sonde": "2026-11-04T16:26:17Z",
+      "dernier_succes": "2026-11-04T16:26:17Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-vd": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:03Z",
-      "derniere_sonde": "2026-11-04T08:04:46Z",
-      "dernier_succes": "2026-11-04T08:04:46Z",
+      "derniere_sonde": "2026-11-04T16:26:17Z",
+      "dernier_succes": "2026-11-04T16:26:17Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-5586": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:04Z",
-      "derniere_sonde": "2026-11-04T08:04:47Z",
-      "dernier_succes": "2026-11-04T08:04:47Z",
+      "derniere_sonde": "2026-11-04T16:26:18Z",
+      "dernier_succes": "2026-11-04T16:26:18Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-5938": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:04Z",
-      "derniere_sonde": "2026-11-04T08:04:47Z",
-      "dernier_succes": "2026-11-04T08:04:47Z",
+      "derniere_sonde": "2026-11-04T16:26:18Z",
+      "dernier_succes": "2026-11-04T16:26:18Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5414": {
       "etat": "disponible",
       "depuis": "2026-10-24T13:35:59Z",
-      "derniere_sonde": "2026-11-04T08:04:56Z",
-      "dernier_succes": "2026-11-04T08:04:56Z",
+      "derniere_sonde": "2026-11-04T16:26:25Z",
+      "dernier_succes": "2026-11-04T16:26:25Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
@@ -163,41 +163,41 @@
       "motif": null
     },
     "site-5841": {
-      "etat": "disponible",
-      "depuis": "2026-10-28T23:18:46Z",
-      "derniere_sonde": "2026-11-04T08:09:02Z",
+      "etat": "en_panne",
+      "depuis": "2026-11-04T08:09:02Z",
+      "derniere_sonde": "2026-11-04T16:27:07Z",
       "dernier_succes": "2026-11-03T15:17:35Z",
-      "echecs_consecutifs": 1,
+      "echecs_consecutifs": 2,
       "motif": "délai dépassé"
     },
     "site-5851": {
-      "etat": "disponible",
-      "depuis": "2026-10-29T16:15:21Z",
-      "derniere_sonde": "2026-11-04T08:09:02Z",
+      "etat": "en_panne",
+      "depuis": "2026-11-04T08:09:02Z",
+      "derniere_sonde": "2026-11-04T16:27:07Z",
       "dernier_succes": "2026-11-03T15:17:52Z",
-      "echecs_consecutifs": 1,
+      "echecs_consecutifs": 2,
       "motif": "accès refusé"
     },
     "site-5883": {
-      "etat": "disponible",
-      "depuis": "2026-10-29T16:15:33Z",
-      "derniere_sonde": "2026-11-04T08:09:03Z",
+      "etat": "en_panne",
+      "depuis": "2026-11-04T08:09:03Z",
+      "derniere_sonde": "2026-11-04T16:27:08Z",
       "dernier_succes": "2026-11-03T15:18:09Z",
-      "echecs_consecutifs": 1,
+      "echecs_consecutifs": 2,
       "motif": "accès refusé"
     },
     "site-5892": {
-      "etat": "disponible",
-      "depuis": "2026-10-29T16:15:45Z",
-      "derniere_sonde": "2026-11-04T08:09:03Z",
+      "etat": "en_panne",
+      "depuis": "2026-11-04T08:09:03Z",
+      "derniere_sonde": "2026-11-04T16:27:08Z",
       "dernier_succes": "2026-11-03T15:18:21Z",
-      "echecs_consecutifs": 1,
+      "echecs_consecutifs": 2,
       "motif": "accès refusé"
     }
   },
   "reseaux": {
     "195.65.10.0/24": {
-      "depuis": "2026-11-04T08:09:02Z",
+      "depuis": "2026-11-04T16:27:07Z",
       "jusqu_a": null,
       "motif": "délai dépassé"
     }
