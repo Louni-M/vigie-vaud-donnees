@@ -1,8 +1,33 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-04T08:09:04Z",
   "commune": 5721,
   "objets": [
+    {
+      "cle": "vd/26_HQU_144",
+      "numero": "26_HQU_144",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Data Center à Gland : protection de la nappe phréatique",
+      "auteurs": [
+        {
+          "nom": "Nathalie Jaccard",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": [
+        {
+          "ofs": 5721,
+          "origine": "titre"
+        }
+      ]
+    },
     {
       "cle": "vd/24_INT_110",
       "numero": "24_INT_110",

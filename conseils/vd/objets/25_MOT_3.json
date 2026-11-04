@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "genere": "2026-10-30T07:16:54Z",
+  "genere": "2026-11-04T08:09:04Z",
   "id": 228250,
   "numero": "25_MOT_3",
   "type": "Motion",
   "statut": {
-    "libelle": "A l'ordre du jour",
+    "libelle": "Retiré",
     "date": "2026-11-03"
   },
   "depose": "2025-01-28",
@@ -36,6 +36,10 @@
     {
       "date": "2026-11-03",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-03",
+      "libelle": "Retiré"
     }
   ],
   "documents": [

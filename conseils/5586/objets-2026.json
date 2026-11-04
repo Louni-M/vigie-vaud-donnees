@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-28T13:03:19Z",
+  "genere": "2026-11-04T08:09:04Z",
   "conseil": "5586",
   "annee": 2026,
   "objets": [
@@ -45,6 +45,86 @@
       "communes": []
     },
     {
+      "cle": "5586/INT26-067",
+      "numero": "INT26/067",
+      "type": "Interpellation",
+      "depose": "2026-11-03",
+      "titre": "Réforme policière 2030 : Quand la Municipalité va-t-elle présenter des mesures à la hauteur des enjeux ?",
+      "auteurs": [
+        {
+          "nom": "Lola Crittin",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT26-066",
+      "numero": "INT26/066",
+      "type": "Interpellation",
+      "depose": "2026-11-03",
+      "titre": "Face à la montée de l'antisémitisme à Lausanne, quelles mesures concrètes pour protéger les habitants et lutter contre la haine ?",
+      "auteurs": [
+        {
+          "nom": "Sabine Finci",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT26-065",
+      "numero": "INT26/065",
+      "type": "Interpellation",
+      "depose": "2026-11-03",
+      "titre": "le droit public et les droits fondamentaux s'appliquent-ils encore dans le quartier du Flon ?",
+      "auteurs": [
+        {
+          "nom": "Johann Dupuis",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT26-064",
+      "numero": "INT26/064",
+      "type": "Interpellation",
+      "depose": "2026-11-03",
+      "titre": "Rumeurs d'une vente : quel avenir pour le Lausanne-Sport ?",
+      "auteurs": [
+        {
+          "nom": "Louis Dana",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
       "cle": "5586/INT26-058",
       "numero": "INT26/058",
       "type": "Interpellation",
@@ -62,6 +142,86 @@
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT26-063",
+      "numero": "INT26/063",
+      "type": "Interpellation",
+      "depose": "2026-11-01",
+      "titre": "Le Centenaire : cent ans et toutes ses pièces ?",
+      "auteurs": [
+        {
+          "nom": "Marisa Maurer Putallaz",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-01"
+      },
+      "derniere_etape": "2026-11-01",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT26-062",
+      "numero": "INT26/062",
+      "type": "Interpellation",
+      "depose": "2026-11-01",
+      "titre": "Collège de Montblesson : la rénovation a-t-elle séché les cours ?",
+      "auteurs": [
+        {
+          "nom": "Marisa Maurer Putallaz",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-01"
+      },
+      "derniere_etape": "2026-11-01",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT26-061",
+      "numero": "INT26/061",
+      "type": "Interpellation",
+      "depose": "2026-11-01",
+      "titre": "Site du Chalet-à-Gobet : après l'innovation, place à l'improvisation ?",
+      "auteurs": [
+        {
+          "nom": "Marisa Maurer Putallaz",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-01"
+      },
+      "derniere_etape": "2026-11-01",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT26-060",
+      "numero": "INT26/060",
+      "type": "Interpellation",
+      "depose": "2026-11-01",
+      "titre": "Collège du Chalet-à-Gobet : la cloche va-t-elle sonner pour les derniers occupants ?",
+      "auteurs": [
+        {
+          "nom": "Marisa Maurer Putallaz",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-01"
+      },
+      "derniere_etape": "2026-11-01",
       "communes": []
     },
     {

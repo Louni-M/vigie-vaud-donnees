@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-31T02:31:42Z",
+  "genere": "2026-11-04T08:09:04Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -540,7 +540,7 @@
       "communes": [
         5586
       ],
-      "points": 144
+      "points": 152
     },
     {
       "cle": "5586/INT26-058",
@@ -549,6 +549,54 @@
       "type": "Interpellation",
       "date": "2026-11-03",
       "titre": "Découvrir un sport à l'APEMS... et après ?",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/INT26-064",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-03",
+      "titre": "Rumeurs d'une vente : quel avenir pour le Lausanne-Sport ?",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/INT26-065",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-03",
+      "titre": "le droit public et les droits fondamentaux s'appliquent-ils encore dans le quartier du Flon ?",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/INT26-066",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-03",
+      "titre": "Face à la montée de l'antisémitisme à Lausanne, quelles mesures concrètes pour protéger les habitants et lutter contre la haine ?",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/INT26-067",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-03",
+      "titre": "Réforme policière 2030 : Quand la Municipalité va-t-elle présenter des mesures à la hauteur des enjeux ?",
       "communes": [
         5586
       ],
@@ -586,7 +634,7 @@
       "date": "2026-11-03",
       "titre": "Séance du Grand Conseil du mardi 3 novembre 2026",
       "communes": [],
-      "points": 51
+      "points": 52
     },
     {
       "cle": "vd/24_LEG_143",
@@ -631,6 +679,318 @@
       "points": null
     },
     {
+      "cle": "vd/26_HQU_133",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": "Revenus locatifs : on consulte puis on fait pire",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_HQU_134",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": "Cambriolages dans la région de Terre Sainte : quelles mesures mises en oeuvre par le Canton et la gendarmerie vaudoise ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_HQU_135",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": "Délai de carence, du simple au décuple…",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_HQU_136",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": "Taux d’imposition, l’administration peut-elle avoir le pas sur la volonté du législateur?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_HQU_137",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": "Quelles réponses politiques au plaidoyer pour le travail social?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_HQU_138",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": "Aide d'urgence supprimée - le SPOP désavoué",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_HQU_139",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": "Hausse des loyers après rénovation : un changement de méthode sans débat démocratique ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_HQU_140",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": "Droit de préemption : le Canton va-t-il aider les petites communes à créer des logements d’utilité publique ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_HQU_141",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": "Loyers après rénovation : pourquoi le Conseil d'Etat a-t-il choisi un passage en force ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_HQU_142",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": "Pourquoi avoir rompu le dialogue avec l’Association vaudoise des locataires ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_HQU_143",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": "Après les prêts de fusils aux abbayes, quelles autres découvertes au SSCM ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_HQU_144",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": "Data Center à Gland : protection de la nappe phréatique",
+      "communes": [
+        5721
+      ],
+      "points": null
+    },
+    {
+      "cle": "vd/26_HQU_145",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": "Délais d’attente à la DISA du CHUV",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_HQU_146",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": "Travaux subventionné par la DGE",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_HQU_147",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": "Contrôle des revenus locatifs après travaux : un mode de calcul déséquilibré",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_HQU_148",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Question orale",
+      "date": "2026-11-03",
+      "titre": ".Demain des manifs…. à quel prix ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INI_15",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Initiative",
+      "date": "2026-11-03",
+      "titre": "Pour la reconnaissance des droits des aînées et aînés dans la Constitution",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INI_16",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Initiative",
+      "date": "2026-11-03",
+      "titre": "Initiative parlementaire Élections communales : pour que l'inscription dans les délais compte (modification de l'art. 41 LEDP)",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INI_17",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Initiative",
+      "date": "2026-11-03",
+      "titre": "Protection des enfants accueillis : combler une lacune du casier judiciaire",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_153",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-03",
+      "titre": "Plus de 50 ans et IA: former l’expérience plutôt que la laisser au chômage ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_154",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-03",
+      "titre": "Institutions subventionnées en défaut de conformité légale : l'Etat est-il responsable ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_155",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-03",
+      "titre": "Cyberattaque visant la plateforme de support de la DGEP : gouvernance informatique et rôle de la DGNSI dans l'enseignement obligatoire et postobligatoire",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_156",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-03",
+      "titre": "CHUV : priorité aux chiffres ou aux soins ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_MOT_77",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Motion",
+      "date": "2026-11-03",
+      "titre": "Compensons les avantages majeurs générés par l’exploitation des gravières",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_MOT_78",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Motion",
+      "date": "2026-11-03",
+      "titre": "Faciliter l'accès à la propriété de la résidence principale par une exonération du droit de mutation",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_POS_58",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-11-03",
+      "titre": "Forêts: libre accès, risques et responsabilités",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_POS_59",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-11-03",
+      "titre": "Après le refus de la motion Jaccoud au niveau fédéral : Pour une action vaudoise visant à prévenir l’incarcération pour amendes impayées",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_QUE_93",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Simple question",
+      "date": "2026-11-03",
+      "titre": "Règlement d'application de la nouvelle Loi Energie - Des clarifications sont nécessaires",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_QUE_94",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Simple question",
+      "date": "2026-11-03",
+      "titre": "Procédure pour la destruction de nids de frelons asiatiques",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_QUE_95",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Simple question",
+      "date": "2026-11-03",
+      "titre": "Coût du mandat Ribaux sur le modèle de police coordonnée",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_QUE_96",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Simple question",
+      "date": "2026-11-03",
+      "titre": "CORE - REGIO - des enseignements nécessaires mais qui pourtant tardent à paraître",
+      "communes": [],
+      "points": null
+    },
+    {
       "cle": "vd/26_REP_156",
       "conseil": "vd",
       "sorte": "objet",
@@ -671,6 +1031,54 @@
         5514
       ],
       "points": 0
+    },
+    {
+      "cle": "5586/INT26-060",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-01",
+      "titre": "Collège du Chalet-à-Gobet : la cloche va-t-elle sonner pour les derniers occupants ?",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/INT26-061",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-01",
+      "titre": "Site du Chalet-à-Gobet : après l'innovation, place à l'improvisation ?",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/INT26-062",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-01",
+      "titre": "Collège de Montblesson : la rénovation a-t-elle séché les cours ?",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/INT26-063",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-01",
+      "titre": "Le Centenaire : cent ans et toutes ses pièces ?",
+      "communes": [
+        5586
+      ],
+      "points": null
     },
     {
       "cle": "5643/2026-10-29",

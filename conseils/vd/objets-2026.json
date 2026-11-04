@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-30T07:16:54Z",
+  "genere": "2026-11-04T08:09:04Z",
   "conseil": "vd",
   "annee": 2026,
   "objets": [
@@ -18,7 +18,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Adopté",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -38,7 +38,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Adopté",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -54,6 +54,647 @@
         {
           "nom": "Florence Gross",
           "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_QUE_96",
+      "numero": "26_QUE_96",
+      "type": "Simple question",
+      "depose": "2026-11-03",
+      "titre": "CORE - REGIO - des enseignements nécessaires mais qui pourtant tardent à paraître",
+      "auteurs": [
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_QUE_95",
+      "numero": "26_QUE_95",
+      "type": "Simple question",
+      "depose": "2026-11-03",
+      "titre": "Coût du mandat Ribaux sur le modèle de police coordonnée",
+      "auteurs": [
+        {
+          "nom": "Florence Gross",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_QUE_94",
+      "numero": "26_QUE_94",
+      "type": "Simple question",
+      "depose": "2026-11-03",
+      "titre": "Procédure pour la destruction de nids de frelons asiatiques",
+      "auteurs": [
+        {
+          "nom": "Jacques-André Haury",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_QUE_93",
+      "numero": "26_QUE_93",
+      "type": "Simple question",
+      "depose": "2026-11-03",
+      "titre": "Règlement d'application de la nouvelle Loi Energie - Des clarifications sont nécessaires",
+      "auteurs": [
+        {
+          "nom": "Cédric Weissert",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_POS_59",
+      "numero": "26_POS_59",
+      "type": "Postulat",
+      "depose": "2026-11-03",
+      "titre": "Après le refus de la motion Jaccoud au niveau fédéral : Pour une action vaudoise visant à prévenir l’incarcération pour amendes impayées",
+      "auteurs": [
+        {
+          "nom": "Amélie Cherbuin",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_POS_58",
+      "numero": "26_POS_58",
+      "type": "Postulat",
+      "depose": "2026-11-03",
+      "titre": "Forêts: libre accès, risques et responsabilités",
+      "auteurs": [
+        {
+          "nom": "Nathalie Vez",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_MOT_78",
+      "numero": "26_MOT_78",
+      "type": "Motion",
+      "depose": "2026-11-03",
+      "titre": "Faciliter l'accès à la propriété de la résidence principale par une exonération du droit de mutation",
+      "auteurs": [
+        {
+          "nom": "Quentin Racine",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_MOT_77",
+      "numero": "26_MOT_77",
+      "type": "Motion",
+      "depose": "2026-11-03",
+      "titre": "Compensons les avantages majeurs générés par l’exploitation des gravières",
+      "auteurs": [
+        {
+          "nom": "Muriel Thalmann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_INT_156",
+      "numero": "26_INT_156",
+      "type": "Interpellation",
+      "depose": "2026-11-03",
+      "titre": "CHUV : priorité aux chiffres ou aux soins ?",
+      "auteurs": [
+        {
+          "nom": "Laurence Cretegny",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_INT_155",
+      "numero": "26_INT_155",
+      "type": "Interpellation",
+      "depose": "2026-11-03",
+      "titre": "Cyberattaque visant la plateforme de support de la DGEP : gouvernance informatique et rôle de la DGNSI dans l'enseignement obligatoire et postobligatoire",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": null
+        },
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_INT_154",
+      "numero": "26_INT_154",
+      "type": "Interpellation",
+      "depose": "2026-11-03",
+      "titre": "Institutions subventionnées en défaut de conformité légale : l'Etat est-il responsable ?",
+      "auteurs": [
+        {
+          "nom": "Didier Brocard",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_INT_153",
+      "numero": "26_INT_153",
+      "type": "Interpellation",
+      "depose": "2026-11-03",
+      "titre": "Plus de 50 ans et IA: former l’expérience plutôt que la laisser au chômage ?",
+      "auteurs": [
+        {
+          "nom": "Sergei Aschwanden",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_INI_17",
+      "numero": "26_INI_17",
+      "type": "Initiative",
+      "depose": "2026-11-03",
+      "titre": "Protection des enfants accueillis : combler une lacune du casier judiciaire",
+      "auteurs": [
+        {
+          "nom": "Romain Pilloud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_INI_16",
+      "numero": "26_INI_16",
+      "type": "Initiative",
+      "depose": "2026-11-03",
+      "titre": "Initiative parlementaire Élections communales : pour que l'inscription dans les délais compte (modification de l'art. 41 LEDP)",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_INI_15",
+      "numero": "26_INI_15",
+      "type": "Initiative",
+      "depose": "2026-11-03",
+      "titre": "Pour la reconnaissance des droits des aînées et aînés dans la Constitution",
+      "auteurs": [
+        {
+          "nom": "Rebecca Joly",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_HQU_148",
+      "numero": "26_HQU_148",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": ".Demain des manifs…. à quel prix ?",
+      "auteurs": [
+        {
+          "nom": "José Durussel",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_HQU_147",
+      "numero": "26_HQU_147",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Contrôle des revenus locatifs après travaux : un mode de calcul déséquilibré",
+      "auteurs": [
+        {
+          "nom": "Romain Pilloud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_HQU_146",
+      "numero": "26_HQU_146",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Travaux subventionné par la DGE",
+      "auteurs": [
+        {
+          "nom": "Fabrice Tanner",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_HQU_145",
+      "numero": "26_HQU_145",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Délais d’attente à la DISA du CHUV",
+      "auteurs": [
+        {
+          "nom": "Nathalie Jaccard",
+          "parti": null
+        },
+        {
+          "nom": "Nathalie Jaccard",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_HQU_144",
+      "numero": "26_HQU_144",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Data Center à Gland : protection de la nappe phréatique",
+      "auteurs": [
+        {
+          "nom": "Nathalie Jaccard",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": [
+        {
+          "ofs": 5721,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/26_HQU_143",
+      "numero": "26_HQU_143",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Après les prêts de fusils aux abbayes, quelles autres découvertes au SSCM ?",
+      "auteurs": [
+        {
+          "nom": "Vincent Keller",
+          "parti": null
+        },
+        {
+          "nom": "Vincent Keller",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_HQU_142",
+      "numero": "26_HQU_142",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Pourquoi avoir rompu le dialogue avec l’Association vaudoise des locataires ?",
+      "auteurs": [
+        {
+          "nom": "Sébastien Pedroli",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_HQU_141",
+      "numero": "26_HQU_141",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Loyers après rénovation : pourquoi le Conseil d'Etat a-t-il choisi un passage en force ?",
+      "auteurs": [
+        {
+          "nom": "Graziella Schaller",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_HQU_140",
+      "numero": "26_HQU_140",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Droit de préemption : le Canton va-t-il aider les petites communes à créer des logements d’utilité publique ?",
+      "auteurs": [
+        {
+          "nom": "Mathilde Marendaz",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_HQU_139",
+      "numero": "26_HQU_139",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Hausse des loyers après rénovation : un changement de méthode sans débat démocratique ?",
+      "auteurs": [
+        {
+          "nom": "Valérie Zonca",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_HQU_138",
+      "numero": "26_HQU_138",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Aide d'urgence supprimée - le SPOP désavoué",
+      "auteurs": [
+        {
+          "nom": "Thanh-My Tran-Nhu",
+          "parti": null
+        },
+        {
+          "nom": "Thanh-My Tran-Nhu",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_HQU_137",
+      "numero": "26_HQU_137",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Quelles réponses politiques au plaidoyer pour le travail social?",
+      "auteurs": [
+        {
+          "nom": "Joëlle Minacci",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_HQU_136",
+      "numero": "26_HQU_136",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Taux d’imposition, l’administration peut-elle avoir le pas sur la volonté du législateur?",
+      "auteurs": [
+        {
+          "nom": "Joëlle Minacci",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_HQU_135",
+      "numero": "26_HQU_135",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Délai de carence, du simple au décuple…",
+      "auteurs": [
+        {
+          "nom": "Marc Vuilleumier",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_HQU_134",
+      "numero": "26_HQU_134",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Cambriolages dans la région de Terre Sainte : quelles mesures mises en oeuvre par le Canton et la gendarmerie vaudoise ?",
+      "auteurs": [
+        {
+          "nom": "Jean Valentin de Saussure",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_HQU_133",
+      "numero": "26_HQU_133",
+      "type": "Question orale",
+      "depose": "2026-11-03",
+      "titre": "Revenus locatifs : on consulte puis on fait pire",
+      "auteurs": [
+        {
+          "nom": "Céline Misiego",
+          "parti": "EP"
         }
       ],
       "nombre_auteurs": 1,
@@ -98,7 +739,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Adopté",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -123,7 +764,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Adopté",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -143,7 +784,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Adopté",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -243,7 +884,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -263,7 +904,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -283,7 +924,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -338,7 +979,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -358,7 +999,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -378,7 +1019,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -398,7 +1039,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -418,7 +1059,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -438,7 +1079,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -458,7 +1099,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -478,7 +1119,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -498,7 +1139,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -518,7 +1159,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -538,7 +1179,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -558,7 +1199,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -578,7 +1219,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -598,7 +1239,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -618,7 +1259,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -903,7 +1544,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -3577,7 +4218,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Traité",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
