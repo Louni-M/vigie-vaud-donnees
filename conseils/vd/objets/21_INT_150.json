@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-06T11:38:00Z",
   "id": 225642,
   "numero": "21_INT_150",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Transmise au CE",
-    "date": "2021-11-23"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-10"
   },
   "depose": "2021-11-16",
   "titre": "Méga-Saute-mouton Morges - Allaman",
@@ -21,11 +21,15 @@
   "etapes": [
     {
       "date": "2021-11-16",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2021-11-23",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
+    },
+    {
+      "date": "2026-11-10",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -35,7 +39,7 @@
       "lien": "https://www.sonomix.ch/live/gcvd/1966#1134"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/b84532ae-08cf-4013-a4a8-03928ee3d994/meeting/1004411",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1e3207b1-c9c8-4c66-ae84-dea3df7a1be3/meeting/1033715",
   "communes": [
     {
       "ofs": 5642,

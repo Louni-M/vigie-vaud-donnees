@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-06T11:38:00Z",
   "id": 327163,
   "numero": "26_INT_40",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Transmise au CE",
-    "date": "2026-04-21"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-10"
   },
   "depose": "2026-04-21",
   "titre": "Des cailloux pour le Petit Poucet le long de la RC 299",
@@ -21,14 +21,18 @@
   "etapes": [
     {
       "date": "2026-04-21",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2026-04-21",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
+    },
+    {
+      "date": "2026-11-10",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/808a56dd-9356-4557-bcb0-867dd705aa5b/meeting/1029665",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d1dba0a5-6f84-47af-8c88-ba3cdc0f68ad/meeting/1033715",
   "communes": []
 }

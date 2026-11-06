@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-06T11:38:00Z",
   "id": 296062,
   "numero": "26_MOT_9",
   "type": "Motion",
   "statut": {
-    "libelle": "Traktandiert",
-    "date": "2026-03-03"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-10"
   },
   "depose": "2026-02-24",
   "titre": "VTT et cyclotourisme : sortir des méandres administratives",
@@ -27,18 +27,22 @@
   "etapes": [
     {
       "date": "2026-02-24",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2026-02-24",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
     },
     {
       "date": "2026-03-03",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-10",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/95af29f9-ec57-4c22-9c03-3d875c37de96/meeting/1029658",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5026adcf-4c91-4f1b-b25d-9f151eefc84e/meeting/1033715",
   "communes": []
 }

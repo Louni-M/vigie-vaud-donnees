@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-06T11:38:00Z",
   "id": 228235,
   "numero": "25_MOT_15",
   "type": "Motion",
   "statut": {
-    "libelle": "Renvoyée à commission",
-    "date": "2025-03-04"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-10"
   },
   "depose": "2025-03-04",
   "titre": "Transports publics : débranchons la prise du diesel",
@@ -27,7 +27,11 @@
   "etapes": [
     {
       "date": "2025-03-04",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
+    },
+    {
+      "date": "2026-11-10",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -37,6 +41,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3061#969"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/802bfab7-0d20-4359-9f33-be3e572d0725/meeting/1026881",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c0efc19d-f9ae-4b1e-9584-85eea69b7054/meeting/1033715",
   "communes": []
 }

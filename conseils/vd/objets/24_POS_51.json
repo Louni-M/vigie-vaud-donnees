@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-06T11:38:00Z",
   "id": 227900,
   "numero": "24_POS_51",
   "type": "Postulat",
   "statut": {
-    "libelle": "Renvoyée à commission",
-    "date": "2024-11-19"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-10"
   },
   "depose": "2024-11-12",
   "titre": "Voies express cyclables sur l'axe lémanique – une infrastructure de mobilité clé entre agglomérations, au nom de Nathalie Vez et Sébastien Humbert",
@@ -21,11 +21,15 @@
   "etapes": [
     {
       "date": "2024-11-12",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2024-11-19",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
+    },
+    {
+      "date": "2026-11-10",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -65,7 +69,7 @@
       "lien": "https://roadmapvelo.ch/fr/massnahmen/guide-de-recommandations-voies-express-cyclables/"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/0febee15-47ee-4eff-8721-4c86795abfe8/meeting/1026866",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1e3a007a-7aa1-4110-ad62-303c463ed82a/meeting/1033715",
   "communes": [
     {
       "ofs": 5586,

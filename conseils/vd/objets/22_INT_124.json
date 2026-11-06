@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-06T11:38:00Z",
   "id": 223678,
   "numero": "22_INT_124",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Transmise au CE",
-    "date": "2022-09-27"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-10"
   },
   "depose": "2022-09-20",
   "titre": "Des panneaux solaires sur nos routes cantonales",
@@ -21,11 +21,15 @@
   "etapes": [
     {
       "date": "2022-09-20",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2022-09-27",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
+    },
+    {
+      "date": "2026-11-10",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -35,6 +39,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/2192#1419"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/8cd87098-9c19-47c7-a7ce-dc3173b78b41/meeting/1012634",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/97d1a0c8-7c77-4161-bad5-2b77d80bf2b6/meeting/1033715",
   "communes": []
 }

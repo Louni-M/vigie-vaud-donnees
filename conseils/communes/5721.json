@@ -1,8 +1,41 @@
 {
   "version": 1,
-  "genere": "2026-11-04T08:09:04Z",
+  "genere": "2026-11-06T11:38:00Z",
   "commune": 5721,
   "objets": [
+    {
+      "cle": "vd/26_LEG_18",
+      "numero": "26_LEG_18",
+      "type": "Décret/Loi",
+      "depose": "2026-11-10",
+      "titre": "Accordant au Conseil d'Etat un crédit d’ouvrage de CHF 26’300'000.- pour financer la part cantonale des travaux de requalification de la RC 1 – Dully – Gland – Prangins – entre le carrefour de la Bossière (non compris) à Prangins, et la limite communale de Dully, sur les communes de Prangins et Gland",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": [
+        {
+          "ofs": 5855,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5721,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5725,
+          "origine": "titre"
+        }
+      ]
+    },
     {
       "cle": "vd/26_HQU_144",
       "numero": "26_HQU_144",
@@ -18,9 +51,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-11-03"
+        "date": "2026-11-10"
       },
-      "derniere_etape": "2026-11-03",
+      "derniere_etape": "2026-11-10",
       "communes": [
         {
           "ofs": 5721,

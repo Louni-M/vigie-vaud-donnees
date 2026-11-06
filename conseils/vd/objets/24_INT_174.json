@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-06T11:38:00Z",
   "id": 227645,
   "numero": "24_INT_174",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Transmise au CE",
-    "date": "2024-12-03"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-10"
   },
   "depose": "2024-11-26",
   "titre": "Refus du projet d'extension des routes nationales - Quels impacts pour notre canton ?",
@@ -21,11 +21,15 @@
   "etapes": [
     {
       "date": "2024-11-26",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2024-12-03",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
+    },
+    {
+      "date": "2026-11-10",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -35,6 +39,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/2967#1327"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/bc083daf-ecd6-4b34-ba2b-d6bbf328223f/meeting/1026868",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/611c9af5-29e8-4fdd-98a4-e810f904124c/meeting/1033715",
   "communes": []
 }

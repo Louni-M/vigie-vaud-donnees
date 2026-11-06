@@ -1,8 +1,37 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-06T11:38:00Z",
   "commune": 5642,
   "objets": [
+    {
+      "cle": "vd/21_INT_150",
+      "numero": "21_INT_150",
+      "type": "Interpellation",
+      "depose": "2021-11-16",
+      "titre": "Méga-Saute-mouton Morges - Allaman",
+      "auteurs": [
+        {
+          "nom": "Didier Lohri",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": [
+        {
+          "ofs": 5642,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5851,
+          "origine": "titre"
+        }
+      ]
+    },
     {
       "cle": "vd/24_LEG_152",
       "numero": "24_LEG_152",
@@ -3246,35 +3275,6 @@
         {
           "ofs": 5851,
           "origine": "document"
-        }
-      ]
-    },
-    {
-      "cle": "vd/21_INT_150",
-      "numero": "21_INT_150",
-      "type": "Interpellation",
-      "depose": "2021-11-16",
-      "titre": "Méga-Saute-mouton Morges - Allaman",
-      "auteurs": [
-        {
-          "nom": "Didier Lohri",
-          "parti": "VER"
-        }
-      ],
-      "nombre_auteurs": 1,
-      "statut": {
-        "libelle": "Transmise au CE",
-        "date": "2021-11-23"
-      },
-      "derniere_etape": "2021-11-23",
-      "communes": [
-        {
-          "ofs": 5642,
-          "origine": "titre"
-        },
-        {
-          "ofs": 5851,
-          "origine": "titre"
         }
       ]
     },

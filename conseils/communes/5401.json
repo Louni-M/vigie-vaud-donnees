@@ -1,8 +1,33 @@
 {
   "version": 1,
-  "genere": "2026-11-05T09:54:02Z",
+  "genere": "2026-11-06T11:38:00Z",
   "commune": 5401,
   "objets": [
+    {
+      "cle": "vd/25_LEG_78",
+      "numero": "25_LEG_78",
+      "type": "Décret/Loi",
+      "depose": "2026-11-10",
+      "titre": "Accordant au Conseil d'Etat un crédit d’étude de CHF 1'400'000.- pour financer les études d’assainissement et de renforcement du pont du Larrevoin de la RC 705, sur le territoire de la commune d’Aigle",
+      "auteurs": [
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": [
+        {
+          "ofs": 5401,
+          "origine": "titre"
+        }
+      ]
+    },
     {
       "cle": "vd/26_INT_111",
       "numero": "26_INT_111",

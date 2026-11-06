@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-05T23:41:12Z",
+  "genere": "2026-11-06T11:38:00Z",
   "conseils": [
     {
       "cle": "vd",
@@ -11,7 +11,7 @@
         "objets",
         "seances"
       ],
-      "objets": 8367,
+      "objets": 8374,
       "objets_par_annee": {
         "1950": 1,
         "2008": 308,
@@ -32,9 +32,181 @@
         "2023": 642,
         "2024": 705,
         "2025": 736,
-        "2026": 627
+        "2026": 634
       },
       "recents": [
+        {
+          "cle": "vd/26_PAR_5",
+          "numero": "26_PAR_5",
+          "type": "Recours de compétence",
+          "depose": "2026-11-10",
+          "titre": "Rapport annuel sur l’activité du Conseil de la magistrature pour l’année 2025",
+          "auteurs": [
+            {
+              "nom": "Laurence Cretegny",
+              "parti": "PLR"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-11-10"
+          },
+          "derniere_etape": "2026-11-10",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_LEG_39",
+          "numero": "26_LEG_39",
+          "type": "Décret/Loi",
+          "depose": "2026-11-10",
+          "titre": "Accordant au Conseil d'Etat un crédit-cadre de CHF 5’250'000.- pour financer la réalisation des mesures d'assainissement du bruit le long des routes cantonales selon la convention-programme signée entre le Canton et la Confédération pour la période 2025-2028 et des secteurs concernant les routes principales",
+          "auteurs": [
+            {
+              "nom": "Pierre-Alain Favrod",
+              "parti": "UDC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-11-10"
+          },
+          "derniere_etape": "2026-11-10",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_LEG_18",
+          "numero": "26_LEG_18",
+          "type": "Décret/Loi",
+          "depose": "2026-11-10",
+          "titre": "Accordant au Conseil d'Etat un crédit d’ouvrage de CHF 26’300'000.- pour financer la part cantonale des travaux de requalification de la RC 1 – Dully – Gland – Prangins – entre le carrefour de la Bossière (non compris) à Prangins, et la limite communale de Dully, sur les communes de Prangins et Gland",
+          "auteurs": [
+            {
+              "nom": "Pierre-Alain Favrod",
+              "parti": "UDC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-11-10"
+          },
+          "derniere_etape": "2026-11-10",
+          "communes": [
+            {
+              "ofs": 5855,
+              "origine": "titre"
+            },
+            {
+              "ofs": 5721,
+              "origine": "titre"
+            },
+            {
+              "ofs": 5725,
+              "origine": "titre"
+            }
+          ]
+        },
+        {
+          "cle": "vd/25_LEG_78",
+          "numero": "25_LEG_78",
+          "type": "Décret/Loi",
+          "depose": "2026-11-10",
+          "titre": "Accordant au Conseil d'Etat un crédit d’étude de CHF 1'400'000.- pour financer les études d’assainissement et de renforcement du pont du Larrevoin de la RC 705, sur le territoire de la commune d’Aigle",
+          "auteurs": [
+            {
+              "nom": "Pierre-Alain Favrod",
+              "parti": "UDC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-11-10"
+          },
+          "derniere_etape": "2026-11-10",
+          "communes": [
+            {
+              "ofs": 5401,
+              "origine": "titre"
+            }
+          ]
+        },
+        {
+          "cle": "vd/25_LEG_70",
+          "numero": "25_LEG_70",
+          "type": "Décret/Loi",
+          "depose": "2026-11-10",
+          "titre": "Accordant au Conseil d'Etat un crédit d’ouvrage de CHF 10'775'000.- pour financer les travaux d’assainissement et de renforcement du viaduc de la RC 601 sur la Broye et les voies CFF, sur le territoire des communes de Lucens et Curtilles",
+          "auteurs": [
+            {
+              "nom": "Pierre-Alain Favrod",
+              "parti": "UDC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-11-10"
+          },
+          "derniere_etape": "2026-11-10",
+          "communes": [
+            {
+              "ofs": 5675,
+              "origine": "titre"
+            },
+            {
+              "ofs": 5669,
+              "origine": "titre"
+            }
+          ]
+        },
+        {
+          "cle": "vd/25_LEG_177",
+          "numero": "25_LEG_177",
+          "type": "Décret/Loi",
+          "depose": "2026-11-10",
+          "titre": "Accordant au Conseil d'Etat un crédit d’ouvrage de CHF 39’600'000.- pour financer les travaux de la RC 705 B-P pour la reconstruction du tronçon routier du secteur de la Frasse sur la commune d’Ormont-Dessous",
+          "auteurs": [
+            {
+              "nom": "Pierre-Alain Favrod",
+              "parti": "UDC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-11-10"
+          },
+          "derniere_etape": "2026-11-10",
+          "communes": [
+            {
+              "ofs": 5410,
+              "origine": "titre"
+            }
+          ]
+        },
+        {
+          "cle": "vd/25_LEG_143",
+          "numero": "25_LEG_143",
+          "type": "Décret/Loi",
+          "depose": "2026-11-10",
+          "titre": "Autorisant le Conseil d'Etat à adhérer, au nom de l'Etat de Vaud, à la Convention justitia.swiss",
+          "auteurs": [
+            {
+              "nom": "Yann Glayre",
+              "parti": "UDC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-11-10"
+          },
+          "derniere_etape": "2026-11-10",
+          "communes": []
+        },
         {
           "cle": "vd/26_REP_186",
           "numero": "26_REP_186",
@@ -190,9 +362,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -210,9 +382,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -230,9 +402,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -250,9 +422,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -294,9 +466,9 @@
           "nombre_auteurs": 2,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -314,9 +486,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -334,9 +506,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -354,9 +526,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -374,9 +546,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -394,9 +566,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -414,9 +586,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -434,9 +606,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -454,9 +626,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -478,9 +650,9 @@
           "nombre_auteurs": 2,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -498,9 +670,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": [
             {
               "ofs": 5721,
@@ -527,9 +699,9 @@
           "nombre_auteurs": 2,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -547,9 +719,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -567,9 +739,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -587,9 +759,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -607,9 +779,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -631,9 +803,9 @@
           "nombre_auteurs": 2,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -651,9 +823,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -671,9 +843,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -691,9 +863,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -711,9 +883,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -731,9 +903,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -751,9 +923,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-03"
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -1297,8 +1469,8 @@
           "communes": []
         }
       ],
-      "seances": 663,
-      "prochaine_seance": null,
+      "seances": 664,
+      "prochaine_seance": "vd/2026-11-10",
       "derniere_seance": "vd/2026-11-03"
     },
     {
@@ -1984,7 +2156,7 @@
     }
   ],
   "communes": {
-    "5401": 214,
+    "5401": 215,
     "5402": 76,
     "5403": 5,
     "5404": 1,
@@ -1993,7 +2165,7 @@
     "5407": 55,
     "5408": 42,
     "5409": 47,
-    "5410": 20,
+    "5410": 21,
     "5411": 15,
     "5412": 85,
     "5413": 17,
@@ -2127,11 +2299,11 @@
     "5655": 4,
     "5656": 24,
     "5665": 4,
-    "5669": 6,
+    "5669": 7,
     "5671": 2,
     "5673": 1,
     "5674": 2,
-    "5675": 38,
+    "5675": 39,
     "5678": 108,
     "5680": 2,
     "5683": 1,
@@ -2157,10 +2329,10 @@
     "5718": 21,
     "5719": 1,
     "5720": 2,
-    "5721": 67,
+    "5721": 68,
     "5723": 25,
     "5724": 302,
-    "5725": 38,
+    "5725": 39,
     "5726": 1,
     "5727": 19,
     "5728": 1,
@@ -2216,7 +2388,7 @@
     "5852": 5,
     "5853": 17,
     "5854": 2,
-    "5855": 9,
+    "5855": 10,
     "5856": 2,
     "5857": 3,
     "5858": 5,

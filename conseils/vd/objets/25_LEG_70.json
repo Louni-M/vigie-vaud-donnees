@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "genere": "2026-11-06T11:38:00Z",
+  "id": 342642,
+  "numero": "25_LEG_70",
+  "type": "Décret/Loi",
+  "statut": {
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-10"
+  },
+  "depose": "2026-11-10",
+  "titre": "Accordant au Conseil d'Etat un crédit d’ouvrage de CHF 10'775'000.- pour financer les travaux d’assainissement et de renforcement du viaduc de la RC 601 sur la Broye et les voies CFF, sur le territoire des communes de Lucens et Curtilles",
+  "contributeurs": [
+    {
+      "nom": "Pierre-Alain Favrod",
+      "parti": "UDC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
+  "etapes": [
+    {
+      "date": "2026-11-10",
+      "libelle": "Déposé"
+    },
+    {
+      "date": "2026-11-10",
+      "libelle": "A l'ordre du jour"
+    }
+  ],
+  "documents": [],
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a06c4986-044a-4b3d-b1cc-ed8c024ba98a/meeting/1033715",
+  "communes": [
+    {
+      "ofs": 5675,
+      "origine": "titre"
+    },
+    {
+      "ofs": 5669,
+      "origine": "titre"
+    }
+  ]
+}

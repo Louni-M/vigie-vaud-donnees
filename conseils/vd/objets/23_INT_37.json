@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-06T11:38:00Z",
   "id": 227066,
   "numero": "23_INT_37",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Transmise au CE",
-    "date": "2023-03-21"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-10"
   },
   "depose": "2023-03-14",
   "titre": "Autoroutes solaires : du rêve à la réalité ?",
@@ -21,11 +21,15 @@
   "etapes": [
     {
       "date": "2023-03-14",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2023-03-21",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
+    },
+    {
+      "date": "2026-11-10",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -35,6 +39,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/2335#515"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/c51fbe29-36e5-480f-b5c2-e31853652156/meeting/1013638",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/39d69b90-747b-49e9-a545-4f385723ff2a/meeting/1033715",
   "communes": []
 }

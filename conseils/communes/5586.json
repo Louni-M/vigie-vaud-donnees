@@ -1,8 +1,107 @@
 {
   "version": 1,
-  "genere": "2026-11-05T09:54:02Z",
+  "genere": "2026-11-06T11:38:00Z",
   "commune": 5586,
   "objets": [
+    {
+      "cle": "vd/24_POS_51",
+      "numero": "24_POS_51",
+      "type": "Postulat",
+      "depose": "2024-11-12",
+      "titre": "Voies express cyclables sur l'axe lémanique – une infrastructure de mobilité clé entre agglomérations, au nom de Nathalie Vez et Sébastien Humbert",
+      "auteurs": [
+        {
+          "nom": "Laurent Balsiger",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_MOT_46",
+      "numero": "24_MOT_46",
+      "type": "Motion",
+      "depose": "2024-11-19",
+      "titre": "Motion pour la réalisation d’un parking d’échange lors du prolongement du tramway de Renens à Villars-Ste-Croix",
+      "auteurs": [
+        {
+          "nom": "Aurélien Demaurex",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": [
+        {
+          "ofs": 5591,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5651,
+          "origine": "titre"
+        },
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5624,
+          "origine": "document"
+        },
+        {
+          "ofs": 5583,
+          "origine": "document"
+        },
+        {
+          "ofs": 5635,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/18_INT_190",
+      "numero": "18_INT_190",
+      "type": "Interpellation",
+      "depose": "2018-06-05",
+      "titre": "Travaux sur la ligne Genève-Lausanne-Berne : les CFF nous berneront-ils encore longtemps ?",
+      "auteurs": [
+        {
+          "nom": "Arnaud Bouverat",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
     {
       "cle": "vd/24_LEG_152",
       "numero": "24_LEG_152",
@@ -4248,76 +4347,6 @@
       "communes": [
         {
           "ofs": 5586,
-          "origine": "document"
-        }
-      ]
-    },
-    {
-      "cle": "vd/24_POS_51",
-      "numero": "24_POS_51",
-      "type": "Postulat",
-      "depose": "2024-11-12",
-      "titre": "Voies express cyclables sur l'axe lémanique – une infrastructure de mobilité clé entre agglomérations, au nom de Nathalie Vez et Sébastien Humbert",
-      "auteurs": [
-        {
-          "nom": "Laurent Balsiger",
-          "parti": "SOC"
-        }
-      ],
-      "nombre_auteurs": 1,
-      "statut": {
-        "libelle": "Renvoyée à commission",
-        "date": "2024-11-19"
-      },
-      "derniere_etape": "2024-11-19",
-      "communes": [
-        {
-          "ofs": 5586,
-          "origine": "document"
-        }
-      ]
-    },
-    {
-      "cle": "vd/24_MOT_46",
-      "numero": "24_MOT_46",
-      "type": "Motion",
-      "depose": "2024-11-19",
-      "titre": "Motion pour la réalisation d’un parking d’échange lors du prolongement du tramway de Renens à Villars-Ste-Croix",
-      "auteurs": [
-        {
-          "nom": "Aurélien Demaurex",
-          "parti": "V'L"
-        }
-      ],
-      "nombre_auteurs": 1,
-      "statut": {
-        "libelle": "Renvoyée à commission",
-        "date": "2024-11-19"
-      },
-      "derniere_etape": "2024-11-19",
-      "communes": [
-        {
-          "ofs": 5591,
-          "origine": "titre"
-        },
-        {
-          "ofs": 5651,
-          "origine": "titre"
-        },
-        {
-          "ofs": 5586,
-          "origine": "document"
-        },
-        {
-          "ofs": 5624,
-          "origine": "document"
-        },
-        {
-          "ofs": 5583,
-          "origine": "document"
-        },
-        {
-          "ofs": 5635,
           "origine": "document"
         }
       ]
@@ -32507,35 +32536,6 @@
       "communes": [
         {
           "ofs": 5586,
-          "origine": "document"
-        }
-      ]
-    },
-    {
-      "cle": "vd/18_INT_190",
-      "numero": "18_INT_190",
-      "type": "Interpellation",
-      "depose": "2018-06-05",
-      "titre": "Travaux sur la ligne Genève-Lausanne-Berne : les CFF nous berneront-ils encore longtemps ?",
-      "auteurs": [
-        {
-          "nom": "Arnaud Bouverat",
-          "parti": "SOC"
-        }
-      ],
-      "nombre_auteurs": 1,
-      "statut": {
-        "libelle": "Renvoyée au Conseil d'Etat",
-        "date": "2018-06-19"
-      },
-      "derniere_etape": "2018-06-19",
-      "communes": [
-        {
-          "ofs": 5586,
-          "origine": "document"
-        },
-        {
-          "ofs": 5805,
           "origine": "document"
         }
       ]

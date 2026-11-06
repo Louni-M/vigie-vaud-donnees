@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-06T11:38:00Z",
   "id": 225639,
   "numero": "21_INT_148",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Transmise au CE",
-    "date": "2021-11-23"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-10"
   },
   "depose": "2021-11-16",
   "titre": "Liaison ferroviaire Genève Aéroport – Mies - Coppet",
@@ -21,11 +21,15 @@
   "etapes": [
     {
       "date": "2021-11-16",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2021-11-23",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
+    },
+    {
+      "date": "2026-11-10",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -35,7 +39,7 @@
       "lien": "https://www.sonomix.ch/live/gcvd/1966#857"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/20136c90-1d08-42d4-b2a6-d40dc3991bf1/meeting/1004411",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e45a5dce-f8b4-411b-aecb-b92838e5a04f/meeting/1033715",
   "communes": [
     {
       "ofs": 5723,

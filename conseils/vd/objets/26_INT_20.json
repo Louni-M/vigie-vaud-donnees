@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-06T11:38:00Z",
   "id": 296044,
   "numero": "26_INT_20",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Traktandiert",
-    "date": "2026-03-03"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-10"
   },
   "depose": "2026-02-24",
   "titre": "Des véhicules agricoles en difficulté sur nos routes",
@@ -21,18 +21,22 @@
   "etapes": [
     {
       "date": "2026-02-24",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2026-02-24",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
     },
     {
       "date": "2026-03-03",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-10",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/32f5367f-b827-4f13-bf44-20e85342c525/meeting/1029658",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/e188dbf4-b067-4b1e-9ed5-06f30e86ec6b/meeting/1033715",
   "communes": []
 }

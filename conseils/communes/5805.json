@@ -1,8 +1,37 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-06T11:38:00Z",
   "commune": 5805,
   "objets": [
+    {
+      "cle": "vd/18_INT_190",
+      "numero": "18_INT_190",
+      "type": "Interpellation",
+      "depose": "2018-06-05",
+      "titre": "Travaux sur la ligne Genève-Lausanne-Berne : les CFF nous berneront-ils encore longtemps ?",
+      "auteurs": [
+        {
+          "nom": "Arnaud Bouverat",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5805,
+          "origine": "document"
+        }
+      ]
+    },
     {
       "cle": "vd/24_INT_7",
       "numero": "24_INT_7",
@@ -1187,35 +1216,6 @@
         },
         {
           "ofs": 5586,
-          "origine": "document"
-        }
-      ]
-    },
-    {
-      "cle": "vd/18_INT_190",
-      "numero": "18_INT_190",
-      "type": "Interpellation",
-      "depose": "2018-06-05",
-      "titre": "Travaux sur la ligne Genève-Lausanne-Berne : les CFF nous berneront-ils encore longtemps ?",
-      "auteurs": [
-        {
-          "nom": "Arnaud Bouverat",
-          "parti": "SOC"
-        }
-      ],
-      "nombre_auteurs": 1,
-      "statut": {
-        "libelle": "Renvoyée au Conseil d'Etat",
-        "date": "2018-06-19"
-      },
-      "derniere_etape": "2018-06-19",
-      "communes": [
-        {
-          "ofs": 5586,
-          "origine": "document"
-        },
-        {
-          "ofs": 5805,
           "origine": "document"
         }
       ]

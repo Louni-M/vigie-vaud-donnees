@@ -1,8 +1,37 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-06T11:38:00Z",
   "commune": 5724,
   "objets": [
+    {
+      "cle": "vd/25_POS_60",
+      "numero": "25_POS_60",
+      "type": "Postulat",
+      "depose": "2025-11-11",
+      "titre": "Postulat : Liaisons de transports publics entre la Vallée de Joux, Morez et Nyon",
+      "auteurs": [
+        {
+          "nom": "Sébastien Cala",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Pierre-Alain Favrod",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": [
+        {
+          "ofs": 5724,
+          "origine": "titre"
+        }
+      ]
+    },
     {
       "cle": "vd/24_INT_110",
       "numero": "24_INT_110",
@@ -434,35 +463,6 @@
         "date": "2025-12-16"
       },
       "derniere_etape": "2025-12-16",
-      "communes": [
-        {
-          "ofs": 5724,
-          "origine": "titre"
-        }
-      ]
-    },
-    {
-      "cle": "vd/25_POS_60",
-      "numero": "25_POS_60",
-      "type": "Postulat",
-      "depose": "2025-11-11",
-      "titre": "Postulat : Liaisons de transports publics entre la Vallée de Joux, Morez et Nyon",
-      "auteurs": [
-        {
-          "nom": "Sébastien Cala",
-          "parti": "SOC"
-        },
-        {
-          "nom": "Pierre-Alain Favrod",
-          "parti": "UDC"
-        }
-      ],
-      "nombre_auteurs": 2,
-      "statut": {
-        "libelle": "Renvoyée à commission",
-        "date": "2025-11-18"
-      },
-      "derniere_etape": "2025-11-18",
       "communes": [
         {
           "ofs": 5724,
