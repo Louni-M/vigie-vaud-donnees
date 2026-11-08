@@ -1,54 +1,54 @@
 {
   "version": 1,
-  "genere": "2026-11-07T20:32:33Z",
+  "genere": "2026-11-07T23:59:47Z",
   "sources": {
     "camac-permis": {
       "etat": "disponible",
       "depuis": "2026-10-15T20:03:59Z",
-      "derniere_sonde": "2026-11-07T20:32:33Z",
-      "dernier_succes": "2026-11-07T20:32:33Z",
+      "derniere_sonde": "2026-11-07T23:59:47Z",
+      "dernier_succes": "2026-11-07T23:59:47Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "dgmr-restrictions": {
       "etat": "disponible",
       "depuis": "2026-10-19T14:43:18Z",
-      "derniere_sonde": "2026-11-07T20:32:34Z",
-      "dernier_succes": "2026-11-07T20:32:34Z",
+      "derniere_sonde": "2026-11-07T23:59:49Z",
+      "dernier_succes": "2026-11-07T23:59:49Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-vd": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:03Z",
-      "derniere_sonde": "2026-11-07T20:32:35Z",
-      "dernier_succes": "2026-11-07T20:32:35Z",
+      "derniere_sonde": "2026-11-07T23:59:49Z",
+      "dernier_succes": "2026-11-07T23:59:49Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-5586": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:04Z",
-      "derniere_sonde": "2026-11-07T20:32:35Z",
-      "dernier_succes": "2026-11-07T20:32:35Z",
+      "derniere_sonde": "2026-11-07T23:59:50Z",
+      "dernier_succes": "2026-11-07T23:59:50Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-5938": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:04Z",
-      "derniere_sonde": "2026-11-07T20:32:35Z",
-      "dernier_succes": "2026-11-07T20:32:35Z",
+      "derniere_sonde": "2026-11-07T23:59:50Z",
+      "dernier_succes": "2026-11-07T23:59:50Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5414": {
       "etat": "disponible",
       "depuis": "2026-10-24T13:35:59Z",
-      "derniere_sonde": "2026-11-07T20:33:06Z",
-      "dernier_succes": "2026-11-07T16:38:46Z",
-      "echecs_consecutifs": 1,
-      "motif": "délai dépassé"
+      "derniere_sonde": "2026-11-08T00:00:01Z",
+      "dernier_succes": "2026-11-08T00:00:01Z",
+      "echecs_consecutifs": 0,
+      "motif": null
     },
     "site-5458": {
       "etat": "disponible",
@@ -147,57 +147,57 @@
       "motif": null
     },
     "site-5749": {
-      "etat": "en_panne",
-      "depuis": "2026-11-07T10:30:08Z",
-      "derniere_sonde": "2026-11-07T20:33:14Z",
-      "dernier_succes": "2026-11-06T11:36:54Z",
-      "echecs_consecutifs": 3,
-      "motif": "accès refusé"
+      "etat": "disponible",
+      "depuis": "2026-11-08T00:00:15Z",
+      "derniere_sonde": "2026-11-08T00:00:15Z",
+      "dernier_succes": "2026-11-08T00:00:15Z",
+      "echecs_consecutifs": 0,
+      "motif": null
     },
     "site-5764": {
-      "etat": "en_panne",
-      "depuis": "2026-11-07T10:30:08Z",
-      "derniere_sonde": "2026-11-07T20:33:14Z",
-      "dernier_succes": "2026-11-06T11:37:07Z",
-      "echecs_consecutifs": 3,
-      "motif": "accès refusé"
+      "etat": "disponible",
+      "depuis": "2026-11-08T00:00:27Z",
+      "derniere_sonde": "2026-11-08T00:00:27Z",
+      "dernier_succes": "2026-11-08T00:00:27Z",
+      "echecs_consecutifs": 0,
+      "motif": null
     },
     "site-5841": {
-      "etat": "en_panne",
-      "depuis": "2026-11-07T10:30:08Z",
-      "derniere_sonde": "2026-11-07T20:33:14Z",
-      "dernier_succes": "2026-11-06T11:37:22Z",
-      "echecs_consecutifs": 3,
-      "motif": "accès refusé"
+      "etat": "disponible",
+      "depuis": "2026-11-08T00:00:40Z",
+      "derniere_sonde": "2026-11-08T00:00:40Z",
+      "dernier_succes": "2026-11-08T00:00:40Z",
+      "echecs_consecutifs": 0,
+      "motif": null
     },
     "site-5851": {
-      "etat": "en_panne",
-      "depuis": "2026-11-07T10:30:09Z",
-      "derniere_sonde": "2026-11-07T20:33:14Z",
-      "dernier_succes": "2026-11-06T11:37:34Z",
-      "echecs_consecutifs": 3,
-      "motif": "accès refusé"
+      "etat": "disponible",
+      "depuis": "2026-11-08T00:00:51Z",
+      "derniere_sonde": "2026-11-08T00:00:51Z",
+      "dernier_succes": "2026-11-08T00:00:51Z",
+      "echecs_consecutifs": 0,
+      "motif": null
     },
     "site-5883": {
       "etat": "en_panne",
       "depuis": "2026-11-07T10:30:09Z",
-      "derniere_sonde": "2026-11-07T20:33:14Z",
+      "derniere_sonde": "2026-11-08T00:01:27Z",
       "dernier_succes": "2026-11-06T11:37:46Z",
-      "echecs_consecutifs": 3,
-      "motif": "accès refusé"
+      "echecs_consecutifs": 4,
+      "motif": "délai dépassé"
     },
     "site-5892": {
       "etat": "en_panne",
       "depuis": "2026-11-07T10:30:10Z",
-      "derniere_sonde": "2026-11-07T20:33:14Z",
+      "derniere_sonde": "2026-11-08T00:01:27Z",
       "dernier_succes": "2026-11-06T11:37:59Z",
-      "echecs_consecutifs": 3,
+      "echecs_consecutifs": 4,
       "motif": "accès refusé"
     }
   },
   "reseaux": {
     "195.65.10.0/24": {
-      "depuis": "2026-11-07T20:33:06Z",
+      "depuis": "2026-11-08T00:01:27Z",
       "jusqu_a": null,
       "motif": "délai dépassé"
     }
