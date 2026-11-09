@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-06T11:38:00Z",
+  "genere": "2026-11-09T20:52:55Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -315,6 +315,18 @@
       "points": 0
     },
     {
+      "cle": "5415/2026-12-17",
+      "conseil": "5415",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-12-17",
+      "titre": "Assemblée du 17 décembre 2026",
+      "communes": [
+        5415
+      ],
+      "points": 0
+    },
+    {
       "cle": "5712/2026-12-14",
       "conseil": "5712",
       "sorte": "seance",
@@ -359,6 +371,30 @@
       "titre": "Conseil communal du 10 décembre 2026",
       "communes": [
         5749
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5886/2026-12-10",
+      "conseil": "5886",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-12-10",
+      "titre": "Séance du 10 décembre 2026",
+      "communes": [
+        5886
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5886/2026-12-09",
+      "conseil": "5886",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-12-09",
+      "titre": "Séance du 9 décembre 2026",
+      "communes": [
+        5886
       ],
       "points": 0
     },
@@ -459,6 +495,18 @@
       "points": 0
     },
     {
+      "cle": "5805/2026-12-07",
+      "conseil": "5805",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-12-07",
+      "titre": "Assemblée du 7 décembre 2026",
+      "communes": [
+        5805
+      ],
+      "points": 0
+    },
+    {
       "cle": "5841/2026-12-05",
       "conseil": "5841",
       "sorte": "seance",
@@ -495,6 +543,18 @@
       "points": 0
     },
     {
+      "cle": "5413/2026-12-02",
+      "conseil": "5413",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-12-02",
+      "titre": "Séance du 2 décembre 2026",
+      "communes": [
+        5413
+      ],
+      "points": 0
+    },
+    {
       "cle": "5892/2026-12-01",
       "conseil": "5892",
       "sorte": "seance",
@@ -507,6 +567,30 @@
       "points": 0
     },
     {
+      "cle": "5415/2026-11-12",
+      "conseil": "5415",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-11-12",
+      "titre": "Assemblée du 12 novembre 2026",
+      "communes": [
+        5415
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5886/2026-11-11",
+      "conseil": "5886",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-11-11",
+      "titre": "séance 11 novembre 2026",
+      "communes": [
+        5886
+      ],
+      "points": 19
+    },
+    {
       "cle": "5586/2026-11-10",
       "conseil": "5586",
       "sorte": "seance",
@@ -517,6 +601,42 @@
         5586
       ],
       "points": 113
+    },
+    {
+      "cle": "5861/2026-11-10",
+      "conseil": "5861",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-11-10",
+      "titre": "Séance du 10 novembre 2026",
+      "communes": [
+        5861
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5861/2026-2031-02",
+      "conseil": "5861",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-10",
+      "titre": "Demande de crédit de réalisation pour la mise en place d'horodateurs sur le domaine public communal - Augmentation des ETP de la Sécurité publique et du Service des finances - Règlement sur le stationnement privilégié des résidents et autres ayants droit",
+      "communes": [
+        5861
+      ],
+      "points": null
+    },
+    {
+      "cle": "5861/2026-2031-09",
+      "conseil": "5861",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-10",
+      "titre": "Budget de fonctionnement 2027",
+      "communes": [
+        5861
+      ],
+      "points": null
     },
     {
       "cle": "vd/2026-11-10",
@@ -610,6 +730,30 @@
       "points": null
     },
     {
+      "cle": "5717/005_2026-2031",
+      "conseil": "5717",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-09",
+      "titre": "Demande de crédit de CHF 114'000.00 pour le déplacement des armoires de contrôle de l'éclairage public des stations Romande Energie",
+      "communes": [
+        5717
+      ],
+      "points": null
+    },
+    {
+      "cle": "5717/2026-11-09",
+      "conseil": "5717",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-11-09",
+      "titre": "Séance du 9 novembre 2026",
+      "communes": [
+        5717
+      ],
+      "points": 0
+    },
+    {
       "cle": "5414/2026-11-05",
       "conseil": "5414",
       "sorte": "seance",
@@ -632,6 +776,126 @@
         5938
       ],
       "points": 14
+    },
+    {
+      "cle": "5886/35-2026",
+      "conseil": "5886",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-04",
+      "titre": "relatif à la réorganisation de la section conciergerie et à l’attribution de ressources nécessaires à l’accomplissement de ses missions",
+      "communes": [
+        5886
+      ],
+      "points": null
+    },
+    {
+      "cle": "5886/37-2026",
+      "conseil": "5886",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-04",
+      "titre": "relatif aux compétences financières de la Municipalité pour la durée de la législature 2026-2031 en matière de dépenses imprévisibles et exceptionnelles jusqu’à concurrence de CHF 75’000.- par cas",
+      "communes": [
+        5886
+      ],
+      "points": null
+    },
+    {
+      "cle": "5886/38-2026",
+      "conseil": "5886",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-04",
+      "titre": "relatif au budget communal ordinaire pour 2027",
+      "communes": [
+        5886
+      ],
+      "points": null
+    },
+    {
+      "cle": "5886/39-2026",
+      "conseil": "5886",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-04",
+      "titre": "relatif à la réaffectation des fonds et réserves pour le passage au Modèle comptable harmonisé 2 (MCH2)",
+      "communes": [
+        5886
+      ],
+      "points": null
+    },
+    {
+      "cle": "5886/40-2026",
+      "conseil": "5886",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-04",
+      "titre": "relatif à la fixation des plafonds d’endettement et de cautionnement pour la durée de la législature 2026-2031",
+      "communes": [
+        5886
+      ],
+      "points": null
+    },
+    {
+      "cle": "5886/41-2026",
+      "conseil": "5886",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-04",
+      "titre": "relatif à l’octroi d’un crédit d’investissement du patrimoine administratif d'un montant maximum de CHF 2'800’000.- TTC pour l’extension du réseau public communal d’évacuation des eaux usées dans le secteur La Côte-à-Tavel - En Adversan - Les Jorettes (Villard-sur-Chamby et Les Avants), pour la mise en séparatif au chemin de Maulever (Glion), ainsi que dans le quartier des Tilleuls (Montreux) et pour la participation financière de la Commune de Montreux à la mise en conformité des conduites d’eau potable pour la défense incendie",
+      "communes": [
+        5886
+      ],
+      "points": null
+    },
+    {
+      "cle": "5886/42-2026",
+      "conseil": "5886",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-04",
+      "titre": "relatif à l’octroi d’un crédit d’investissement de CHF 1’602’000.00 TTC au maximum pour le renouvellement et l’acquisition de véhicules, de machines et pour l’installation de bornes électriques",
+      "communes": [
+        5886
+      ],
+      "points": null
+    },
+    {
+      "cle": "5886/43-2026",
+      "conseil": "5886",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-04",
+      "titre": "relatif à l’octroi à la Municipalité, pour la durée de la législature 2026-2031, d’une autorisation générale de statuer sur les acquisitions et aliénations d’immeubles, de droits réels immobiliers et de titres de sociétés de capitaux ayant comme but principal l'acquisition, la détention, la gestion ou la valorisation de biens immobiliers, jusqu’à CHF 20'000'000.- par objet et au maximum CHF 40'000'000.-, ainsi que sur l’acquisition de participations dans des sociétés commerciales pour un maximum de CHF 250'000.-",
+      "communes": [
+        5886
+      ],
+      "points": null
+    },
+    {
+      "cle": "5886/44-2026",
+      "conseil": "5886",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-04",
+      "titre": "relatif au budget 2027 du Fonds culturel Riviera",
+      "communes": [
+        5886
+      ],
+      "points": null
+    },
+    {
+      "cle": "5886/45-2026",
+      "conseil": "5886",
+      "sorte": "objet",
+      "type": "Rapport",
+      "date": "2026-11-04",
+      "titre": "relatif à la réponse au postulat de M. le Conseiller communal Christian Allenbach « Quelle politique d’intégration dans la Commune de Montreux ? », pris en considération le 21 janvier 2015",
+      "communes": [
+        5886
+      ],
+      "points": null
     },
     {
       "cle": "5586/2026-11-03",
@@ -1204,6 +1468,54 @@
       "titre": "Conseil communal du 29 octobre 2026 - ANNULE",
       "communes": [
         5749
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5401/2026-10-29",
+      "conseil": "5401",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-10-29",
+      "titre": "Séance du 29 octobre 2026",
+      "communes": [
+        5401
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5401/2026-14",
+      "conseil": "5401",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-10-29",
+      "titre": "Plafond d'endettement pour la législature 2026-2031",
+      "communes": [
+        5401
+      ],
+      "points": null
+    },
+    {
+      "cle": "5413/2026-10-29",
+      "conseil": "5413",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-10-29",
+      "titre": "Séance du 29 octobre 2026",
+      "communes": [
+        5413
+      ],
+      "points": 5
+    },
+    {
+      "cle": "5714/2026-10-28",
+      "conseil": "5714",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-10-28",
+      "titre": "Assemblée du 28 octobre 2026",
+      "communes": [
+        5714
       ],
       "points": 0
     },

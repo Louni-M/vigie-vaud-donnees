@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-09T09:56:54Z",
+  "genere": "2026-11-09T20:52:55Z",
   "conseils": [
     {
       "cle": "vd",
@@ -2133,6 +2133,689 @@
       "seances": 239,
       "prochaine_seance": "5892/2026-12-01",
       "derniere_seance": "5892/2026-10-27"
+    },
+    {
+      "cle": "5401",
+      "source": "site-5401",
+      "nom": "Conseil communal d’Aigle",
+      "commune": 5401,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 7,
+      "objets_par_annee": {
+        "2026": 7
+      },
+      "recents": [
+        {
+          "cle": "5401/2026-14",
+          "numero": "2026-14",
+          "type": "Préavis",
+          "depose": "2026-10-29",
+          "titre": "Plafond d'endettement pour la législature 2026-2031",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        }
+      ],
+      "seances": 5,
+      "prochaine_seance": null,
+      "derniere_seance": "5401/2026-10-29"
+    },
+    {
+      "cle": "5413",
+      "source": "site-5413",
+      "nom": "Conseil communal de Roche",
+      "commune": 5413,
+      "donne": [
+        "objets",
+        "seances"
+      ],
+      "objets": 12,
+      "objets_par_annee": {
+        "2026": 12
+      },
+      "recents": [],
+      "seances": 4,
+      "prochaine_seance": "5413/2026-12-02",
+      "derniere_seance": "5413/2026-10-29"
+    },
+    {
+      "cle": "5415",
+      "source": "site-5415",
+      "nom": "Conseil communal d’Yvorne",
+      "commune": 5415,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 5,
+      "prochaine_seance": "5415/2026-11-12",
+      "derniere_seance": "5415/2026-10-08"
+    },
+    {
+      "cle": "5431",
+      "source": "site-5431",
+      "nom": "Conseil général de Mollens",
+      "commune": 5431,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 1,
+      "prochaine_seance": null,
+      "derniere_seance": "5431/2026-06-23"
+    },
+    {
+      "cle": "5474",
+      "source": "site-5474",
+      "nom": "Conseil général de La Chaux (Cossonay)",
+      "commune": 5474,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5497",
+      "source": "site-5497",
+      "nom": "Conseil général de Pompaples",
+      "commune": 5497,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 5,
+      "objets_par_annee": {
+        "2026": 5
+      },
+      "recents": [],
+      "seances": 2,
+      "prochaine_seance": null,
+      "derniere_seance": "5497/2026-10-08"
+    },
+    {
+      "cle": "5585",
+      "source": "site-5585",
+      "nom": "Conseil communal de Jouxtens-Mézery",
+      "commune": 5585,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 5,
+      "objets_par_annee": {
+        "2026": 5
+      },
+      "recents": [],
+      "seances": 2,
+      "prochaine_seance": null,
+      "derniere_seance": "5585/2026-10-06"
+    },
+    {
+      "cle": "5621",
+      "source": "site-5621",
+      "nom": "Conseil général d’Aclens",
+      "commune": 5621,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5636",
+      "source": "site-5636",
+      "nom": "Conseil communal d’Etoy",
+      "commune": 5636,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 3,
+      "objets_par_annee": {
+        "2026": 3
+      },
+      "recents": [],
+      "seances": 3,
+      "prochaine_seance": null,
+      "derniere_seance": "5636/2026-09-28"
+    },
+    {
+      "cle": "5639",
+      "source": "site-5639",
+      "nom": "Conseil général de Lully",
+      "commune": 5639,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 8,
+      "objets_par_annee": {
+        "2026": 8
+      },
+      "recents": [],
+      "seances": 3,
+      "prochaine_seance": null,
+      "derniere_seance": "5639/2026-09-28"
+    },
+    {
+      "cle": "5673",
+      "source": "site-5673",
+      "nom": "Conseil général de Hermenches",
+      "commune": 5673,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 11,
+      "objets_par_annee": {
+        "2026": 11
+      },
+      "recents": [],
+      "seances": 2,
+      "prochaine_seance": null,
+      "derniere_seance": "5673/2026-10-06"
+    },
+    {
+      "cle": "5707",
+      "source": "site-5707",
+      "nom": "Conseil communal de Chavannes-de-Bogis",
+      "commune": 5707,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 11,
+      "objets_par_annee": {
+        "2026": 11
+      },
+      "recents": [],
+      "seances": 2,
+      "prochaine_seance": null,
+      "derniere_seance": "5707/2026-10-07"
+    },
+    {
+      "cle": "5714",
+      "source": "site-5714",
+      "nom": "Conseil communal de Crassier",
+      "commune": 5714,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 1,
+      "objets_par_annee": {
+        "2026": 1
+      },
+      "recents": [],
+      "seances": 2,
+      "prochaine_seance": null,
+      "derniere_seance": "5714/2026-10-28"
+    },
+    {
+      "cle": "5715",
+      "source": "site-5715",
+      "nom": "Conseil communal de Duillier",
+      "commune": 5715,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 9,
+      "objets_par_annee": {
+        "2026": 9
+      },
+      "recents": [],
+      "seances": 2,
+      "prochaine_seance": null,
+      "derniere_seance": "5715/2026-09-24"
+    },
+    {
+      "cle": "5717",
+      "source": "site-5717",
+      "nom": "Conseil communal de Founex",
+      "commune": 5717,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 10,
+      "objets_par_annee": {
+        "2026": 10
+      },
+      "recents": [
+        {
+          "cle": "5717/005_2026-2031",
+          "numero": "005_2026-2031",
+          "type": "Préavis",
+          "depose": "2026-11-09",
+          "titre": "Demande de crédit de CHF 114'000.00 pour le déplacement des armoires de contrôle de l'éclairage public des stations Romande Energie",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        }
+      ],
+      "seances": 3,
+      "prochaine_seance": "5717/2026-11-09",
+      "derniere_seance": "5717/2026-09-28"
+    },
+    {
+      "cle": "5719",
+      "source": "site-5719",
+      "nom": "Conseil communal de Gingins",
+      "commune": 5719,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 3,
+      "prochaine_seance": null,
+      "derniere_seance": "5719/2026-10-08"
+    },
+    {
+      "cle": "5723",
+      "source": "site-5723",
+      "nom": "Conseil communal de Mies",
+      "commune": 5723,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 5,
+      "objets_par_annee": {
+        "2026": 5
+      },
+      "recents": [],
+      "seances": 2,
+      "prochaine_seance": null,
+      "derniere_seance": "5723/2026-10-07"
+    },
+    {
+      "cle": "5728",
+      "source": "site-5728",
+      "nom": "Conseil général de Signy-Avenex",
+      "commune": 5728,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 2,
+      "prochaine_seance": null,
+      "derniere_seance": "5728/2026-10-07"
+    },
+    {
+      "cle": "5730",
+      "source": "site-5730",
+      "nom": "Conseil communal de Trélex",
+      "commune": 5730,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 3,
+      "prochaine_seance": null,
+      "derniere_seance": "5730/2026-09-22"
+    },
+    {
+      "cle": "5754",
+      "source": "site-5754",
+      "nom": "Conseil général de Juriens",
+      "commune": 5754,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 2,
+      "prochaine_seance": null,
+      "derniere_seance": "5754/2026-10-15"
+    },
+    {
+      "cle": "5798",
+      "source": "site-5798",
+      "nom": "Conseil général de Ropraz",
+      "commune": 5798,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
+    },
+    {
+      "cle": "5799",
+      "source": "site-5799",
+      "nom": "Conseil communal de Servion",
+      "commune": 5799,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 11,
+      "objets_par_annee": {
+        "2026": 11
+      },
+      "recents": [],
+      "seances": 3,
+      "prochaine_seance": null,
+      "derniere_seance": "5799/2026-10-06"
+    },
+    {
+      "cle": "5805",
+      "source": "site-5805",
+      "nom": "Conseil communal d’Oron",
+      "commune": 5805,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 7,
+      "objets_par_annee": {
+        "2026": 7
+      },
+      "recents": [],
+      "seances": 4,
+      "prochaine_seance": "5805/2026-12-07",
+      "derniere_seance": "5805/2026-10-05"
+    },
+    {
+      "cle": "5813",
+      "source": "site-5813",
+      "nom": "Conseil général de Chevroux",
+      "commune": 5813,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 4,
+      "objets_par_annee": {
+        "2026": 4
+      },
+      "recents": [],
+      "seances": 1,
+      "prochaine_seance": null,
+      "derniere_seance": "5813/2026-06-22"
+    },
+    {
+      "cle": "5861",
+      "source": "site-5861",
+      "nom": "Conseil communal de Rolle",
+      "commune": 5861,
+      "donne": [
+        "preavis",
+        "seances"
+      ],
+      "objets": 12,
+      "objets_par_annee": {
+        "2026": 12
+      },
+      "recents": [
+        {
+          "cle": "5861/2026-2031-09",
+          "numero": "2026-2031-09",
+          "type": "Préavis",
+          "depose": "2026-11-10",
+          "titre": "Budget de fonctionnement 2027",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5861/2026-2031-02",
+          "numero": "2026-2031-02",
+          "type": "Préavis",
+          "depose": "2026-11-10",
+          "titre": "Demande de crédit de réalisation pour la mise en place d'horodateurs sur le domaine public communal - Augmentation des ETP de la Sécurité publique et du Service des finances - Règlement sur le stationnement privilégié des résidents et autres ayants droit",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        }
+      ],
+      "seances": 5,
+      "prochaine_seance": "5861/2026-11-10",
+      "derniere_seance": "5861/2026-10-06"
+    },
+    {
+      "cle": "5886",
+      "source": "site-5886",
+      "nom": "Conseil communal de Montreux",
+      "commune": 5886,
+      "donne": [
+        "objets",
+        "seances"
+      ],
+      "objets": 30,
+      "objets_par_annee": {
+        "2026": 30
+      },
+      "recents": [
+        {
+          "cle": "5886/45-2026",
+          "numero": "45/2026",
+          "type": "Rapport",
+          "depose": "2026-11-04",
+          "titre": "relatif à la réponse au postulat de M. le Conseiller communal Christian Allenbach « Quelle politique d’intégration dans la Commune de Montreux ? », pris en considération le 21 janvier 2015",
+          "auteurs": [
+            {
+              "nom": "Municipalité",
+              "parti": null
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5886/44-2026",
+          "numero": "44/2026",
+          "type": "Préavis",
+          "depose": "2026-11-04",
+          "titre": "relatif au budget 2027 du Fonds culturel Riviera",
+          "auteurs": [
+            {
+              "nom": "Municipalité",
+              "parti": null
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5886/43-2026",
+          "numero": "43/2026",
+          "type": "Préavis",
+          "depose": "2026-11-04",
+          "titre": "relatif à l’octroi à la Municipalité, pour la durée de la législature 2026-2031, d’une autorisation générale de statuer sur les acquisitions et aliénations d’immeubles, de droits réels immobiliers et de titres de sociétés de capitaux ayant comme but principal l'acquisition, la détention, la gestion ou la valorisation de biens immobiliers, jusqu’à CHF 20'000'000.- par objet et au maximum CHF 40'000'000.-, ainsi que sur l’acquisition de participations dans des sociétés commerciales pour un maximum de CHF 250'000.-",
+          "auteurs": [
+            {
+              "nom": "Municipalité",
+              "parti": null
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5886/42-2026",
+          "numero": "42/2026",
+          "type": "Préavis",
+          "depose": "2026-11-04",
+          "titre": "relatif à l’octroi d’un crédit d’investissement de CHF 1’602’000.00 TTC au maximum pour le renouvellement et l’acquisition de véhicules, de machines et pour l’installation de bornes électriques",
+          "auteurs": [
+            {
+              "nom": "Municipalité",
+              "parti": null
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5886/41-2026",
+          "numero": "41/2026",
+          "type": "Préavis",
+          "depose": "2026-11-04",
+          "titre": "relatif à l’octroi d’un crédit d’investissement du patrimoine administratif d'un montant maximum de CHF 2'800’000.- TTC pour l’extension du réseau public communal d’évacuation des eaux usées dans le secteur La Côte-à-Tavel - En Adversan - Les Jorettes (Villard-sur-Chamby et Les Avants), pour la mise en séparatif au chemin de Maulever (Glion), ainsi que dans le quartier des Tilleuls (Montreux) et pour la participation financière de la Commune de Montreux à la mise en conformité des conduites d’eau potable pour la défense incendie",
+          "auteurs": [
+            {
+              "nom": "Municipalité",
+              "parti": null
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5886/40-2026",
+          "numero": "40/2026",
+          "type": "Préavis",
+          "depose": "2026-11-04",
+          "titre": "relatif à la fixation des plafonds d’endettement et de cautionnement pour la durée de la législature 2026-2031",
+          "auteurs": [
+            {
+              "nom": "Municipalité",
+              "parti": null
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5886/39-2026",
+          "numero": "39/2026",
+          "type": "Préavis",
+          "depose": "2026-11-04",
+          "titre": "relatif à la réaffectation des fonds et réserves pour le passage au Modèle comptable harmonisé 2 (MCH2)",
+          "auteurs": [
+            {
+              "nom": "Municipalité",
+              "parti": null
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5886/38-2026",
+          "numero": "38/2026",
+          "type": "Préavis",
+          "depose": "2026-11-04",
+          "titre": "relatif au budget communal ordinaire pour 2027",
+          "auteurs": [
+            {
+              "nom": "Municipalité",
+              "parti": null
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5886/37-2026",
+          "numero": "37/2026",
+          "type": "Préavis",
+          "depose": "2026-11-04",
+          "titre": "relatif aux compétences financières de la Municipalité pour la durée de la législature 2026-2031 en matière de dépenses imprévisibles et exceptionnelles jusqu’à concurrence de CHF 75’000.- par cas",
+          "auteurs": [
+            {
+              "nom": "Municipalité",
+              "parti": null
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5886/35-2026",
+          "numero": "35/2026",
+          "type": "Préavis",
+          "depose": "2026-11-04",
+          "titre": "relatif à la réorganisation de la section conciergerie et à l’attribution de ressources nécessaires à l’accomplissement de ses missions",
+          "auteurs": [
+            {
+              "nom": "Municipalité",
+              "parti": null
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        }
+      ],
+      "seances": 7,
+      "prochaine_seance": "5886/2026-11-11",
+      "derniere_seance": "5886/2026-10-07"
+    },
+    {
+      "cle": "5890",
+      "source": "site-5890",
+      "nom": "Conseil communal de Vevey",
+      "commune": 5890,
+      "donne": [
+        "seances"
+      ],
+      "objets": 0,
+      "objets_par_annee": {},
+      "recents": [],
+      "seances": 0,
+      "prochaine_seance": null,
+      "derniere_seance": null
     }
   ],
   "communes": {
