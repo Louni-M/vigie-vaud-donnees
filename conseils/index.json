@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-10T03:36:47Z",
+  "genere": "2026-11-10T11:55:45Z",
   "conseils": [
     {
       "cle": "vd",
@@ -2509,12 +2509,14 @@
         "preavis",
         "seances"
       ],
-      "objets": 0,
-      "objets_par_annee": {},
+      "objets": 11,
+      "objets_par_annee": {
+        "2026": 11
+      },
       "recents": [],
-      "seances": 0,
+      "seances": 1,
       "prochaine_seance": null,
-      "derniere_seance": null
+      "derniere_seance": "5798/2026-06-15"
     },
     {
       "cle": "5799",

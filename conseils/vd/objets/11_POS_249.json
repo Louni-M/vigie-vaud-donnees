@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-10T11:55:45Z",
   "id": 222522,
   "numero": "11_POS_249",
   "type": "Postulat",
   "statut": {
-    "libelle": "Überwiesen",
+    "libelle": "Transférer",
     "date": "2011-12-20"
   },
   "depose": "2011-06-07",
@@ -27,15 +27,15 @@
   "etapes": [
     {
       "date": "2011-06-07",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2011-06-07",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
     },
     {
       "date": "2011-12-20",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
     }
   ],
   "documents": [

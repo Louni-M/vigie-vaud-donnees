@@ -1,6 +1,19 @@
 {
   "version": 1,
-  "genere": "2026-11-09T20:52:55Z",
+  "genere": "2026-11-10T11:55:45Z",
   "conseil": "5798",
-  "seances": []
+  "seances": [
+    {
+      "cle": "5798/2026-06-15",
+      "date": "2026-06-15",
+      "points": 0,
+      "documents": [
+        {
+          "titre": "Procès-verbal",
+          "date": "2026-06-15",
+          "lien": "https://www.ropraz.ch/n1203"
+        }
+      ]
+    }
+  ]
 }

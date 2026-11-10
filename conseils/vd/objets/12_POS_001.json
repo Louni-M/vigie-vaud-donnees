@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-10T11:55:45Z",
   "id": 222773,
   "numero": "12_POS_001",
   "type": "Election",
@@ -33,15 +33,15 @@
   "etapes": [
     {
       "date": "2012-08-28",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2012-08-28",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
     },
     {
       "date": "2013-02-05",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
     }
   ],
   "documents": [

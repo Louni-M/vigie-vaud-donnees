@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-10T11:55:45Z",
   "id": 296054,
   "numero": "26_INT_9",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Überwiesen",
+    "libelle": "Transférer",
     "date": "2026-02-03"
   },
   "depose": "2026-01-27",
@@ -21,11 +21,11 @@
   "etapes": [
     {
       "date": "2026-01-27",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2026-02-03",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
     }
   ],
   "documents": [

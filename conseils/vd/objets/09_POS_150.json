@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-10T11:55:45Z",
   "id": 221768,
   "numero": "09_POS_150",
   "type": "Postulat",
   "statut": {
-    "libelle": "Überwiesen",
+    "libelle": "Transférer",
     "date": "2010-05-11"
   },
   "depose": "2009-09-22",
@@ -21,15 +21,15 @@
   "etapes": [
     {
       "date": "2009-09-22",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2009-09-22",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
     },
     {
       "date": "2010-05-11",
-      "libelle": "Überwiesen"
+      "libelle": "Transférer"
     }
   ],
   "documents": [
