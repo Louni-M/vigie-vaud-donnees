@@ -1,289 +1,296 @@
 {
   "version": 1,
-  "genere": "2026-11-06T11:38:00Z",
+  "genere": "2026-11-11T06:49:33Z",
   "id": 34046,
   "date": "2026-11-10",
   "nom": "Séance du Grand Conseil du mardi 10 novembre 2026",
   "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/detail-seance/seance-gc/1033715",
   "ordre_du_jour": [
     {
+      "numero": "2",
+      "titre": "Simple question Laure Jaton et consorts - Les bénéfices de la Loterie romande passent-ils avant la prévention des addictions ?.",
+      "categorie": null,
+      "resultat": null,
+      "objet": "vd/26_QUE_98"
+    },
+    {
       "numero": "3",
       "titre": "Question orale Marc Vuilleumier - Délai de carence, du simple au décuple….",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Terminée",
       "objet": "vd/26_HQU_135"
     },
     {
       "numero": "4",
       "titre": "Interpellation Didier Brocard et consorts - Institutions subventionnées en défaut de conformité légale : l'Etat est-il responsable ? (Pas de développement).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Transmise au CE",
       "objet": "vd/26_INT_154"
     },
     {
       "numero": "5",
       "titre": "Interpellation Sergei Aschwanden et consorts - Plus de 50 ans et IA: former l’expérience plutôt que la laisser au chômage ? (Développement).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Transmise au CE",
       "objet": "vd/26_INT_153"
     },
     {
       "numero": "6",
       "titre": "Interpellation Didier Lohri - Cyberattaque visant la plateforme de support de la DGEP : gouvernance informatique et rôle de la DGNSI dans l'enseignement obligatoire et postobligatoire (Développement).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Transmise au CE",
       "objet": "vd/26_INT_155"
     },
     {
       "numero": "7",
       "titre": "Postulat Nathalie Vez et consorts - Forêts: libre accès, risques et responsabilités (Développement et demande de renvoi à commission avec au moins 20 signatures).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyé à commission",
       "objet": "vd/26_POS_58"
     },
     {
       "numero": "8",
       "titre": "Postulat Amélie Cherbuin et consorts - Après le refus de la motion Jaccoud au niveau fédéral : Pour une action vaudoise visant à prévenir l’incarcération pour amendes impayées. (Développement et demande de renvoi à commission avec au moins 20 signatures).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyé à commission",
       "objet": "vd/26_POS_59"
     },
     {
       "numero": "9",
       "titre": "Motion Muriel Thalmann et consorts - Compensons les avantages majeurs générés par l’exploitation des gravières (Développement et demande de renvoi à commission avec au moins 20 signatures).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée à commission",
       "objet": "vd/26_MOT_77"
     },
     {
       "numero": "10",
       "titre": "Motion Quentin Racine et consorts au nom de Gregory Bovay et du groupe PLR - Faciliter l'accès à la propriété de la résidence principale par une exonération du droit de mutation (Développement et demande de renvoi à commission avec au moins 20 signatures).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée à commission",
       "objet": "vd/26_MOT_78"
     },
     {
       "numero": "11",
       "titre": "Initiative Rebecca Joly et consorts au nom Yves Paccaud, Joëlle Minacci et Céline Misiégo - Pour la reconnaissance des droits des aînées et aînés dans la Constitution (Développement et demande de renvoi à commission avec au moins 20 signatures).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée à commission",
       "objet": "vd/26_INI_15"
     },
     {
       "numero": "12",
       "titre": "EMPL (2e débat) modifiant la loi sur la police cantonale (LPol) du 17 novembre 1975 (enregistrement des appels, vidéosurveillance des lieux de détention et caméras-piétons).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Adopté par le GC",
       "objet": "vd/25_LEG_44"
     },
     {
       "numero": "13",
       "titre": "Rapport annuel sur l’activité du Conseil de la magistrature pour l’année 2025.",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Traité-e",
       "objet": "vd/26_PAR_5"
     },
     {
       "numero": "14",
       "titre": "EMPD (1er débat) autorisant le Conseil d'Etat à adhérer, au nom de l'Etat de Vaud, à la Convention justitia.swiss.",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Adopté par le GC",
       "objet": "vd/25_LEG_143"
     },
     {
       "numero": "15",
       "titre": "EMPD (1er débat) accordant au Conseil d'Etat un crédit d’ouvrage de CHF 10'775'000.- pour financer les travaux d’assainissement et de renforcement du viaduc de la RC 601 sur la Broye et les voies CFF, sur le territoire des communes de Lucens et Curtilles.",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Adopté par le GC",
       "objet": "vd/25_LEG_70"
     },
     {
       "numero": "16",
       "titre": "EMPD (1er débat) accordant au Conseil d'Etat un crédit d’étude de CHF 1'400'000.- pour financer les études d’assainissement et de renforcement du pont du Larrevoin de la RC 705, sur le territoire de la commune d’Aigle.",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Adopté par le GC",
       "objet": "vd/25_LEG_78"
     },
     {
       "numero": "17",
       "titre": "EMPD (1er débat) accordant au Conseil d'Etat un crédit d’ouvrage de CHF 39’600'000.- pour financer les travaux de la RC 705 B-P pour la reconstruction du tronçon routier du secteur de la Frasse sur la commune d’Ormont-Dessous.",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyé par manque de temps",
       "objet": "vd/25_LEG_177"
     },
     {
       "numero": "18",
       "titre": "EMPD (1er débat) accordant au Conseil d'Etat un crédit-cadre de CHF 5’250'000.- pour financer la réalisation des mesures d'assainissement du bruit le long des routes cantonales selon la convention-programme signée entre le Canton et la Confédération pour la période 2025-2028 et des secteurs concernant les routes principales.",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyé par manque de temps",
       "objet": "vd/26_LEG_39"
     },
     {
       "numero": "19",
       "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Philippe Liniger et consorts - Des panneaux solaires sur nos routes cantonales (22_INT_124).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": null
     },
     {
       "numero": "20",
       "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Marc-Olivier Buffat et consorts - autoroutes solaires : du rêve à la réalité ? (23_INT_37).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": null
     },
     {
       "numero": "21",
       "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Valérie Zonca et consorts au nom de Joëlle Minacci, Circé Fuchs, Romain Pilloud et Aurélien Clerc - Réduction de la desserte entre Villeneuve et Rennaz: quelles conséquences pour l'accès aux soins et pour le personnel hospitalier? (26_INT_85).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": null
     },
     {
       "numero": "22",
       "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Jean-Luc Bezençon et consorts au nom Groupe PLR - Des cailloux pour le Petit Poucet le long de la RC 299 (26_INT_40).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": null
     },
     {
       "numero": "23",
       "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Grégory Bovay et consorts au nom du Groupe PLR - Resquille dans les transports publics : quelles conséquences pour le Canton de Vaud? (26_INT_17).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": null
     },
     {
       "numero": "24",
       "titre": "EMPD (1er débat) accordant au Conseil d'Etat un crédit d’ouvrage de CHF 26’300'000.- pour financer la part cantonale des travaux de requalification de la RC 1 – Dully – Gland – Prangins – entre le carrefour de la Bossière (non compris) à Prangins, et la limite communale de Dully, sur les communes de Prangins et Gland.",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyé par manque de temps",
       "objet": "vd/26_LEG_18"
     },
     {
       "numero": "25",
       "titre": "Postulat Yannick Maury et consorts - Pour une stratégie de développement des navettes autonomes sur le territoire cantonal.",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyé par manque de temps",
       "objet": "vd/25_POS_45"
     },
     {
       "numero": "26",
       "titre": "Motion Aurélien Demaurex et consorts au nom du groupe Vert'libéral - Motion pour la réalisation d’un parking d’échange lors du prolongement du tramway de Renens à Villars-Ste-Croix.",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": "vd/24_MOT_46"
     },
     {
       "numero": "27",
       "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Jean-Daniel Carrard et consorts - Halte CFF d'Y-PARC: de nouveau laissée pour compte ? (26_INT_12).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": null
     },
     {
       "numero": "28",
       "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Grégory Bovay et consorts au nom du groupe PLR - Le trafic et la population saturent sur la Riviera: A quand des mesures de la part du Conseil d'Etat? (26_INT_23).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": null
     },
     {
       "numero": "29",
       "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Bernard Nicod et consorts au nom PLR - Des véhicules agricoles en difficulté sur nos routes. (26_INT_20).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": null
     },
     {
       "numero": "30",
       "titre": "Postulat Mathilde Marendaz et consorts au nom David Raedler - Accélérer la transition vers la mobilité bas-carbone : pour une réflexion en vue de la transformation de l’A1a.",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyé par manque de temps",
       "objet": "vd/25_POS_56"
     },
     {
       "numero": "31",
       "titre": "Motion Oleg Gafner et consorts - Transports publics : débranchons la prise du diesel.",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": "vd/25_MOT_15"
     },
     {
       "numero": "32",
       "titre": "Motion Céline Baux et consorts au nom Céline Baux et Monique Hofstetter - VTT et cyclotourisme : sortir des méandres administratives.",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": "vd/26_MOT_9"
     },
     {
       "numero": "33",
       "titre": "Postulat Laurent Balsiger et consorts - Voies express cyclables sur l'axe lémanique – une infrastructure de mobilité clé entre agglomérations, au nom de Nathalie Vez et Sébastien Humbert.",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyé par manque de temps",
       "objet": "vd/24_POS_51"
     },
     {
       "numero": "34",
       "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Cédric Weissert et consorts - Planification Transport '45 - Le canton de Vaud n'a-t-il pas de projets routiers ? (26_INT_91).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": null
     },
     {
       "numero": "35",
       "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation David Raedler et consorts - Transports ’45 : quelles mesures sont prévues par le Conseil d’Etat pour assurer une prise en compte des intérêts vaudois ? (25_INT_12).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": null
     },
     {
       "numero": "36",
       "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Cédric Weissert et consorts au nom UDC - Refus du projet d'extension des routes nationales - Quels impacts pour notre canton ? (24_INT_174).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": null
     },
     {
       "numero": "37",
       "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Didier Lohri - Liaison ferroviaire Genève Aéroport – Mies - Coppet (21_INT_148).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": null
     },
     {
       "numero": "38",
       "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Arnaud Bouverat et consorts - Travaux sur la ligne Genève-Lausanne-Berne : les CFF nous berneront-ils encore longtemps ? (18_INT_190).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": null
     },
     {
       "numero": "39",
       "titre": "Réponse du Conseil d'Etat au Grand Conseil à l'interpellation Didier Lohri - Méga-Saute-mouton Morges - Allaman (21_INT_150).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": null
     },
     {
       "numero": "40",
       "titre": "Postulat Sébastien Cala et consorts au nom des Députées et Députés de l'arrondissement de Nyon et du sous-arrondissement de la Vallée de Joux - Postulat : Liaisons de transports publics entre la Vallée de Joux, Morez et Nyon.",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyé par manque de temps",
       "objet": "vd/25_POS_60"
     },
     {
       "numero": "41",
       "titre": "Initiative Didier Lohri et consorts - Initiative parlementaire Élections communales : pour que l'inscription dans les délais compte (modification de l'art. 41 LEDP) (Développement et demande de prise en considération immédiate).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": "vd/26_INI_16"
     },
     {
       "numero": "42",
       "titre": "Initiative Romain Pilloud et consorts au nom d'Alice Kaeser (V'L), Nicolas Suter (PLR), Yannick Maury (VER) et Elodie Lopez (EàG) - Protection des enfants accueillis : combler une lacune du casier judiciaire (Développement et demande de prise en considération immédiate).",
       "categorie": null,
-      "resultat": null,
+      "resultat": "Renvoyée par manque de temps",
       "objet": "vd/26_INI_17"
     }
   ]

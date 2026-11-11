@@ -1,9 +1,129 @@
 {
   "version": 1,
-  "genere": "2026-11-10T11:55:45Z",
+  "genere": "2026-11-11T06:49:33Z",
   "conseil": "vd",
   "annee": 2026,
   "objets": [
+    {
+      "cle": "vd/V_10.11.2026",
+      "numero": "V 10.11.2026",
+      "type": "Consultation",
+      "depose": "2026-11-10",
+      "titre": "Inventaire cantonal des géotopes",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Inventaire cantonal des géotopes",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_QUE_98",
+      "numero": "26_QUE_98",
+      "type": "Simple question",
+      "depose": "2026-11-10",
+      "titre": "Les bénéfices de la Loterie romande passent-ils avant la prévention des addictions ?",
+      "auteurs": [
+        {
+          "nom": "Laure Jaton",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_QUE_97",
+      "numero": "26_QUE_97",
+      "type": "Simple question",
+      "depose": "2026-11-10",
+      "titre": "Assurance-maladie : quelle proportion des bénéficiaires de subsides dispose d'une assurance complémentaire ?",
+      "auteurs": [
+        {
+          "nom": "Fabrice Moscheni",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_POS_62",
+      "numero": "26_POS_62",
+      "type": "Postulat",
+      "depose": "2026-11-10",
+      "titre": "Maltraitance animale : pour un registre cantonal permettant de prévenir la récidive et garantir un meilleur suivi des sanctions",
+      "auteurs": [
+        {
+          "nom": "Valérie Zonca",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_POS_61",
+      "numero": "26_POS_61",
+      "type": "Postulat",
+      "depose": "2026-11-10",
+      "titre": "Calcul des acomptes fiscaux des contribuables modestes – pourquoi payer des acomptes pour un impôt qu'on ne doit pas ?",
+      "auteurs": [
+        {
+          "nom": "Cloé Baudet Pointet",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_POS_60",
+      "numero": "26_POS_60",
+      "type": "Postulat",
+      "depose": "2026-11-10",
+      "titre": "La santé des femmes, un impensé historique : pour un état des lieux des mesures d'accompagnement à la recherche et de prévention et une stratégie cantonale",
+      "auteurs": [
+        {
+          "nom": "Mathilde Marendaz",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        }
+      ]
+    },
     {
       "cle": "vd/26_PAR_5",
       "numero": "26_PAR_5",
@@ -14,6 +134,46 @@
         {
           "nom": "Laurence Cretegny",
           "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Traité",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_MOT_80",
+      "numero": "26_MOT_80",
+      "type": "Motion",
+      "depose": "2026-11-10",
+      "titre": "Un plan de sortie de crise pour le social parapublic",
+      "auteurs": [
+        {
+          "nom": "Joëlle Minacci",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_MOT_79",
+      "numero": "26_MOT_79",
+      "type": "Motion",
+      "depose": "2026-11-10",
+      "titre": "Favorisons la simplification de la législation sur les établissements autonomes de droit public pour assurer la poursuite optimale des intérêts publics",
+      "auteurs": [
+        {
+          "nom": "Ariane Morin",
+          "parti": "VER"
         }
       ],
       "nombre_auteurs": 1,
@@ -38,7 +198,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -58,7 +218,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -78,6 +238,106 @@
       ]
     },
     {
+      "cle": "vd/26_INT_160",
+      "numero": "26_INT_160",
+      "type": "Interpellation",
+      "depose": "2026-11-10",
+      "titre": "ECA : quand le coffre déborde, ce sont les primes qui doivent baisser",
+      "auteurs": [
+        {
+          "nom": "Henri Klunge",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_INT_159",
+      "numero": "26_INT_159",
+      "type": "Interpellation",
+      "depose": "2026-11-10",
+      "titre": "Politique d’achat coordonnée pour l’ensemble de l’État : l’heure du bilan ?",
+      "auteurs": [
+        {
+          "nom": "Josephine Byrne Garelli",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_INT_158",
+      "numero": "26_INT_158",
+      "type": "Interpellation",
+      "depose": "2026-11-10",
+      "titre": "Des dents blanches, mais à quel prix ?",
+      "auteurs": [
+        {
+          "nom": "Muriel Thalmann",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_INT_157",
+      "numero": "26_INT_157",
+      "type": "Interpellation",
+      "depose": "2026-11-10",
+      "titre": "Renards : une régulation vraiment nécessaire ?",
+      "auteurs": [
+        {
+          "nom": "Alberto Mocchi",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_INI_18",
+      "numero": "26_INI_18",
+      "type": "Initiative",
+      "depose": "2026-11-10",
+      "titre": "Loi sur la communication d’office et uniforme des incidences des coupes (LCOUIC)",
+      "auteurs": [
+        {
+          "nom": "Oleg Gafner",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-10"
+      },
+      "derniere_etape": "2026-11-10",
+      "communes": []
+    },
+    {
       "cle": "vd/25_LEG_78",
       "numero": "25_LEG_78",
       "type": "Décret/Loi",
@@ -91,7 +351,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Adopté",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -116,7 +376,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Adopté",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -145,7 +405,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -170,7 +430,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Adopté",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -330,7 +590,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -350,7 +610,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -370,7 +630,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -390,7 +650,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -434,7 +694,7 @@
       ],
       "nombre_auteurs": 2,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -454,7 +714,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -474,7 +734,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -494,7 +754,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -514,7 +774,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -534,7 +794,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -554,7 +814,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -574,7 +834,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -594,7 +854,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -618,7 +878,7 @@
       ],
       "nombre_auteurs": 2,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -638,7 +898,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -667,7 +927,7 @@
       ],
       "nombre_auteurs": 2,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -687,7 +947,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -707,7 +967,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -727,7 +987,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -747,7 +1007,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -771,7 +1031,7 @@
       ],
       "nombre_auteurs": 2,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -791,7 +1051,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -811,7 +1071,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -831,7 +1091,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -851,7 +1111,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -871,7 +1131,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Terminée",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -891,7 +1151,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Adopté",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -5713,7 +5973,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -6446,7 +6706,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -9964,7 +10224,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -11331,7 +11591,7 @@
       ],
       "nombre_auteurs": 2,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -11371,7 +11631,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -11431,7 +11691,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -11708,7 +11968,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
@@ -11808,7 +12068,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",

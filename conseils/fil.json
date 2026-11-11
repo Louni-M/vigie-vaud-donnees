@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-10T11:55:45Z",
+  "genere": "2026-11-11T06:49:33Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -646,7 +646,7 @@
       "date": "2026-11-10",
       "titre": "Séance du Grand Conseil du mardi 10 novembre 2026",
       "communes": [],
-      "points": 40
+      "points": 41
     },
     {
       "cle": "vd/25_LEG_143",
@@ -696,6 +696,56 @@
       "points": null
     },
     {
+      "cle": "vd/26_INI_18",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Initiative",
+      "date": "2026-11-10",
+      "titre": "Loi sur la communication d’office et uniforme des incidences des coupes (LCOUIC)",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_157",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-10",
+      "titre": "Renards : une régulation vraiment nécessaire ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_158",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-10",
+      "titre": "Des dents blanches, mais à quel prix ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_159",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-10",
+      "titre": "Politique d’achat coordonnée pour l’ensemble de l’État : l’heure du bilan ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_160",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-10",
+      "titre": "ECA : quand le coffre déborde, ce sont les primes qui doivent baisser",
+      "communes": [],
+      "points": null
+    },
+    {
       "cle": "vd/26_LEG_18",
       "conseil": "vd",
       "sorte": "objet",
@@ -720,12 +770,94 @@
       "points": null
     },
     {
+      "cle": "vd/26_MOT_79",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Motion",
+      "date": "2026-11-10",
+      "titre": "Favorisons la simplification de la législation sur les établissements autonomes de droit public pour assurer la poursuite optimale des intérêts publics",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_MOT_80",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Motion",
+      "date": "2026-11-10",
+      "titre": "Un plan de sortie de crise pour le social parapublic",
+      "communes": [],
+      "points": null
+    },
+    {
       "cle": "vd/26_PAR_5",
       "conseil": "vd",
       "sorte": "objet",
       "type": "Recours de compétence",
       "date": "2026-11-10",
       "titre": "Rapport annuel sur l’activité du Conseil de la magistrature pour l’année 2025",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_POS_60",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-11-10",
+      "titre": "La santé des femmes, un impensé historique : pour un état des lieux des mesures d'accompagnement à la recherche et de prévention et une stratégie cantonale",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "vd/26_POS_61",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-11-10",
+      "titre": "Calcul des acomptes fiscaux des contribuables modestes – pourquoi payer des acomptes pour un impôt qu'on ne doit pas ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_POS_62",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-11-10",
+      "titre": "Maltraitance animale : pour un registre cantonal permettant de prévenir la récidive et garantir un meilleur suivi des sanctions",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_QUE_97",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Simple question",
+      "date": "2026-11-10",
+      "titre": "Assurance-maladie : quelle proportion des bénéficiaires de subsides dispose d'une assurance complémentaire ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_QUE_98",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Simple question",
+      "date": "2026-11-10",
+      "titre": "Les bénéfices de la Loterie romande passent-ils avant la prévention des addictions ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/V_10.11.2026",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Consultation",
+      "date": "2026-11-10",
+      "titre": "Inventaire cantonal des géotopes",
       "communes": [],
       "points": null
     },
@@ -2008,18 +2140,6 @@
         5586
       ],
       "points": null
-    },
-    {
-      "cle": "5674/2026-10-20",
-      "conseil": "5674",
-      "sorte": "seance",
-      "type": null,
-      "date": "2026-10-20T20:30",
-      "titre": "Conseil général",
-      "communes": [
-        5674
-      ],
-      "points": 0
     }
   ]
 }
