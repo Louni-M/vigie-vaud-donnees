@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-12T02:33:01Z",
+  "genere": "2026-11-12T10:26:56Z",
   "conseils": [
     {
       "cle": "vd",
@@ -45,9 +45,9 @@
           "nombre_auteurs": 0,
           "statut": {
             "libelle": "Inventaire cantonal des géotopes",
-            "date": "2026-11-10"
+            "date": "2026-12-10"
           },
-          "derniere_etape": "2026-11-10",
+          "derniere_etape": "2026-12-10",
           "communes": []
         },
         {
@@ -1340,10 +1340,10 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "Déposé",
-            "date": "2026-11-03"
+            "libelle": "Décision : Réponse immédiate avec résolution",
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -1360,10 +1360,10 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "Déposé",
-            "date": "2026-11-03"
+            "libelle": "Décision : Réponse immédiate avec résolution",
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -1380,10 +1380,10 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "Déposé",
-            "date": "2026-11-03"
+            "libelle": "Décision : Réponse immédiate avec résolution",
+            "date": "2026-11-10"
           },
-          "derniere_etape": "2026-11-03",
+          "derniere_etape": "2026-11-10",
           "communes": []
         },
         {
@@ -1582,7 +1582,7 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 76,
+      "seances": 81,
       "prochaine_seance": "5523/2026-12-08",
       "derniere_seance": "5523/2026-10-06"
     },
@@ -1665,8 +1665,8 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 6,
-      "prochaine_seance": null,
+      "seances": 7,
+      "prochaine_seance": "5654/2026-11-18",
       "derniere_seance": "5654/2026-10-06"
     },
     {

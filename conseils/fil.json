@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-11T06:49:33Z",
+  "genere": "2026-11-12T10:26:56Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -11,6 +11,18 @@
       "titre": "Séance du Conseil communal",
       "communes": [
         5607
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5523/2027-12-07",
+      "conseil": "5523",
+      "sorte": "seance",
+      "type": null,
+      "date": "2027-12-07T19:00",
+      "titre": "Séance du Conseil communal",
+      "communes": [
+        5523
       ],
       "points": 0
     },
@@ -35,6 +47,18 @@
       "titre": "Séance du Conseil communal",
       "communes": [
         5643
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5523/2027-10-05",
+      "conseil": "5523",
+      "sorte": "seance",
+      "type": null,
+      "date": "2027-10-05T20:00",
+      "titre": "Séance du Conseil communal",
+      "communes": [
+        5523
       ],
       "points": 0
     },
@@ -147,6 +171,18 @@
       "points": 0
     },
     {
+      "cle": "5523/2027-06-15",
+      "conseil": "5523",
+      "sorte": "seance",
+      "type": null,
+      "date": "2027-06-15T20:00",
+      "titre": "Séance du Conseil communal",
+      "communes": [
+        5523
+      ],
+      "points": 0
+    },
+    {
       "cle": "5892/2027-06-15",
       "conseil": "5892",
       "sorte": "seance",
@@ -167,6 +203,18 @@
       "titre": "Séance du Conseil communal du 18 mai 2027",
       "communes": [
         5892
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5523/2027-05-11",
+      "conseil": "5523",
+      "sorte": "seance",
+      "type": null,
+      "date": "2027-05-11T20:00",
+      "titre": "Séance du Conseil communal",
+      "communes": [
+        5523
       ],
       "points": 0
     },
@@ -251,6 +299,18 @@
       "titre": "Séance du Conseil communal",
       "communes": [
         5607
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5523/2027-03-09",
+      "conseil": "5523",
+      "sorte": "seance",
+      "type": null,
+      "date": "2027-03-09T20:00",
+      "titre": "Séance du Conseil communal",
+      "communes": [
+        5523
       ],
       "points": 0
     },
@@ -565,6 +625,18 @@
         5892
       ],
       "points": 0
+    },
+    {
+      "cle": "5654/2026-11-18",
+      "conseil": "5654",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-11-18T20:15",
+      "titre": "Séance du conseil général - 18 novembre 2026",
+      "communes": [
+        5654
+      ],
+      "points": 1
     },
     {
       "cle": "5415/2026-11-12",
