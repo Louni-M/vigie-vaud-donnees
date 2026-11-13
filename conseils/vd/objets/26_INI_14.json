@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-11-04T08:09:04Z",
+  "genere": "2026-11-13T06:57:16Z",
   "id": 342072,
   "numero": "26_INI_14",
   "type": "Initiative",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-11-03"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-17"
   },
   "depose": "2026-10-27",
   "titre": "Pour un frein à l'endettement moderne et pragmatique",
@@ -30,9 +30,13 @@
     {
       "date": "2026-11-03",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-17",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/f93a3180-8d39-48c9-84cf-5dffc7d05aa1/meeting/1033714",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/a38716e3-1af1-45b8-8c0c-ced67c81048b/meeting/1033716",
   "communes": []
 }

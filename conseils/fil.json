@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-12T10:26:56Z",
+  "genere": "2026-11-13T06:57:16Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -637,6 +637,76 @@
         5654
       ],
       "points": 1
+    },
+    {
+      "cle": "vd/2026-11-17",
+      "conseil": "vd",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-11-17",
+      "titre": "Séance du Grand Conseil du mardi 17 novembre 2026",
+      "communes": [],
+      "points": 41
+    },
+    {
+      "cle": "vd/25_LEG_135",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-17",
+      "titre": "Accordant au Conseil d'Etat un nouveau crédit-cadre de CHF 4'625’000 afin de financer une prolongation de l’aide accordée aux communes pour la révision de leurs plans d’affectation en relation avec le Plan directeur cantonal et Rapport du Conseil d’Etat au Grand Conseil sur la motion Monique Hofstetter et consorts - Prolongation du subventionnement nécessaire pour les communes qui n’ont pas terminé leurs travaux de révision du plan d’affectation communal (PACom)",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/25_LEG_231",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-17",
+      "titre": "Accordant au Conseil d'Etat un crédit d'investissement de CHF 52.8 millions pour financer la poursuite des travaux de mensuration officielle et le développement de l'infrastructure cantonale en données géographiques (mise en œuvre des lois fédérale et cantonale sur la géoinformation) et Rapport du Conseil d'Etat au Grand Conseil sur la mensuration officielle et l'infrastructure cantonale des données géographiques (239)",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_LEG_45",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-17",
+      "titre": "Autorisant le versement d’une subvention de 7 millions de francs à la Fondation pour l’aide aux victimes et proches des victimes de l’incendie du 1er janvier 2026 à Crans-Montana (Fondation Beloved) »",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_LEG_50",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-17",
+      "titre": "Accordant au Conseil d'Etat un crédit d’investissement de CHF 16'443’000.- pour mettre en œuvre la première phase de la stratégie de l’administration numérique vaudoise 2026-2030",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_LEG_96",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-17",
+      "titre": "EMPD du GC  Exposé des motifs et projet de décret fixant le montant des indemnités des membres du Grand Conseil pour la législature 2027 - 2032",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_REP_187",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Réponse",
+      "date": "2026-11-17",
+      "titre": "Année 2025 - Secondes réponses",
+      "communes": [],
+      "points": null
     },
     {
       "cle": "5415/2026-11-12",

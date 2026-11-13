@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-11-10T11:55:45Z",
+  "genere": "2026-11-13T06:57:16Z",
   "id": 228309,
   "numero": "25_POS_37",
   "type": "Postulat",
   "statut": {
-    "libelle": "Renvoyée à commission",
-    "date": "2025-05-27"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-17"
   },
   "depose": "2025-05-20",
   "titre": "Pour un Etat exemplaire dans le respect des délais",
@@ -32,6 +32,10 @@
     {
       "date": "2025-05-27",
       "libelle": "Transférer"
+    },
+    {
+      "date": "2026-11-17",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -41,6 +45,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3133#1044"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/80b4a706-5fc3-41d4-9481-60813728e820/meeting/1026890",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ba827a10-f66a-4b50-9cb5-a47bc3e3e393/meeting/1033716",
   "communes": []
 }

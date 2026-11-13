@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-11-10T11:55:45Z",
+  "genere": "2026-11-13T06:57:16Z",
   "id": 296053,
   "numero": "26_INT_8",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-02-03"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-17"
   },
   "depose": "2026-01-27",
   "titre": "Après les pôles santé, les hôpitaux et les EMS, les infirmiers-ères sont-ils la nouvelle cible des coupes du Conseil d'Etat ?",
@@ -26,6 +26,10 @@
     {
       "date": "2026-02-03",
       "libelle": "Transférer"
+    },
+    {
+      "date": "2026-11-17",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -35,6 +39,6 @@
       "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2342609"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/701b2d93-5768-436a-adbb-796561a7b3c8/meeting/1033708",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d0d9054e-ac2b-40d7-ac8d-0169886b539c/meeting/1033716",
   "communes": []
 }

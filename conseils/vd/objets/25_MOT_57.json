@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-13T06:57:16Z",
   "id": 280146,
   "numero": "25_MOT_57",
   "type": "Motion",
   "statut": {
-    "libelle": "Renvoyée à commission",
-    "date": "2025-11-11"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-17"
   },
   "depose": "2025-11-04",
   "titre": "Du bad trip au bon plan - s’inspirer du modèle portugais pour une politique de la drogue efficace, rationnelle et raisonnable »",
@@ -27,15 +27,19 @@
   "etapes": [
     {
       "date": "2025-11-04",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2025-11-04",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
     },
     {
       "date": "2025-11-11",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-17",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -45,6 +49,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3259#4967"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/508f9c29-a4ec-4b4c-8b41-21860d0cc794/meeting/1029642",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d612c821-88c7-4341-b9a9-aa414806dafb/meeting/1033716",
   "communes": []
 }

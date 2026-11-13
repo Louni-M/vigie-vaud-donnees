@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-11-13T06:57:16Z",
   "id": 228220,
   "numero": "25_INT_92",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-05-12"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-17"
   },
   "depose": "2025-06-17",
   "titre": "A quand des nouveaux locaux pour l’Institut de radiophysique (IRA) et le Laboratoire d’analyse du dopage (LAD) ?",
@@ -38,6 +38,10 @@
     {
       "date": "2026-05-12",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-17",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -47,6 +51,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3155#1547"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5e7dea43-0b9d-463a-8d6e-8100489ac8f0/meeting/1029668",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4caa83f6-62e2-49a0-bbf7-cb96e3ebcd3a/meeting/1033716",
   "communes": []
 }

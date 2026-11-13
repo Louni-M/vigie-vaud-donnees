@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-17T05:02:22Z",
+  "genere": "2026-11-13T06:57:16Z",
   "id": 279870,
   "numero": "25_INT_137",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-05-12"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-17"
   },
   "depose": "2025-10-28",
   "titre": "Interdiction de la publicité pour les boissons dépassant 15 % d'alcools, a-t-on vraiment atteint la cible ?",
@@ -42,6 +42,10 @@
     {
       "date": "2026-05-12",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-17",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -51,6 +55,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3249#494"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/0dff6054-076f-4b19-8e01-af8fbb7c203d/meeting/1033708",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5cfdee4f-9122-4e3b-8d4c-6e18640a8144/meeting/1033716",
   "communes": []
 }
