@@ -410,5 +410,12 @@
       "echecs_consecutifs": 0,
       "motif": null
     }
+  },
+  "reseaux": {
+    "195.65.10.0/24": {
+      "depuis": "2026-11-14T20:53:34Z",
+      "jusqu_a": null,
+      "motif": "délai dépassé"
+    }
   }
 }
