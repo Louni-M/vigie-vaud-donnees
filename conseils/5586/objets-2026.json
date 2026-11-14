@@ -1,9 +1,109 @@
 {
   "version": 1,
-  "genere": "2026-11-12T10:26:56Z",
+  "genere": "2026-11-14T09:07:36Z",
   "conseil": "5586",
   "annee": 2026,
   "objets": [
+    {
+      "cle": "5586/INT26-069",
+      "numero": "INT26/069",
+      "type": "Interpellation",
+      "depose": "2026-11-24",
+      "titre": "Santé mentale des jeunes à Lausanne : prestations, collaborations et angles morts",
+      "auteurs": [
+        {
+          "nom": "Yusuf Kulmiye",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT26-072",
+      "numero": "INT26/072",
+      "type": "Interpellation",
+      "depose": "2026-11-11",
+      "titre": "P'tit train de Vidy : quel soutien pour préserver un patrimoine populaire lausannois ?",
+      "auteurs": [
+        {
+          "nom": "Samuel De Vargas",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-11"
+      },
+      "derniere_etape": "2026-11-11",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT26-071",
+      "numero": "INT26/071",
+      "type": "Interpellation",
+      "depose": "2026-11-07",
+      "titre": "\"Femmes et sport : cinq ans après, où en est-on ?\"",
+      "auteurs": [
+        {
+          "nom": "Diane Wild",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-07"
+      },
+      "derniere_etape": "2026-11-07",
+      "communes": []
+    },
+    {
+      "cle": "5586/COMC26-108",
+      "numero": "COMC26/108",
+      "type": "Divers",
+      "depose": "2026-11-06",
+      "titre": "Nomination du nouveau chef du Service d'organisation et d'informatique, Direction du logement, de l'environnement et de l'architecture",
+      "auteurs": [
+        {
+          "nom": "Yann Baufils",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-06"
+      },
+      "derniere_etape": "2026-11-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT26-068",
+      "numero": "INT26/068",
+      "type": "Interpellation",
+      "depose": "2026-11-04",
+      "titre": "Coopération internationale et solidarité décentralisée lausannoises : conforter un engagement exemplaire dans un contexte sous tension",
+      "auteurs": [
+        {
+          "nom": "Yusuf Kulmiye",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-04"
+      },
+      "derniere_etape": "2026-11-04",
+      "communes": []
+    },
     {
       "cle": "5586/POS26-126",
       "numero": "POS26/126",
@@ -39,6 +139,21 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "Décision : Renvoi en Municipalité",
+        "date": "2026-11-03"
+      },
+      "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE26-012",
+      "numero": "PE26/012",
+      "type": "Pétition",
+      "depose": "2026-11-03",
+      "titre": "Classement du Chemin du Risoux en zone de rencontre à 20 km/h",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Déposé",
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
@@ -342,6 +457,41 @@
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE26-010",
+      "numero": "PE26/010",
+      "type": "Pétition",
+      "depose": "2026-10-20",
+      "titre": "Nuisances sonores et incivilités, parc Chemin de Beau-Rivage 2, 1006 Lausanne",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-10-20"
+      },
+      "derniere_etape": "2026-10-20",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA26-172",
+      "numero": "PREA26/172",
+      "type": "Préavis",
+      "depose": "2026-10-06",
+      "titre": "Subventions à l'achat de vélos à assistance électrique : renouvellement du financement par le Fonds pour l'efficacité énergétique jusqu'en 2031",
+      "auteurs": [
+        {
+          "nom": "Nicolas Waelti",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-10-06"
+      },
+      "derniere_etape": "2026-10-06",
       "communes": []
     },
     {
@@ -712,6 +862,26 @@
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA26-117",
+      "numero": "PREA26/117",
+      "type": "Préavis",
+      "depose": "2026-09-25",
+      "titre": "Travaux de rénovation et de réhabilitation des parcs et domaines - Crédit-cadre annuel 2027",
+      "auteurs": [
+        {
+          "nom": "Etienne Balestra",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-09-25"
+      },
+      "derniere_etape": "2026-09-25",
       "communes": []
     },
     {
@@ -1745,6 +1915,26 @@
       "communes": []
     },
     {
+      "cle": "5586/PREA26-153",
+      "numero": "PREA26/153",
+      "type": "Préavis",
+      "depose": "2026-08-18",
+      "titre": "Communalisation de la Fondation ABS",
+      "auteurs": [
+        {
+          "nom": "Olivier Thorens",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-08-18"
+      },
+      "derniere_etape": "2026-08-18",
+      "communes": []
+    },
+    {
       "cle": "5586/PREA26-143",
       "numero": "PREA26/143",
       "type": "Préavis",
@@ -1762,6 +1952,26 @@
         "date": "2026-11-03"
       },
       "derniere_etape": "2026-11-03",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA26-137",
+      "numero": "PREA26/137",
+      "type": "Préavis",
+      "depose": "2026-07-03",
+      "titre": "Autorisations d'achats pour l'exercice 2027",
+      "auteurs": [
+        {
+          "nom": "Louis Dana",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-07-03"
+      },
+      "derniere_etape": "2026-07-03",
       "communes": []
     },
     {
@@ -2492,6 +2702,26 @@
         "date": "2026-08-25"
       },
       "derniere_etape": "2026-08-25",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA26-111",
+      "numero": "PREA26/111",
+      "type": "Préavis",
+      "depose": "2026-06-02",
+      "titre": "Demande de crédit d'investissement pour la sécurisation des musées communaux et de leur personnel",
+      "auteurs": [
+        {
+          "nom": "Isabelle Burgy",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-06-02"
+      },
+      "derniere_etape": "2026-06-02",
       "communes": []
     },
     {
@@ -4433,10 +4663,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Décision : Renvoi en Municipalité",
-        "date": "2026-01-13"
+        "libelle": "Répondu",
+        "date": "2026-11-04"
       },
-      "derniere_etape": "2026-01-13",
+      "derniere_etape": "2026-11-04",
       "communes": []
     },
     {

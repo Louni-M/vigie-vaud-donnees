@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-13T06:57:16Z",
+  "genere": "2026-11-14T09:07:36Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -627,6 +627,30 @@
       "points": 0
     },
     {
+      "cle": "5586/2026-11-24",
+      "conseil": "5586",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-11-24",
+      "titre": "Séance - Mardi 24 novembre 2026 2026 à 18:00 & 20:30",
+      "communes": [
+        5586
+      ],
+      "points": 145
+    },
+    {
+      "cle": "5586/INT26-069",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-24",
+      "titre": "Santé mentale des jeunes à Lausanne : prestations, collaborations et angles morts",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
       "cle": "5654/2026-11-18",
       "conseil": "5654",
       "sorte": "seance",
@@ -719,6 +743,18 @@
         5415
       ],
       "points": 0
+    },
+    {
+      "cle": "5586/INT26-072",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-11",
+      "titre": "P'tit train de Vidy : quel soutien pour préserver un patrimoine populaire lausannois ?",
+      "communes": [
+        5586
+      ],
+      "points": null
     },
     {
       "cle": "5886/2026-11-11",
@@ -1028,6 +1064,30 @@
       "points": 0
     },
     {
+      "cle": "5586/INT26-071",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-07",
+      "titre": "\"Femmes et sport : cinq ans après, où en est-on ?\"",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/COMC26-108",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Divers",
+      "date": "2026-11-06",
+      "titre": "Nomination du nouveau chef du Service d'organisation et d'informatique, Direction du logement, de l'environnement et de l'architecture",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
       "cle": "5414/2026-11-05",
       "conseil": "5414",
       "sorte": "seance",
@@ -1050,6 +1110,18 @@
         5938
       ],
       "points": 14
+    },
+    {
+      "cle": "5586/INT26-068",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-04",
+      "titre": "Coopération internationale et solidarité décentralisée lausannoises : conforter un engagement exemplaire dans un contexte sous tension",
+      "communes": [
+        5586
+      ],
+      "points": null
     },
     {
       "cle": "5886/35-2026",
@@ -1238,6 +1310,18 @@
       "type": "Interpellation",
       "date": "2026-11-03",
       "titre": "Réforme policière 2030 : Quand la Municipalité va-t-elle présenter des mesures à la hauteur des enjeux ?",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/PE26-012",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Pétition",
+      "date": "2026-11-03",
+      "titre": "Classement du Chemin du Risoux en zone de rencontre à 20 km/h",
       "communes": [
         5586
       ],

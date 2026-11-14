@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-13T06:57:16Z",
+  "genere": "2026-11-14T09:07:36Z",
   "conseils": [
     {
       "cle": "vd",
@@ -1391,7 +1391,7 @@
         "objets",
         "seances"
       ],
-      "objets": 1589,
+      "objets": 1602,
       "objets_par_annee": {
         "2010": 1,
         "2013": 1,
@@ -1402,14 +1402,114 @@
         "2018": 35,
         "2019": 48,
         "2020": 84,
-        "2021": 121,
+        "2021": 122,
         "2022": 260,
         "2023": 252,
         "2024": 235,
         "2025": 289,
-        "2026": 226
+        "2026": 238
       },
       "recents": [
+        {
+          "cle": "5586/INT26-069",
+          "numero": "INT26/069",
+          "type": "Interpellation",
+          "depose": "2026-11-24",
+          "titre": "Santé mentale des jeunes à Lausanne : prestations, collaborations et angles morts",
+          "auteurs": [
+            {
+              "nom": "Yusuf Kulmiye",
+              "parti": "SOC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Déposé",
+            "date": "2026-11-24"
+          },
+          "derniere_etape": "2026-11-24",
+          "communes": []
+        },
+        {
+          "cle": "5586/INT26-072",
+          "numero": "INT26/072",
+          "type": "Interpellation",
+          "depose": "2026-11-11",
+          "titre": "P'tit train de Vidy : quel soutien pour préserver un patrimoine populaire lausannois ?",
+          "auteurs": [
+            {
+              "nom": "Samuel De Vargas",
+              "parti": "SOC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Déposé",
+            "date": "2026-11-11"
+          },
+          "derniere_etape": "2026-11-11",
+          "communes": []
+        },
+        {
+          "cle": "5586/INT26-071",
+          "numero": "INT26/071",
+          "type": "Interpellation",
+          "depose": "2026-11-07",
+          "titre": "\"Femmes et sport : cinq ans après, où en est-on ?\"",
+          "auteurs": [
+            {
+              "nom": "Diane Wild",
+              "parti": null
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Déposé",
+            "date": "2026-11-07"
+          },
+          "derniere_etape": "2026-11-07",
+          "communes": []
+        },
+        {
+          "cle": "5586/COMC26-108",
+          "numero": "COMC26/108",
+          "type": "Divers",
+          "depose": "2026-11-06",
+          "titre": "Nomination du nouveau chef du Service d'organisation et d'informatique, Direction du logement, de l'environnement et de l'architecture",
+          "auteurs": [
+            {
+              "nom": "Yann Baufils",
+              "parti": null
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Déposé",
+            "date": "2026-11-06"
+          },
+          "derniere_etape": "2026-11-06",
+          "communes": []
+        },
+        {
+          "cle": "5586/INT26-068",
+          "numero": "INT26/068",
+          "type": "Interpellation",
+          "depose": "2026-11-04",
+          "titre": "Coopération internationale et solidarité décentralisée lausannoises : conforter un engagement exemplaire dans un contexte sous tension",
+          "auteurs": [
+            {
+              "nom": "Yusuf Kulmiye",
+              "parti": "SOC"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Déposé",
+            "date": "2026-11-04"
+          },
+          "derniere_etape": "2026-11-04",
+          "communes": []
+        },
         {
           "cle": "5586/POS26-126",
           "numero": "POS26/126",
@@ -1445,6 +1545,21 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "Décision : Renvoi en Municipalité",
+            "date": "2026-11-03"
+          },
+          "derniere_etape": "2026-11-03",
+          "communes": []
+        },
+        {
+          "cle": "5586/PE26-012",
+          "numero": "PE26/012",
+          "type": "Pétition",
+          "depose": "2026-11-03",
+          "titre": "Classement du Chemin du Risoux en zone de rencontre à 20 km/h",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": {
+            "libelle": "Déposé",
             "date": "2026-11-03"
           },
           "derniere_etape": "2026-11-03",
@@ -1631,8 +1746,8 @@
           "communes": []
         }
       ],
-      "seances": 377,
-      "prochaine_seance": null,
+      "seances": 378,
+      "prochaine_seance": "5586/2026-11-24",
       "derniere_seance": "5586/2026-11-10"
     },
     {

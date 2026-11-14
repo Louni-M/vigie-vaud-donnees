@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-05T09:54:02Z",
+  "genere": "2026-11-14T09:07:36Z",
   "conseil": "5586",
   "annee": 2021,
   "objets": [
@@ -1597,6 +1597,26 @@
         "date": "2025-02-04"
       },
       "derniere_etape": "2025-02-04",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS21-034",
+      "numero": "POS21/034",
+      "type": "Postulat",
+      "depose": "2021-06-08",
+      "titre": "De la lumière pour les aînés",
+      "auteurs": [
+        {
+          "nom": "Françoise Longchamp",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Décision : Renvoi direct en Municipalité",
+        "date": "2021-08-31"
+      },
+      "derniere_etape": "2021-08-31",
       "communes": []
     },
     {
