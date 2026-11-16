@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-16T00:24:34Z",
+  "genere": "2026-11-16T17:29:37Z",
   "conseils": [
     {
       "cle": "vd",
@@ -1754,16 +1754,77 @@
         "preavis",
         "seances"
       ],
-      "objets": 48,
+      "objets": 52,
       "objets_par_annee": {
         "2021": 6,
         "2022": 7,
         "2023": 10,
         "2024": 8,
         "2025": 10,
-        "2026": 7
+        "2026": 11
       },
-      "recents": [],
+      "recents": [
+        {
+          "cle": "5607/11-2026",
+          "numero": "11-2026",
+          "type": "Préavis",
+          "depose": "2026-11-10",
+          "titre": "Demande de crédit TTC de CHF 480'000.00 concernant la sécurisation et la réfection du Ch. du Signal (côté la Croix)",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": {
+            "libelle": "en attente",
+            "date": null
+          },
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5607/10-2026",
+          "numero": "10-2026",
+          "type": "Préavis",
+          "depose": "2026-11-10",
+          "titre": "Ajustement du bilan suite au passage au MCH2 au 1er janvier 2026",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": {
+            "libelle": "en attente",
+            "date": null
+          },
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5607/09-2026",
+          "numero": "09-2026",
+          "type": "Préavis",
+          "depose": "2026-11-10",
+          "titre": "Fixation des plafonds d'endettement et de cautionnement pour la législature 2026-2031 et autorisation générale pour la reconduction des emprunts pour la législature 2026-2031",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": {
+            "libelle": "en attente",
+            "date": null
+          },
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5607/08-2026",
+          "numero": "08-2026",
+          "type": "Préavis",
+          "depose": "2026-11-10",
+          "titre": "Budget 2027",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": {
+            "libelle": "en attente",
+            "date": null
+          },
+          "derniere_etape": null,
+          "communes": []
+        }
+      ],
       "seances": 30,
       "prochaine_seance": "5607/2026-12-10",
       "derniere_seance": "5607/2026-10-01"
@@ -1809,8 +1870,8 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 37,
-      "prochaine_seance": null,
+      "seances": 38,
+      "prochaine_seance": "5649/2026-11-30",
       "derniere_seance": "5649/2026-10-05"
     },
     {

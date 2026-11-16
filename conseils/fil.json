@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-16T00:24:34Z",
+  "genere": "2026-11-16T17:29:37Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -627,6 +627,18 @@
       "points": 15
     },
     {
+      "cle": "5649/2026-11-30",
+      "conseil": "5649",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-11-30T19:30",
+      "titre": "Séance du Conseil communal",
+      "communes": [
+        5649
+      ],
+      "points": 0
+    },
+    {
       "cle": "5586/2026-11-24",
       "conseil": "5586",
       "sorte": "seance",
@@ -779,6 +791,54 @@
         5586
       ],
       "points": 113
+    },
+    {
+      "cle": "5607/08-2026",
+      "conseil": "5607",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-10",
+      "titre": "Budget 2027",
+      "communes": [
+        5607
+      ],
+      "points": null
+    },
+    {
+      "cle": "5607/09-2026",
+      "conseil": "5607",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-10",
+      "titre": "Fixation des plafonds d'endettement et de cautionnement pour la législature 2026-2031 et autorisation générale pour la reconduction des emprunts pour la législature 2026-2031",
+      "communes": [
+        5607
+      ],
+      "points": null
+    },
+    {
+      "cle": "5607/10-2026",
+      "conseil": "5607",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-10",
+      "titre": "Ajustement du bilan suite au passage au MCH2 au 1er janvier 2026",
+      "communes": [
+        5607
+      ],
+      "points": null
+    },
+    {
+      "cle": "5607/11-2026",
+      "conseil": "5607",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-10",
+      "titre": "Demande de crédit TTC de CHF 480'000.00 concernant la sécurisation et la réfection du Ch. du Signal (côté la Croix)",
+      "communes": [
+        5607
+      ],
+      "points": null
     },
     {
       "cle": "5861/2026-11-10",
