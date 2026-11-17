@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-17T01:06:19Z",
+  "genere": "2026-11-17T09:21:26Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -742,6 +742,18 @@
       "date": "2026-11-17",
       "titre": "Année 2025 - Secondes réponses",
       "communes": [],
+      "points": null
+    },
+    {
+      "cle": "5401/2026-13",
+      "conseil": "5401",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-11-16",
+      "titre": "Projets de Budgets 2027",
+      "communes": [
+        5401
+      ],
       "points": null
     },
     {

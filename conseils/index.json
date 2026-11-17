@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-17T01:06:19Z",
+  "genere": "2026-11-17T09:21:26Z",
   "conseils": [
     {
       "cle": "vd",
@@ -2047,11 +2047,24 @@
         "preavis",
         "seances"
       ],
-      "objets": 7,
+      "objets": 8,
       "objets_par_annee": {
-        "2026": 7
+        "2026": 8
       },
-      "recents": [],
+      "recents": [
+        {
+          "cle": "5401/2026-13",
+          "numero": "2026-13",
+          "type": "Préavis",
+          "depose": "2026-11-16",
+          "titre": "Projets de Budgets 2027",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        }
+      ],
       "seances": 5,
       "prochaine_seance": null,
       "derniere_seance": "5401/2026-10-29"
