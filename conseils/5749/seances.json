@@ -1,12 +1,39 @@
 {
   "version": 1,
-  "genere": "2026-10-31T17:56:29Z",
+  "genere": "2026-11-17T18:40:09Z",
   "conseil": "5749",
   "seances": [
     {
       "cle": "5749/2026-12-10",
       "date": "2026-12-10T20:00",
-      "points": 0
+      "points": 0,
+      "documents": [
+        {
+          "titre": "14-5-26 Budget 2027",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7356316"
+        },
+        {
+          "titre": "15-5-26 Plafond endettement et cautionnement",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7356319"
+        },
+        {
+          "titre": "16-5-26 Complément budget 2026",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7356322"
+        },
+        {
+          "titre": "17-5-26 Verneret - Fermeture Cage B et adaptation cage C",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7356325"
+        },
+        {
+          "titre": "18-4-26 Etude préliminaire STEP",
+          "date": null,
+          "lien": "https://www.chavornay.ch/_doc/7356328"
+        }
+      ]
     },
     {
       "cle": "5749/2026-10-29",

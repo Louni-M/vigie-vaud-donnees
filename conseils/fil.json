@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-17T09:21:26Z",
+  "genere": "2026-11-17T18:40:09Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -527,6 +527,18 @@
       "titre": "Séance du Conseil communal",
       "communes": [
         5514
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5656/2026-12-07",
+      "conseil": "5656",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-12-07T19:30",
+      "titre": "Séance Conseil Communal de Hautemorges",
+      "communes": [
+        5656
       ],
       "points": 0
     },
