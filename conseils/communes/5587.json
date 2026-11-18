@@ -1,8 +1,33 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-18T09:19:03Z",
   "commune": 5587,
   "objets": [
+    {
+      "cle": "vd/26_POS_66",
+      "numero": "26_POS_66",
+      "type": "Postulat",
+      "depose": "2026-11-17",
+      "titre": "Pour le maintien d’un outil de transformation laitière stratégique dans le canton de Vaud : étudier la reprise du site Cremo du Mont-sur-Lausanne par un consortium de producteurs et d'investisseurs privés fiables",
+      "auteurs": [
+        {
+          "nom": "Jean-Bernard Chevalley",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": [
+        {
+          "ofs": 5587,
+          "origine": "titre"
+        }
+      ]
+    },
     {
       "cle": "vd/24_LEG_109",
       "numero": "24_LEG_109",

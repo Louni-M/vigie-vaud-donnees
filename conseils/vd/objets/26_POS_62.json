@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "genere": "2026-11-13T06:57:16Z",
+  "genere": "2026-11-18T09:19:03Z",
   "id": 342891,
   "numero": "26_POS_62",
   "type": "Postulat",
   "statut": {
-    "libelle": "A l'ordre du jour",
+    "libelle": "Renvoyée à commission",
     "date": "2026-11-17"
   },
   "depose": "2026-11-10",
@@ -30,6 +30,10 @@
     {
       "date": "2026-11-17",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-17",
+      "libelle": "Transférer"
     }
   ],
   "documents": [],

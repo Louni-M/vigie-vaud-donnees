@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-13T06:57:16Z",
+  "genere": "2026-11-18T09:19:03Z",
   "conseil": "vd",
   "annee": 2026,
   "objets": [
@@ -14,6 +14,246 @@
         {
           "nom": "Oriane Sarrasin",
           "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Adopté",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_QUE_99",
+      "numero": "26_QUE_99",
+      "type": "Simple question",
+      "depose": "2026-11-17",
+      "titre": "Remboursement d'aides au développement économique: quelles conditions ?",
+      "auteurs": [
+        {
+          "nom": "Oriane Sarrasin",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_QUE_101",
+      "numero": "26_QUE_101",
+      "type": "Simple question",
+      "depose": "2026-11-17",
+      "titre": "Inceste : combien de procédures?",
+      "auteurs": [
+        {
+          "nom": "Séverine Graff",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_QUE_100",
+      "numero": "26_QUE_100",
+      "type": "Simple question",
+      "depose": "2026-11-17",
+      "titre": "La fusion de Migros va-t-elle faire perdre des rentrées fiscales à notre Canton ?",
+      "auteurs": [
+        {
+          "nom": "Jacques-André Haury",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_POS_66",
+      "numero": "26_POS_66",
+      "type": "Postulat",
+      "depose": "2026-11-17",
+      "titre": "Pour le maintien d’un outil de transformation laitière stratégique dans le canton de Vaud : étudier la reprise du site Cremo du Mont-sur-Lausanne par un consortium de producteurs et d'investisseurs privés fiables",
+      "auteurs": [
+        {
+          "nom": "Jean-Bernard Chevalley",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": [
+        {
+          "ofs": 5587,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/26_POS_65",
+      "numero": "26_POS_65",
+      "type": "Postulat",
+      "depose": "2026-11-17",
+      "titre": "Demandant un bilan de l'application vaudoise de la LAVI dans le cadre du drame de Crans Montana",
+      "auteurs": [
+        {
+          "nom": "Jacques-André Haury",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": [
+        {
+          "ofs": 5713,
+          "origine": "titre"
+        }
+      ]
+    },
+    {
+      "cle": "vd/26_POS_64",
+      "numero": "26_POS_64",
+      "type": "Postulat",
+      "depose": "2026-11-17",
+      "titre": "Inceste : former les professionnel·les pour protéger les enfants",
+      "auteurs": [
+        {
+          "nom": "Séverine Graff",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_POS_63",
+      "numero": "26_POS_63",
+      "type": "Postulat",
+      "depose": "2026-11-17",
+      "titre": "Infrastructures ferroviaires vitales : sortons de la spirale des reports, des suppressions et de l'attentisme afin de soutenir la compétitivité du canton de Vaud",
+      "auteurs": [
+        {
+          "nom": "Nicolas Suter",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_PET_13",
+      "numero": "26_PET_13",
+      "type": "Pétition",
+      "depose": "2026-11-17",
+      "titre": "Pétition Placé, interné, oublié, se souvenir pour demain\" (personne(s) physique(s) ou morale(s) identifiée(s))",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_PET_12",
+      "numero": "26_PET_12",
+      "type": "Pétition",
+      "depose": "2026-11-17",
+      "titre": "Pétition Non-application de deux décisions judiciaires : dans le transport professionnel de personnes, la condition d'affiliation à l'AVS est appliquée ou ne l'est pas, le même jour et dans le même canton, selon la catégorie d'autorisation et selon la caisse qui a établi l'attestation",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_MOT_83",
+      "numero": "26_MOT_83",
+      "type": "Motion",
+      "depose": "2026-11-17",
+      "titre": "Redonner du souffle à la démocratie locale",
+      "auteurs": [
+        {
+          "nom": "Valentin Christe",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_MOT_82",
+      "numero": "26_MOT_82",
+      "type": "Motion",
+      "depose": "2026-11-17",
+      "titre": "Inclusion des enfants sourds ou malentendants : de la parole aux actes !",
+      "auteurs": [
+        {
+          "nom": "Pierre Conscience",
+          "parti": "EP"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_MOT_81",
+      "numero": "26_MOT_81",
+      "type": "Motion",
+      "depose": "2026-11-17",
+      "titre": "Taxons l’inutile pour assurer l’essentiel : pour une taxe d’immatriculation au service de l’agriculture vaudoise",
+      "auteurs": [
+        {
+          "nom": "David Raedler",
+          "parti": "VER"
         }
       ],
       "nombre_auteurs": 1,
@@ -82,6 +322,46 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
+        "libelle": "Renvoyé par manque de temps",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_INT_162",
+      "numero": "26_INT_162",
+      "type": "Interpellation",
+      "depose": "2026-11-17",
+      "titre": "Programme Re-Mind - Quels coûts pour le canton ?",
+      "auteurs": [
+        {
+          "nom": "Cédric Weissert",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_INT_161",
+      "numero": "26_INT_161",
+      "type": "Interpellation",
+      "depose": "2026-11-17",
+      "titre": "Inceste : du signalement au tribunal, comment la victime est-elle protégée ?",
+      "auteurs": [
+        {
+          "nom": "Laure Jaton",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
         "libelle": "A l'ordre du jour",
         "date": "2026-11-17"
       },
@@ -102,7 +382,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Adopté",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -122,7 +402,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Adopté",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -197,7 +477,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -217,7 +497,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -237,7 +517,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -282,7 +562,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -302,7 +582,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -375,7 +655,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -395,7 +675,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -415,7 +695,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -435,7 +715,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Transmise au CE",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -455,7 +735,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Non pris en considération",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -1535,7 +1815,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Pris en considération",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -1755,7 +2035,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyée à commission",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -2100,7 +2380,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Non pris en considération",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -7188,7 +7468,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -7981,7 +8261,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -10183,7 +10463,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -10228,7 +10508,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -10328,7 +10608,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -11184,7 +11464,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",
@@ -13247,7 +13527,7 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "A l'ordre du jour",
+        "libelle": "Renvoyé par manque de temps",
         "date": "2026-11-17"
       },
       "derniere_etape": "2026-11-17",

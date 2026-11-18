@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-18T01:20:17Z",
+  "genere": "2026-11-18T09:19:03Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -694,7 +694,7 @@
       "date": "2026-11-17",
       "titre": "Séance du Grand Conseil du mardi 17 novembre 2026",
       "communes": [],
-      "points": 41
+      "points": 42
     },
     {
       "cle": "vd/25_LEG_135",
@@ -713,6 +713,26 @@
       "type": "Décret/Loi",
       "date": "2026-11-17",
       "titre": "Accordant au Conseil d'Etat un crédit d'investissement de CHF 52.8 millions pour financer la poursuite des travaux de mensuration officielle et le développement de l'infrastructure cantonale en données géographiques (mise en œuvre des lois fédérale et cantonale sur la géoinformation) et Rapport du Conseil d'Etat au Grand Conseil sur la mensuration officielle et l'infrastructure cantonale des données géographiques (239)",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_161",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-17",
+      "titre": "Inceste : du signalement au tribunal, comment la victime est-elle protégée ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_INT_162",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-17",
+      "titre": "Programme Re-Mind - Quels coûts pour le canton ?",
       "communes": [],
       "points": null
     },
@@ -743,6 +763,130 @@
       "type": "Décret/Loi",
       "date": "2026-11-17",
       "titre": "EMPD du GC  Exposé des motifs et projet de décret fixant le montant des indemnités des membres du Grand Conseil pour la législature 2027 - 2032",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_MOT_81",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Motion",
+      "date": "2026-11-17",
+      "titre": "Taxons l’inutile pour assurer l’essentiel : pour une taxe d’immatriculation au service de l’agriculture vaudoise",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_MOT_82",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Motion",
+      "date": "2026-11-17",
+      "titre": "Inclusion des enfants sourds ou malentendants : de la parole aux actes !",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_MOT_83",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Motion",
+      "date": "2026-11-17",
+      "titre": "Redonner du souffle à la démocratie locale",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_PET_12",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Pétition",
+      "date": "2026-11-17",
+      "titre": "Pétition Non-application de deux décisions judiciaires : dans le transport professionnel de personnes, la condition d'affiliation à l'AVS est appliquée ou ne l'est pas, le même jour et dans le même canton, selon la catégorie d'autorisation et selon la caisse qui a établi l'attestation",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_PET_13",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Pétition",
+      "date": "2026-11-17",
+      "titre": "Pétition Placé, interné, oublié, se souvenir pour demain\" (personne(s) physique(s) ou morale(s) identifiée(s))",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_POS_63",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-11-17",
+      "titre": "Infrastructures ferroviaires vitales : sortons de la spirale des reports, des suppressions et de l'attentisme afin de soutenir la compétitivité du canton de Vaud",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_POS_64",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-11-17",
+      "titre": "Inceste : former les professionnel·les pour protéger les enfants",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_POS_65",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-11-17",
+      "titre": "Demandant un bilan de l'application vaudoise de la LAVI dans le cadre du drame de Crans Montana",
+      "communes": [
+        5713
+      ],
+      "points": null
+    },
+    {
+      "cle": "vd/26_POS_66",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-11-17",
+      "titre": "Pour le maintien d’un outil de transformation laitière stratégique dans le canton de Vaud : étudier la reprise du site Cremo du Mont-sur-Lausanne par un consortium de producteurs et d'investisseurs privés fiables",
+      "communes": [
+        5587
+      ],
+      "points": null
+    },
+    {
+      "cle": "vd/26_QUE_100",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Simple question",
+      "date": "2026-11-17",
+      "titre": "La fusion de Migros va-t-elle faire perdre des rentrées fiscales à notre Canton ?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_QUE_101",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Simple question",
+      "date": "2026-11-17",
+      "titre": "Inceste : combien de procédures?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_QUE_99",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Simple question",
+      "date": "2026-11-17",
+      "titre": "Remboursement d'aides au développement économique: quelles conditions ?",
       "communes": [],
       "points": null
     },
