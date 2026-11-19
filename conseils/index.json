@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-18T09:19:03Z",
+  "genere": "2026-11-19T00:26:45Z",
   "conseils": [
     {
       "cle": "vd",
@@ -983,26 +983,6 @@
           },
           "derniere_etape": "2026-11-06",
           "communes": []
-        },
-        {
-          "cle": "5586/INT26-068",
-          "numero": "INT26/068",
-          "type": "Interpellation",
-          "depose": "2026-11-04",
-          "titre": "Coopération internationale et solidarité décentralisée lausannoises : conforter un engagement exemplaire dans un contexte sous tension",
-          "auteurs": [
-            {
-              "nom": "Yusuf Kulmiye",
-              "parti": "SOC"
-            }
-          ],
-          "nombre_auteurs": 1,
-          "statut": {
-            "libelle": "Déposé",
-            "date": "2026-11-04"
-          },
-          "derniere_etape": "2026-11-04",
-          "communes": []
         }
       ],
       "seances": 378,
@@ -1224,8 +1204,8 @@
       "objets_par_annee": {},
       "recents": [],
       "seances": 7,
-      "prochaine_seance": "5654/2026-11-18",
-      "derniere_seance": "5654/2026-10-06"
+      "prochaine_seance": null,
+      "derniere_seance": "5654/2026-11-18"
     },
     {
       "cle": "5656",
@@ -1871,178 +1851,7 @@
       "objets_par_annee": {
         "2026": 30
       },
-      "recents": [
-        {
-          "cle": "5886/45-2026",
-          "numero": "45/2026",
-          "type": "Rapport",
-          "depose": "2026-11-04",
-          "titre": "relatif à la réponse au postulat de M. le Conseiller communal Christian Allenbach « Quelle politique d’intégration dans la Commune de Montreux ? », pris en considération le 21 janvier 2015",
-          "auteurs": [
-            {
-              "nom": "Municipalité",
-              "parti": null
-            }
-          ],
-          "nombre_auteurs": 1,
-          "statut": null,
-          "derniere_etape": null,
-          "communes": []
-        },
-        {
-          "cle": "5886/44-2026",
-          "numero": "44/2026",
-          "type": "Préavis",
-          "depose": "2026-11-04",
-          "titre": "relatif au budget 2027 du Fonds culturel Riviera",
-          "auteurs": [
-            {
-              "nom": "Municipalité",
-              "parti": null
-            }
-          ],
-          "nombre_auteurs": 1,
-          "statut": null,
-          "derniere_etape": null,
-          "communes": []
-        },
-        {
-          "cle": "5886/43-2026",
-          "numero": "43/2026",
-          "type": "Préavis",
-          "depose": "2026-11-04",
-          "titre": "relatif à l’octroi à la Municipalité, pour la durée de la législature 2026-2031, d’une autorisation générale de statuer sur les acquisitions et aliénations d’immeubles, de droits réels immobiliers et de titres de sociétés de capitaux ayant comme but principal l'acquisition, la détention, la gestion ou la valorisation de biens immobiliers, jusqu’à CHF 20'000'000.- par objet et au maximum CHF 40'000'000.-, ainsi que sur l’acquisition de participations dans des sociétés commerciales pour un maximum de CHF 250'000.-",
-          "auteurs": [
-            {
-              "nom": "Municipalité",
-              "parti": null
-            }
-          ],
-          "nombre_auteurs": 1,
-          "statut": null,
-          "derniere_etape": null,
-          "communes": []
-        },
-        {
-          "cle": "5886/42-2026",
-          "numero": "42/2026",
-          "type": "Préavis",
-          "depose": "2026-11-04",
-          "titre": "relatif à l’octroi d’un crédit d’investissement de CHF 1’602’000.00 TTC au maximum pour le renouvellement et l’acquisition de véhicules, de machines et pour l’installation de bornes électriques",
-          "auteurs": [
-            {
-              "nom": "Municipalité",
-              "parti": null
-            }
-          ],
-          "nombre_auteurs": 1,
-          "statut": null,
-          "derniere_etape": null,
-          "communes": []
-        },
-        {
-          "cle": "5886/41-2026",
-          "numero": "41/2026",
-          "type": "Préavis",
-          "depose": "2026-11-04",
-          "titre": "relatif à l’octroi d’un crédit d’investissement du patrimoine administratif d'un montant maximum de CHF 2'800’000.- TTC pour l’extension du réseau public communal d’évacuation des eaux usées dans le secteur La Côte-à-Tavel - En Adversan - Les Jorettes (Villard-sur-Chamby et Les Avants), pour la mise en séparatif au chemin de Maulever (Glion), ainsi que dans le quartier des Tilleuls (Montreux) et pour la participation financière de la Commune de Montreux à la mise en conformité des conduites d’eau potable pour la défense incendie",
-          "auteurs": [
-            {
-              "nom": "Municipalité",
-              "parti": null
-            }
-          ],
-          "nombre_auteurs": 1,
-          "statut": null,
-          "derniere_etape": null,
-          "communes": []
-        },
-        {
-          "cle": "5886/40-2026",
-          "numero": "40/2026",
-          "type": "Préavis",
-          "depose": "2026-11-04",
-          "titre": "relatif à la fixation des plafonds d’endettement et de cautionnement pour la durée de la législature 2026-2031",
-          "auteurs": [
-            {
-              "nom": "Municipalité",
-              "parti": null
-            }
-          ],
-          "nombre_auteurs": 1,
-          "statut": null,
-          "derniere_etape": null,
-          "communes": []
-        },
-        {
-          "cle": "5886/39-2026",
-          "numero": "39/2026",
-          "type": "Préavis",
-          "depose": "2026-11-04",
-          "titre": "relatif à la réaffectation des fonds et réserves pour le passage au Modèle comptable harmonisé 2 (MCH2)",
-          "auteurs": [
-            {
-              "nom": "Municipalité",
-              "parti": null
-            }
-          ],
-          "nombre_auteurs": 1,
-          "statut": null,
-          "derniere_etape": null,
-          "communes": []
-        },
-        {
-          "cle": "5886/38-2026",
-          "numero": "38/2026",
-          "type": "Préavis",
-          "depose": "2026-11-04",
-          "titre": "relatif au budget communal ordinaire pour 2027",
-          "auteurs": [
-            {
-              "nom": "Municipalité",
-              "parti": null
-            }
-          ],
-          "nombre_auteurs": 1,
-          "statut": null,
-          "derniere_etape": null,
-          "communes": []
-        },
-        {
-          "cle": "5886/37-2026",
-          "numero": "37/2026",
-          "type": "Préavis",
-          "depose": "2026-11-04",
-          "titre": "relatif aux compétences financières de la Municipalité pour la durée de la législature 2026-2031 en matière de dépenses imprévisibles et exceptionnelles jusqu’à concurrence de CHF 75’000.- par cas",
-          "auteurs": [
-            {
-              "nom": "Municipalité",
-              "parti": null
-            }
-          ],
-          "nombre_auteurs": 1,
-          "statut": null,
-          "derniere_etape": null,
-          "communes": []
-        },
-        {
-          "cle": "5886/35-2026",
-          "numero": "35/2026",
-          "type": "Préavis",
-          "depose": "2026-11-04",
-          "titre": "relatif à la réorganisation de la section conciergerie et à l’attribution de ressources nécessaires à l’accomplissement de ses missions",
-          "auteurs": [
-            {
-              "nom": "Municipalité",
-              "parti": null
-            }
-          ],
-          "nombre_auteurs": 1,
-          "statut": null,
-          "derniere_etape": null,
-          "communes": []
-        }
-      ],
+      "recents": [],
       "seances": 7,
       "prochaine_seance": "5886/2026-12-09",
       "derniere_seance": "5886/2026-11-11"
