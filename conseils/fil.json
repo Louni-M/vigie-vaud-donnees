@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-19T00:26:45Z",
+  "genere": "2026-11-19T17:24:50Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -911,6 +911,18 @@
         5401
       ],
       "points": null
+    },
+    {
+      "cle": "5890/2026-11-12",
+      "conseil": "5890",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-11-12T19:30",
+      "titre": "Séance du Conseil communal du jeudi 12 novembre 2026 - 19h30",
+      "communes": [
+        5890
+      ],
+      "points": 30
     },
     {
       "cle": "5415/2026-11-12",
