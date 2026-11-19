@@ -1,17 +1,17 @@
-# Seul workflow du d√©p√¥t de donn√©es `vigie-vaud-donnees` (ADR 0014), √† poser tel quel dans son
-# `.github/workflows/cron.yml` au passage public. GitHub ne lance pas ce fichier ici : il n'est que le mod√®le.
-# Il appelle le workflow r√©utilisable du d√©p√¥t principal avec le `GITHUB_TOKEN` du d√©p√¥t de donn√©es et pour seul
-# secret `RETRAITS_CLE` (facultatif, ADR 0007). Pages doit y √™tre publi√© ¬´ par GitHub Actions ¬ª.
+# Seul workflow du dépôt de données `vigie-vaud-donnees` (ADR 0014), à poser tel quel dans son
+# `.github/workflows/cron.yml` au passage public. GitHub ne lance pas ce fichier ici : il n'est que le modèle.
+# Il appelle le workflow réutilisable du dépôt principal avec le `GITHUB_TOKEN` du dépôt de données et pour seul
+# secret `RETRAITS_CLE` (facultatif, ADR 0007). Pages doit y être publié « par GitHub Actions ».
 name: Cron
 
 on:
   schedule:
-    # Toutes les 30 minutes, en UTC, √† des minutes d√©cal√©es du d√©but de l'heure. Les conseils ne s'importent qu'au
-    # premier passage apr√®s 7 h √† Lausanne.
+    # Toutes les 30 minutes, en UTC, à des minutes décalées du début de l'heure. Les conseils ne s'importent qu'au
+    # premier passage après 7 h à Lausanne.
     - cron: '17,47 * * * *'
   # Un lancement manuel fait un passage ordinaire ; avec `rattrapage`, il importe tous les conseils d'OpenParlData
   # depuis tout l'historique, sans toucher aux sites des communes ; avec `rattrapage_cible`, il relit tout le site des
-  # communes d'une plateforme (`i-web`) ou d'une seule commune scrap√©e (son n¬∞ OFS), sans relire OpenParlData.
+  # communes d'une plateforme (`i-web`) ou d'une seule commune scrapée (son n° OFS), sans relire OpenParlData.
   workflow_dispatch:
     inputs:
       rattrapage:
@@ -19,15 +19,15 @@ on:
         type: boolean
         default: false
       rattrapage_cible:
-        description: Rattrapage cibl√© des sites communaux, plateforme (i-web) ou n¬∞ OFS ; vide sinon
+        description: Rattrapage ciblé des sites communaux, plateforme (i-web) ou n° OFS ; vide sinon
         type: string
         default: ''
 
-# Un passage attend la fin du pr√©c√©dent, sans l'annuler : rattrapages et passages ordinaires, dans le m√™me groupe, ne
-# tournent jamais en m√™me temps (un rattrapage retient donc les passages planifi√©s). `queue: max` garde jusqu'√† 100
-# ex√©cutions en attente, lanc√©es dans l'ordre o√π elles sont entr√©es dans le groupe : un rattrapage lanc√© pendant un
-# passage attend sa fin et n'est plus remplac√© par le passage planifi√© suivant (par d√©faut, GitHub n'en garde qu'une
-# et annule celle qui attendait). Les passages planifi√©s pendant un rattrapage tournent √† sa suite, l'un apr√®s l'autre.
+# Un passage attend la fin du précédent, sans l'annuler : rattrapages et passages ordinaires, dans le même groupe, ne
+# tournent jamais en même temps (un rattrapage retient donc les passages planifiés). `queue: max` garde jusqu'à 100
+# exécutions en attente, lancées dans l'ordre où elles sont entrées dans le groupe : un rattrapage lancé pendant un
+# passage attend sa fin et n'est plus remplacé par le passage planifié suivant (par défaut, GitHub n'en garde qu'une
+# et annule celle qui attendait). Les passages planifiés pendant un rattrapage tournent à sa suite, l'un après l'autre.
 concurrency:
   group: cron
   cancel-in-progress: false
@@ -41,14 +41,14 @@ permissions:
 
 jobs:
   passage:
-    # Workflow du d√©p√¥t principal, pas une action tierce. Seule r√©f√©rence du code du cron : la branche `cron`, que la
-    # CI de `main` n'avance qu'√† un commit dont les contr√¥les sont verts (README, ¬´ Branche cron ¬ª) ; le workflow
-    # clone son code √† ce m√™me commit. Les actions tierces qu'il appelle y sont √©pingl√©es par SHA.
+    # Workflow du dépôt principal, pas une action tierce. Seule référence du code du cron : la branche `cron`, que la
+    # CI de `main` n'avance qu'à un commit dont les contrôles sont verts (README, « Branche cron ») ; le workflow
+    # clone son code à ce même commit. Les actions tierces qu'il appelle y sont épinglées par SHA.
     uses: Louni-M/vigie-vaud/.github/workflows/cron.yml@cron
     with:
-      # `inputs.rattrapage` est vide pour un passage planifi√©, qui n'est donc pas un rattrapage.
+      # `inputs.rattrapage` est vide pour un passage planifié, qui n'est donc pas un rattrapage.
       rattrapage: ${{ inputs.rattrapage == true }}
-      # Vide aussi pour un passage planifi√©.
+      # Vide aussi pour un passage planifié.
       rattrapage_cible: ${{ inputs.rattrapage_cible || '' }}
     secrets:
       RETRAITS_CLE: ${{ secrets.RETRAITS_CLE }}
