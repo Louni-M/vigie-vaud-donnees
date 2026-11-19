@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-19T08:04:34Z",
   "id": 341082,
   "numero": "26_INI_10",
   "type": "Initiative",
   "statut": {
-    "libelle": "Traktandiert",
+    "libelle": "A l'ordre du jour",
     "date": "2026-10-06"
   },
   "depose": "2026-10-06",
@@ -21,11 +21,11 @@
   "etapes": [
     {
       "date": "2026-10-06",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2026-10-06",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [],

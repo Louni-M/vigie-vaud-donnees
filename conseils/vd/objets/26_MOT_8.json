@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-19T08:04:34Z",
   "id": 296061,
   "numero": "26_MOT_8",
   "type": "Motion",
   "statut": {
-    "libelle": "Traktandiert",
+    "libelle": "A l'ordre du jour",
     "date": "2026-03-03"
   },
   "depose": "2026-02-24",
@@ -21,15 +21,15 @@
   "etapes": [
     {
       "date": "2026-02-24",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
     },
     {
       "date": "2026-02-24",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
     },
     {
       "date": "2026-03-03",
-      "libelle": "Traktandiert"
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [],
