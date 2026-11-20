@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-20T07:27:54Z",
+  "genere": "2026-11-20T07:28:47Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -431,6 +431,54 @@
       "titre": "Conseil communal du 10 décembre 2026",
       "communes": [
         5749
+      ],
+      "points": 0
+    },
+    {
+      "cle": "5497/12-2026-1",
+      "conseil": "5497",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-12-10",
+      "titre": "Budget 2027",
+      "communes": [
+        5497
+      ],
+      "points": null
+    },
+    {
+      "cle": "5497/12-2026-2",
+      "conseil": "5497",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-12-10",
+      "titre": "Fixation du plafond d'endettement pour la législature 2026-2031",
+      "communes": [
+        5497
+      ],
+      "points": null
+    },
+    {
+      "cle": "5497/12-2026-3",
+      "conseil": "5497",
+      "sorte": "objet",
+      "type": "Préavis",
+      "date": "2026-12-10",
+      "titre": "Règlement communal sur l’évacuation et l’épuration des eaux",
+      "communes": [
+        5497
+      ],
+      "points": null
+    },
+    {
+      "cle": "5497/2026-12-10",
+      "conseil": "5497",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-12-10",
+      "titre": "Séance du 10 décembre 2026",
+      "communes": [
+        5497
       ],
       "points": 0
     },
