@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-19T17:24:50Z",
+  "genere": "2026-11-20T07:27:54Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -2044,66 +2044,6 @@
         5586
       ],
       "points": null
-    },
-    {
-      "cle": "5643/2026-10-29",
-      "conseil": "5643",
-      "sorte": "seance",
-      "type": null,
-      "date": "2026-10-29T20:00",
-      "titre": "Séance du Conseil communal",
-      "communes": [
-        5643
-      ],
-      "points": 0
-    },
-    {
-      "cle": "5749/2026-10-29",
-      "conseil": "5749",
-      "sorte": "seance",
-      "type": null,
-      "date": "2026-10-29T20:00",
-      "titre": "Conseil communal du 29 octobre 2026 - ANNULE",
-      "communes": [
-        5749
-      ],
-      "points": 0
-    },
-    {
-      "cle": "5401/2026-10-29",
-      "conseil": "5401",
-      "sorte": "seance",
-      "type": null,
-      "date": "2026-10-29",
-      "titre": "Séance du 29 octobre 2026",
-      "communes": [
-        5401
-      ],
-      "points": 0
-    },
-    {
-      "cle": "5401/2026-14",
-      "conseil": "5401",
-      "sorte": "objet",
-      "type": "Préavis",
-      "date": "2026-10-29",
-      "titre": "Plafond d'endettement pour la législature 2026-2031",
-      "communes": [
-        5401
-      ],
-      "points": null
-    },
-    {
-      "cle": "5413/2026-10-29",
-      "conseil": "5413",
-      "sorte": "seance",
-      "type": null,
-      "date": "2026-10-29",
-      "titre": "Séance du 29 octobre 2026",
-      "communes": [
-        5413
-      ],
-      "points": 5
     }
   ]
 }
