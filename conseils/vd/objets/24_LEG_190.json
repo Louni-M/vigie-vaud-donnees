@@ -1,20 +1,41 @@
 {
   "version": 1,
-  "genere": "2026-11-19T08:04:34Z",
+  "genere": "2026-11-21T12:49:02Z",
   "id": 250003,
   "numero": "24_LEG_190",
   "type": "Décret/Loi",
   "statut": {
-    "libelle": "Déposé",
-    "date": "2025-08-20"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-24"
   },
-  "depose": "2025-08-20",
-  "titre": "EMPD Exposé des motifs et projet de décret sur le Plan d'intentions cantonal 2025-2028 des Hautes écoles vaudoises de type HES",
-  "contributeurs": [],
+  "depose": "2026-11-24",
+  "titre": "Exposé des motifs et projet de décret sur le Plan d'intentions cantonal 2025-2028 des Hautes écoles vaudoises de type HES",
+  "contributeurs": [
+    {
+      "nom": "Sylvie Pittet Blanchette",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Jacques-André Haury",
+      "parti": "V'L",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
   "etapes": [
     {
       "date": "2025-08-20",
       "libelle": "Déposé"
+    },
+    {
+      "date": "2026-11-24",
+      "libelle": "Déposé"
+    },
+    {
+      "date": "2026-11-24",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -24,7 +45,7 @@
       "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2321832"
     }
   ],
-  "lien": "https://www.vd.ch/actualites/decisions-du-conseil-detat/seance-du-conseil-detat/seance/1029297#0189b4a9-00fe-4ed7-9076-cc95c0cc79b8",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/8b10a95a-63ce-4af4-8dec-3d04993656cd/meeting/1033717",
   "communes": [
     {
       "ofs": 5586,

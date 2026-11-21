@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-11-19T08:04:34Z",
+  "genere": "2026-11-21T12:49:02Z",
   "id": 327671,
   "numero": "26_PAR_6",
   "type": "Recours de compétence",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-06-02"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-24"
   },
   "depose": "2026-05-12",
   "titre": "Rapport annuel 2025 de la Commission interparlementaire de contrôle HES-SO (CIP HES-SO)",
@@ -30,9 +30,13 @@
     {
       "date": "2026-06-02",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-24",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/35e40c9e-4bd2-4cd4-9f40-c3ccced41fae/meeting/1029671",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d16d8540-e711-47b0-8753-e63144fe0b04/meeting/1033717",
   "communes": []
 }

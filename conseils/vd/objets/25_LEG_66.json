@@ -1,20 +1,35 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-21T12:49:02Z",
   "id": 203278,
   "numero": "25_LEG_66",
   "type": "Décret/Loi",
   "statut": {
-    "libelle": "Eingereicht",
-    "date": "2025-04-30"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-24"
   },
-  "depose": "2025-04-30",
-  "titre": "EMPD ordonnant la suspension du traitement de l’initiative « Pour un congé parental vaudois »",
-  "contributeurs": [],
+  "depose": "2026-11-24",
+  "titre": "Ordonnant la suspension du traitement de l’initiative « Pour un congé parental vaudois »",
+  "contributeurs": [
+    {
+      "nom": "Thanh-My Tran-Nhu",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
+      "sorte": "personne"
+    }
+  ],
   "etapes": [
     {
       "date": "2025-04-30",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
+    },
+    {
+      "date": "2026-11-24",
+      "libelle": "Déposé"
+    },
+    {
+      "date": "2026-11-24",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -24,6 +39,6 @@
       "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2301250"
     }
   ],
-  "lien": "https://www.vd.ch/actualites/decisions-du-conseil-detat/seance-du-conseil-detat/seance/1029280#12ab1e3f-26f8-4ca9-beec-87169a0abb3f",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/3e1a1414-8d0f-40b3-8c8a-836d1561715d/meeting/1033717",
   "communes": []
 }

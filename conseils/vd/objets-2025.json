@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-19T08:04:34Z",
+  "genere": "2026-11-21T12:49:02Z",
   "conseil": "vd",
   "annee": 2025,
   "objets": [
@@ -1194,10 +1194,10 @@
       "auteurs": [],
       "nombre_auteurs": 0,
       "statut": {
-        "libelle": "Traktandiert",
-        "date": "2025-11-25"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2025-11-25",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -3272,10 +3272,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-11-17"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -3357,10 +3357,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-11-17"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -4036,10 +4036,10 @@
       "auteurs": [],
       "nombre_auteurs": 0,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-11-17"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -4051,10 +4051,10 @@
       "auteurs": [],
       "nombre_auteurs": 0,
       "statut": {
-        "libelle": "Traktandiert",
-        "date": "2025-09-30"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2025-09-30",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -4066,10 +4066,10 @@
       "auteurs": [],
       "nombre_auteurs": 0,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-11-17"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -6230,42 +6230,6 @@
       },
       "derniere_etape": "2025-08-26",
       "communes": []
-    },
-    {
-      "cle": "vd/24_LEG_190",
-      "numero": "24_LEG_190",
-      "type": "Décret/Loi",
-      "depose": "2025-08-20",
-      "titre": "EMPD Exposé des motifs et projet de décret sur le Plan d'intentions cantonal 2025-2028 des Hautes écoles vaudoises de type HES",
-      "auteurs": [],
-      "nombre_auteurs": 0,
-      "statut": {
-        "libelle": "Déposé",
-        "date": "2025-08-20"
-      },
-      "derniere_etape": "2025-08-20",
-      "communes": [
-        {
-          "ofs": 5586,
-          "origine": "document"
-        },
-        {
-          "ofs": 5938,
-          "origine": "document"
-        },
-        {
-          "ofs": 5582,
-          "origine": "document"
-        },
-        {
-          "ofs": 5627,
-          "origine": "document"
-        },
-        {
-          "ofs": 5489,
-          "origine": "document"
-        }
-      ]
     },
     {
       "cle": "vd/25_RES_11",
@@ -8772,10 +8736,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Transmise au CE",
-        "date": "2025-06-03"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2025-06-03",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -9787,10 +9751,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Transmise au CE",
-        "date": "2025-05-13"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2025-05-13",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -10344,21 +10308,6 @@
       "communes": []
     },
     {
-      "cle": "vd/25_LEG_66",
-      "numero": "25_LEG_66",
-      "type": "Décret/Loi",
-      "depose": "2025-04-30",
-      "titre": "EMPD ordonnant la suspension du traitement de l’initiative « Pour un congé parental vaudois »",
-      "auteurs": [],
-      "nombre_auteurs": 0,
-      "statut": {
-        "libelle": "Eingereicht",
-        "date": "2025-04-30"
-      },
-      "derniere_etape": "2025-04-30",
-      "communes": []
-    },
-    {
       "cle": "vd/24_LEG_77",
       "numero": "24_LEG_77",
       "type": "Décret/Loi",
@@ -10780,10 +10729,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-06-02"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-06-02",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -11200,10 +11149,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-05-12"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-05-12",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -13940,10 +13889,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-05-12"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-05-12",
+      "derniere_etape": "2026-11-24",
       "communes": [
         {
           "ofs": 5586,

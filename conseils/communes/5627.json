@@ -1,8 +1,82 @@
 {
   "version": 1,
-  "genere": "2026-11-19T08:04:34Z",
+  "genere": "2026-11-21T12:49:02Z",
   "commune": 5627,
   "objets": [
+    {
+      "cle": "vd/25_INT_29",
+      "numero": "25_INT_29",
+      "type": "Interpellation",
+      "depose": "2025-02-25",
+      "titre": "Non-renouvellement d’un contrat de travail à l’UNIL – des pratiques qui interrogent",
+      "auteurs": [
+        {
+          "nom": "Alexandre Démétriadès",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5627,
+          "origine": "document"
+        }
+      ]
+    },
+    {
+      "cle": "vd/24_LEG_190",
+      "numero": "24_LEG_190",
+      "type": "Décret/Loi",
+      "depose": "2026-11-24",
+      "titre": "Exposé des motifs et projet de décret sur le Plan d'intentions cantonal 2025-2028 des Hautes écoles vaudoises de type HES",
+      "auteurs": [
+        {
+          "nom": "Sylvie Pittet Blanchette",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Jacques-André Haury",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5627,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        }
+      ]
+    },
     {
       "cle": "vd/26_INT_96",
       "numero": "26_INT_96",
@@ -28,35 +102,6 @@
         },
         {
           "ofs": 5586,
-          "origine": "document"
-        }
-      ]
-    },
-    {
-      "cle": "vd/25_INT_29",
-      "numero": "25_INT_29",
-      "type": "Interpellation",
-      "depose": "2025-02-25",
-      "titre": "Non-renouvellement d’un contrat de travail à l’UNIL – des pratiques qui interrogent",
-      "auteurs": [
-        {
-          "nom": "Alexandre Démétriadès",
-          "parti": "SOC"
-        }
-      ],
-      "nombre_auteurs": 1,
-      "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-05-12"
-      },
-      "derniere_etape": "2026-05-12",
-      "communes": [
-        {
-          "ofs": 5586,
-          "origine": "document"
-        },
-        {
-          "ofs": 5627,
           "origine": "document"
         }
       ]
@@ -123,42 +168,6 @@
         },
         {
           "ofs": 5586,
-          "origine": "document"
-        }
-      ]
-    },
-    {
-      "cle": "vd/24_LEG_190",
-      "numero": "24_LEG_190",
-      "type": "Décret/Loi",
-      "depose": "2025-08-20",
-      "titre": "EMPD Exposé des motifs et projet de décret sur le Plan d'intentions cantonal 2025-2028 des Hautes écoles vaudoises de type HES",
-      "auteurs": [],
-      "nombre_auteurs": 0,
-      "statut": {
-        "libelle": "Déposé",
-        "date": "2025-08-20"
-      },
-      "derniere_etape": "2025-08-20",
-      "communes": [
-        {
-          "ofs": 5586,
-          "origine": "document"
-        },
-        {
-          "ofs": 5938,
-          "origine": "document"
-        },
-        {
-          "ofs": 5582,
-          "origine": "document"
-        },
-        {
-          "ofs": 5627,
-          "origine": "document"
-        },
-        {
-          "ofs": 5489,
           "origine": "document"
         }
       ]

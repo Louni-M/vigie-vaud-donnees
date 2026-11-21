@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-10-16T16:21:04Z",
+  "genere": "2026-11-21T12:49:02Z",
   "id": 227783,
   "numero": "24_MOT_29",
   "type": "Motion",
   "statut": {
-    "libelle": "Renvoyée à commission",
-    "date": "2024-05-07"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-24"
   },
   "depose": "2024-05-07",
   "titre": "Valoriser l'engagement de milice - reconnaissance des acquis militaires par l'octroi de crédits ECTS",
@@ -33,7 +33,11 @@
   "etapes": [
     {
       "date": "2024-05-07",
-      "libelle": "Eingereicht"
+      "libelle": "Déposé"
+    },
+    {
+      "date": "2026-11-24",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -43,6 +47,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/2823#979"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/5fdaf56c-f226-410c-821c-7c19b46522fb/meeting/1019569",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/ee686b2a-5173-43fe-a1e3-ba5730d2e4c2/meeting/1033717",
   "communes": []
 }

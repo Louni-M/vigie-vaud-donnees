@@ -1,9 +1,69 @@
 {
   "version": 1,
-  "genere": "2026-11-14T09:07:36Z",
+  "genere": "2026-11-21T12:49:02Z",
   "conseil": "5586",
   "annee": 2026,
   "objets": [
+    {
+      "cle": "5586/POS26-133",
+      "numero": "POS26/133",
+      "type": "Postulat",
+      "depose": "2026-11-24",
+      "titre": "Un soutien de la Ville pour la maison de naissance Eden",
+      "auteurs": [
+        {
+          "nom": "Hadrien Buclin",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS26-132",
+      "numero": "POS26/132",
+      "type": "Postulat",
+      "depose": "2026-11-24",
+      "titre": "Un mémorial des droits humains et des droits des peuples à Lausanne",
+      "auteurs": [
+        {
+          "nom": "Mountazar Jaffar",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS26-131",
+      "numero": "POS26/131",
+      "type": "Postulat",
+      "depose": "2026-11-24",
+      "titre": "Pour une Commission lausannoise pour l'intégration aux compétences élargies, mieux dotées et plus visible",
+      "auteurs": [
+        {
+          "nom": "Yusuf Kulmiye",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": []
+    },
     {
       "cle": "5586/INT26-069",
       "numero": "INT26/069",
@@ -22,6 +82,96 @@
         "date": "2026-11-24"
       },
       "derniere_etape": "2026-11-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/Q26-015",
+      "numero": "Q26/015",
+      "type": "Question écrite",
+      "depose": "2026-11-18",
+      "titre": "Place de la Riponne - de l'ombre avant les grands travaux",
+      "auteurs": [
+        {
+          "nom": "Hadrien Buclin",
+          "parti": "EàG"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-18"
+      },
+      "derniere_etape": "2026-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/INT26-073",
+      "numero": "INT26/073",
+      "type": "Interpellation",
+      "depose": "2026-11-18",
+      "titre": "Réseaux sociaux, normes de genre et santé mentale des jeunes : quelle prévention à Lausanne ?",
+      "auteurs": [
+        {
+          "nom": "Valérie Zwahlen",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-18"
+      },
+      "derniere_etape": "2026-11-18",
+      "communes": []
+    },
+    {
+      "cle": "5586/POS26-134",
+      "numero": "POS26/134",
+      "type": "Postulat",
+      "depose": "2026-11-17",
+      "titre": "Prévention des violences politiques",
+      "auteurs": [
+        {
+          "nom": "Patrizia Deborah Mori",
+          "parti": "UDC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-17"
+      },
+      "derniere_etape": "2026-11-17",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE26-014",
+      "numero": "PE26/014",
+      "type": "Pétition",
+      "depose": "2026-11-12",
+      "titre": "Intervention suite à des nuisances sonores nocturnes répétées",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-12"
+      },
+      "derniere_etape": "2026-11-12",
+      "communes": []
+    },
+    {
+      "cle": "5586/PE26-013",
+      "numero": "PE26/013",
+      "type": "Pétition",
+      "depose": "2026-11-11",
+      "titre": "Pour une révision du projet Sévelin Nord",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-11-11"
+      },
+      "derniere_etape": "2026-11-11",
       "communes": []
     },
     {
@@ -340,6 +490,26 @@
       "communes": []
     },
     {
+      "cle": "5586/POS26-130",
+      "numero": "POS26/130",
+      "type": "Postulat",
+      "depose": "2026-10-30",
+      "titre": "\"De la start-up à l'entreprise : un avenir à Lausanne pour les acteurs économiques  du domaine de la santé\"",
+      "auteurs": [
+        {
+          "nom": "Olivier Marmy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-10-30"
+      },
+      "derniere_etape": "2026-10-30",
+      "communes": []
+    },
+    {
       "cle": "5586/POS26-129",
       "numero": "POS26/129",
       "type": "Postulat",
@@ -460,6 +630,21 @@
       "communes": []
     },
     {
+      "cle": "5586/PE26-011",
+      "numero": "PE26/011",
+      "type": "Pétition",
+      "depose": "2026-10-20",
+      "titre": "Oui à la culture, non aux nuisances sonores",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-10-20"
+      },
+      "derniere_etape": "2026-10-20",
+      "communes": []
+    },
+    {
       "cle": "5586/PE26-010",
       "numero": "PE26/010",
       "type": "Pétition",
@@ -527,6 +712,26 @@
         "date": "2026-10-06"
       },
       "derniere_etape": "2026-10-06",
+      "communes": []
+    },
+    {
+      "cle": "5586/COMC26-106",
+      "numero": "COMC26/106",
+      "type": "Divers",
+      "depose": "2026-10-05",
+      "titre": "Remplacement de l'application de gestion du contrôle des habitants",
+      "auteurs": [
+        {
+          "nom": "Mathilde Maillard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-10-05"
+      },
+      "derniere_etape": "2026-10-05",
       "communes": []
     },
     {
@@ -698,10 +903,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Décision : Réponse immédiate avec résolution",
-        "date": "2026-10-06"
+        "libelle": "Répondu",
+        "date": "2026-11-13"
       },
-      "derniere_etape": "2026-10-06",
+      "derniere_etape": "2026-11-13",
       "communes": []
     },
     {
@@ -2578,10 +2783,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Décision : Réponse immédiate avec résolution",
-        "date": "2026-06-10"
+        "libelle": "Répondu",
+        "date": "2026-10-29"
       },
-      "derniere_etape": "2026-06-10",
+      "derniere_etape": "2026-10-29",
       "communes": []
     },
     {

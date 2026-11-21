@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-11-10T11:55:45Z",
+  "genere": "2026-11-21T12:49:02Z",
   "id": 227667,
   "numero": "24_INT_27",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-06-02"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-24"
   },
   "depose": "2024-02-06",
   "titre": "Examen annulé en cours de route : la HEP a-t-elle perdu le nord ?",
@@ -38,6 +38,10 @@
     {
       "date": "2026-06-02",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-24",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -52,7 +56,7 @@
       "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2259813"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/836165b3-c256-4a2d-8cf9-6a4502e34bd6/meeting/1029671",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/61ec59c2-325c-4e4f-8ac8-695515489f4d/meeting/1033717",
   "communes": [
     {
       "ofs": 5586,

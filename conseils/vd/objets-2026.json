@@ -1,9 +1,234 @@
 {
   "version": 1,
-  "genere": "2026-11-19T08:04:34Z",
+  "genere": "2026-11-21T12:49:02Z",
   "conseil": "vd",
   "annee": 2026,
   "objets": [
+    {
+      "cle": "vd/26_PAR_16",
+      "numero": "26_PAR_16",
+      "type": "Recours de compétence",
+      "depose": "2026-11-24",
+      "titre": "Rapport annuel 2025 de la commission interparlementaire de contrôle de la Convention scolaire romande (CIP CSR)",
+      "auteurs": [
+        {
+          "nom": "David Vogel",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_LEG_128",
+      "numero": "26_LEG_128",
+      "type": "Décret/Loi",
+      "depose": "2026-11-24",
+      "titre": "Sur la dissolution de la fraction de commune du Hameau de La Coudre",
+      "auteurs": [
+        {
+          "nom": "Yves Paccaud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_LEG_127",
+      "numero": "26_LEG_127",
+      "type": "Décret/Loi",
+      "depose": "2026-11-24",
+      "titre": "Sur la dissolution de la fraction de commune du Village Le Séchey",
+      "auteurs": [
+        {
+          "nom": "Yves Paccaud",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": []
+    },
+    {
+      "cle": "vd/26_LEG_1",
+      "numero": "26_LEG_1",
+      "type": "Décret/Loi",
+      "depose": "2026-11-24",
+      "titre": "Crédit-cadre (2026-2030) de CHF 6'500'000 pour financer les acquisitions de moyens d'enseignement pour la formation professionnelle dans l'enseignement postobligatoire",
+      "auteurs": [
+        {
+          "nom": "Sylvie Pittet Blanchette",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": []
+    },
+    {
+      "cle": "vd/25_RAP_29",
+      "numero": "25_RAP_29",
+      "type": "Rapport",
+      "depose": "2026-11-24",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le programme pluriannuel des investissements (PPI) des établissements de la Fédération des hôpitaux vaudois (FHV) – période 2023-2027",
+      "auteurs": [
+        {
+          "nom": "Sylvie Podio",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": []
+    },
+    {
+      "cle": "vd/25_LEG_66",
+      "numero": "25_LEG_66",
+      "type": "Décret/Loi",
+      "depose": "2026-11-24",
+      "titre": "Ordonnant la suspension du traitement de l’initiative « Pour un congé parental vaudois »",
+      "auteurs": [
+        {
+          "nom": "Thanh-My Tran-Nhu",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": []
+    },
+    {
+      "cle": "vd/25_LEG_141",
+      "numero": "25_LEG_141",
+      "type": "Décret/Loi",
+      "depose": "2026-11-24",
+      "titre": "Accordant au Conseil d'État un crédit-cadre de CHF 16'582'000.- pour financer le premier cycle des travaux d’assainissement des infrastructures routières, d’évacuation des eaux et d’éclairage public du campus de l’Université de Lausanne à partir de 2026",
+      "auteurs": [
+        {
+          "nom": "Yannick Maury",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": []
+    },
+    {
+      "cle": "vd/24_RAP_23",
+      "numero": "24_RAP_23",
+      "type": "Rapport",
+      "depose": "2026-11-24",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Florence Gross et consorts - La région Lausannoise n'aurait-elle pas besoin d'un hôpital de ville?",
+      "auteurs": [
+        {
+          "nom": "Sylvie Podio",
+          "parti": "VER"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": []
+    },
+    {
+      "cle": "vd/24_LEG_83",
+      "numero": "24_LEG_83",
+      "type": "Décret/Loi",
+      "depose": "2026-11-24",
+      "titre": "Accordant au Conseil d'Etat un crédit-cadre de CHF 14'150'000.- pour financer le sixième cycle de travaux de rénovation des bâtiments de l’Université de Lausanne à partir de 2025",
+      "auteurs": [
+        {
+          "nom": "Sébastien Kessler",
+          "parti": "SOC"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": []
+    },
+    {
+      "cle": "vd/24_LEG_190",
+      "numero": "24_LEG_190",
+      "type": "Décret/Loi",
+      "depose": "2026-11-24",
+      "titre": "Exposé des motifs et projet de décret sur le Plan d'intentions cantonal 2025-2028 des Hautes écoles vaudoises de type HES",
+      "auteurs": [
+        {
+          "nom": "Sylvie Pittet Blanchette",
+          "parti": "SOC"
+        },
+        {
+          "nom": "Jacques-André Haury",
+          "parti": "V'L"
+        }
+      ],
+      "nombre_auteurs": 2,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": [
+        {
+          "ofs": 5586,
+          "origine": "document"
+        },
+        {
+          "ofs": 5938,
+          "origine": "document"
+        },
+        {
+          "ofs": 5582,
+          "origine": "document"
+        },
+        {
+          "ofs": 5627,
+          "origine": "document"
+        },
+        {
+          "ofs": 5489,
+          "origine": "document"
+        }
+      ]
+    },
     {
       "cle": "vd/26_REP_187",
       "numero": "26_REP_187",
@@ -99,9 +324,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-11-17"
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": [
         {
           "ofs": 5587,
@@ -124,9 +349,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-11-17"
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": [
         {
           "ofs": 5713,
@@ -149,9 +374,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-11-17"
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -169,9 +394,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-11-17"
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -219,9 +444,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-11-17"
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -239,9 +464,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-11-17"
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -259,9 +484,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-11-17"
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -283,9 +508,9 @@
       "nombre_auteurs": 2,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-11-17"
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -293,7 +518,7 @@
       "numero": "26_LEG_50",
       "type": "Décret/Loi",
       "depose": "2026-11-17",
-      "titre": "Accordant au Conseil d'Etat un crédit d’investissement de CHF 16'443’000.- pour mettre en œuvre la première phase de la stratégie de l’administration numérique vaudoise 2026-2030",
+      "titre": "EMPD (2e débat ; majorité absolue requise) accordant au Conseil d'Etat un crédit d’investissement de CHF 16'443’000.- pour mettre en œuvre la première phase de la stratégie de l’administration numérique vaudoise 2026-2030",
       "auteurs": [
         {
           "nom": "Maurice Gay",
@@ -303,9 +528,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-11-17"
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -322,10 +547,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-11-17"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -343,9 +568,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-11-17"
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -363,9 +588,9 @@
       "nombre_auteurs": 1,
       "statut": {
         "libelle": "A l'ordre du jour",
-        "date": "2026-11-17"
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -1158,10 +1383,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-11-10"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-10",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -1178,10 +1403,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-11-10"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-10",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -7993,10 +8218,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-06-02"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-06-02",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -8261,10 +8486,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-11-17"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -8920,10 +9145,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-06-02"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-06-02",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -8940,10 +9165,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-06-02"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-06-02",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -10463,10 +10688,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-11-17"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -10508,10 +10733,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-11-17"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -10608,10 +10833,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-11-17"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -11464,10 +11689,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-11-17"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {
@@ -13527,10 +13752,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Renvoyé par manque de temps",
-        "date": "2026-11-17"
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
       },
-      "derniere_etape": "2026-11-17",
+      "derniere_etape": "2026-11-24",
       "communes": []
     },
     {

@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-11-18T09:19:03Z",
+  "genere": "2026-11-21T12:49:02Z",
   "id": 227772,
   "numero": "24_MOT_2",
   "type": "Motion",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-11-17"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-24"
   },
   "depose": "2024-01-23",
   "titre": "Motion : Pour des comptes et des budgets plus transparents sur les montants des PiG",
@@ -32,6 +32,10 @@
     {
       "date": "2026-11-17",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-24",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -41,6 +45,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/2725#2065"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4f5015e2-60d3-4767-928f-9f8e0643bb5a/meeting/1033716",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/33bd9605-8846-4d7b-8cd7-e1c891d8822e/meeting/1033717",
   "communes": []
 }

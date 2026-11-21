@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-11-11T06:49:33Z",
+  "genere": "2026-11-21T12:49:02Z",
   "id": 342407,
   "numero": "26_INI_16",
   "type": "Initiative",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-11-10"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-24"
   },
   "depose": "2026-11-03",
   "titre": "Initiative parlementaire Élections communales : pour que l'inscription dans les délais compte (modification de l'art. 41 LEDP)",
@@ -30,9 +30,13 @@
     {
       "date": "2026-11-10",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-24",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/6cd35dc0-2249-45ea-9a08-5c312adc53ca/meeting/1033715",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/af0cb81d-e483-439d-bd7d-4090ad84cfff/meeting/1033717",
   "communes": []
 }

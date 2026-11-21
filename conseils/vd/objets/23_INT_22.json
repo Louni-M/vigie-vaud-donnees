@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-11-10T11:55:45Z",
+  "genere": "2026-11-21T12:49:02Z",
   "id": 227050,
   "numero": "23_INT_22",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-06-02"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-24"
   },
   "depose": "2023-02-21",
   "titre": "Climat : UNIL, tu peux mieux faire ?",
@@ -38,6 +38,10 @@
     {
       "date": "2026-06-02",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-24",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -52,6 +56,6 @@
       "lien": "https://sieldocs.vd.ch/ecm/app18/service/siel/getContent?ID=2228816"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1e46e55c-6284-4619-8f8f-76adc40304f7/meeting/1029671",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/4894dfc3-6a3d-4285-8b38-0945c0b60271/meeting/1033717",
   "communes": []
 }

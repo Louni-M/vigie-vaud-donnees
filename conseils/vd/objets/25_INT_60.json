@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-11-10T11:55:45Z",
+  "genere": "2026-11-21T12:49:02Z",
   "id": 228183,
   "numero": "25_INT_60",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-06-02"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-24"
   },
   "depose": "2025-04-29",
   "titre": "Licenciement à l’Université de Lausanne et climat institutionnel préoccupant",
@@ -34,6 +34,10 @@
     {
       "date": "2026-06-02",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-24",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -43,6 +47,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/3108#1425"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/30b4453b-fcf5-4973-bc43-6417441e2dc9/meeting/1029671",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/3db65153-24e1-4e49-a072-26fbfde4a876/meeting/1033717",
   "communes": []
 }

@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "genere": "2026-11-19T08:04:34Z",
+  "genere": "2026-11-21T12:49:02Z",
   "id": 227771,
   "numero": "24_MOT_19",
   "type": "Motion",
   "statut": {
-    "libelle": "Renvoyé par manque de temps",
-    "date": "2026-06-02"
+    "libelle": "A l'ordre du jour",
+    "date": "2026-11-24"
   },
   "depose": "2024-03-12",
   "titre": "Des prestations d’intérêt général (PIG) pour la formation et la recherche ancrées dans la loi sur l’Université",
@@ -32,6 +32,10 @@
     {
       "date": "2026-06-02",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-24",
+      "libelle": "A l'ordre du jour"
     }
   ],
   "documents": [
@@ -41,6 +45,6 @@
       "lien": "https://www.sonomix.ch/live/gcvd/2767#3699"
     }
   ],
-  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/d7463f94-80db-4576-9877-07eed76054ee/meeting/1029671",
+  "lien": "https://www.vd.ch/gc/seances-du-grand-conseil/point-seance/point/1ef9d117-3084-485c-8fb6-6cf07871cec9/meeting/1033717",
   "communes": []
 }

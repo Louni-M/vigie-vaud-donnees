@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-20T07:28:47Z",
+  "genere": "2026-11-21T12:49:02Z",
   "entrees": [
     {
       "cle": "5607/2027-12-09",
@@ -708,7 +708,7 @@
       "communes": [
         5586
       ],
-      "points": 145
+      "points": 158
     },
     {
       "cle": "5586/INT26-069",
@@ -723,6 +723,158 @@
       "points": null
     },
     {
+      "cle": "5586/POS26-131",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-11-24",
+      "titre": "Pour une Commission lausannoise pour l'intégration aux compétences élargies, mieux dotées et plus visible",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/POS26-132",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-11-24",
+      "titre": "Un mémorial des droits humains et des droits des peuples à Lausanne",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/POS26-133",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-11-24",
+      "titre": "Un soutien de la Ville pour la maison de naissance Eden",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "vd/2026-11-24",
+      "conseil": "vd",
+      "sorte": "seance",
+      "type": null,
+      "date": "2026-11-24",
+      "titre": "Séance du Grand Conseil du mardi 24 novembre 2026",
+      "communes": [],
+      "points": 52
+    },
+    {
+      "cle": "vd/24_LEG_190",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-24",
+      "titre": "Exposé des motifs et projet de décret sur le Plan d'intentions cantonal 2025-2028 des Hautes écoles vaudoises de type HES",
+      "communes": [
+        5586,
+        5938,
+        5582,
+        5627,
+        5489
+      ],
+      "points": null
+    },
+    {
+      "cle": "vd/24_LEG_83",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-24",
+      "titre": "Accordant au Conseil d'Etat un crédit-cadre de CHF 14'150'000.- pour financer le sixième cycle de travaux de rénovation des bâtiments de l’Université de Lausanne à partir de 2025",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/24_RAP_23",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Rapport",
+      "date": "2026-11-24",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le Postulat Florence Gross et consorts - La région Lausannoise n'aurait-elle pas besoin d'un hôpital de ville?",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/25_LEG_141",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-24",
+      "titre": "Accordant au Conseil d'État un crédit-cadre de CHF 16'582'000.- pour financer le premier cycle des travaux d’assainissement des infrastructures routières, d’évacuation des eaux et d’éclairage public du campus de l’Université de Lausanne à partir de 2026",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/25_LEG_66",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-24",
+      "titre": "Ordonnant la suspension du traitement de l’initiative « Pour un congé parental vaudois »",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/25_RAP_29",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Rapport",
+      "date": "2026-11-24",
+      "titre": "Rapport du Conseil d'Etat au Grand Conseil sur le programme pluriannuel des investissements (PPI) des établissements de la Fédération des hôpitaux vaudois (FHV) – période 2023-2027",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_LEG_1",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-24",
+      "titre": "Crédit-cadre (2026-2030) de CHF 6'500'000 pour financer les acquisitions de moyens d'enseignement pour la formation professionnelle dans l'enseignement postobligatoire",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_LEG_127",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-24",
+      "titre": "Sur la dissolution de la fraction de commune du Village Le Séchey",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_LEG_128",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Décret/Loi",
+      "date": "2026-11-24",
+      "titre": "Sur la dissolution de la fraction de commune du Hameau de La Coudre",
+      "communes": [],
+      "points": null
+    },
+    {
+      "cle": "vd/26_PAR_16",
+      "conseil": "vd",
+      "sorte": "objet",
+      "type": "Recours de compétence",
+      "date": "2026-11-24",
+      "titre": "Rapport annuel 2025 de la commission interparlementaire de contrôle de la Convention scolaire romande (CIP CSR)",
+      "communes": [],
+      "points": null
+    },
+    {
       "cle": "5654/2026-11-18",
       "conseil": "5654",
       "sorte": "seance",
@@ -733,6 +885,42 @@
         5654
       ],
       "points": 1
+    },
+    {
+      "cle": "5586/INT26-073",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Interpellation",
+      "date": "2026-11-18",
+      "titre": "Réseaux sociaux, normes de genre et santé mentale des jeunes : quelle prévention à Lausanne ?",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/Q26-015",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Question écrite",
+      "date": "2026-11-18",
+      "titre": "Place de la Riponne - de l'ombre avant les grands travaux",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/POS26-134",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Postulat",
+      "date": "2026-11-17",
+      "titre": "Prévention des violences politiques",
+      "communes": [
+        5586
+      ],
+      "points": null
     },
     {
       "cle": "vd/2026-11-17",
@@ -800,7 +988,7 @@
       "sorte": "objet",
       "type": "Décret/Loi",
       "date": "2026-11-17",
-      "titre": "Accordant au Conseil d'Etat un crédit d’investissement de CHF 16'443’000.- pour mettre en œuvre la première phase de la stratégie de l’administration numérique vaudoise 2026-2030",
+      "titre": "EMPD (2e débat ; majorité absolue requise) accordant au Conseil d'Etat un crédit d’investissement de CHF 16'443’000.- pour mettre en œuvre la première phase de la stratégie de l’administration numérique vaudoise 2026-2030",
       "communes": [],
       "points": null
     },
@@ -985,12 +1173,36 @@
       "points": 0
     },
     {
+      "cle": "5586/PE26-014",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Pétition",
+      "date": "2026-11-12",
+      "titre": "Intervention suite à des nuisances sonores nocturnes répétées",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
       "cle": "5586/INT26-072",
       "conseil": "5586",
       "sorte": "objet",
       "type": "Interpellation",
       "date": "2026-11-11",
       "titre": "P'tit train de Vidy : quel soutien pour préserver un patrimoine populaire lausannois ?",
+      "communes": [
+        5586
+      ],
+      "points": null
+    },
+    {
+      "cle": "5586/PE26-013",
+      "conseil": "5586",
+      "sorte": "objet",
+      "type": "Pétition",
+      "date": "2026-11-11",
+      "titre": "Pour une révision du projet Sévelin Nord",
       "communes": [
         5586
       ],
