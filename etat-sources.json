@@ -1,414 +1,421 @@
 {
   "version": 1,
-  "genere": "2026-11-21T04:00:00Z",
+  "genere": "2026-11-21T12:42:47Z",
   "sources": {
     "camac-permis": {
       "etat": "disponible",
       "depuis": "2026-10-15T20:03:59Z",
-      "derniere_sonde": "2026-11-21T04:00:00Z",
-      "dernier_succes": "2026-11-21T04:00:00Z",
+      "derniere_sonde": "2026-11-21T12:42:47Z",
+      "dernier_succes": "2026-11-21T12:42:47Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "dgmr-restrictions": {
       "etat": "disponible",
       "depuis": "2026-10-19T14:43:18Z",
-      "derniere_sonde": "2026-11-21T04:00:02Z",
-      "dernier_succes": "2026-11-21T04:00:02Z",
+      "derniere_sonde": "2026-11-21T12:42:48Z",
+      "dernier_succes": "2026-11-21T12:42:48Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-vd": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:03Z",
-      "derniere_sonde": "2026-11-21T04:00:02Z",
-      "dernier_succes": "2026-11-21T04:00:02Z",
+      "derniere_sonde": "2026-11-21T12:42:48Z",
+      "dernier_succes": "2026-11-21T12:42:48Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-5586": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:04Z",
-      "derniere_sonde": "2026-11-21T04:00:02Z",
-      "dernier_succes": "2026-11-21T04:00:02Z",
+      "derniere_sonde": "2026-11-21T12:42:49Z",
+      "dernier_succes": "2026-11-21T12:42:49Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-5938": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:04Z",
-      "derniere_sonde": "2026-11-21T04:00:03Z",
-      "dernier_succes": "2026-11-21T04:00:03Z",
+      "derniere_sonde": "2026-11-21T12:42:49Z",
+      "dernier_succes": "2026-11-21T12:42:49Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5414": {
       "etat": "disponible",
       "depuis": "2026-10-24T13:35:59Z",
-      "derniere_sonde": "2026-11-20T16:24:25Z",
-      "dernier_succes": "2026-11-20T16:24:25Z",
+      "derniere_sonde": "2026-11-21T12:43:18Z",
+      "dernier_succes": "2026-11-21T12:43:18Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5458": {
       "etat": "disponible",
       "depuis": "2026-11-13T21:41:00Z",
-      "derniere_sonde": "2026-11-20T07:23:05Z",
+      "derniere_sonde": "2026-11-21T12:43:59Z",
       "dernier_succes": "2026-11-20T07:23:05Z",
-      "echecs_consecutifs": 0,
-      "motif": null
+      "echecs_consecutifs": 1,
+      "motif": "délai dépassé"
     },
     "site-5514": {
       "etat": "disponible",
       "depuis": "2026-10-28T23:15:41Z",
-      "derniere_sonde": "2026-11-20T16:24:36Z",
-      "dernier_succes": "2026-11-20T16:24:36Z",
+      "derniere_sonde": "2026-11-21T12:44:14Z",
+      "dernier_succes": "2026-11-21T12:44:14Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5523": {
       "etat": "disponible",
       "depuis": "2026-10-28T23:15:53Z",
-      "derniere_sonde": "2026-11-20T07:23:57Z",
-      "dernier_succes": "2026-11-20T07:23:57Z",
+      "derniere_sonde": "2026-11-21T12:44:26Z",
+      "dernier_succes": "2026-11-21T12:44:26Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5607": {
       "etat": "disponible",
       "depuis": "2026-10-28T23:16:06Z",
-      "derniere_sonde": "2026-11-20T07:24:09Z",
-      "dernier_succes": "2026-11-20T07:24:09Z",
+      "derniere_sonde": "2026-11-21T12:44:37Z",
+      "dernier_succes": "2026-11-21T12:44:37Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5634": {
       "etat": "disponible",
       "depuis": "2026-10-28T23:16:18Z",
-      "derniere_sonde": "2026-11-20T07:24:20Z",
-      "dernier_succes": "2026-11-20T07:24:20Z",
+      "derniere_sonde": "2026-11-21T12:44:54Z",
+      "dernier_succes": "2026-11-21T12:44:54Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5643": {
       "etat": "disponible",
       "depuis": "2026-10-28T23:16:44Z",
-      "derniere_sonde": "2026-11-20T07:24:34Z",
-      "dernier_succes": "2026-11-20T07:24:34Z",
+      "derniere_sonde": "2026-11-21T12:45:22Z",
+      "dernier_succes": "2026-11-21T12:45:22Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5649": {
       "etat": "disponible",
       "depuis": "2026-10-28T23:16:56Z",
-      "derniere_sonde": "2026-11-20T07:24:46Z",
-      "dernier_succes": "2026-11-20T07:24:46Z",
+      "derniere_sonde": "2026-11-21T12:45:34Z",
+      "dernier_succes": "2026-11-21T12:45:34Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5654": {
       "etat": "disponible",
       "depuis": "2026-10-28T23:17:10Z",
-      "derniere_sonde": "2026-11-20T07:24:57Z",
-      "dernier_succes": "2026-11-20T07:24:57Z",
+      "derniere_sonde": "2026-11-21T12:45:45Z",
+      "dernier_succes": "2026-11-21T12:45:45Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5656": {
       "etat": "disponible",
       "depuis": "2026-10-28T23:17:22Z",
-      "derniere_sonde": "2026-11-20T07:25:08Z",
-      "dernier_succes": "2026-11-20T07:25:08Z",
+      "derniere_sonde": "2026-11-21T12:45:56Z",
+      "dernier_succes": "2026-11-21T12:45:56Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5674": {
       "etat": "disponible",
       "depuis": "2026-10-28T23:17:33Z",
-      "derniere_sonde": "2026-11-20T07:25:22Z",
+      "derniere_sonde": "2026-11-21T12:46:38Z",
       "dernier_succes": "2026-11-20T07:25:22Z",
-      "echecs_consecutifs": 0,
-      "motif": null
+      "echecs_consecutifs": 1,
+      "motif": "délai dépassé"
     },
     "site-5704": {
       "etat": "disponible",
       "depuis": "2026-10-28T23:17:45Z",
-      "derniere_sonde": "2026-11-20T07:25:33Z",
+      "derniere_sonde": "2026-11-21T12:46:39Z",
       "dernier_succes": "2026-11-20T07:25:33Z",
-      "echecs_consecutifs": 0,
-      "motif": null
+      "echecs_consecutifs": 1,
+      "motif": "accès refusé"
     },
     "site-5712": {
       "etat": "disponible",
       "depuis": "2026-10-28T23:17:57Z",
-      "derniere_sonde": "2026-11-20T07:25:45Z",
+      "derniere_sonde": "2026-11-21T12:46:39Z",
       "dernier_succes": "2026-11-20T07:25:45Z",
-      "echecs_consecutifs": 0,
-      "motif": null
+      "echecs_consecutifs": 1,
+      "motif": "accès refusé"
     },
     "site-5749": {
       "etat": "disponible",
       "depuis": "2026-11-08T00:00:15Z",
-      "derniere_sonde": "2026-11-20T07:25:57Z",
+      "derniere_sonde": "2026-11-21T12:46:39Z",
       "dernier_succes": "2026-11-20T07:25:57Z",
-      "echecs_consecutifs": 0,
-      "motif": null
+      "echecs_consecutifs": 1,
+      "motif": "accès refusé"
     },
     "site-5764": {
       "etat": "disponible",
       "depuis": "2026-11-08T00:00:27Z",
-      "derniere_sonde": "2026-11-20T07:26:09Z",
+      "derniere_sonde": "2026-11-21T12:46:39Z",
       "dernier_succes": "2026-11-20T07:26:09Z",
-      "echecs_consecutifs": 0,
-      "motif": null
+      "echecs_consecutifs": 1,
+      "motif": "accès refusé"
     },
     "site-5841": {
       "etat": "disponible",
       "depuis": "2026-11-08T00:00:40Z",
-      "derniere_sonde": "2026-11-20T07:26:20Z",
+      "derniere_sonde": "2026-11-21T12:46:39Z",
       "dernier_succes": "2026-11-20T07:26:20Z",
-      "echecs_consecutifs": 0,
-      "motif": null
+      "echecs_consecutifs": 1,
+      "motif": "accès refusé"
     },
     "site-5851": {
       "etat": "disponible",
       "depuis": "2026-11-08T00:00:51Z",
-      "derniere_sonde": "2026-11-20T07:26:39Z",
+      "derniere_sonde": "2026-11-21T12:46:39Z",
       "dernier_succes": "2026-11-20T07:26:39Z",
-      "echecs_consecutifs": 0,
-      "motif": null
+      "echecs_consecutifs": 1,
+      "motif": "accès refusé"
     },
     "site-5883": {
       "etat": "disponible",
       "depuis": "2026-11-08T13:34:21Z",
-      "derniere_sonde": "2026-11-20T07:26:51Z",
+      "derniere_sonde": "2026-11-21T12:46:39Z",
       "dernier_succes": "2026-11-20T07:26:51Z",
-      "echecs_consecutifs": 0,
-      "motif": null
+      "echecs_consecutifs": 1,
+      "motif": "accès refusé"
     },
     "site-5892": {
       "etat": "disponible",
       "depuis": "2026-11-08T13:34:34Z",
-      "derniere_sonde": "2026-11-20T07:27:03Z",
+      "derniere_sonde": "2026-11-21T12:46:39Z",
       "dernier_succes": "2026-11-20T07:27:03Z",
-      "echecs_consecutifs": 0,
-      "motif": null
+      "echecs_consecutifs": 1,
+      "motif": "accès refusé"
     },
     "site-5401": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:48:33Z",
-      "derniere_sonde": "2026-11-20T07:22:54Z",
-      "dernier_succes": "2026-11-20T07:22:54Z",
+      "derniere_sonde": "2026-11-21T12:43:21Z",
+      "dernier_succes": "2026-11-21T12:43:21Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5413": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:48:35Z",
-      "derniere_sonde": "2026-11-20T07:22:55Z",
-      "dernier_succes": "2026-11-20T07:22:55Z",
+      "derniere_sonde": "2026-11-21T12:43:22Z",
+      "dernier_succes": "2026-11-21T12:43:22Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5415": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:48:47Z",
-      "derniere_sonde": "2026-11-20T07:23:07Z",
-      "dernier_succes": "2026-11-20T07:23:07Z",
+      "derniere_sonde": "2026-11-21T12:44:02Z",
+      "dernier_succes": "2026-11-21T12:44:02Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5431": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:48:59Z",
-      "derniere_sonde": "2026-11-20T07:23:48Z",
-      "dernier_succes": "2026-11-20T07:23:48Z",
+      "derniere_sonde": "2026-11-21T12:44:17Z",
+      "dernier_succes": "2026-11-21T12:44:17Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5474": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:49:11Z",
-      "derniere_sonde": "2026-11-20T07:24:00Z",
-      "dernier_succes": "2026-11-20T07:24:00Z",
+      "derniere_sonde": "2026-11-21T12:44:29Z",
+      "dernier_succes": "2026-11-21T12:44:29Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5497": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:49:23Z",
-      "derniere_sonde": "2026-11-20T07:24:12Z",
-      "dernier_succes": "2026-11-20T07:24:12Z",
+      "derniere_sonde": "2026-11-21T12:44:41Z",
+      "dernier_succes": "2026-11-21T12:44:41Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5585": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:49:35Z",
-      "derniere_sonde": "2026-11-20T07:24:24Z",
-      "dernier_succes": "2026-11-20T07:24:24Z",
+      "derniere_sonde": "2026-11-21T12:44:55Z",
+      "dernier_succes": "2026-11-21T12:44:55Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5621": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:49:46Z",
-      "derniere_sonde": "2026-11-20T07:24:35Z",
-      "dernier_succes": "2026-11-20T07:24:35Z",
+      "derniere_sonde": "2026-11-21T12:45:23Z",
+      "dernier_succes": "2026-11-21T12:45:23Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5636": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:49:58Z",
-      "derniere_sonde": "2026-11-20T07:24:47Z",
-      "dernier_succes": "2026-11-20T07:24:47Z",
+      "derniere_sonde": "2026-11-21T12:45:35Z",
+      "dernier_succes": "2026-11-21T12:45:35Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5639": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:50:10Z",
-      "derniere_sonde": "2026-11-20T07:24:59Z",
-      "dernier_succes": "2026-11-20T07:24:59Z",
+      "derniere_sonde": "2026-11-21T12:45:46Z",
+      "dernier_succes": "2026-11-21T12:45:46Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5673": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:50:22Z",
-      "derniere_sonde": "2026-11-20T07:25:10Z",
-      "dernier_succes": "2026-11-20T07:25:10Z",
+      "derniere_sonde": "2026-11-21T12:45:58Z",
+      "dernier_succes": "2026-11-21T12:45:58Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5707": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:50:33Z",
-      "derniere_sonde": "2026-11-20T07:25:23Z",
-      "dernier_succes": "2026-11-20T07:25:23Z",
+      "derniere_sonde": "2026-11-21T12:46:39Z",
+      "dernier_succes": "2026-11-21T12:46:39Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5714": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:50:45Z",
-      "derniere_sonde": "2026-11-20T07:25:35Z",
-      "dernier_succes": "2026-11-20T07:25:35Z",
+      "derniere_sonde": "2026-11-21T12:46:51Z",
+      "dernier_succes": "2026-11-21T12:46:51Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5715": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:50:57Z",
-      "derniere_sonde": "2026-11-20T07:25:47Z",
-      "dernier_succes": "2026-11-20T07:25:47Z",
+      "derniere_sonde": "2026-11-21T12:47:02Z",
+      "dernier_succes": "2026-11-21T12:47:02Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5717": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:51:08Z",
-      "derniere_sonde": "2026-11-20T07:25:58Z",
-      "dernier_succes": "2026-11-20T07:25:58Z",
+      "derniere_sonde": "2026-11-21T12:47:14Z",
+      "dernier_succes": "2026-11-21T12:47:14Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5719": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:51:21Z",
-      "derniere_sonde": "2026-11-20T07:26:10Z",
-      "dernier_succes": "2026-11-20T07:26:10Z",
+      "derniere_sonde": "2026-11-21T12:47:26Z",
+      "dernier_succes": "2026-11-21T12:47:26Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5723": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:51:32Z",
-      "derniere_sonde": "2026-11-20T07:26:22Z",
-      "dernier_succes": "2026-11-20T07:26:22Z",
+      "derniere_sonde": "2026-11-21T12:47:37Z",
+      "dernier_succes": "2026-11-21T12:47:37Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5728": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:51:44Z",
-      "derniere_sonde": "2026-11-20T07:26:41Z",
-      "dernier_succes": "2026-11-20T07:26:41Z",
+      "derniere_sonde": "2026-11-21T12:47:49Z",
+      "dernier_succes": "2026-11-21T12:47:49Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5730": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:51:56Z",
-      "derniere_sonde": "2026-11-20T07:26:53Z",
-      "dernier_succes": "2026-11-20T07:26:53Z",
+      "derniere_sonde": "2026-11-21T12:48:01Z",
+      "dernier_succes": "2026-11-21T12:48:01Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5754": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:52:08Z",
-      "derniere_sonde": "2026-11-20T07:27:05Z",
-      "dernier_succes": "2026-11-20T07:27:05Z",
+      "derniere_sonde": "2026-11-21T12:48:13Z",
+      "dernier_succes": "2026-11-21T12:48:13Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5798": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:52:20Z",
-      "derniere_sonde": "2026-11-20T07:27:17Z",
-      "dernier_succes": "2026-11-20T07:27:17Z",
+      "derniere_sonde": "2026-11-21T12:48:25Z",
+      "dernier_succes": "2026-11-21T12:48:25Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5799": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:52:31Z",
-      "derniere_sonde": "2026-11-20T07:27:29Z",
-      "dernier_succes": "2026-11-20T07:27:29Z",
+      "derniere_sonde": "2026-11-21T12:48:37Z",
+      "dernier_succes": "2026-11-21T12:48:37Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5805": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:52:43Z",
-      "derniere_sonde": "2026-11-20T07:27:40Z",
-      "dernier_succes": "2026-11-20T07:27:40Z",
+      "derniere_sonde": "2026-11-21T12:48:48Z",
+      "dernier_succes": "2026-11-21T12:48:48Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5813": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:52:55Z",
-      "derniere_sonde": "2026-11-20T07:27:52Z",
-      "dernier_succes": "2026-11-20T07:27:52Z",
+      "derniere_sonde": "2026-11-21T12:49:00Z",
+      "dernier_succes": "2026-11-21T12:49:00Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5861": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:48:45Z",
-      "derniere_sonde": "2026-11-20T07:23:06Z",
-      "dernier_succes": "2026-11-20T07:23:06Z",
+      "derniere_sonde": "2026-11-21T12:44:01Z",
+      "dernier_succes": "2026-11-21T12:44:01Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5886": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:48:58Z",
-      "derniere_sonde": "2026-11-20T07:23:47Z",
-      "dernier_succes": "2026-11-20T07:23:47Z",
+      "derniere_sonde": "2026-11-21T12:44:16Z",
+      "dernier_succes": "2026-11-21T12:44:16Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5890": {
       "etat": "disponible",
       "depuis": "2026-11-09T20:48:35Z",
-      "derniere_sonde": "2026-11-20T07:22:56Z",
-      "dernier_succes": "2026-11-20T07:22:56Z",
+      "derniere_sonde": "2026-11-21T12:43:23Z",
+      "dernier_succes": "2026-11-21T12:43:23Z",
       "echecs_consecutifs": 0,
       "motif": null
+    }
+  },
+  "reseaux": {
+    "195.65.10.0/24": {
+      "depuis": "2026-11-21T12:46:38Z",
+      "jusqu_a": null,
+      "motif": "délai dépassé"
     }
   }
 }
