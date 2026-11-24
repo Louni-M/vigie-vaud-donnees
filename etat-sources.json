@@ -1,44 +1,44 @@
 {
   "version": 1,
-  "genere": "2026-11-24T06:28:10Z",
+  "genere": "2026-11-24T18:22:18Z",
   "sources": {
     "camac-permis": {
       "etat": "disponible",
       "depuis": "2026-10-15T20:03:59Z",
-      "derniere_sonde": "2026-11-24T06:28:10Z",
-      "dernier_succes": "2026-11-24T06:28:10Z",
+      "derniere_sonde": "2026-11-24T18:22:18Z",
+      "dernier_succes": "2026-11-24T18:22:18Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "dgmr-restrictions": {
       "etat": "disponible",
       "depuis": "2026-10-19T14:43:18Z",
-      "derniere_sonde": "2026-11-24T06:28:11Z",
-      "dernier_succes": "2026-11-24T06:28:11Z",
+      "derniere_sonde": "2026-11-24T18:22:19Z",
+      "dernier_succes": "2026-11-24T18:22:19Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-vd": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:03Z",
-      "derniere_sonde": "2026-11-24T06:28:12Z",
-      "dernier_succes": "2026-11-24T06:28:12Z",
+      "derniere_sonde": "2026-11-24T18:22:19Z",
+      "dernier_succes": "2026-11-24T18:22:19Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-5586": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:04Z",
-      "derniere_sonde": "2026-11-24T06:28:12Z",
-      "dernier_succes": "2026-11-24T06:28:12Z",
+      "derniere_sonde": "2026-11-24T18:22:20Z",
+      "dernier_succes": "2026-11-24T18:22:20Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-5938": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:04Z",
-      "derniere_sonde": "2026-11-24T06:28:12Z",
-      "dernier_succes": "2026-11-24T06:28:12Z",
+      "derniere_sonde": "2026-11-24T18:22:20Z",
+      "dernier_succes": "2026-11-24T18:22:20Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
