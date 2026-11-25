@@ -1,12 +1,59 @@
 {
   "version": 1,
-  "genere": "2026-10-31T15:03:25Z",
+  "genere": "2026-11-25T13:06:43Z",
   "conseil": "5704",
   "seances": [
     {
+      "cle": "5704/2027-03-16",
+      "date": "2027-03-16T20:00",
+      "points": 0
+    },
+    {
       "cle": "5704/2026-12-08",
       "date": "2026-12-08T20:00",
-      "points": 0
+      "points": 0,
+      "documents": [
+        {
+          "titre": "Préavis n°12.2026_Budget2027",
+          "date": null,
+          "lien": "https://www.begnins.ch/_doc/7371946"
+        },
+        {
+          "titre": "Préavis n°12.2026_Annexe1.1_BudgetNature",
+          "date": null,
+          "lien": "https://www.begnins.ch/_doc/7371949"
+        },
+        {
+          "titre": "Préavis n°12.2026_Annexe1_BudgetNatureEchelonne",
+          "date": null,
+          "lien": "https://www.begnins.ch/_doc/7371952"
+        },
+        {
+          "titre": "Préavis n°12.2026_Annexe2_BudgetInvest",
+          "date": null,
+          "lien": "https://www.begnins.ch/_doc/7371955"
+        },
+        {
+          "titre": "Préavis n°12.2026_Annexe3_BudgetExploit",
+          "date": null,
+          "lien": "https://www.begnins.ch/_doc/7371958"
+        },
+        {
+          "titre": "Préavis n°13.2026_Demande de crédit PACom",
+          "date": null,
+          "lien": "https://www.begnins.ch/_doc/7371961"
+        },
+        {
+          "titre": "PV Conseil du 06.10.2026_V03",
+          "date": null,
+          "lien": "https://www.begnins.ch/_doc/7371970"
+        },
+        {
+          "titre": "OJ séance du 8.12.2026",
+          "date": null,
+          "lien": "https://www.begnins.ch/_doc/7372180"
+        }
+      ]
     },
     {
       "cle": "5704/2026-10-06",

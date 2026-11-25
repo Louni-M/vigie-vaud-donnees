@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-12T10:26:56Z",
+  "genere": "2026-11-25T13:06:43Z",
   "conseil": "5523",
   "seances": [
     {
@@ -31,7 +31,14 @@
     {
       "cle": "5523/2026-12-08",
       "date": "2026-12-08T19:00",
-      "points": 0
+      "points": 0,
+      "documents": [
+        {
+          "titre": "ODJ CC 2026 12 08",
+          "date": null,
+          "lien": "https://www.froideville.ch/_doc/7370581"
+        }
+      ]
     },
     {
       "cle": "5523/2026-10-06",
