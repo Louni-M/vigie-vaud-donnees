@@ -1,8 +1,33 @@
 {
   "version": 1,
-  "genere": "2026-11-24T06:33:14Z",
+  "genere": "2026-11-25T13:06:30Z",
   "commune": 5724,
   "objets": [
+    {
+      "cle": "vd/26_INI_19",
+      "numero": "26_INI_19",
+      "type": "Initiative",
+      "depose": "2026-11-24",
+      "titre": "Pour un soutien Vaudois à l'utilisation temporaire de la bande d'arrêt d'urgence entre Nyon et le Vengeron",
+      "auteurs": [
+        {
+          "nom": "Pierre-André Romanens",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "A l'ordre du jour",
+        "date": "2026-11-24"
+      },
+      "derniere_etape": "2026-11-24",
+      "communes": [
+        {
+          "ofs": 5724,
+          "origine": "titre"
+        }
+      ]
+    },
     {
       "cle": "vd/25_POS_60",
       "numero": "25_POS_60",

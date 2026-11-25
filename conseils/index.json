@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-25T02:49:24Z",
+  "genere": "2026-11-25T13:06:30Z",
   "conseils": [
     {
       "cle": "vd",
@@ -11,7 +11,7 @@
         "objets",
         "seances"
       ],
-      "objets": 8415,
+      "objets": 8424,
       "objets_par_annee": {
         "1950": 1,
         "2008": 308,
@@ -32,9 +32,69 @@
         "2023": 642,
         "2024": 705,
         "2025": 734,
-        "2026": 677
+        "2026": 686
       },
       "recents": [
+        {
+          "cle": "vd/26_POS_69",
+          "numero": "26_POS_69",
+          "type": "Postulat",
+          "depose": "2026-11-24",
+          "titre": "Tu seras viril mon kid ... Et cela va coûter cher à notre société !",
+          "auteurs": [
+            {
+              "nom": "Géraldine Dubuis",
+              "parti": "VER"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-11-24"
+          },
+          "derniere_etape": "2026-11-24",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_POS_68",
+          "numero": "26_POS_68",
+          "type": "Postulat",
+          "depose": "2026-11-24",
+          "titre": "Un observatoire cantonal des violences sexistes et sexuelles",
+          "auteurs": [
+            {
+              "nom": "Joëlle Minacci",
+              "parti": "EP"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-11-24"
+          },
+          "derniere_etape": "2026-11-24",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_POS_67",
+          "numero": "26_POS_67",
+          "type": "Postulat",
+          "depose": "2026-11-24",
+          "titre": "Terre-Sainte : la sécurité de la population, une priorité qui appelle des réponses",
+          "auteurs": [
+            {
+              "nom": "Pierre-André Romanens",
+              "parti": "PLR"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-11-24"
+          },
+          "derniere_etape": "2026-11-24",
+          "communes": []
+        },
         {
           "cle": "vd/26_PAR_16",
           "numero": "26_PAR_16",
@@ -45,6 +105,26 @@
             {
               "nom": "David Vogel",
               "parti": "V'L"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Traité",
+            "date": "2026-11-24"
+          },
+          "derniere_etape": "2026-11-24",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_MOT_84",
+          "numero": "26_MOT_84",
+          "type": "Motion",
+          "depose": "2026-11-24",
+          "titre": "La santé des enfants ne doit pas être sacrifiée aux achats alimentaires impulsifs",
+          "auteurs": [
+            {
+              "nom": "Yannick Maury",
+              "parti": "VER"
             }
           ],
           "nombre_auteurs": 1,
@@ -69,7 +149,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Adopté",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -89,7 +169,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Adopté",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -109,11 +189,116 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
+            "libelle": "Adopté",
+            "date": "2026-11-24"
+          },
+          "derniere_etape": "2026-11-24",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INT_166",
+          "numero": "26_INT_166",
+          "type": "Interpellation",
+          "depose": "2026-11-24",
+          "titre": "L'État peut-il accélérer les mesures visant à rendre les établissements scolaires yverdonnois conformes sur le plan sanitaire ?",
+          "auteurs": [
+            {
+              "nom": "Mathilde Marendaz",
+              "parti": "EP"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
             "libelle": "A l'ordre du jour",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
           "communes": []
+        },
+        {
+          "cle": "vd/26_INT_165",
+          "numero": "26_INT_165",
+          "type": "Interpellation",
+          "depose": "2026-11-24",
+          "titre": "Analyser des effets réels des investissements Chek jusqu'en 2026",
+          "auteurs": [
+            {
+              "nom": "Didier Lohri",
+              "parti": "VER"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-11-24"
+          },
+          "derniere_etape": "2026-11-24",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INT_164",
+          "numero": "26_INT_164",
+          "type": "Interpellation",
+          "depose": "2026-11-24",
+          "titre": "Gaz lacrymogènes et risques sanitaires : suspendre leur utilisation tant que leur innocuité n’est pas établie !",
+          "auteurs": [
+            {
+              "nom": "Mathilde Marendaz",
+              "parti": "EP"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-11-24"
+          },
+          "derniere_etape": "2026-11-24",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INT_163",
+          "numero": "26_INT_163",
+          "type": "Interpellation",
+          "depose": "2026-11-24",
+          "titre": "Manosphère : une sphère d'influence qui inquiète",
+          "auteurs": [
+            {
+              "nom": "Valérie Zonca",
+              "parti": "VER"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-11-24"
+          },
+          "derniere_etape": "2026-11-24",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_INI_19",
+          "numero": "26_INI_19",
+          "type": "Initiative",
+          "depose": "2026-11-24",
+          "titre": "Pour un soutien Vaudois à l'utilisation temporaire de la bande d'arrêt d'urgence entre Nyon et le Vengeron",
+          "auteurs": [
+            {
+              "nom": "Pierre-André Romanens",
+              "parti": "PLR"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-11-24"
+          },
+          "derniere_etape": "2026-11-24",
+          "communes": [
+            {
+              "ofs": 5724,
+              "origine": "titre"
+            }
+          ]
         },
         {
           "cle": "vd/25_RAP_29",
@@ -129,7 +314,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Renvoyé par manque de temps",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -149,7 +334,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Renvoyé par manque de temps",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -169,7 +354,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Adopté",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -189,7 +374,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Renvoyé par manque de temps",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -209,7 +394,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Adopté",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -233,7 +418,7 @@
           ],
           "nombre_auteurs": 2,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Adopté",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -354,7 +539,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Pris en considération",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -379,7 +564,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Renvoyé par manque de temps",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -404,7 +589,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Renvoyée à commission",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -424,7 +609,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Renvoyée à commission",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -474,7 +659,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Renvoyée à commission",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -494,7 +679,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Renvoyée à commission",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -514,7 +699,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Renvoyée à commission",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -538,7 +723,7 @@
           ],
           "nombre_auteurs": 2,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Adopté",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -558,7 +743,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Adopté",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -578,7 +763,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Adopté",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -598,7 +783,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Transmise au CE",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -618,7 +803,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "A l'ordre du jour",
+            "libelle": "Transmise au CE",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -903,8 +1088,8 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 259,
-      "prochaine_seance": null,
+      "seances": 260,
+      "prochaine_seance": "5938/2026-12-03",
       "derniere_seance": "5938/2026-11-05"
     },
     {
@@ -1889,7 +2074,7 @@
     "5720": 2,
     "5721": 68,
     "5723": 25,
-    "5724": 302,
+    "5724": 303,
     "5725": 39,
     "5726": 1,
     "5727": 19,

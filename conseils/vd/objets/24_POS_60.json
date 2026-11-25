@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "genere": "2026-11-21T12:49:02Z",
+  "genere": "2026-11-25T13:06:30Z",
   "id": 227910,
   "numero": "24_POS_60",
   "type": "Postulat",
   "statut": {
-    "libelle": "A l'ordre du jour",
+    "libelle": "Non pris en considération",
     "date": "2026-11-24"
   },
   "depose": "2024-12-04",
@@ -42,6 +42,10 @@
     {
       "date": "2026-11-24",
       "libelle": "A l'ordre du jour"
+    },
+    {
+      "date": "2026-11-24",
+      "libelle": "Rejeté"
     }
   ],
   "documents": [
