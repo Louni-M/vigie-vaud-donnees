@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-11T06:49:33Z",
+  "genere": "2026-11-26T14:36:18Z",
   "id": 342413,
   "numero": "26_MOT_77",
   "type": "Motion",
@@ -15,6 +15,12 @@
       "nom": "Muriel Thalmann",
       "parti": "SOC",
       "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Nicolas Suter",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
       "sorte": "personne"
     }
   ],

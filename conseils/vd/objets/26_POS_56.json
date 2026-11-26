@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-04T08:09:04Z",
+  "genere": "2026-11-26T14:36:18Z",
   "id": 342086,
   "numero": "26_POS_56",
   "type": "Postulat",
@@ -15,6 +15,12 @@
       "nom": "Kilian Duggan",
       "parti": "VER",
       "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Florence Gross",
+      "parti": "PLR",
+      "role": "Rapporteur(s) de commission",
       "sorte": "personne"
     }
   ],

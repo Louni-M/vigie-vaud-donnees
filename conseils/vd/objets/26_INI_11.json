@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-04T08:09:04Z",
+  "genere": "2026-11-26T14:36:18Z",
   "id": 342069,
   "numero": "26_INI_11",
   "type": "Initiative",
@@ -15,6 +15,12 @@
       "nom": "Loïc Bardet",
       "parti": "PLR",
       "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Thanh-My Tran-Nhu",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
       "sorte": "personne"
     }
   ],

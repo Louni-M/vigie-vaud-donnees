@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-26T04:27:56Z",
+  "genere": "2026-11-26T14:36:18Z",
   "conseils": [
     {
       "cle": "vd",
@@ -863,7 +863,7 @@
         "objets",
         "seances"
       ],
-      "objets": 1613,
+      "objets": 1615,
       "objets_par_annee": {
         "2010": 1,
         "2013": 1,
@@ -879,7 +879,7 @@
         "2023": 252,
         "2024": 235,
         "2025": 289,
-        "2026": 249
+        "2026": 251
       },
       "recents": [
         {
@@ -896,7 +896,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "Déposé",
+            "libelle": "Décision : Renvoi en Municipalité",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -916,7 +916,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "Déposé",
+            "libelle": "Décision : Renvoi en Municipalité",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -936,7 +936,7 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "Déposé",
+            "libelle": "Décision : Renvoi en Municipalité",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -956,7 +956,27 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "Déposé",
+            "libelle": "Décision : Renvoi en Municipalité",
+            "date": "2026-11-24"
+          },
+          "derniere_etape": "2026-11-24",
+          "communes": []
+        },
+        {
+          "cle": "5586/INT26-074",
+          "numero": "INT26/074",
+          "type": "Interpellation",
+          "depose": "2026-11-20",
+          "titre": "\"Apprentissage à Lausanne : des engagements aux résultats, où en sommes-nous ?\"",
+          "auteurs": [
+            {
+              "nom": "Nicolas Hurni",
+              "parti": "PLR"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "Décision : Renvoi en Municipalité",
             "date": "2026-11-24"
           },
           "derniere_etape": "2026-11-24",
@@ -976,10 +996,10 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "Déposé",
-            "date": "2026-11-18"
+            "libelle": "Décision : Renvoi en Municipalité",
+            "date": "2026-11-24"
           },
-          "derniere_etape": "2026-11-18",
+          "derniere_etape": "2026-11-24",
           "communes": []
         },
         {
@@ -996,10 +1016,10 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "Déposé",
-            "date": "2026-11-18"
+            "libelle": "Décision : Renvoi en Municipalité",
+            "date": "2026-11-24"
           },
-          "derniere_etape": "2026-11-18",
+          "derniere_etape": "2026-11-24",
           "communes": []
         },
         {
@@ -1016,10 +1036,10 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "Déposé",
-            "date": "2026-11-17"
+            "libelle": "Décision : Renvoi en Municipalité",
+            "date": "2026-11-24"
           },
-          "derniere_etape": "2026-11-17",
+          "derniere_etape": "2026-11-24",
           "communes": []
         },
         {
@@ -1031,10 +1051,10 @@
           "auteurs": [],
           "nombre_auteurs": 0,
           "statut": {
-            "libelle": "Déposé",
-            "date": "2026-11-12"
+            "libelle": "Décision : Renvoi en COPET",
+            "date": "2026-11-24"
           },
-          "derniere_etape": "2026-11-12",
+          "derniere_etape": "2026-11-24",
           "communes": []
         }
       ],

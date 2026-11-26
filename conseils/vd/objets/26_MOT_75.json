@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-04T08:09:04Z",
+  "genere": "2026-11-26T14:36:18Z",
   "id": 342082,
   "numero": "26_MOT_75",
   "type": "Motion",
@@ -15,6 +15,12 @@
       "nom": "Amélie Cherbuin",
       "parti": "SOC",
       "role": "Auteur",
+      "sorte": "personne"
+    },
+    {
+      "nom": "Sylvie Pittet Blanchette",
+      "parti": "SOC",
+      "role": "Rapporteur(s) de commission",
       "sorte": "personne"
     }
   ],
