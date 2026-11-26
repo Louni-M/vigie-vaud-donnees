@@ -1,52 +1,52 @@
 {
   "version": 1,
-  "genere": "2026-11-26T14:30:27Z",
+  "genere": "2026-11-26T23:21:34Z",
   "sources": {
     "camac-permis": {
       "etat": "disponible",
       "depuis": "2026-10-15T20:03:59Z",
-      "derniere_sonde": "2026-11-26T14:30:27Z",
-      "dernier_succes": "2026-11-26T14:30:27Z",
+      "derniere_sonde": "2026-11-26T23:21:34Z",
+      "dernier_succes": "2026-11-26T23:21:34Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "dgmr-restrictions": {
       "etat": "disponible",
       "depuis": "2026-10-19T14:43:18Z",
-      "derniere_sonde": "2026-11-26T14:30:28Z",
-      "dernier_succes": "2026-11-26T14:30:28Z",
+      "derniere_sonde": "2026-11-26T23:21:35Z",
+      "dernier_succes": "2026-11-26T23:21:35Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-vd": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:03Z",
-      "derniere_sonde": "2026-11-26T14:30:28Z",
-      "dernier_succes": "2026-11-26T14:30:28Z",
+      "derniere_sonde": "2026-11-26T23:21:35Z",
+      "dernier_succes": "2026-11-26T23:21:35Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-5586": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:04Z",
-      "derniere_sonde": "2026-11-26T14:30:29Z",
-      "dernier_succes": "2026-11-26T14:30:29Z",
+      "derniere_sonde": "2026-11-26T23:21:35Z",
+      "dernier_succes": "2026-11-26T23:21:35Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-5938": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:04Z",
-      "derniere_sonde": "2026-11-26T14:30:29Z",
-      "dernier_succes": "2026-11-26T14:30:29Z",
+      "derniere_sonde": "2026-11-26T23:21:35Z",
+      "dernier_succes": "2026-11-26T23:21:35Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5414": {
       "etat": "disponible",
       "depuis": "2026-10-24T13:35:59Z",
-      "derniere_sonde": "2026-11-26T14:30:52Z",
-      "dernier_succes": "2026-11-26T14:30:52Z",
+      "derniere_sonde": "2026-11-26T23:21:49Z",
+      "dernier_succes": "2026-11-26T23:21:49Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
@@ -125,10 +125,10 @@
     "site-5674": {
       "etat": "disponible",
       "depuis": "2026-10-28T23:17:33Z",
-      "derniere_sonde": "2026-11-26T14:33:38Z",
-      "dernier_succes": "2026-11-25T13:04:11Z",
-      "echecs_consecutifs": 1,
-      "motif": "délai dépassé"
+      "derniere_sonde": "2026-11-26T23:22:00Z",
+      "dernier_succes": "2026-11-26T23:22:00Z",
+      "echecs_consecutifs": 0,
+      "motif": null
     },
     "site-5704": {
       "etat": "disponible",
@@ -409,13 +409,6 @@
       "dernier_succes": "2026-11-26T14:30:58Z",
       "echecs_consecutifs": 0,
       "motif": null
-    }
-  },
-  "reseaux": {
-    "195.65.10.0/24": {
-      "depuis": "2026-11-26T14:37:03Z",
-      "jusqu_a": null,
-      "motif": "délai dépassé"
     }
   }
 }
