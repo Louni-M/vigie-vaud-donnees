@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-26T14:36:18Z",
+  "genere": "2026-11-26T14:36:32Z",
   "conseils": [
     {
       "cle": "vd",
@@ -1459,8 +1459,8 @@
       "objets": 0,
       "objets_par_annee": {},
       "recents": [],
-      "seances": 1,
-      "prochaine_seance": null,
+      "seances": 2,
+      "prochaine_seance": "5474/2026-12-10",
       "derniere_seance": "5474/2026-09-08"
     },
     {
@@ -1527,9 +1527,9 @@
         "preavis",
         "seances"
       ],
-      "objets": 5,
+      "objets": 6,
       "objets_par_annee": {
-        "2026": 5
+        "2026": 6
       },
       "recents": [],
       "seances": 2,
@@ -1669,13 +1669,50 @@
         "preavis",
         "seances"
       ],
-      "objets": 10,
+      "objets": 14,
       "objets_par_annee": {
-        "2026": 10
+        "2026": 14
       },
-      "recents": [],
-      "seances": 3,
-      "prochaine_seance": null,
+      "recents": [
+        {
+          "cle": "5717/008_2026-2031",
+          "numero": "008_2026-2031",
+          "type": "Préavis",
+          "depose": "2026-12-07",
+          "titre": "Ajustement du bilan pour le passage au MCH2",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5717/007_2026-2031",
+          "numero": "007_2026-2031",
+          "type": "Préavis",
+          "depose": "2026-12-07",
+          "titre": "Budget 2027",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5717/006_2026-2031",
+          "numero": "006_2026-2031",
+          "type": "Préavis",
+          "depose": "2026-12-07",
+          "titre": "Fixation du plafond en matière d'endettement et de risques pour cautionnements pour la législature 2026-2031",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        }
+      ],
+      "seances": 4,
+      "prochaine_seance": "5717/2026-12-07",
       "derniere_seance": "5717/2026-11-09"
     },
     {

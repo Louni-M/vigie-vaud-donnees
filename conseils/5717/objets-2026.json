@@ -1,12 +1,60 @@
 {
   "version": 1,
-  "genere": "2026-11-09T20:52:55Z",
+  "genere": "2026-11-26T14:36:32Z",
   "conseil": "5717",
   "annee": 2026,
   "objets": [
     {
+      "cle": "5717/008_2026-2031",
+      "numero": "008_2026-2031",
+      "type": "Préavis",
+      "depose": "2026-12-07",
+      "titre": "Ajustement du bilan pour le passage au MCH2",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": null,
+      "derniere_etape": null,
+      "communes": []
+    },
+    {
+      "cle": "5717/007_2026-2031",
+      "numero": "007_2026-2031",
+      "type": "Préavis",
+      "depose": "2026-12-07",
+      "titre": "Budget 2027",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": null,
+      "derniere_etape": null,
+      "communes": []
+    },
+    {
+      "cle": "5717/006_2026-2031",
+      "numero": "006_2026-2031",
+      "type": "Préavis",
+      "depose": "2026-12-07",
+      "titre": "Fixation du plafond en matière d'endettement et de risques pour cautionnements pour la législature 2026-2031",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": null,
+      "derniere_etape": null,
+      "communes": []
+    },
+    {
       "cle": "5717/005_2026-2031",
       "numero": "005_2026-2031",
+      "type": "Préavis",
+      "depose": "2026-11-09",
+      "titre": "Demande de crédit de CHF 114'000.00 pour le déplacement des armoires de contrôle de l'éclairage public des stations Romande Energie",
+      "auteurs": [],
+      "nombre_auteurs": 0,
+      "statut": null,
+      "derniere_etape": null,
+      "communes": []
+    },
+    {
+      "cle": "5717/005",
+      "numero": "005",
       "type": "Préavis",
       "depose": "2026-11-09",
       "titre": "Demande de crédit de CHF 114'000.00 pour le déplacement des armoires de contrôle de l'éclairage public des stations Romande Energie",
