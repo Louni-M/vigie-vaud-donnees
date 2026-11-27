@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-26T23:22:02Z",
+  "genere": "2026-11-27T15:43:23Z",
   "conseils": [
     {
       "cle": "vd",
@@ -11,7 +11,7 @@
         "objets",
         "seances"
       ],
-      "objets": 8424,
+      "objets": 8427,
       "objets_par_annee": {
         "1950": 1,
         "2008": 308,
@@ -32,9 +32,77 @@
         "2023": 642,
         "2024": 705,
         "2025": 734,
-        "2026": 686
+        "2026": 689
       },
       "recents": [
+        {
+          "cle": "vd/26_PAR_25",
+          "numero": "26_PAR_25",
+          "type": "Recours de compétence",
+          "depose": "2026-12-01",
+          "titre": "Rapport/préavis du Bureau du Grand Conseil et prestation de serment de [particulier]",
+          "auteurs": [
+            {
+              "nom": "Marc Morandi",
+              "parti": "PLR"
+            }
+          ],
+          "nombre_auteurs": 1,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-12-01"
+          },
+          "derniere_etape": "2026-12-01",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_LEG_95",
+          "numero": "26_LEG_95",
+          "type": "Décret/Loi",
+          "depose": "2026-12-01",
+          "titre": "Exposé des motifs et projets de budgets - des charges et des revenus de fonctionnement de l'Etat de Vaud pour l'année 2027 - d'investissement pour l'année 2027",
+          "auteurs": [
+            {
+              "nom": "Stéphane Balet",
+              "parti": "SOC"
+            },
+            {
+              "nom": "Pierre Conscience",
+              "parti": "EP"
+            }
+          ],
+          "nombre_auteurs": 4,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-12-01"
+          },
+          "derniere_etape": "2026-12-01",
+          "communes": []
+        },
+        {
+          "cle": "vd/26_LEG_196",
+          "numero": "26_LEG_196",
+          "type": "Décret/Loi",
+          "depose": "2026-12-01",
+          "titre": "Exposé des motifs et projets de budgets - des charges et des revenus de fonctionnement de l'Etat de Vaud pour l'année 2027 - d'investissement pour l'année 2027 complémentaire",
+          "auteurs": [
+            {
+              "nom": "Stéphane Balet",
+              "parti": "SOC"
+            },
+            {
+              "nom": "Pierre Conscience",
+              "parti": "EP"
+            }
+          ],
+          "nombre_auteurs": 4,
+          "statut": {
+            "libelle": "A l'ordre du jour",
+            "date": "2026-12-01"
+          },
+          "derniere_etape": "2026-12-01",
+          "communes": []
+        },
         {
           "cle": "vd/26_POS_69",
           "numero": "26_POS_69",
@@ -50,9 +118,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-24"
+            "date": "2026-12-01"
           },
-          "derniere_etape": "2026-11-24",
+          "derniere_etape": "2026-12-01",
           "communes": []
         },
         {
@@ -70,9 +138,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-24"
+            "date": "2026-12-01"
           },
-          "derniere_etape": "2026-11-24",
+          "derniere_etape": "2026-12-01",
           "communes": []
         },
         {
@@ -90,9 +158,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-24"
+            "date": "2026-12-01"
           },
-          "derniere_etape": "2026-11-24",
+          "derniere_etape": "2026-12-01",
           "communes": []
         },
         {
@@ -130,9 +198,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-24"
+            "date": "2026-12-01"
           },
-          "derniere_etape": "2026-11-24",
+          "derniere_etape": "2026-12-01",
           "communes": []
         },
         {
@@ -210,9 +278,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-24"
+            "date": "2026-12-01"
           },
-          "derniere_etape": "2026-11-24",
+          "derniere_etape": "2026-12-01",
           "communes": []
         },
         {
@@ -230,9 +298,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-24"
+            "date": "2026-12-01"
           },
-          "derniere_etape": "2026-11-24",
+          "derniere_etape": "2026-12-01",
           "communes": []
         },
         {
@@ -250,9 +318,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-24"
+            "date": "2026-12-01"
           },
-          "derniere_etape": "2026-11-24",
+          "derniere_etape": "2026-12-01",
           "communes": []
         },
         {
@@ -270,9 +338,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-24"
+            "date": "2026-12-01"
           },
-          "derniere_etape": "2026-11-24",
+          "derniere_etape": "2026-12-01",
           "communes": []
         },
         {
@@ -290,9 +358,9 @@
           "nombre_auteurs": 1,
           "statut": {
             "libelle": "A l'ordre du jour",
-            "date": "2026-11-24"
+            "date": "2026-12-01"
           },
-          "derniere_etape": "2026-11-24",
+          "derniere_etape": "2026-12-01",
           "communes": [
             {
               "ofs": 5724,
@@ -564,10 +632,10 @@
           ],
           "nombre_auteurs": 1,
           "statut": {
-            "libelle": "Renvoyé par manque de temps",
-            "date": "2026-11-24"
+            "libelle": "A l'ordre du jour",
+            "date": "2026-12-01"
           },
-          "derniere_etape": "2026-11-24",
+          "derniere_etape": "2026-12-01",
           "communes": [
             {
               "ofs": 5713,
@@ -850,8 +918,8 @@
           "communes": []
         }
       ],
-      "seances": 666,
-      "prochaine_seance": null,
+      "seances": 733,
+      "prochaine_seance": "vd/2026-12-01",
       "derniere_seance": "vd/2026-11-24"
     },
     {
