@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "genere": "2026-10-26T07:55:12Z",
+  "genere": "2026-11-28T14:20:58Z",
   "id": 333786,
   "numero": "INT26/029",
   "type": "Interpellation",
   "statut": {
-    "libelle": "Décision : Renvoi en Municipalité",
-    "date": "2026-06-09"
+    "libelle": "Répondu",
+    "date": "2026-11-13"
   },
-  "depose": "2026-06-09",
+  "depose": "2026-11-03",
   "titre": "Neutralité politique des institutions subventionnées",
   "contributeurs": [
     {
@@ -26,9 +26,28 @@
     {
       "date": "2026-06-09",
       "libelle": "Décision : Renvoi en Municipalité"
+    },
+    {
+      "date": "2026-11-03",
+      "libelle": "Déposé"
+    },
+    {
+      "date": "2026-11-13",
+      "libelle": "Répondu"
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "titre": "Interpellation ordinaire",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/2a/2afab7ad837e40ffa3be31892bffb37e.pdf"
+    },
+    {
+      "titre": "Réponse à l'interpellation signée",
+      "date": null,
+      "lien": "https://www.lausanne.ch/apps/agir/affaire/doc/0b/0b7d37936d274685a304cfe26d7b071c.pdf"
+    }
+  ],
   "lien": "https://www.lausanne.ch/apps/agir/affaire/17/0c547c06ee334d0c92423d39d6be4a17.htm",
   "communes": []
 }

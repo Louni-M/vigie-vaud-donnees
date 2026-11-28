@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-26T14:36:18Z",
+  "genere": "2026-11-28T14:20:58Z",
   "conseil": "5586",
   "annee": 2026,
   "objets": [
@@ -450,6 +450,26 @@
       "communes": []
     },
     {
+      "cle": "5586/INT26-029",
+      "numero": "INT26/029",
+      "type": "Interpellation",
+      "depose": "2026-11-03",
+      "titre": "Neutralité politique des institutions subventionnées",
+      "auteurs": [
+        {
+          "nom": "Anouck Saugy",
+          "parti": "PLR"
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Répondu",
+        "date": "2026-11-13"
+      },
+      "derniere_etape": "2026-11-13",
+      "communes": []
+    },
+    {
       "cle": "5586/INT26-063",
       "numero": "INT26/063",
       "type": "Interpellation",
@@ -700,6 +720,26 @@
       "communes": []
     },
     {
+      "cle": "5586/PREA26-174",
+      "numero": "PREA26/174",
+      "type": "Préavis",
+      "depose": "2026-10-07",
+      "titre": "Budget de fonctionnement de l'exercice 2027 et Plan des investissements pour les années 2027 à 2030",
+      "auteurs": [
+        {
+          "nom": "Ariane Morin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-10-07"
+      },
+      "derniere_etape": "2026-10-07",
+      "communes": []
+    },
+    {
       "cle": "5586/PREA26-172",
       "numero": "PREA26/172",
       "type": "Préavis",
@@ -772,6 +812,26 @@
         "date": "2026-11-24"
       },
       "derniere_etape": "2026-11-24",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA26-162",
+      "numero": "PREA26/162",
+      "type": "Préavis",
+      "depose": "2026-10-02",
+      "titre": "SOI - Autorisations d'achats informatiques 2027",
+      "auteurs": [
+        {
+          "nom": "Vincent Naïnemoutou",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-10-02"
+      },
+      "derniere_etape": "2026-10-02",
       "communes": []
     },
     {
@@ -1130,6 +1190,26 @@
       "communes": []
     },
     {
+      "cle": "5586/PREA26-167",
+      "numero": "PREA26/167",
+      "type": "Préavis",
+      "depose": "2026-09-23",
+      "titre": "Crédits supplémentaires pour 2026 - 2e série",
+      "auteurs": [
+        {
+          "nom": "Ariane Morin",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-09-23"
+      },
+      "derniere_etape": "2026-09-23",
+      "communes": []
+    },
+    {
       "cle": "5586/PR26-001",
       "numero": "PR26/001",
       "type": "Projet de règlement",
@@ -1147,6 +1227,26 @@
         "date": "2026-11-10"
       },
       "derniere_etape": "2026-11-10",
+      "communes": []
+    },
+    {
+      "cle": "5586/PREA26-166",
+      "numero": "PREA26/166",
+      "type": "Préavis",
+      "depose": "2026-09-22",
+      "titre": "Crédits-cadres bisannuels 2027-2028",
+      "auteurs": [
+        {
+          "nom": "Sarah De Dea",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-09-22"
+      },
+      "derniere_etape": "2026-09-22",
       "communes": []
     },
     {
@@ -2340,6 +2440,26 @@
       "communes": []
     },
     {
+      "cle": "5586/PREA26-121",
+      "numero": "PREA26/121",
+      "type": "Préavis",
+      "depose": "2026-06-23",
+      "titre": "Avenue de Morges 47 à 117 - Cité-Jardin de Prélaz - Lausanne, biens-fonds 349 à 397, droits distincts et permanents (DDP) de superficie 677 à 713 - Prolongation et modification des droits de superficie des maisons familiales et des immeubles locatifs",
+      "auteurs": [
+        {
+          "nom": "Marlène Berard",
+          "parti": null
+        }
+      ],
+      "nombre_auteurs": 1,
+      "statut": {
+        "libelle": "Déposé",
+        "date": "2026-06-23"
+      },
+      "derniere_etape": "2026-06-23",
+      "communes": []
+    },
+    {
       "cle": "5586/POS26-073",
       "numero": "POS26/073",
       "type": "Postulat",
@@ -2847,26 +2967,6 @@
         "date": "2026-06-10"
       },
       "derniere_etape": "2026-06-10",
-      "communes": []
-    },
-    {
-      "cle": "5586/INT26-029",
-      "numero": "INT26/029",
-      "type": "Interpellation",
-      "depose": "2026-06-09",
-      "titre": "Neutralité politique des institutions subventionnées",
-      "auteurs": [
-        {
-          "nom": "Anouck Saugy",
-          "parti": "PLR"
-        }
-      ],
-      "nombre_auteurs": 1,
-      "statut": {
-        "libelle": "Décision : Renvoi en Municipalité",
-        "date": "2026-06-09"
-      },
-      "derniere_etape": "2026-06-09",
       "communes": []
     },
     {
@@ -4368,10 +4468,10 @@
       ],
       "nombre_auteurs": 1,
       "statut": {
-        "libelle": "Décision : Renvoi en Municipalité",
-        "date": "2026-03-03"
+        "libelle": "Répondu",
+        "date": "2026-11-12"
       },
-      "derniere_etape": "2026-03-03",
+      "derniere_etape": "2026-11-12",
       "communes": []
     },
     {
