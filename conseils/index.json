@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "genere": "2026-11-28T14:20:58Z",
+  "genere": "2026-11-28T14:21:13Z",
   "conseils": [
     {
       "cle": "vd",
@@ -1462,11 +1462,61 @@
         "objets",
         "seances"
       ],
-      "objets": 12,
+      "objets": 17,
       "objets_par_annee": {
-        "2026": 12
+        "2022": 1,
+        "2026": 16
       },
-      "recents": [],
+      "recents": [
+        {
+          "cle": "5413/13-26",
+          "numero": "13-26",
+          "type": "Préavis",
+          "depose": "2026-11-18",
+          "titre": "Préavis n° 13/2026 de la Municipalité au Conseil communal relatif à la demande de crédit de construction pour la desserte interne de la zone industrielle Les Vernes",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5413/12-26",
+          "numero": "12-26",
+          "type": "Préavis",
+          "depose": "2026-11-18",
+          "titre": "Préavis n° 12/2026 de la Municipalité au Conseil communal relatif à la demande de crédit d’étude pour l’élaboration du plan d’affectation de la zone industrielle Les Vernes",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5413/10-26",
+          "numero": "10-26",
+          "type": "Préavis",
+          "depose": "2026-11-16",
+          "titre": "Préavis N° 10 / 2026 de la Municipalité au Conseil communal relatif au budget de fonctionnement pour l’année 2027",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        },
+        {
+          "cle": "5413/05-26",
+          "numero": "05-26",
+          "type": "Préavis",
+          "depose": "2026-11-16",
+          "titre": "Préavis N° 05/2026 de la Municipalité au Conseil communal relatif à l’adoption du règlement communal sur la protection du patrimoine arboré",
+          "auteurs": [],
+          "nombre_auteurs": 0,
+          "statut": null,
+          "derniere_etape": null,
+          "communes": []
+        }
+      ],
       "seances": 4,
       "prochaine_seance": "5413/2026-12-02",
       "derniere_seance": "5413/2026-10-29"

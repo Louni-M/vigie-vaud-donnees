@@ -1,9 +1,45 @@
 {
   "version": 1,
-  "genere": "2026-11-09T20:52:55Z",
+  "genere": "2026-11-28T14:21:13Z",
   "id": null,
   "date": "2026-12-02",
   "nom": "Séance du 2 décembre 2026",
-  "lien": null,
-  "ordre_du_jour": []
+  "lien": "https://www.roche-vd.ch/conseilcommunal/public/ordredujour/?ID=82",
+  "ordre_du_jour": [
+    {
+      "numero": null,
+      "titre": "Préavis 05-26 Préavis N° 05/2026 de la Municipalité au Conseil communal relatif à l’adoption du règlement communal sur la protection du patrimoine arboré",
+      "categorie": null,
+      "resultat": null,
+      "objet": "5413/05-26"
+    },
+    {
+      "numero": null,
+      "titre": "Préavis 10-26 Préavis N° 10 / 2026 de la Municipalité au Conseil communal relatif au budget de fonctionnement pour l’année 2027",
+      "categorie": null,
+      "resultat": null,
+      "objet": "5413/10-26"
+    },
+    {
+      "numero": null,
+      "titre": "Préavis 11-22 Préavis n 11/22 relatif au budget 2023",
+      "categorie": null,
+      "resultat": null,
+      "objet": "5413/11-22"
+    },
+    {
+      "numero": null,
+      "titre": "Préavis 12-26 Préavis n° 12/2026 de la Municipalité au Conseil communal relatif à la demande de crédit d’étude pour l’élaboration du plan d’affectation de la zone industrielle Les Vernes",
+      "categorie": null,
+      "resultat": null,
+      "objet": "5413/12-26"
+    },
+    {
+      "numero": null,
+      "titre": "Préavis 13-26 Préavis n° 13/2026 de la Municipalité au Conseil communal relatif à la demande de crédit de construction pour la desserte interne de la zone industrielle Les Vernes",
+      "categorie": null,
+      "resultat": null,
+      "objet": "5413/13-26"
+    }
+  ]
 }
