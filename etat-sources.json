@@ -1,52 +1,52 @@
 {
   "version": 1,
-  "genere": "2026-11-27T23:45:16Z",
+  "genere": "2026-11-28T05:01:25Z",
   "sources": {
     "camac-permis": {
       "etat": "disponible",
       "depuis": "2026-10-15T20:03:59Z",
-      "derniere_sonde": "2026-11-27T23:45:16Z",
-      "dernier_succes": "2026-11-27T23:45:16Z",
+      "derniere_sonde": "2026-11-28T05:01:25Z",
+      "dernier_succes": "2026-11-28T05:01:25Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "dgmr-restrictions": {
       "etat": "disponible",
       "depuis": "2026-10-19T14:43:18Z",
-      "derniere_sonde": "2026-11-27T23:45:17Z",
-      "dernier_succes": "2026-11-27T23:45:17Z",
+      "derniere_sonde": "2026-11-28T05:01:41Z",
+      "dernier_succes": "2026-11-28T05:01:41Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-vd": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:03Z",
-      "derniere_sonde": "2026-11-27T23:45:17Z",
-      "dernier_succes": "2026-11-27T23:45:17Z",
+      "derniere_sonde": "2026-11-28T05:01:41Z",
+      "dernier_succes": "2026-11-28T05:01:41Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-5586": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:04Z",
-      "derniere_sonde": "2026-11-27T23:45:17Z",
-      "dernier_succes": "2026-11-27T23:45:17Z",
+      "derniere_sonde": "2026-11-28T05:01:42Z",
+      "dernier_succes": "2026-11-28T05:01:42Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "openparldata-5938": {
       "etat": "disponible",
       "depuis": "2026-10-16T16:21:04Z",
-      "derniere_sonde": "2026-11-27T23:45:17Z",
-      "dernier_succes": "2026-11-27T23:45:17Z",
+      "derniere_sonde": "2026-11-28T05:01:42Z",
+      "dernier_succes": "2026-11-28T05:01:42Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
     "site-5414": {
       "etat": "disponible",
       "depuis": "2026-10-24T13:35:59Z",
-      "derniere_sonde": "2026-11-27T23:45:27Z",
-      "dernier_succes": "2026-11-27T23:45:27Z",
+      "derniere_sonde": "2026-11-28T05:01:50Z",
+      "dernier_succes": "2026-11-28T05:01:50Z",
       "echecs_consecutifs": 0,
       "motif": null
     },
@@ -409,13 +409,6 @@
       "dernier_succes": "2026-11-27T15:39:02Z",
       "echecs_consecutifs": 0,
       "motif": null
-    }
-  },
-  "reseaux": {
-    "195.65.10.0/24": {
-      "depuis": "2026-11-27T23:53:36Z",
-      "jusqu_a": null,
-      "motif": "délai dépassé"
     }
   }
 }
